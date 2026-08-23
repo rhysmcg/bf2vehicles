@@ -59,9 +59,13 @@ var cameraIndex = 0
 @onready var engine_load = $Load
 
 
-@export_group("Car Parts")
+@export_group("Steering Wheel")
 @export var SteeringWheel : Node3D
+@export var steeringWheel_min_rotation = -60
+@export var steeringWheel_max_rotation = 60
+
 ###################################
+@export_group("Car Parts")
 # Curves have been created from BF2 envelopes
 @export var rpm2_volume_curve : Curve
 @export var rpm2_pitch_curve : Curve
@@ -219,6 +223,9 @@ func _physics_process(delta):
 			else:
 				brake = brake_val * MAX_BRAKE_FORCE
 					
+	
+	## STEERING
+	
 	var max_steer_speed = MAX_STEER_SPEED * 1000.0 / 3600.0
 	var steer_speed_factor = clamp(current_speed_mps / max_steer_speed, 0.0, 1.0)
 
@@ -232,8 +239,22 @@ func _physics_process(delta):
 	
 	steer_angle = steer_val * lerp(max_steer_angle_rad, speed_steer_angle_rad, steer_speed_factor)
 	steering = -steer_angle
-
 	
+	
+	
+	
+	## STEERING WHEEL
+
+
+	var steering_target = -steer_val * steeringWheel_max_rotation
+	var steering_speed = 300
+	SteeringWheel.rotation_degrees.z = move_toward(
+		SteeringWheel.rotation_degrees.z,
+		steering_target,
+		steering_speed * delta
+	)
+	
+
 	# remember where we are
 	last_pos = position
 	
@@ -274,8 +295,8 @@ func _physics_process(delta):
 	# Still need STOP to code
 	
 	
-	var info = 'Speed: %.0f, RPM: %.0f (gear: %d), Throttle %.0f, Brake %.0f, Engine Force %.0f, Brake Force %.0f, Clutch %.0f'  % [ speed, rpm, current_gear, throttle_val, brake_val, engine_force, brake, clutch_position ]
-	#print(info)
+	var info = 'Speed: %.0f, RPM: %.0f (gear: %d), Throttle %.0f, Brake %.0f, Engine Force %.0f, Brake Force %.0f, Clutch %.0f, steering %0.f'  % [ speed, rpm, current_gear, throttle_val, brake_val, engine_force, brake, clutch_position, steer_angle]
+	print(info)
 	#$Info.text = info
 	
 func _changeCamera():
