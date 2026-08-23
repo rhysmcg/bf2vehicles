@@ -63,9 +63,9 @@ var cameraIndex = 0
 @export var SteeringWheel : Node3D
 @export var steeringWheel_min_rotation = -60
 @export var steeringWheel_max_rotation = 60
-
+@export var steering_speed = 300
 ###################################
-@export_group("Car Parts")
+@export_group("Engine Audio Curves")
 # Curves have been created from BF2 envelopes
 @export var rpm2_volume_curve : Curve
 @export var rpm2_pitch_curve : Curve
@@ -247,7 +247,7 @@ func _physics_process(delta):
 
 
 	var steering_target = -steer_val * steeringWheel_max_rotation
-	var steering_speed = 300
+
 	SteeringWheel.rotation_degrees.z = move_toward(
 		SteeringWheel.rotation_degrees.z,
 		steering_target,
