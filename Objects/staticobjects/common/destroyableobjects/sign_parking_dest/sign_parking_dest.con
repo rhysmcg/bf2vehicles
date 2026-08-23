@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh sign_parking_dest
+CollisionManager.createTemplate sign_parking_dest
+
+ObjectTemplate.create DestroyableObject sign_parking_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sign_parking_dest
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_parking_dest
+ObjectTemplate.anchor 0/-1.4246/0
+
+include sign_parking_dest.tweak

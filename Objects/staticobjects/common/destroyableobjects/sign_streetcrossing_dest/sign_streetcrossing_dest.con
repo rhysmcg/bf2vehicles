@@ -1,0 +1,15 @@
+GeometryTemplate.create BundledMesh sign_streetcrossing_dest
+CollisionManager.createTemplate sign_streetcrossing_dest
+
+ObjectTemplate.create DestroyableObject sign_streetcrossing_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh sign_streetcrossing_dest
+ObjectTemplate.mapMaterial 0 metal_Solid 0
+ObjectTemplate.mapMaterial 1 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_streetcrossing_dest
+ObjectTemplate.anchor 0/-1.4256/0
+
+include sign_streetcrossing_dest.tweak

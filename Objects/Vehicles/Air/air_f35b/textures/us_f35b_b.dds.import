@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://begjml3ghtavx"
+path="res://.godot/imported/us_f35b_b.dds-8a36a3e3b286778c88d629dc81c49d7c.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_f35b/textures/us_f35b_b.dds"
+dest_files=["res://.godot/imported/us_f35b_b.dds-8a36a3e3b286778c88d629dc81c49d7c.res"]
+
+[params]
+
+mipmaps/generate=true

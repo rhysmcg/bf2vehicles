@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bci716twcnufw"
+path="res://.godot/imported/ncbam01c.dds-053f54c64a4b732a44bfeb6268d95115.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/ncbam01c.dds"
+dest_files=["res://.godot/imported/ncbam01c.dds-053f54c64a4b732a44bfeb6268d95115.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/10 8:53]
+GeometryTemplate.compressVertexData 0
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject glow
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry glow
+ObjectTemplate.setCollisionMesh glow
+ObjectTemplate.mapMaterial 0 glow 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dqci7skx3xv8p"
+path="res://.godot/imported/xp2_oiltruck_01_b.dds-e0ed53f8822100326a1255b83c6f1743.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_oiltruck_01/textures/xp2_oiltruck_01_b.dds"
+dest_files=["res://.godot/imported/xp2_oiltruck_01_b.dds-e0ed53f8822100326a1255b83c6f1743.res"]
+
+[params]
+
+mipmaps/generate=true

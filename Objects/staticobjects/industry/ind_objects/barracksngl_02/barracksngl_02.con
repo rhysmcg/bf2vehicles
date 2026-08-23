@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh barracksngl_02
+CollisionManager.createTemplate barracksngl_02
+
+ObjectTemplate.create SimpleObject barracksngl_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh barracksngl_02
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.mapMaterial 1 metalThin 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barracksngl_02
+ObjectTemplate.anchor 0/-1.6946/0
+
+include barracksngl_02.tweak

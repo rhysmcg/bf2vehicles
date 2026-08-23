@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh xp2_fanblade_support
+CollisionManager.createTemplate xp2_fanblade_support
+
+ObjectTemplate.create RotationalBundle xp2_fanblade_support
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_fanblade_support
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_fanblade_support
+
+include xp2_fanblade_support.tweak

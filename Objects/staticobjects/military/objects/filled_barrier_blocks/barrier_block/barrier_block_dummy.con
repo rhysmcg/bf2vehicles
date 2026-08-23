@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh barrier_block_dummy
+
+ObjectTemplate.create Bundle barrier_block_dummy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.collisionMesh barrier_block_dummy
+ObjectTemplate.mapMaterial 0 barriermaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barrier_block_dummy
+ObjectTemplate.anchor -0.0051/-1.0016/0.0273
+
+include barrier_block_dummy.tweak

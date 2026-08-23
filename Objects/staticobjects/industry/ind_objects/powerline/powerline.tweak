@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/18 17:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 45
+GeometryTemplate.setSubGeometryLodDistance 0 1 140
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject powerline
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser jlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry powerline
+ObjectTemplate.setCollisionMesh powerline
+ObjectTemplate.mapMaterial 0 metalsolid 21
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh cable100m_powerline_30left_upper
+
+ObjectTemplate.create SimpleObject cable100m_powerline_30left_upper
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.geometry cable100m_powerline_30left_upper
+ObjectTemplate.anchor -50.7041/0.8243/-2.8819
+
+include cable100m_powerline_30left_upper.tweak

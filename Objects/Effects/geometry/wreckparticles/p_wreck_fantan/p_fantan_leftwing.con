@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_fantan_leftwing
+CollisionManager.createTemplate p_fantan_leftwing
+
+ObjectTemplate.create Particle p_fantan_leftwing
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_fantan_leftwing
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_fantan_leftwing
+
+include p_fantan_leftwing.tweak

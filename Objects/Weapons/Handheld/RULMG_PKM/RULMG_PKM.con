@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rulmg_pkm
+CollisionManager.createTemplate rulmg_pkm
+
+ObjectTemplate.create GenericFireArm rulmg_pkm
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh rulmg_pkm
+ObjectTemplate.mapMaterial 0 Collisionmaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rulmg_pkm
+
+include rulmg_pkm.tweak

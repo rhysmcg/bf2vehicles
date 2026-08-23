@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_highwaysign_05
+CollisionManager.createTemplate xp2_highwaysign_05
+
+ObjectTemplate.create SimpleObject xp2_highwaysign_05
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_highwaysign_05
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_highwaysign_05
+ObjectTemplate.anchor 2.7707/-2.4868/-0.0868
+
+include xp2_highwaysign_05.tweak

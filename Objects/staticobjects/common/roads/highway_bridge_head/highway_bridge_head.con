@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh highway_bridge_head
+CollisionManager.createTemplate highway_bridge_head
+
+ObjectTemplate.create SimpleObject highway_bridge_head
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh highway_bridge_head
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Tarmac 0
+ObjectTemplate.mapMaterial 3 stone 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry highway_bridge_head
+ObjectTemplate.anchor -5.9866/20.2286/7.7500
+
+include highway_bridge_head.tweak

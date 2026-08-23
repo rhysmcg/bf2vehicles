@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh oman_t_intersection_45degree
+
+ObjectTemplate.create SimpleObject oman_t_intersection_45degree
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry oman_t_intersection_45degree
+ObjectTemplate.anchor -5.0000/0/10.0000
+
+include oman_t_intersection_45degree.tweak

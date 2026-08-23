@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://njbupu02y2gp"
+path="res://.godot/imported/decal_cardboard_exit_anim.dds-2f5ac8ab44cb7a8a45adacb7971c55d4.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_cardboard_exit_anim.dds"
+dest_files=["res://.godot/imported/decal_cardboard_exit_anim.dds-2f5ac8ab44cb7a8a45adacb7971c55d4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b0og4j0x16o3g"
+path="res://.godot/imported/roadmarker_c.dds-9cc8a36424d81315ff29a9c84181ba85.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/roadmarker/textures/roadmarker_c.dds"
+dest_files=["res://.godot/imported/roadmarker_c.dds-9cc8a36424d81315ff29a9c84181ba85.res"]
+
+[params]
+
+mipmaps/generate=true

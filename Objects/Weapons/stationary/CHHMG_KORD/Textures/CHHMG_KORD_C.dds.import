@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b84hd4rdccc3u"
+path="res://.godot/imported/CHHMG_KORD_C.dds-f06e3b99bc88ad8ca8fd85b932237b74.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/CHHMG_KORD/Textures/CHHMG_KORD_C.dds"
+dest_files=["res://.godot/imported/CHHMG_KORD_C.dds-f06e3b99bc88ad8ca8fd85b932237b74.res"]
+
+[params]
+
+mipmaps/generate=true

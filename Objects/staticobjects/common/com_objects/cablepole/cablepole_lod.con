@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh cablepole_lod
+
+ObjectTemplate.create SimpleObject cablepole_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry cablepole_lod
+
+include cablepole_lod.tweak

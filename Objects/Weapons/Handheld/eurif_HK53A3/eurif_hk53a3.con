@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh eurif_hk53a3
+CollisionManager.createTemplate eurif_hk53a3
+
+ObjectTemplate.create GenericFireArm eurif_hk53a3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JULIO:julioce
+ObjectTemplate.collisionMesh eurif_hk53a3
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry eurif_hk53a3
+
+include eurif_hk53a3.tweak

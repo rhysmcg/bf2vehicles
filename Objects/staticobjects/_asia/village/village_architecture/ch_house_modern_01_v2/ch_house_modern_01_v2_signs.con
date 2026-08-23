@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh ch_house_modern_01_v2_signs
+CollisionManager.createTemplate ch_house_modern_01_v2_signs
+
+ObjectTemplate.create SimpleObject ch_house_modern_01_v2_signs
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh ch_house_modern_01_v2_signs
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Wood_thin 0
+ObjectTemplate.mapMaterial 2 Rubber 0
+ObjectTemplate.mapMaterial 3 Plastic 0
+ObjectTemplate.mapMaterial 4 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_01_v2_signs
+ObjectTemplate.anchor 0.2332/-3.9149/-7.8421
+
+include ch_house_modern_01_v2_signs.tweak

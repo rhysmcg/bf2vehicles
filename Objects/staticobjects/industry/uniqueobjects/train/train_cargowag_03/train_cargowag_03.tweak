@@ -1,0 +1,36 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/18 17:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 10
+GeometryTemplate.setSubGeometryLodDistance 0 1 30
+GeometryTemplate.setSubGeometryLodDistance 0 2 65
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle train_cargowag_03
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry train_cargowag_03
+ObjectTemplate.setCollisionMesh train_cargowag_03
+ObjectTemplate.mapMaterial 0 wood 15
+ObjectTemplate.mapMaterial 1 metall_solid 21
+ObjectTemplate.mapMaterial 2 rubber 11
+ObjectTemplate.mapMaterial 3 thin_metal 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate train_cargowag_03_ladder
+ObjectTemplate.setPosition 1.66477/0.386467/-8.22482
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate train_cargowag_03_ladder
+ObjectTemplate.setPosition 1.66908/0.383164/8.24182
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate train_cargowag_03_ladder
+ObjectTemplate.setPosition -1.70681/0.386759/8.23405
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate train_cargowag_03_ladder
+ObjectTemplate.setPosition -1.70759/0.378298/-8.20071
+ObjectTemplate.setRotation 90/0/0
+rem -------------------------------------
+

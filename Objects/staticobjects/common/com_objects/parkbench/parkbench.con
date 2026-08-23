@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh parkbench
+CollisionManager.createTemplate parkbench
+
+ObjectTemplate.create SimpleObject parkbench
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh parkbench
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry parkbench
+ObjectTemplate.anchor 0/-0.3567/0.4975
+
+include parkbench.tweak

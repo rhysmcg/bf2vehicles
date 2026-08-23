@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh mangrove_med1_fin_lod
+
+ObjectTemplate.create SimpleObject mangrove_med1_fin_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry mangrove_med1_fin_lod
+
+include mangrove_med1_fin_lod.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b204wc2ivebf1"
+path="res://.godot/imported/flake.dds-a7487df60e54e00cabbde77305439961.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/flake.dds"
+dest_files=["res://.godot/imported/flake.dds-a7487df60e54e00cabbde77305439961.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://badk5lo5a1hgd"
+path="res://.godot/imported/igla_c.dds-9d8ce276988b332a706933b278159702.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/Igla_Djigit/textures/igla_c.dds"
+dest_files=["res://.godot/imported/igla_c.dds-9d8ce276988b332a706933b278159702.res"]
+
+[params]
+
+mipmaps/generate=true

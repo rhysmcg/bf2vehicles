@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://du5hwev378tca"
+path="res://.godot/imported/greyconcrete_b.dds-51088ebe8d363fea6488e80c539a6335.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/filled_barrier_blocks/barrier_block/textures/greyconcrete_b.dds"
+dest_files=["res://.godot/imported/greyconcrete_b.dds-51088ebe8d363fea6488e80c539a6335.res"]
+
+[params]
+
+mipmaps/generate=true

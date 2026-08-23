@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://45ggru5hr4ke"
+path="res://.godot/imported/xp2_usa_billboards_c.dds-1fdcfa9eac8d286b0b331cb515b9a0f1.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/Textures/xp2_usa_billboards_c.dds"
+dest_files=["res://.godot/imported/xp2_usa_billboards_c.dds-1fdcfa9eac8d286b0b331cb515b9a0f1.res"]
+
+[params]
+
+mipmaps/generate=true

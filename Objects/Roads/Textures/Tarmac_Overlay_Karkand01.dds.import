@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d13tlcwu3kkhs"
+path="res://.godot/imported/Tarmac_Overlay_Karkand01.dds-9867a8a552d5a6ccd7f4c05276a1672b.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Overlay_Karkand01.dds"
+dest_files=["res://.godot/imported/Tarmac_Overlay_Karkand01.dds-9867a8a552d5a6ccd7f4c05276a1672b.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled stoneroad_light_xp2
+ObjectTemplate.create SimpleObject stoneroad_light_xp2
+ObjectTemplate.geometry stoneroad_light_xp2

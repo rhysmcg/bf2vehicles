@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh floodlight
+CollisionManager.createTemplate floodlight
+
+ObjectTemplate.create SimpleObject floodlight
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh floodlight
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 glass 0
+ObjectTemplate.mapMaterial 3 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry floodlight
+ObjectTemplate.anchor -0.6094/-5.5239/0.7369
+
+include floodlight.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dfj83vaute65f"
+path="res://.godot/imported/mosque_01_deb.dds-e5efd357ee59e7c2d21698fa17c7e930.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/uniqueobjects/mosque/textures/mosque_01_deb.dds"
+dest_files=["res://.godot/imported/mosque_01_deb.dds-e5efd357ee59e7c2d21698fa17c7e930.res"]
+
+[params]
+
+mipmaps/generate=true

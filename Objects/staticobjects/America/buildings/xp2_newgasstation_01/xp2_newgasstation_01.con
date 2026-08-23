@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh xp2_newgasstation_01
+CollisionManager.createTemplate xp2_newgasstation_01
+
+ObjectTemplate.create SimpleObject xp2_newgasstation_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_newgasstation_01
+ObjectTemplate.mapMaterial 0 thick_metal 0
+ObjectTemplate.mapMaterial 1 thin_metal 0
+ObjectTemplate.mapMaterial 2 plastic 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 wood 0
+ObjectTemplate.mapMaterial 5 roofDirt 0
+ObjectTemplate.mapMaterial 6 steps 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_newgasstation_01
+ObjectTemplate.anchor 22.9844/-3.0967/-1.2476
+
+include xp2_newgasstation_01.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dkamkx85kl8rl"
+path="res://.godot/imported/Tarmac_Oman.dds-e3f3ecde1575ddc88d066556936778d7.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Oman.dds"
+dest_files=["res://.godot/imported/Tarmac_Oman.dds-e3f3ecde1575ddc88d066556936778d7.res"]
+
+[params]
+
+mipmaps/generate=true

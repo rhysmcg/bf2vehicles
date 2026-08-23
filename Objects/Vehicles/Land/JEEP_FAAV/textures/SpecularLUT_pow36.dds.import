@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cqmjm5dx3x63s"
+path="res://.godot/imported/SpecularLUT_pow36.dds-ced5d345177db214efceb6742abf5c5c.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/JEEP_FAAV/textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-ced5d345177db214efceb6742abf5c5c.res"]
+
+[params]
+
+mipmaps/generate=true

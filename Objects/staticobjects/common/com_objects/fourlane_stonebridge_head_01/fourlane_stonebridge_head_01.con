@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh fourlane_stonebridge_head_01
+CollisionManager.createTemplate fourlane_stonebridge_head_01
+
+ObjectTemplate.create SimpleObject fourlane_stonebridge_head_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh fourlane_stonebridge_head_01
+ObjectTemplate.mapMaterial 0 Stone 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fourlane_stonebridge_head_01
+ObjectTemplate.anchor 0.0070/4.7649/-1.7235
+
+include fourlane_stonebridge_head_01.tweak

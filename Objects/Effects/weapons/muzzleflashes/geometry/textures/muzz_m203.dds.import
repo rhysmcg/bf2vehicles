@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ppujxjlakoci"
+path="res://.godot/imported/muzz_m203.dds-831fab624fe3ae56a55d59998cc3af44.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/textures/muzz_m203.dds"
+dest_files=["res://.godot/imported/muzz_m203.dds-831fab624fe3ae56a55d59998cc3af44.res"]
+
+[params]
+
+mipmaps/generate=true

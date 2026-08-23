@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cdoq4rjjlwae1"
+path="res://.godot/imported/RURGL_GP30_b.dds-90c24c6ac3e683ef15e7a70cd64fe544.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP30/Textures/RURGL_GP30_b.dds"
+dest_files=["res://.godot/imported/RURGL_GP30_b.dds-90c24c6ac3e683ef15e7a70cd64fe544.res"]
+
+[params]
+
+mipmaps/generate=true

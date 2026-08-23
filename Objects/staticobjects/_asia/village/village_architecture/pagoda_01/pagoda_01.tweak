@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/11 15:13]
+GeometryTemplate.setSubGeometryLodDistance 0 0 35
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject pagoda_01
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser gti
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry pagoda_01
+ObjectTemplate.setCollisionMesh pagoda_01
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 wood 15
+ObjectTemplate.mapMaterial 2 clos 10
+ObjectTemplate.mapMaterial 3 Stairs_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

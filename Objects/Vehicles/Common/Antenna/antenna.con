@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh antenna
+
+ObjectTemplate.create AntennaObject antenna
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.geometry antenna
+
+include antenna.tweak

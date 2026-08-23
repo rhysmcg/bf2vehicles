@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_pedestrian_railing_end
+CollisionManager.createTemplate xp2_pedestrian_railing_end
+
+ObjectTemplate.create SimpleObject xp2_pedestrian_railing_end
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.collisionMesh xp2_pedestrian_railing_end
+ObjectTemplate.mapMaterial 0 COM01c_COM01de_cgfx 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_pedestrian_railing_end
+ObjectTemplate.anchor 0.3000/-0.4000/0
+
+include xp2_pedestrian_railing_end.tweak

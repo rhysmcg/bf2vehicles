@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cfd8rs1rpmr2a"
+path="res://.godot/imported/wrench_c.dds-166d2d9bb7fdb84cc8a55f31b0e5b592.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/Wrench/textures/wrench_c.dds"
+dest_files=["res://.godot/imported/wrench_c.dds-166d2d9bb7fdb84cc8a55f31b0e5b592.res"]
+
+[params]
+
+mipmaps/generate=true

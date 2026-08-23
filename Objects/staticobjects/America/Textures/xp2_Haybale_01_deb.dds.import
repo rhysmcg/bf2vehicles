@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c0pgaon5q0or"
+path="res://.godot/imported/xp2_Haybale_01_deb.dds-d053e2aaab945e4258e3165b2b6ad2e6.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/Textures/xp2_Haybale_01_deb.dds"
+dest_files=["res://.godot/imported/xp2_Haybale_01_deb.dds-d053e2aaab945e4258e3165b2b6ad2e6.res"]
+
+[params]
+
+mipmaps/generate=true

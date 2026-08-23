@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh tcross_1
+
+ObjectTemplate.create SimpleObject tcross_1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh tcross_1
+ObjectTemplate.mapMaterial 0 TarmacMaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry tcross_1
+ObjectTemplate.anchor 10.0000/0/20.0000
+
+include tcross_1.tweak

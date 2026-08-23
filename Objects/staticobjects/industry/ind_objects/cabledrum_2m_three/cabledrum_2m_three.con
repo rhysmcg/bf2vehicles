@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh cabledrum_2m_three
+CollisionManager.createTemplate cabledrum_2m_three
+
+ObjectTemplate.create SimpleObject cabledrum_2m_three
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh cabledrum_2m_three
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Rubber 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cabledrum_2m_three
+ObjectTemplate.anchor -0.7214/0/0.7100
+
+include cabledrum_2m_three.tweak

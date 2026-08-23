@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dfsbnylupsco7"
+path="res://.godot/imported/Detail_Beach2.dds-c602571c5645f0080fb0b41546c72773.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Beach2.dds"
+dest_files=["res://.godot/imported/Detail_Beach2.dds-c602571c5645f0080fb0b41546c72773.res"]
+
+[params]
+
+mipmaps/generate=true

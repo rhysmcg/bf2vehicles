@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_lw155_trimwheel
+CollisionManager.createTemplate p_wreck_lw155_trimwheel
+
+ObjectTemplate.create Particle p_wreck_lw155_trimwheel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_lw155_trimwheel
+ObjectTemplate.mapMaterial 0 Armor_2_light_armored_vehicles 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_lw155_trimwheel
+
+include p_wreck_lw155_trimwheel.tweak

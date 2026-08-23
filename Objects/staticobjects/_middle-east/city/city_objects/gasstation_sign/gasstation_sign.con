@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh gasstation_sign
+CollisionManager.createTemplate gasstation_sign
+
+ObjectTemplate.create SimpleObject gasstation_sign
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh gasstation_sign
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 metal_thin 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gasstation_sign
+ObjectTemplate.anchor 0.7493/-4.8752/0.2814
+
+include gasstation_sign.tweak

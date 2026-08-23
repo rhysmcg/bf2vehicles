@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Dirtroad_Alamein
+ObjectTemplate.create SimpleObject Dirtroad_Alamein
+ObjectTemplate.geometry Dirtroad_Alamein

@@ -1,0 +1,28 @@
+[gd_scene load_steps=3 format=3 uid="uid://dadqltqccxkxe"]
+
+[ext_resource type="Script" uid="uid://clj1sa5jhjfqr" path="res://character.gd" id="1_glpr6"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_vu45j"]
+radius = 0.3
+height = 1.7
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+collision_layer = 11
+collision_mask = 4
+script = ExtResource("1_glpr6")
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+radius = 0.3
+height = 1.7
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("CapsuleShape3D_vu45j")
+
+[node name="Horizontal_Pivot" type="Node3D" parent="."]
+
+[node name="Vertical_Pivot" type="Node3D" parent="Horizontal_Pivot"]
+
+[node name="Camera3D" type="Camera3D" parent="Horizontal_Pivot/Vertical_Pivot"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.4202714, 3.4429882)

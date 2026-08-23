@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh toolshed_door_r
+CollisionManager.createTemplate toolshed_door_r
+
+ObjectTemplate.create SimpleObject toolshed_door_r
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh toolshed_door_r
+ObjectTemplate.mapMaterial 0 Wood_penetratable 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 Wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry toolshed_door_r
+ObjectTemplate.anchor -0.8702/-1.3060/0.0216
+
+include toolshed_door_r.tweak

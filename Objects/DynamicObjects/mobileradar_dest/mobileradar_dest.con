@@ -1,0 +1,21 @@
+GeometryTemplate.create BundledMesh mobileradar_dest
+
+ObjectTemplate.create PlayerControlObject mobileradar_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh mobileradar_dest
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mobileradar_dest
+ObjectTemplate.addTemplate mobileRadar_Dest_disc
+
+ObjectTemplate.create RotationalBundle mobileRadar_Dest_disc
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 1
+
+include mobileradar_dest.tweak

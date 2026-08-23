@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp85pxtpr4c7v"
+path="res://.godot/imported/barrel_gw_b_snow.dds-0ef0363343f043f87c6a8d82f5971d16.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/barrel_green/textures/barrel_gw_b_snow.dds"
+dest_files=["res://.godot/imported/barrel_gw_b_snow.dds-0ef0363343f043f87c6a8d82f5971d16.res"]
+
+[params]
+
+mipmaps/generate=true

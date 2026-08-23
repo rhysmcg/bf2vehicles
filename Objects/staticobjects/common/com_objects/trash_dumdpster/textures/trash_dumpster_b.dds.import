@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cqg6y2kehptmj"
+path="res://.godot/imported/trash_dumpster_b.dds-9ecc550a6c92fc14a6e4f2e2b5980b20.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/trash_dumdpster/textures/trash_dumpster_b.dds"
+dest_files=["res://.godot/imported/trash_dumpster_b.dds-9ecc550a6c92fc14a6e4f2e2b5980b20.res"]
+
+[params]
+
+mipmaps/generate=true

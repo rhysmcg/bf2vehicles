@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/13 13:54]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject parkingmeter_dest
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 1
+ObjectTemplate.armor.hitPoints 1
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.explosionMaterial 97
+ObjectTemplate.armor.wreckHitPoints 1
+ObjectTemplate.armor.alignLastEffectToHitDirection 0
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_parkingmeter 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry parkingmeter_dest
+ObjectTemplate.setCollisionMesh parkingmeter_dest
+ObjectTemplate.mapMaterial 0 metal 20
+ObjectTemplate.mapMaterial 1 glass 17
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

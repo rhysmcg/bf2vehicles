@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c333a0j7pcunv"
+path="res://.godot/imported/1p_nshgr_flashbang_c.dds-f5545366f092bfe9bf84ead54fe35ca6.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/nshgr_flashbang/textures/DDS/1p_nshgr_flashbang_c.dds"
+dest_files=["res://.godot/imported/1p_nshgr_flashbang_c.dds-f5545366f092bfe9bf84ead54fe35ca6.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dop7gr0x671lb"
+path="res://.godot/imported/simrad_LP7_b.dds-64af468a0c4cd062c99fc8ae8ab582a4.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/SIMRAD/Textures/simrad_LP7_b.dds"
+dest_files=["res://.godot/imported/simrad_LP7_b.dds-64af468a0c4cd062c99fc8ae8ab582a4.res"]
+
+[params]
+
+mipmaps/generate=true

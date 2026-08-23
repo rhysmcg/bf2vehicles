@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh p_su39_leftwing
+CollisionManager.createTemplate p_su39_leftwing
+
+ObjectTemplate.create Particle p_su39_leftwing
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_su39_leftwing
+ObjectTemplate.mapMaterial 0 wreck_colormapgloss 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_su39_leftwing
+
+include p_su39_leftwing.tweak

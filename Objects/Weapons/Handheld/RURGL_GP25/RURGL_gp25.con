@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rurgl_gp25
+CollisionManager.createTemplate rurgl_gp25
+
+ObjectTemplate.create GenericFireArm rurgl_gp25
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh rurgl_gp25
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rurgl_gp25
+
+include rurgl_gp25.tweak

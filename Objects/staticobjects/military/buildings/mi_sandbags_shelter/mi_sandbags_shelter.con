@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh mi_sandbags_shelter
+CollisionManager.createTemplate mi_sandbags_shelter
+
+ObjectTemplate.create SimpleObject mi_sandbags_shelter
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh mi_sandbags_shelter
+ObjectTemplate.mapMaterial 0 sand 0
+ObjectTemplate.mapMaterial 1 wood_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_sandbags_shelter
+ObjectTemplate.anchor 0/-1.1721/0
+
+include mi_sandbags_shelter.tweak

@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle baselight
+ObjectTemplate.createdInEditor 1
+
+include baselight.tweak

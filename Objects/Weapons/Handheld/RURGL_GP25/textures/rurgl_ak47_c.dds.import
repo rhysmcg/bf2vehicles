@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bgrdghyf2m1t0"
+path="res://.godot/imported/rurgl_ak47_c.dds-c9db2e807cc71de8bd1c88b9096ede5e.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURGL_GP25/textures/rurgl_ak47_c.dds"
+dest_files=["res://.godot/imported/rurgl_ak47_c.dds-c9db2e807cc71de8bd1c88b9096ede5e.res"]
+
+[params]
+
+mipmaps/generate=true

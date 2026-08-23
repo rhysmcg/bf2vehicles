@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh constcrane_hook
+CollisionManager.createTemplate constcrane_hook
+
+ObjectTemplate.create Bundle constcrane_hook
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh constcrane_hook
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry constcrane_hook
+ObjectTemplate.anchor 0/-27.6927/-10.1670
+
+include constcrane_hook.tweak

@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usthe_uh60_tailrotor
+CollisionManager.createTemplate usthe_uh60_tailrotor
+
+ObjectTemplate.create Rotor usthe_uh60_tailrotor
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.collisionMesh usthe_uh60_tailrotor
+ObjectTemplate.mapMaterial 0 rotor 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usthe_uh60_tailrotor
+
+include usthe_uh60_tailrotor.tweak

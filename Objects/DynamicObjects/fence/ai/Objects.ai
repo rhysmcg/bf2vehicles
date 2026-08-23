@@ -1,0 +1,27 @@
+rem *** Plugins ***
+aiTemplatePlugIn.create Physical fencePhysical
+aiTemplatePlugIn.setStrType Infantry
+
+rem *** AITemplate ***
+aiTemplate.create fence
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 50
+aiTemplate.allowedTimeDiff 2
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn fencePhysical
+
+rem *** Plugins ***
+aiTemplatePlugIn.create Physical fence_destPhysical
+aiTemplatePlugIn.setStrType Infantry
+
+rem *** AITemplate ***
+aiTemplate.create fence_dest
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 50
+aiTemplate.allowedTimeDiff 2
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn fence_destPhysical
+
+

@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 160
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_fastfood_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "Danielab"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_fastfood_01
+ObjectTemplate.setCollisionMesh xp2_fastfood_01
+ObjectTemplate.mapMaterial 0 glass 17
+ObjectTemplate.mapMaterial 1 cgfxShader4 78
+ObjectTemplate.mapMaterial 2 cgfxShader6 78
+ObjectTemplate.mapMaterial 3 metal 21
+ObjectTemplate.mapMaterial 4 temp_concrete 78
+ObjectTemplate.mapMaterial 5 wood 15
+ObjectTemplate.mapMaterial 6 temp_glass 17
+ObjectTemplate.mapMaterial 7 temp_plastic 11
+ObjectTemplate.mapMaterial 8 lambert1 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_fastfood_01_glass
+rem -------------------------------------
+

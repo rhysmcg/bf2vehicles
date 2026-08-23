@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh daqing_l_intersection_45degree
+
+ObjectTemplate.create SimpleObject daqing_l_intersection_45degree
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry daqing_l_intersection_45degree
+ObjectTemplate.anchor 5.0000/0/-12.3386
+
+include daqing_l_intersection_45degree.tweak

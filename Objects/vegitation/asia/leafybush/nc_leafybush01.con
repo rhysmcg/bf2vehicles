@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh nc_leafybush01
+CollisionManager.createTemplate nc_leafybush01
+
+ObjectTemplate.create SimpleObject nc_leafybush01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh nc_leafybush01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_leafybush01
+ObjectTemplate.anchor -0.1458/-0.7788/-0.0878
+
+include nc_leafybush01.tweak

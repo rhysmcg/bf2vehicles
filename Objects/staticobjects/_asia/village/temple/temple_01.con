@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh temple_01
+CollisionManager.createTemplate temple_01
+
+ObjectTemplate.create Bundle temple_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh temple_01
+ObjectTemplate.mapMaterial 0 Stone 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.mapMaterial 2 stairs 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry temple_01
+ObjectTemplate.anchor 0/-8.2925/19.4603
+
+include temple_01.tweak

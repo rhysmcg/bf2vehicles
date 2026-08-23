@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh sign_powercompany
+CollisionManager.createTemplate sign_powercompany
+
+ObjectTemplate.create SimpleObject sign_powercompany
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh sign_powercompany
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.mapMaterial 1 Metal_Thin 0
+ObjectTemplate.mapMaterial 2 glass 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_powercompany
+ObjectTemplate.anchor 0/-2.3012/-0.1681
+
+include sign_powercompany.tweak

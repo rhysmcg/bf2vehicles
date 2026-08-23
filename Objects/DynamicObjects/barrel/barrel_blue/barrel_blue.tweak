@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/11 17:51]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject barrel_blue
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry barrel_blue
+ObjectTemplate.setCollisionMesh barrel_blue
+ObjectTemplate.mapMaterial 0 metal_thin 20
+ObjectTemplate.mass 100
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.isSleeping 1
+

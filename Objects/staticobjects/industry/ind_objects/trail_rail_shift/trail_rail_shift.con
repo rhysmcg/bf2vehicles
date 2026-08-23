@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh trail_rail_shift
+CollisionManager.createTemplate trail_rail_shift
+
+ObjectTemplate.create SimpleObject trail_rail_shift
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh trail_rail_shift
+ObjectTemplate.mapMaterial 0 Gravel 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry trail_rail_shift
+ObjectTemplate.anchor 0/-0.2576/-12.0000
+
+include trail_rail_shift.tweak

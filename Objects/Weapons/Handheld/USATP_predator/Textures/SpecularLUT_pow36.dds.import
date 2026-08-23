@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://lx2xg1q3duma"
+path="res://.godot/imported/SpecularLUT_pow36.dds-5913f686aa7fd1cb1f451a55ec19e4a3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USATP_predator/Textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-5913f686aa7fd1cb1f451a55ec19e4a3.res"]
+
+[params]
+
+mipmaps/generate=true

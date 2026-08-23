@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usrgl_m203
+CollisionManager.createTemplate usrgl_m203
+
+ObjectTemplate.create GenericFireArm usrgl_m203
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh usrgl_m203
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usrgl_m203
+
+include usrgl_m203.tweak

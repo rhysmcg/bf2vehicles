@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_gasstation_sign
+CollisionManager.createTemplate xp2_gasstation_sign
+
+ObjectTemplate.create SimpleObject xp2_gasstation_sign
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_gasstation_sign
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gasstation_sign
+ObjectTemplate.anchor 0.1057/-3.5512/1.1586
+
+include xp2_gasstation_sign.tweak

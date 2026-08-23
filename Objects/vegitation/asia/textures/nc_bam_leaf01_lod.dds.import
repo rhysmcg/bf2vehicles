@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://m2mwtwlc05qb"
+path="res://.godot/imported/nc_bam_leaf01_lod.dds-64e2c4c74247a9f7543a153f1e32105f.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/nc_bam_leaf01_lod.dds"
+dest_files=["res://.godot/imported/nc_bam_leaf01_lod.dds-64e2c4c74247a9f7543a153f1e32105f.res"]
+
+[params]
+
+mipmaps/generate=true

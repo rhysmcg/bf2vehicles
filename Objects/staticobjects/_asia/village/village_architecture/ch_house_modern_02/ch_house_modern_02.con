@@ -1,0 +1,26 @@
+GeometryTemplate.create StaticMesh ch_house_modern_02
+CollisionManager.createTemplate ch_house_modern_02
+
+ObjectTemplate.create SimpleObject ch_house_modern_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_house_modern_02
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Ceramic_tiles 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Wood_solid 0
+ObjectTemplate.mapMaterial 4 Plastic 0
+ObjectTemplate.mapMaterial 5 Rubber 0
+ObjectTemplate.mapMaterial 6 Glass_common 0
+ObjectTemplate.mapMaterial 7 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 8 Penetrable_Wood 0
+ObjectTemplate.mapMaterial 9 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 10 Wood_thin 0
+ObjectTemplate.mapMaterial 11 rock 0
+ObjectTemplate.mapMaterial 12 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_02
+ObjectTemplate.anchor -5.3632/-5.8871/-6.9602
+
+include ch_house_modern_02.tweak

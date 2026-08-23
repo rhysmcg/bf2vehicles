@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh cable40mtwo
+
+ObjectTemplate.create SimpleObject cable40mtwo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.geometry cable40mtwo
+ObjectTemplate.anchor 20.1000/0.2599/0
+
+include cable40mtwo.tweak

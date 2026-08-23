@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://do86dus3ca8hx"
+path="res://.godot/imported/shell_shotgun_c.dds-b31ee76eac039e6583a08eb9762a4049.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/textures/shell_shotgun_c.dds"
+dest_files=["res://.godot/imported/shell_shotgun_c.dds-b31ee76eac039e6583a08eb9762a4049.res"]
+
+[params]
+
+mipmaps/generate=true

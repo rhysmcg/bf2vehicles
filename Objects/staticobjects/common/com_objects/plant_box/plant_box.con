@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh plant_box
+CollisionManager.createTemplate plant_box
+
+ObjectTemplate.create SimpleObject plant_box
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh plant_box
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Dirt 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry plant_box
+ObjectTemplate.anchor 1.0000/-0.3229/1.0000
+
+include plant_box.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmului2l44epq"
+path="res://.godot/imported/p_wreck_supplycrate.dds-09650b1dc9de109ea6aa1d2dcb6c50b2.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_supplycrate.dds"
+dest_files=["res://.godot/imported/p_wreck_supplycrate.dds-09650b1dc9de109ea6aa1d2dcb6c50b2.res"]
+
+[params]
+
+mipmaps/generate=true

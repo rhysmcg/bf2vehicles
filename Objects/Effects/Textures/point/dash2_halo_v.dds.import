@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cx44mkt7lo1ci"
+path="res://.godot/imported/dash2_halo_v.dds-639405eab992a9b8be801904eb96c9dd.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/point/dash2_halo_v.dds"
+dest_files=["res://.godot/imported/dash2_halo_v.dds-639405eab992a9b8be801904eb96c9dd.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.setSubGeometryLodDistance 0 0 45
+GeometryTemplate.setSubGeometryLodDistance 0 1 70
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 512
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject roundabout
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry roundabout
+ObjectTemplate.setCollisionMesh roundabout
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 tiles 82
+ObjectTemplate.mapMaterial 2 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

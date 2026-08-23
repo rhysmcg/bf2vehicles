@@ -1,0 +1,38 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/18 11:44]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DynamicBundle container_suspended_2
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser gti
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 10000
+ObjectTemplate.armor.hitPoints 1
+ObjectTemplate.armor.defaultMaterial 70
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.wreckHitPoints 9000
+ObjectTemplate.armor.timeToStayAsWreck 300
+rem ---EndComp ---
+ObjectTemplate.geometry container_suspended_2
+ObjectTemplate.setCollisionMesh container_suspended_2
+ObjectTemplate.mapMaterial 0 metal_solid 20
+ObjectTemplate.mapMaterial 1 Obj_imp_large 83
+ObjectTemplate.mapMaterial 2 Obj_imp_large 83
+ObjectTemplate.mass 1000
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.isSleeping 1
+ObjectTemplate.material 0
+rem -------------------------------------
+ObjectTemplate.addTemplate HeatObject_flare
+ObjectTemplate.setPosition 0/7.67726/0
+ObjectTemplate.killHeatSeekingMissile 1
+rem -------------------------------------
+ObjectTemplate.respawnDelay 3600
+

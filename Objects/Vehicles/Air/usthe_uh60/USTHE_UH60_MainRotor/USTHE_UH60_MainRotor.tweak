@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.setSubGeometryLodDistance 0 0 25
+GeometryTemplate.setSubGeometryLodDistance 1 0 15
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Rotor usthe_uh60_mainrotor
+ObjectTemplate.creator MHE-1:mhe
+ObjectTemplate.modifiedByUser lma
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry USTHE_UH60_MainRotor
+ObjectTemplate.setCollisionMesh usthe_uh60_mainrotor
+ObjectTemplate.mapMaterial 0 rotor 31
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ade_heliDraft
+rem -------------------------------------
+ObjectTemplate.changeLodAt 0.15
+ObjectTemplate.tolerance 1.52587e-006
+ObjectTemplate.rotationSpeedMod -0.5
+ObjectTemplate.rotationSpeedModBlur -0.05
+ObjectTemplate.rotationAxle 0
+ObjectTemplate.engineName usthe_uh60_Rotor
+

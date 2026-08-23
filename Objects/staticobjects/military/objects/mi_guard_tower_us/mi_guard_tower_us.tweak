@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle mi_guard_tower_us
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 3
+ObjectTemplate.geometry mi_guard_tower_us
+ObjectTemplate.setCollisionMesh mi_guard_tower_us
+ObjectTemplate.mapMaterial 0 Sandbags 76
+ObjectTemplate.mapMaterial 1 Gravel 3
+ObjectTemplate.mapMaterial 2 Wood_solid 15
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_3m
+ObjectTemplate.setPosition -0.948011/-1.22201/-2.49731
+rem -------------------------------------
+

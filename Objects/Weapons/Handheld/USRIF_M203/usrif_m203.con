@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usrif_m203
+CollisionManager.createTemplate usrif_m203
+
+ObjectTemplate.create GenericFireArm usrif_m203
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.collisionMesh usrif_m203
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usrif_m203
+
+include usrif_m203.tweak

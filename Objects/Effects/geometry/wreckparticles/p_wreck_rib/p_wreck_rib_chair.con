@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_rib_chair
+CollisionManager.createTemplate p_wreck_rib_chair
+
+ObjectTemplate.create Particle p_wreck_rib_chair
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_rib_chair
+ObjectTemplate.mapMaterial 0 Armor_2_light_armored_vehicles 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_rib_chair
+
+include p_wreck_rib_chair.tweak

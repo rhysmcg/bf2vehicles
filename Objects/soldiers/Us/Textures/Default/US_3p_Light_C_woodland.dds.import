@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cl8egru8hjeew"
+path="res://.godot/imported/US_3p_Light_C_woodland.dds-26d30ed4e7f9d31852ce6f8c8c251648.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/Default/US_3p_Light_C_woodland.dds"
+dest_files=["res://.godot/imported/US_3p_Light_C_woodland.dds-26d30ed4e7f9d31852ce6f8c8c251648.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,127 @@
+GeometryTemplate.create BundledMesh e_destruction_woodsteel_bridge
+
+ObjectTemplate.create EffectBundle e_destruction_woodsteel_bridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_small1
+ObjectTemplate.setPosition 2.7878/-0.0054/0.6327
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_small2
+ObjectTemplate.setPosition -1.2343/-0.1560/-1.9555
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_woodbeam1
+ObjectTemplate.setPosition -2.3358/0.2953/0.3644
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_woodbeam2
+ObjectTemplate.setPosition 2.1070/0.2993/0.3957
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_planks1
+ObjectTemplate.setPosition -1.7872/0.5729/0.1128
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_planks2
+ObjectTemplate.setPosition 1.5101/0.5749/0.3467
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_woodbeambig
+ObjectTemplate.setPosition -0.0036/0.3365/-0.2044
+ObjectTemplate.addTemplate em_destruction_woodsteel_bridge_centerbeam
+ObjectTemplate.setPosition -0.1677/-0.1862/0.5265
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_small1
+ObjectTemplate.template p_destruction_woodsteel_bridge_small1
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_small1
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_small2
+ObjectTemplate.template p_destruction_woodsteel_bridge_small2
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_small2
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_woodbeam1
+ObjectTemplate.template p_destruction_woodsteel_bridge_woodbeam1
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_woodbeam1
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_woodbeam2
+ObjectTemplate.template p_destruction_woodsteel_bridge_woodbeam2
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_woodbeam2
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_planks1
+ObjectTemplate.template p_destruction_woodsteel_bridge_planks1
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_planks1
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_planks2
+ObjectTemplate.template p_destruction_woodsteel_bridge_planks2
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_planks2
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_woodbeambig
+ObjectTemplate.template p_destruction_woodsteel_bridge_woodbeambig
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_woodbeambig
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_destruction_woodsteel_bridge_centerbeam
+ObjectTemplate.template p_destruction_woodsteel_bridge_centerbeam
+
+ObjectTemplate.create Particle p_destruction_woodsteel_bridge_centerbeam
+ObjectTemplate.collisionMesh e_destruction_woodsteel_bridge
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodsteel_bridge
+ObjectTemplate.geometryPart 7
+
+include e_destruction_woodsteel_bridge.tweak

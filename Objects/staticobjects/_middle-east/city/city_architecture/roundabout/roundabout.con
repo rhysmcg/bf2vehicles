@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh roundabout
+CollisionManager.createTemplate roundabout
+
+ObjectTemplate.create SimpleObject roundabout
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh roundabout
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 tiles 0
+ObjectTemplate.mapMaterial 2 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry roundabout
+
+include roundabout.tweak

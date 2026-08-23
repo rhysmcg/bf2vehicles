@@ -1,0 +1,22 @@
+GeometryTemplate.create StaticMesh xp2_fastfood_01
+CollisionManager.createTemplate xp2_fastfood_01
+
+ObjectTemplate.create Bundle xp2_fastfood_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_fastfood_01
+ObjectTemplate.mapMaterial 0 glass 0
+ObjectTemplate.mapMaterial 1 cgfxShader4 0
+ObjectTemplate.mapMaterial 2 cgfxShader6 0
+ObjectTemplate.mapMaterial 3 metal 0
+ObjectTemplate.mapMaterial 4 temp_concrete 0
+ObjectTemplate.mapMaterial 5 wood 0
+ObjectTemplate.mapMaterial 6 temp_glass 0
+ObjectTemplate.mapMaterial 7 temp_plastic 0
+ObjectTemplate.mapMaterial 8 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_fastfood_01
+ObjectTemplate.anchor -8.2378/-4.1032/3.1930
+
+include xp2_fastfood_01.tweak

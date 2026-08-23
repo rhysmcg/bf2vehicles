@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh nc_bamboo_cluster01
+CollisionManager.createTemplate nc_bamboo_cluster01
+
+ObjectTemplate.create SimpleObject nc_bamboo_cluster01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh nc_bamboo_cluster01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_bamboo_cluster01
+ObjectTemplate.anchor -0.7170/-7.8771/-0.6261
+
+include nc_bamboo_cluster01.tweak

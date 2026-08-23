@@ -1,0 +1,22 @@
+GeometryTemplate.create StaticMesh ch_house_modern_01
+CollisionManager.createTemplate ch_house_modern_01
+
+ObjectTemplate.create Bundle ch_house_modern_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh ch_house_modern_01
+ObjectTemplate.mapMaterial 0 Rubber 0
+ObjectTemplate.mapMaterial 1 Plastic 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 4 concrete 0
+ObjectTemplate.mapMaterial 5 rock 0
+ObjectTemplate.mapMaterial 6 Wood_thin 0
+ObjectTemplate.mapMaterial 7 Glass_common 0
+ObjectTemplate.mapMaterial 8 Ceramic_tiles 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_01
+ObjectTemplate.anchor -4.8839/-2.9227/-5.9326
+
+include ch_house_modern_01.tweak

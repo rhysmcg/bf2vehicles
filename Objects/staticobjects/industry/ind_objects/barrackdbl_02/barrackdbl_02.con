@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh barrackdbl_02
+CollisionManager.createTemplate barrackdbl_02
+
+ObjectTemplate.create SimpleObject barrackdbl_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh barrackdbl_02
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.mapMaterial 1 metalThin 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barrackdbl_02
+ObjectTemplate.anchor 4.9054/0.0064/1.9585
+
+include barrackdbl_02.tweak

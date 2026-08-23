@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh bus_stop
+CollisionManager.createTemplate bus_stop
+
+ObjectTemplate.create SimpleObject bus_stop
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh bus_stop
+ObjectTemplate.mapMaterial 0 Penetrable_Wood 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 Wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry bus_stop
+
+include bus_stop.tweak

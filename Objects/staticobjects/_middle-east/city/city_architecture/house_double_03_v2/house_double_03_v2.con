@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh house_double_03_v2
+CollisionManager.createTemplate house_double_03_v2
+
+ObjectTemplate.create SimpleObject house_double_03_v2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh house_double_03_v2
+ObjectTemplate.mapMaterial 0 Cloth_carpet 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Wood_solid 0
+ObjectTemplate.mapMaterial 4 Metal_Solid 0
+ObjectTemplate.mapMaterial 5 Tarmac 0
+ObjectTemplate.mapMaterial 6 Plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_double_03_v2
+ObjectTemplate.anchor 7.1749/-7.0927/0
+
+include house_double_03_v2.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://btnqijtmgqb83"
+path="res://.godot/imported/rurif_ak47_b.dds-3edfbd004652de65e25df2d44b068e4f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_AK47/textures/rurif_ak47_b.dds"
+dest_files=["res://.godot/imported/rurif_ak47_b.dds-3edfbd004652de65e25df2d44b068e4f.res"]
+
+[params]
+
+mipmaps/generate=true

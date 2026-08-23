@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://wlmbw22nfkkq"
+path="res://.godot/imported/us_vehicleglass_c.dds-5dd1ba6b35fca25ca38a758a2ac5d324.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/textures/us_vehicleglass_c.dds"
+dest_files=["res://.godot/imported/us_vehicleglass_c.dds-5dd1ba6b35fca25ca38a758a2ac5d324.res"]
+
+[params]
+
+mipmaps/generate=true

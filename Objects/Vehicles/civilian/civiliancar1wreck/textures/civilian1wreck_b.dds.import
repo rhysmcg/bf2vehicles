@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://djl2afn7u3j7o"
+path="res://.godot/imported/civilian1wreck_b.dds-04db01a4f8b1e12409bb8251c021d1f0.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/civiliancar1wreck/textures/civilian1wreck_b.dds"
+dest_files=["res://.godot/imported/civilian1wreck_b.dds-04db01a4f8b1e12409bb8251c021d1f0.res"]
+
+[params]
+
+mipmaps/generate=true

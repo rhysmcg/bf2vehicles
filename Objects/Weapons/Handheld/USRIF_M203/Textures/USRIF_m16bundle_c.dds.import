@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b50nthj07b3xu"
+path="res://.godot/imported/USRIF_m16bundle_c.dds-fb7b2d8ff5c01216293cfc3195ec2c9d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRIF_M203/Textures/USRIF_m16bundle_c.dds"
+dest_files=["res://.godot/imported/USRIF_m16bundle_c.dds-fb7b2d8ff5c01216293cfc3195ec2c9d.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh cityb_tall_30x30
+
+ObjectTemplate.create SimpleObject cityb_tall_30x30
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh cityb_tall_30x30
+ObjectTemplate.mapMaterial 0 Dam_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cityb_tall_30x30
+
+include cityb_tall_30x30.tweak

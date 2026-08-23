@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ca2rv006pqrs5"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/brown02.dds"
+
+[params]
+
+mipmaps/generate=true

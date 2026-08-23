@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_ms_guardrail_03
+CollisionManager.createTemplate xp2_ms_guardrail_03
+
+ObjectTemplate.create SimpleObject xp2_ms_guardrail_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_ms_guardrail_03
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_ms_guardrail_03
+ObjectTemplate.anchor 12.1154/-2.1722/4.0717
+
+include xp2_ms_guardrail_03.tweak

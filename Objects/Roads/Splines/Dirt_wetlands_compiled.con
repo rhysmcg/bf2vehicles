@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Dirt_wetlands
+ObjectTemplate.create SimpleObject Dirt_wetlands
+ObjectTemplate.geometry Dirt_wetlands

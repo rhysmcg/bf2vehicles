@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh nc_deadlog01
+CollisionManager.createTemplate nc_deadlog01
+
+ObjectTemplate.create SimpleObject nc_deadlog01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_deadlog01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_deadlog01
+ObjectTemplate.anchor 0/-0.1513/0
+
+include nc_deadlog01.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b1gcabv1negf4"
+path="res://.godot/imported/p_chdestructible_c.dds-17a5379cc210553d6e33d229ae0e2d1b.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/textures/p_chdestructible_c.dds"
+dest_files=["res://.godot/imported/p_chdestructible_c.dds-17a5379cc210553d6e33d229ae0e2d1b.res"]
+
+[params]
+
+mipmaps/generate=true

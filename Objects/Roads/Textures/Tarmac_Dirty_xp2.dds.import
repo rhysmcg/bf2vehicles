@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dsp72v56ohvbi"
+path="res://.godot/imported/Tarmac_Dirty_xp2.dds-de3b1c1cb99a499fac524541f035df64.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Dirty_xp2.dds"
+dest_files=["res://.godot/imported/Tarmac_Dirty_xp2.dds-de3b1c1cb99a499fac524541f035df64.res"]
+
+[params]
+
+mipmaps/generate=true

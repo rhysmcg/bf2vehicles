@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh lrgstrgbuilding_04
+CollisionManager.createTemplate lrgstrgbuilding_04
+
+ObjectTemplate.create SimpleObject lrgstrgbuilding_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh lrgstrgbuilding_04
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 plastic 0
+ObjectTemplate.mapMaterial 3 Metal_Solid 0
+ObjectTemplate.mapMaterial 4 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry lrgstrgbuilding_04
+ObjectTemplate.anchor 24.9945/-5.0616/12.3450
+
+include lrgstrgbuilding_04.tweak

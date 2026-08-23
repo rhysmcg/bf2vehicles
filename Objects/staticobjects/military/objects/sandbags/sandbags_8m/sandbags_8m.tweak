@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/19 9:48]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject sandbags_8m
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sandbags_8m
+ObjectTemplate.setCollisionMesh Sandbags_8m
+ObjectTemplate.mapMaterial 0 sandbag 76
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.material 0
+

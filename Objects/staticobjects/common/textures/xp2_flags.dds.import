@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bvvhh3v0rxs2u"
+path="res://.godot/imported/xp2_flags.dds-8ff0d30a57755b19c1c983f22c309cd1.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/xp2_flags.dds"
+dest_files=["res://.godot/imported/xp2_flags.dds-8ff0d30a57755b19c1c983f22c309cd1.res"]
+
+[params]
+
+mipmaps/generate=true

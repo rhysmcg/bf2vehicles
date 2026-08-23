@@ -1,0 +1,35 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/2 17:30]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.setSubGeometryLodDistance 0 1 30
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject woodencrate_destructible
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 100
+ObjectTemplate.armor.hitPoints 100
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.wreckHitPoints 100
+ObjectTemplate.armor.timeToStayAsWreck 100
+ObjectTemplate.armor.canBeDestroyed 0
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_woodencrate1m 0/0/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 0 e_woodsplinters_s 0/0/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 0 e_crateobjects_teddy 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry woodencrate_destructible
+ObjectTemplate.setCollisionMesh woodencrate_destructible
+ObjectTemplate.mapMaterial 0 Solid_Wood 59
+ObjectTemplate.mass 50
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.material 38
+ObjectTemplate.respawnDelay 5
+

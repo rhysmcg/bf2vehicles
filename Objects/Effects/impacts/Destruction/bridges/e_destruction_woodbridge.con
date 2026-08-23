@@ -1,0 +1,105 @@
+GeometryTemplate.create BundledMesh e_destruction_woodbridge
+
+ObjectTemplate.create EffectBundle e_destruction_woodbridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_woodbridge_part1
+ObjectTemplate.setPosition 3.8873/-0.2749/0.0595
+ObjectTemplate.addTemplate em_destruction_woodbridge_part2
+ObjectTemplate.setPosition -4.3695/-0.1172/0.1313
+ObjectTemplate.addTemplate em_destruction_woodbridge_beam1
+ObjectTemplate.setPosition -1.8269/-0.5551/0.2582
+ObjectTemplate.addTemplate em_destruction_woodbridge_beam2
+ObjectTemplate.setPosition 1.9612/-0.5547/0.3467
+ObjectTemplate.addTemplate em_destruction_woodbridge_plank1
+ObjectTemplate.setPosition 0.1046/-0.2325/-0.3647
+ObjectTemplate.addTemplate em_destruction_woodbridge_plank2
+ObjectTemplate.setPosition -2.5882/-0.1400/0.0761
+ObjectTemplate.addTemplate em_destruction_woodbridge_plank3
+ObjectTemplate.setPosition -0.3055/-0.1062/0.0306
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_part1
+ObjectTemplate.template p_destruction_woodbridge_part1
+
+ObjectTemplate.create Particle p_destruction_woodbridge_part1
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_part2
+ObjectTemplate.template p_destruction_woodbridge_part2
+
+ObjectTemplate.create Particle p_destruction_woodbridge_part2
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_beam1
+ObjectTemplate.template p_destruction_woodbridge_beam1
+
+ObjectTemplate.create Particle p_destruction_woodbridge_beam1
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_beam2
+ObjectTemplate.template p_destruction_woodbridge_beam2
+
+ObjectTemplate.create Particle p_destruction_woodbridge_beam2
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_plank1
+ObjectTemplate.template p_destruction_woodbridge_plank1
+
+ObjectTemplate.create Particle p_destruction_woodbridge_plank1
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_plank2
+ObjectTemplate.template p_destruction_woodbridge_plank2
+
+ObjectTemplate.create Particle p_destruction_woodbridge_plank2
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_destruction_woodbridge_plank3
+ObjectTemplate.template p_destruction_woodbridge_plank3
+
+ObjectTemplate.create Particle p_destruction_woodbridge_plank3
+ObjectTemplate.collisionMesh e_destruction_woodbridge
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodbridge
+ObjectTemplate.geometryPart 6
+
+include e_destruction_woodbridge.tweak

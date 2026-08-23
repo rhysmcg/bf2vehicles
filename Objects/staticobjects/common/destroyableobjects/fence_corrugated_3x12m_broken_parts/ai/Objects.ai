@@ -1,0 +1,14 @@
+rem *** Plugins ***
+aiTemplatePlugIn.create Physical fence_corrugated_3x12m_broken_partsPhysical
+aiTemplatePlugIn.setStrType Infantry
+
+rem *** AITemplate ***
+aiTemplate.create fence_corrugated_3x12m_broken_parts
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 50
+aiTemplate.allowedTimeDiff 2
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn fence_corrugated_3x12m_broken_partsPhysical
+
+

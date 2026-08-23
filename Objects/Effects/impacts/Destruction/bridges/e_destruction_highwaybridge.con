@@ -1,0 +1,97 @@
+GeometryTemplate.create BundledMesh e_destruction_highwaybridge
+
+ObjectTemplate.create EffectBundle e_destruction_highwaybridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_highwaybridge_railing
+ObjectTemplate.setPosition 6.3930/1.2114/0.1826
+ObjectTemplate.addTemplate em_destruction_highwaybridge_rock
+ObjectTemplate.setPosition -0.0110/0.4675/-0.3270
+ObjectTemplate.addTemplate em_destruction_highwaybridge_block01
+ObjectTemplate.setPosition -3.7243/0.1258/-2.0942
+ObjectTemplate.addTemplate em_destruction_highwaybridge_block02
+ObjectTemplate.setPosition 3.0482/0.1862/1.9302
+ObjectTemplate.addTemplate em_destruction_highwaybridge_block03
+ObjectTemplate.setPosition -2.4877/0.0840/2.9362
+ObjectTemplate.addTemplate em_destruction_highwaybridge_block04
+ObjectTemplate.setPosition 2.0405/0.0591/-2.1121
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_railing
+ObjectTemplate.template p_destruction_highwaybridge_railing
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_railing
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_rock
+ObjectTemplate.template p_destruction_highwaybridge_rock
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_rock
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_block01
+ObjectTemplate.template p_destruction_highwaybridge_block01
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_block01
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_block02
+ObjectTemplate.template p_destruction_highwaybridge_block02
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_block02
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_block03
+ObjectTemplate.template p_destruction_highwaybridge_block03
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_block03
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_highwaybridge_block04
+ObjectTemplate.template p_destruction_highwaybridge_block04
+
+ObjectTemplate.create Particle p_destruction_highwaybridge_block04
+ObjectTemplate.collisionMesh e_destruction_highwaybridge
+ObjectTemplate.mapMaterial 0 wreck_metal 0
+ObjectTemplate.mapMaterial 1 wreck_concrete 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_highwaybridge
+ObjectTemplate.geometryPart 5
+
+include e_destruction_highwaybridge.tweak

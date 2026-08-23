@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/9/28 15:16]
+ObjectTemplate.activeSafe decal decal_l_Tree
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.isStatic 0
+ObjectTemplate.randomSize 0.02
+ObjectTemplate.size 0.1
+ObjectTemplate.color 1/1/1
+ObjectTemplate.decalTextureName objects\effects\decals\textures\decal_Trunk_anim
+ObjectTemplate.randomRotation 360
+ObjectTemplate.rotation 0
+ObjectTemplate.randomColorIntensity 0
+ObjectTemplate.animationEnable 1
+ObjectTemplate.animationSpeed 0
+ObjectTemplate.setAnimationFrameWidthRelative 0.5
+ObjectTemplate.setAnimationFrameHeightRelative 0.5
+ObjectTemplate.animationRandomizedStartFrame 1
+ObjectTemplate.animationFrameCount 4
+ObjectTemplate.animationFrameCountX 2
+

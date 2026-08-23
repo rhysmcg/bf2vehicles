@@ -1,0 +1,9 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/9/29 10:33]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject me_deadlog01_lod
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.modifiedByUser jlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry me_deadlog01_lod
+ObjectTemplate.hasMobilePhysics 0
+

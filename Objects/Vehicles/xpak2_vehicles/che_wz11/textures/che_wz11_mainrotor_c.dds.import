@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://rvgvm2522411"
+path="res://.godot/imported/che_wz11_mainrotor_c.dds-165f10a25a9ec03505bbbb190ff6ff92.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/textures/che_wz11_mainrotor_c.dds"
+dest_files=["res://.godot/imported/che_wz11_mainrotor_c.dds-165f10a25a9ec03505bbbb190ff6ff92.res"]
+
+[params]
+
+mipmaps/generate=true

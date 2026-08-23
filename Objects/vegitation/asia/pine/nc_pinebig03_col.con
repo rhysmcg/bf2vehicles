@@ -1,0 +1,13 @@
+CollisionManager.createTemplate nc_pinebig03
+
+ObjectTemplate.create SimpleObject nc_pinebig03_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_pinebig03
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor -0.3824/-9.5369/0.2985
+
+include nc_pinebig03_col.tweak

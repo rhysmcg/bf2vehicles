@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh rulmg_rpk74
+
+ObjectTemplate.create GenericFireArm rulmg_rpk74
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry rulmg_rpk74
+
+include rulmg_rpk74.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://nvwt8twx83ru"
+path="res://.godot/imported/snow_tarmac_mirrorb01.dds-4464066931ba95f8b244c27871273c59.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/snow_tarmac_mirrorb01.dds"
+dest_files=["res://.godot/imported/snow_tarmac_mirrorb01.dds-4464066931ba95f8b244c27871273c59.res"]
+
+[params]
+
+mipmaps/generate=true

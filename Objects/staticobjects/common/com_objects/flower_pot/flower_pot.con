@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh flower_pot
+CollisionManager.createTemplate flower_pot
+
+ObjectTemplate.create SimpleObject flower_pot
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh flower_pot
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 1 dirt 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry flower_pot
+ObjectTemplate.anchor 1.0000/0/0.3000
+
+include flower_pot.tweak

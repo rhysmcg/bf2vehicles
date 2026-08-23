@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://saqtkjfh46mr"
+path="res://.godot/imported/grass_straw.dds-c3b40d177158d0b3131c8c75cca77ea6.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/grass_straw.dds"
+dest_files=["res://.godot/imported/grass_straw.dds-c3b40d177158d0b3131c8c75cca77ea6.res"]
+
+[params]
+
+mipmaps/generate=true

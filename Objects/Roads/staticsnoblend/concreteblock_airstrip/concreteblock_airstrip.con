@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh concreteblock_airstrip
+CollisionManager.createTemplate concreteblock_airstrip
+
+ObjectTemplate.create Bundle concreteblock_airstrip
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh concreteblock_airstrip
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concreteblock_airstrip
+ObjectTemplate.anchor 9.0000/0/9.0000
+
+include concreteblock_airstrip.tweak

@@ -1,0 +1,6 @@
+
+ObjectTemplate.create SimpleObject me_olivebig_test_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+
+include me_olivebig_test_col.tweak

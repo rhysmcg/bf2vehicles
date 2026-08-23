@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/18 17:41]
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.setSubGeometryLodDistance 0 1 60
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject gatehouse
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry gatehouse
+ObjectTemplate.setCollisionMesh gatehouse
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 woodThin 14
+ObjectTemplate.mapMaterial 2 metalThin 20
+ObjectTemplate.mapMaterial 3 woodSolid 15
+ObjectTemplate.mapMaterial 4 plastic 11
+ObjectTemplate.mapMaterial 5 metalSolid 21
+ObjectTemplate.mapMaterial 6 glass 17
+ObjectTemplate.mapMaterial 7 stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

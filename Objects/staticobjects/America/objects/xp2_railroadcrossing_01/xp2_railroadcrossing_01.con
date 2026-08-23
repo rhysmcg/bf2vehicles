@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_railroadcrossing_01
+CollisionManager.createTemplate xp2_railroadcrossing_01
+
+ObjectTemplate.create SimpleObject xp2_railroadcrossing_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_railroadcrossing_01
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_railroadcrossing_01
+ObjectTemplate.anchor 0.2726/-2.6266/0.2712
+
+include xp2_railroadcrossing_01.tweak

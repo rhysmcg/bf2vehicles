@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://vrfwv3i1ulud"
+path="res://.godot/imported/watervolume.dds-ec996ecaf82a38e3e072814fc97f7ce4.res"
+
+[deps]
+
+source_file="res://Common/Textures/watervolume.dds"
+dest_files=["res://.godot/imported/watervolume.dds-ec996ecaf82a38e3e072814fc97f7ce4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_humvee_steeringwheel
+CollisionManager.createTemplate p_wreck_humvee_steeringwheel
+
+ObjectTemplate.create Particle p_wreck_humvee_steeringwheel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_humvee_steeringwheel
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_humvee_steeringwheel
+
+include p_wreck_humvee_steeringwheel.tweak

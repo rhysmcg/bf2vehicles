@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bc2181r31p2bt"
+path="res://.godot/imported/meolive01c.dds-f6eb4753d4bc58030d7aafae8200a0f8.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/meolive01c.dds"
+dest_files=["res://.godot/imported/meolive01c.dds-f6eb4753d4bc58030d7aafae8200a0f8.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/10 10:26]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject dock_ramp
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dock_ramp
+ObjectTemplate.setCollisionMesh dock_ramp
+ObjectTemplate.mapMaterial 0 Concrete 78
+ObjectTemplate.mapMaterial 1 metal_Solid 21
+ObjectTemplate.mapMaterial 2 glass_common 17
+ObjectTemplate.mapMaterial 3 metal_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

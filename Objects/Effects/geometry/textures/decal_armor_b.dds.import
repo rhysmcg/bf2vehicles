@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cpxr88wxkto37"
+path="res://.godot/imported/decal_armor_b.dds-22c2eb2b885cfb76140bdcbaa9dbe01b.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/decal_armor_b.dds"
+dest_files=["res://.godot/imported/decal_armor_b.dds-22c2eb2b885cfb76140bdcbaa9dbe01b.res"]
+
+[params]
+
+mipmaps/generate=true

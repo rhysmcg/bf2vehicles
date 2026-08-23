@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bei82htpb3n7u"
+path="res://.godot/imported/ahe_havoc_tailrotor_blurred_c.dds-4d76869442c11df1da9791a487404159.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/textures/ahe_havoc_tailrotor_blurred_c.dds"
+dest_files=["res://.godot/imported/ahe_havoc_tailrotor_blurred_c.dds-4d76869442c11df1da9791a487404159.res"]
+
+[params]
+
+mipmaps/generate=true

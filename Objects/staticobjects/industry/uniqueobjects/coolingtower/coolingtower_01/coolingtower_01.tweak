@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/7 11:34]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 120
+GeometryTemplate.setSubGeometryLodDistance 0 2 240
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject coolingtower_01
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser gti
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry coolingtower_01
+ObjectTemplate.setCollisionMesh coolingtower_01
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 2 glass 17
+ObjectTemplate.mapMaterial 3 Rubber 11
+ObjectTemplate.mapMaterial 4 Concrete 78
+ObjectTemplate.mapMaterial 5 DeathMaterial 666
+ObjectTemplate.mapMaterial 6 Slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

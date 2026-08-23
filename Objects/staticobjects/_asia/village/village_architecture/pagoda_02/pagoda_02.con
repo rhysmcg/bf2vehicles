@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh pagoda_02
+CollisionManager.createTemplate pagoda_02
+
+ObjectTemplate.create SimpleObject pagoda_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh pagoda_02
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.mapMaterial 1 Concrete 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 Glass 0
+ObjectTemplate.mapMaterial 5 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pagoda_02
+
+include pagoda_02.tweak

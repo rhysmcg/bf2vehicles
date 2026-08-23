@@ -1,0 +1,49 @@
+GeometryTemplate.create BundledMesh e_destruction_trestle01
+
+ObjectTemplate.create EffectBundle e_destruction_trestle01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_destruction_Trestle01_Board
+ObjectTemplate.setPosition 0.0059/0.4447/0.0199
+ObjectTemplate.addTemplate em_destruction_Trestle01_Leg1
+ObjectTemplate.setPosition -0.5820/-0.0440/-0.0272
+ObjectTemplate.addTemplate em_destruction_Trestle01_Leg2
+ObjectTemplate.setPosition 0.5820/-0.0440/-0.0272
+
+ObjectTemplate.create Emitter em_destruction_Trestle01_Board
+ObjectTemplate.template p_destruction_Trestle01_Board
+
+ObjectTemplate.create Particle p_destruction_Trestle01_Board
+ObjectTemplate.collisionMesh e_destruction_trestle01
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trestle01
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_Trestle01_Leg1
+ObjectTemplate.template p_destruction_Trestle01_Leg1
+
+ObjectTemplate.create Particle p_destruction_Trestle01_Leg1
+ObjectTemplate.collisionMesh e_destruction_trestle01
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trestle01
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_Trestle01_Leg2
+ObjectTemplate.template p_destruction_Trestle01_Leg2
+
+ObjectTemplate.create Particle p_destruction_Trestle01_Leg2
+ObjectTemplate.collisionMesh e_destruction_trestle01
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trestle01
+ObjectTemplate.geometryPart 2
+
+include e_destruction_trestle01.tweak

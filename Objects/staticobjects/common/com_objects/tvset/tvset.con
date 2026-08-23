@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh tvset
+CollisionManager.createTemplate tvset
+
+ObjectTemplate.create SimpleObject tvset
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh tvset
+ObjectTemplate.mapMaterial 0 Plastic 0
+ObjectTemplate.mapMaterial 1 Glass_Thick 0
+ObjectTemplate.mapMaterial 2 wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry tvset
+ObjectTemplate.anchor 0/-1.0307/0
+
+include tvset.tweak

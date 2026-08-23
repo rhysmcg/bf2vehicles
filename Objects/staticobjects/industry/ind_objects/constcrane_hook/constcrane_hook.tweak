@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/4 12:10]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe Bundle constcrane_hook
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry constcrane_hook
+ObjectTemplate.setCollisionMesh constcrane_hook
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

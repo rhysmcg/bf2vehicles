@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cudds03qwhnyq"
+path="res://.godot/imported/p_wreck_concrete_c.dds-31147a39e1d6536a9fcf5f329e8544a8.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_concrete_c.dds"
+dest_files=["res://.godot/imported/p_wreck_concrete_c.dds-31147a39e1d6536a9fcf5f329e8544a8.res"]
+
+[params]
+
+mipmaps/generate=true

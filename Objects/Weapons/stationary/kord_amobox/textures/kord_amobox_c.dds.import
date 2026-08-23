@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cmeamoa4xp0nn"
+path="res://.godot/imported/kord_amobox_c.dds-afc20b04a879851cb94707dcd89cd25a.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/kord_amobox/textures/kord_amobox_c.dds"
+dest_files=["res://.godot/imported/kord_amobox_c.dds-afc20b04a879851cb94707dcd89cd25a.res"]
+
+[params]
+
+mipmaps/generate=true

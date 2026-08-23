@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh p_medical_pillbottle
+CollisionManager.createTemplate p_medical_pillbottle
+
+ObjectTemplate.create Particle p_medical_pillbottle
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh p_medical_pillbottle
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_medical_pillbottle
+
+include p_medical_pillbottle.tweak

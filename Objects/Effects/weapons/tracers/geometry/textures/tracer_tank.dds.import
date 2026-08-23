@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dxmknchyhbelf"
+path="res://.godot/imported/tracer_tank.dds-55dd83202826629f05a4e8b85a10397d.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/tracers/geometry/textures/tracer_tank.dds"
+dest_files=["res://.godot/imported/tracer_tank.dds-55dd83202826629f05a4e8b85a10397d.res"]
+
+[params]
+
+mipmaps/generate=true

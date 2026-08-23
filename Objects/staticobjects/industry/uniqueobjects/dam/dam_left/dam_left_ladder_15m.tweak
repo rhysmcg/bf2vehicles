@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/8 14:3]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Ladder dam_left_ladder_15m
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_left_ladder_15m
+ObjectTemplate.setCollisionMesh dam_left_ladder_15m
+ObjectTemplate.mapMaterial 0 metal 6600
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

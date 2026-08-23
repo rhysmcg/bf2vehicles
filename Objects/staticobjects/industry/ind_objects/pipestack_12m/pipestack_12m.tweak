@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/20 0:17]
+GeometryTemplate.setSubGeometryLodDistance 0 0 25
+GeometryTemplate.setSubGeometryLodDistance 0 1 50
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject pipestack_12m
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry pipestack_12m
+ObjectTemplate.setCollisionMesh pipestack_12m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 steel 0
+ObjectTemplate.mapMaterial 2 pipeStack_01_wood 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

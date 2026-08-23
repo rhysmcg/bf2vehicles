@@ -1,0 +1,12 @@
+GeometryTemplate.create BundledMesh p_sign_authpers_plank_08
+
+ObjectTemplate.create Particle p_sign_authpers_plank_08
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_sign_authpers_plank_08
+ObjectTemplate.mapMaterial 0 wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_sign_authpers_plank_08
+
+include p_sign_authpers_plank_08.tweak

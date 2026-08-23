@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d0k3jienety2n"
+path="res://.godot/imported/zero_de.dds-f69431a2eac9da1ee864231d78876e86.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/wreck_zero/textures/zero_de.dds"
+dest_files=["res://.godot/imported/zero_de.dds-f69431a2eac9da1ee864231d78876e86.res"]
+
+[params]
+
+mipmaps/generate=true

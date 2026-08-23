@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh basket_hoops
+CollisionManager.createTemplate basket_hoops
+
+ObjectTemplate.create SimpleObject basket_hoops
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh basket_hoops
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry basket_hoops
+ObjectTemplate.anchor 0.1079/-1.3672/0.4876
+
+include basket_hoops.tweak

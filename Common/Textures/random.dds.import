@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cjltmgy678g7k"
+path="res://.godot/imported/random.dds-95d5698104900507dea3d60482d723db.res"
+
+[deps]
+
+source_file="res://Common/Textures/random.dds"
+dest_files=["res://.godot/imported/random.dds-95d5698104900507dea3d60482d723db.res"]
+
+[params]
+
+mipmaps/generate=true

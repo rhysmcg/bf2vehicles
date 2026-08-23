@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 51
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle temple_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry temple_01
+ObjectTemplate.setCollisionMesh temple_01
+ObjectTemplate.mapMaterial 0 Stone 12
+ObjectTemplate.mapMaterial 1 wood 15
+ObjectTemplate.mapMaterial 2 stairs 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+rem -------------------------------------
+ObjectTemplate.addTemplate temple_01_death
+rem -------------------------------------

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://biypmj2hum3pd"
+path="res://.godot/imported/sign_powercompany_small_b.dds-f1881a48eb380a02a2c9d982b0fd6af7.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/sign_powercompany_small/textures/sign_powercompany_small_b.dds"
+dest_files=["res://.godot/imported/sign_powercompany_small_b.dds-f1881a48eb380a02a2c9d982b0fd6af7.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqy1xashg7ndp"
+path="res://.godot/imported/US_Kits_C_woodland.dds-bbf539539c7a6526fa4ef79dd8cd06dd.res"
+
+[deps]
+
+source_file="res://Objects/Kits/US/textures/US_Kits_C_woodland.dds"
+dest_files=["res://.godot/imported/US_Kits_C_woodland.dds-bbf539539c7a6526fa4ef79dd8cd06dd.res"]
+
+[params]
+
+mipmaps/generate=true

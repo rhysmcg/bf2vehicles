@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh cable100m_powerline_30left
+
+ObjectTemplate.create SimpleObject cable100m_powerline_30left
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.geometry cable100m_powerline_30left
+ObjectTemplate.anchor -51.3850/0.4967/0
+
+include cable100m_powerline_30left.tweak

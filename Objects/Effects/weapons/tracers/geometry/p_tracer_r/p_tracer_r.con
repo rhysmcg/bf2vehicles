@@ -1,0 +1,8 @@
+GeometryTemplate.create MeshParticleMesh p_tracer_r
+
+ObjectTemplate.create Particle p_tracer_r
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.geometry p_tracer_r
+
+include p_tracer_r.tweak

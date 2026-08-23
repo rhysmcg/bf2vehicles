@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh supply_animatedparachute
+
+ObjectTemplate.create AnimatedBundle supply_animatedparachute
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.geometry supply_animatedparachute
+
+include supply_animatedparachute.tweak

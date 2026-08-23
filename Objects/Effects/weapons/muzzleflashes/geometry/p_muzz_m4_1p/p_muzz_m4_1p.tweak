@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/5 0:16]
+ObjectTemplate.activeSafe Particle p_muzz_m4_1p
+ObjectTemplate.creator DSU-2:dsu
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry P_muzz_m4_1p
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 56
+ObjectTemplate.timeToLive CRD_NONE/0.02/0/0
+ObjectTemplate.size CRD_UNIFORM/1.1/1.3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

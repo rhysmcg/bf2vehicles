@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh ch_farm_03_v4
+CollisionManager.createTemplate ch_farm_03_v4
+
+ObjectTemplate.create SimpleObject ch_farm_03_v4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_farm_03_v4
+ObjectTemplate.mapMaterial 0 Ch_Farm_03_v4_ColExport_ceramic_tiles 0
+ObjectTemplate.mapMaterial 1 Metall 0
+ObjectTemplate.mapMaterial 2 Stone 0
+ObjectTemplate.mapMaterial 3 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_farm_03_v4
+ObjectTemplate.anchor -9.5806/-0.5433/9.8007
+
+include ch_farm_03_v4.tweak

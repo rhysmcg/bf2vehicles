@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dlwgg4hy8ahce"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/grass_Yellow01.dds"
+
+[params]
+
+mipmaps/generate=true

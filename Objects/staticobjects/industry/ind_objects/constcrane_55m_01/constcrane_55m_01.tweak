@@ -1,0 +1,38 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 17:43]
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.setSubGeometryLodDistance 0 1 80
+GeometryTemplate.setSubGeometryLodDistance 0 2 130
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle constcrane_55m_01
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry constcrane_55m_01
+ObjectTemplate.setCollisionMesh constCrane_55m_01
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 plastic 11
+ObjectTemplate.mapMaterial 2 metal_thin 20
+ObjectTemplate.mapMaterial 3 concret 78
+ObjectTemplate.mapMaterial 4 penetrable_metal 1000
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate const_crane_ladder_short
+ObjectTemplate.setPosition 0.534367/-25.4033/-10.5265
+ObjectTemplate.addTemplate const_crane_ladder_short_02
+ObjectTemplate.setPosition -0.87528/10.6615/-10.1163
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate const_crane_ladder_21m
+ObjectTemplate.setPosition -0.652306/-12.735/-9.8015
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.addTemplate const_crane_ladder_9m
+ObjectTemplate.setPosition 0.588364/2.70949/-10.3653
+ObjectTemplate.addTemplate const_crane_ladder_short_03
+ObjectTemplate.setPosition 0.308687/14.2427/-13.1323
+ObjectTemplate.setRotation -90/0/0
+rem -------------------------------------
+

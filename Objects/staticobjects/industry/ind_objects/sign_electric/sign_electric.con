@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh sign_electric
+CollisionManager.createTemplate sign_electric
+
+ObjectTemplate.create SimpleObject sign_electric
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sign_electric
+ObjectTemplate.mapMaterial 0 wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_electric
+
+include sign_electric.tweak

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh me_shortpalm01
+CollisionManager.createTemplate me_shortpalm01
+
+ObjectTemplate.create SimpleObject me_shortpalm01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh me_shortpalm01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_shortpalm01
+ObjectTemplate.anchor -0.0346/-1.2299/-0.0958
+
+include me_shortpalm01.tweak

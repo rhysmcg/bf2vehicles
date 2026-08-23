@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_icemachine
+CollisionManager.createTemplate xp2_icemachine
+
+ObjectTemplate.create Bundle xp2_icemachine
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:marc
+ObjectTemplate.collisionMesh xp2_icemachine
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_icemachine
+
+include xp2_icemachine.tweak

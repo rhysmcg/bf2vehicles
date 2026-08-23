@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmbfbcxw2rm4l"
+path="res://.godot/imported/tnk_type98_c.dds-7d4a739ee76304154fcb8aa3e8a4aa79.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/tnk_type98/textures/tnk_type98_c.dds"
+dest_files=["res://.godot/imported/tnk_type98_c.dds-7d4a739ee76304154fcb8aa3e8a4aa79.res"]
+
+[params]
+
+mipmaps/generate=true

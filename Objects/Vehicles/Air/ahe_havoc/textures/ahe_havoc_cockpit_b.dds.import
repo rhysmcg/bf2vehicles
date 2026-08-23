@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ct40hjoptsqpu"
+path="res://.godot/imported/ahe_havoc_cockpit_b.dds-7dc194820124ac64ac7603dc42f11ea5.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/textures/ahe_havoc_cockpit_b.dds"
+dest_files=["res://.godot/imported/ahe_havoc_cockpit_b.dds-7dc194820124ac64ac7603dc42f11ea5.res"]
+
+[params]
+
+mipmaps/generate=true

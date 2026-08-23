@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dkks03elji0dh"
+path="res://.godot/imported/USAPC_LAV25_w.dds-efd7ba3a003054e50c628b767983fd2f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USAPC_LAV25/textures/USAPC_LAV25_w.dds"
+dest_files=["res://.godot/imported/USAPC_LAV25_w.dds-efd7ba3a003054e50c628b767983fd2f.res"]
+
+[params]
+
+mipmaps/generate=true

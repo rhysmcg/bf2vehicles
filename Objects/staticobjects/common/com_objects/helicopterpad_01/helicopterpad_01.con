@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh helicopterpad_01
+
+ObjectTemplate.create SimpleObject helicopterpad_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh helicopterpad_01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry helicopterpad_01
+ObjectTemplate.anchor 9.0000/-0.0357/9.0000
+
+include helicopterpad_01.tweak

@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2011/9/13 20:31]
+ObjectTemplate.activeSafe SimpleObject pricklypearflowers_s_01_col
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.modifiedByUser "Mike"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setCollisionMesh pricklypearflowers_s_01
+ObjectTemplate.mapMaterial 0 wood_col 93
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+
+
+

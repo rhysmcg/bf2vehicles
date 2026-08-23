@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/22 6:46]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Ladder xp2_oiltruck_01_ladder
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.modifiedByUser "jayev"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_oiltruck_01_ladder
+ObjectTemplate.setCollisionMesh xp2_oiltruck_01_ladder
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

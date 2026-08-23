@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://3gibggloy065"
+path="res://.godot/imported/flag_mec_1_c.dds-72d0e63e2103021f26a79d45e94e3631.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/DefaultPlayerTag/flag_mec_1_c.dds"
+dest_files=["res://.godot/imported/flag_mec_1_c.dds-72d0e63e2103021f26a79d45e94e3631.res"]
+
+[params]
+
+mipmaps/generate=true

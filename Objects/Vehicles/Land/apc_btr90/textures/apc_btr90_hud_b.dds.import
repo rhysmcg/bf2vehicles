@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cg7oik1bccckm"
+path="res://.godot/imported/apc_btr90_hud_b.dds-6a66cdeec2c0ab0ff5066a68a7782e5d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_btr90/textures/apc_btr90_hud_b.dds"
+dest_files=["res://.godot/imported/apc_btr90_hud_b.dds-6a66cdeec2c0ab0ff5066a68a7782e5d.res"]
+
+[params]
+
+mipmaps/generate=true

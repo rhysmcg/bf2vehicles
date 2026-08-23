@@ -1,0 +1,28 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 52
+GeometryTemplate.setSubGeometryLodDistance 0 1 102
+GeometryTemplate.setSubGeometryLodDistance 0 2 152
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject house_double_04
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_double_04
+ObjectTemplate.setCollisionMesh House_Double_04
+ObjectTemplate.mapMaterial 0 Metal_Solid 21
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 2 concrete 78
+ObjectTemplate.mapMaterial 3 Wood_thin 14
+ObjectTemplate.mapMaterial 4 Cloth_carpet 10
+ObjectTemplate.mapMaterial 5 Wood_solid 15
+ObjectTemplate.mapMaterial 6 Tarmac 4
+ObjectTemplate.mapMaterial 7 Plastic 11
+ObjectTemplate.mapMaterial 8 Stairs_concrete 34
+ObjectTemplate.mapMaterial 9 Stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

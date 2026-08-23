@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 0
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject poolwater_big
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry poolwater_big
+ObjectTemplate.setCollisionMesh poolwater_big
+ObjectTemplate.mapMaterial 0 Water 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh watertower_02
+CollisionManager.createTemplate watertower_02
+
+ObjectTemplate.create SimpleObject watertower_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh watertower_02
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 1 Metal_Solid 0
+ObjectTemplate.mapMaterial 2 Metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry watertower_02
+ObjectTemplate.anchor 3.1602/0/3.1602
+
+include watertower_02.tweak

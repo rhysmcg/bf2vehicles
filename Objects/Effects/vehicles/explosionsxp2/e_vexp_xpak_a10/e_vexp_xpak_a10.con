@@ -1,0 +1,35 @@
+GeometryTemplate.create BundledMesh e_vexp_xpak_a10
+
+ObjectTemplate.create EffectBundle e_vexp_xpak_a10
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEFFO:jeffev
+ObjectTemplate.addTemplate A10_wreck_wing
+ObjectTemplate.setPosition 4.6359/0/0.2608
+ObjectTemplate.addTemplate A10_wreck_turbine
+ObjectTemplate.setPosition 1.3763/1.4069/-3.2886
+
+ObjectTemplate.create Emitter A10_wreck_wing
+ObjectTemplate.template p_A10_wreck_wing
+
+ObjectTemplate.create Particle p_A10_wreck_wing
+ObjectTemplate.collisionMesh e_vexp_xpak_a10
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_a10
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter A10_wreck_turbine
+ObjectTemplate.template p_A10_wreck_turbine
+
+ObjectTemplate.create Particle p_A10_wreck_turbine
+ObjectTemplate.collisionMesh e_vexp_xpak_a10
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_a10
+ObjectTemplate.geometryPart 1
+
+include e_vexp_xpak_a10.tweak

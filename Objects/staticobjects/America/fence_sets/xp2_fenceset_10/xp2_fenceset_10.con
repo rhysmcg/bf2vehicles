@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_fenceset_10
+CollisionManager.createTemplate xp2_fenceset_10
+
+ObjectTemplate.create SimpleObject xp2_fenceset_10
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_fenceset_10
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_fenceset_10
+ObjectTemplate.anchor 0.7705/0/0
+
+include xp2_fenceset_10.tweak

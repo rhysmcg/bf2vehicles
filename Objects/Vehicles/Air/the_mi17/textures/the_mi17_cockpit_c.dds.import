@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bp8vsfydgs05c"
+path="res://.godot/imported/the_mi17_cockpit_c.dds-845184cbda18a8e3546875e9e3139ca5.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/textures/the_mi17_cockpit_c.dds"
+dest_files=["res://.godot/imported/the_mi17_cockpit_c.dds-845184cbda18a8e3546875e9e3139ca5.res"]
+
+[params]
+
+mipmaps/generate=true

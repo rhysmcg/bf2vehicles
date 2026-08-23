@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh citybrdgsloope
+
+ObjectTemplate.create Bundle citybrdgsloope
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh citybrdgsloope
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry citybrdgsloope
+ObjectTemplate.anchor -30.0000/4.4481/-17.0106
+
+include citybrdgsloope.tweak

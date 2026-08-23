@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_pylon_02
+CollisionManager.createTemplate xp2_pylon_02
+
+ObjectTemplate.create destroyableobject xp2_pylon_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_pylon_02
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_pylon_02
+ObjectTemplate.anchor 0/-0.4034/0
+
+include xp2_pylon_02.tweak

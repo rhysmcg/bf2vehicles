@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh mec_tunnelbunker1
+
+ObjectTemplate.create SimpleObject mec_tunnelbunker1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator XPS-3:Iggy
+ObjectTemplate.geometry mec_tunnelbunker1
+
+include mec_tunnelbunker1.tweak

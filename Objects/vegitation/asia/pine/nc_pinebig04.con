@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh nc_pinebig04
+CollisionManager.createTemplate nc_pinebig04
+
+ObjectTemplate.create SimpleObject nc_pinebig04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_pinebig04
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_pinebig04
+ObjectTemplate.anchor -0.2039/-5.3645/0.1592
+
+include nc_pinebig04.tweak

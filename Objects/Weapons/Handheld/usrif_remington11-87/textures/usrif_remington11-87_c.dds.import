@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://crqsl2pw3a26o"
+path="res://.godot/imported/usrif_remington11-87_c.dds-66b9b1646c49eb2434b755787caef074.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_remington11-87/textures/usrif_remington11-87_c.dds"
+dest_files=["res://.godot/imported/usrif_remington11-87_c.dds-66b9b1646c49eb2434b755787caef074.res"]
+
+[params]
+
+mipmaps/generate=true

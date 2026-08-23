@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/18 17:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 51
+GeometryTemplate.setSubGeometryLodDistance 0 2 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject train_engine
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry train_engine
+ObjectTemplate.setCollisionMesh train_engine
+ObjectTemplate.mapMaterial 0 solid_metal 21
+ObjectTemplate.mapMaterial 1 thin_metal 20
+ObjectTemplate.mapMaterial 2 stairs_metal 36
+ObjectTemplate.mapMaterial 3 soldier_slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

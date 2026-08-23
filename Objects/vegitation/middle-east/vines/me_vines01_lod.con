@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_vines01_lod
+
+ObjectTemplate.create SimpleObject me_vines01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.geometry me_vines01_lod
+
+include me_vines01_lod.tweak

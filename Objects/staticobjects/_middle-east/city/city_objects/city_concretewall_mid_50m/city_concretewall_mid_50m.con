@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh city_concretewall_mid_50m
+CollisionManager.createTemplate city_concretewall_mid_50m
+
+ObjectTemplate.create SimpleObject city_concretewall_mid_50m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh city_concretewall_mid_50m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry city_concretewall_mid_50m
+ObjectTemplate.anchor 25.0000/2.3894/-2.5000
+
+include city_concretewall_mid_50m.tweak

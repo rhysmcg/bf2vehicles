@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle amdStat_Fountain_waterSpray
+ObjectTemplate.createdInEditor 1
+
+include amdStat_Fountain_waterSpray.tweak

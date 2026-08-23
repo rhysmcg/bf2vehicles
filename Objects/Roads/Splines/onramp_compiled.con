@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled onramp
+ObjectTemplate.create SimpleObject onramp
+ObjectTemplate.geometry onramp

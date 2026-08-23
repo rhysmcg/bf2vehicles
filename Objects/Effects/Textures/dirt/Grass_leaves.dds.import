@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://i6f4s2tky7qx"
+path="res://.godot/imported/Grass_leaves.dds-a0aac826387a2f91e3e7a5d366ab895a.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/Grass_leaves.dds"
+dest_files=["res://.godot/imported/Grass_leaves.dds-a0aac826387a2f91e3e7a5d366ab895a.res"]
+
+[params]
+
+mipmaps/generate=true

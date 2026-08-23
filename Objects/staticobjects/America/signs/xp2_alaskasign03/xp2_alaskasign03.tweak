@@ -1,0 +1,30 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/22 6:46]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe destroyableobject xp2_alaskasign03
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.modifiedByUser "jeremypr"
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.castsDynamicShadow 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 1
+ObjectTemplate.armor.hitPoints 1
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.explosionMaterial 97
+ObjectTemplate.armor.wreckHitPoints 1
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_xp2_alaskasign03 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry xp2_alaskasign03
+ObjectTemplate.setCollisionMesh xp2_alaskasign03
+ObjectTemplate.mapMaterial 0 metal_thin 20
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.mapMaterial 2 metal_solid 20
+ObjectTemplate.mapMaterial 3 metal_solid 20
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

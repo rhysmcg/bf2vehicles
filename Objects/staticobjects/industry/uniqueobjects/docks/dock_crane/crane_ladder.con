@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh crane_ladder
+CollisionManager.createTemplate crane_ladder
+
+ObjectTemplate.create Ladder crane_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh crane_ladder
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry crane_ladder
+ObjectTemplate.anchor 0/22.5176/0.2833
+
+include crane_ladder.tweak

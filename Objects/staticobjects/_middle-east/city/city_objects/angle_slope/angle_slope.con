@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh angle_slope
+CollisionManager.createTemplate angle_slope
+
+ObjectTemplate.create SimpleObject angle_slope
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh angle_slope
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 tarmac 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry angle_slope
+
+include angle_slope.tweak

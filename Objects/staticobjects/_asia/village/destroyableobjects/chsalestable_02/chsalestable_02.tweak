@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject chsalestable_02
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser eni
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_chsalestable_02 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry chsalestable_02
+ObjectTemplate.setCollisionMesh chsalestable_02
+ObjectTemplate.mapMaterial 0 wood 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,65 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/2/9 10:9]
+ObjectTemplate.active ambientLights
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+rem -------------------------------------
+ObjectTemplate.addTemplate LightMapAmbient1
+ObjectTemplate.addTemplate LightMapAmbient2
+rem -------------------------------------
+
+ObjectTemplate.create LightSource LightMapAmbient1
+ObjectTemplate.createNotInGrid 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.lightType Directional
+ObjectTemplate.isDynamic 0
+ObjectTemplate.castsStaticShadow 1
+ObjectTemplate.castsDynamicShadow 0
+ObjectTemplate.selfLights 1
+ObjectTemplate.selfShadows 0
+ObjectTemplate.supportsPerVertex 1
+ObjectTemplate.supportsPerPixel 0
+ObjectTemplate.affectingType 0
+ObjectTemplate.direction 0/-0.868243/-0.496139
+ObjectTemplate.attenuationRange1 4
+ObjectTemplate.attenuationRange2 10
+ObjectTemplate.color 1/1/1
+ObjectTemplate.HDRIntensity 1
+ObjectTemplate.coneAngle1 22.5
+ObjectTemplate.coneAngle2 22.5
+ObjectTemplate.enabled 1
+ObjectTemplate.fov 130
+ObjectTemplate.objectShadows 1
+ObjectTemplate.shadowIntensity 1
+ObjectTemplate.softness 1
+ObjectTemplate.intensity 0.35
+ObjectTemplate.flicker 0
+ObjectTemplate.scale 1/1/1
+
+ObjectTemplate.create LightSource LightMapAmbient2
+ObjectTemplate.createNotInGrid 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.lightType Directional
+ObjectTemplate.isDynamic 0
+ObjectTemplate.castsStaticShadow 1
+ObjectTemplate.castsDynamicShadow 0
+ObjectTemplate.selfLights 1
+ObjectTemplate.selfShadows 0
+ObjectTemplate.supportsPerVertex 1
+ObjectTemplate.supportsPerPixel 0
+ObjectTemplate.affectingType 0
+ObjectTemplate.direction 0/-0.868243/-0.496139
+ObjectTemplate.attenuationRange1 4
+ObjectTemplate.attenuationRange2 10
+ObjectTemplate.color 1/1/1
+ObjectTemplate.HDRIntensity 1
+ObjectTemplate.coneAngle1 22.5
+ObjectTemplate.coneAngle2 22.5
+ObjectTemplate.enabled 1
+ObjectTemplate.fov 130
+ObjectTemplate.objectShadows 1
+ObjectTemplate.shadowIntensity 1
+ObjectTemplate.softness 1
+ObjectTemplate.intensity 0.35
+ObjectTemplate.flicker 0
+ObjectTemplate.scale 1/1/1
+

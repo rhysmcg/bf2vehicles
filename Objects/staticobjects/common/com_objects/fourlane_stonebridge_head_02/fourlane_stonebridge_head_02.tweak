@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject fourlane_stonebridge_head_02
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry fourlane_stonebridge_head_02
+ObjectTemplate.setCollisionMesh fourlane_stonebridge_head_02
+ObjectTemplate.mapMaterial 0 stone 12
+ObjectTemplate.mapMaterial 1 Tarmac 4
+ObjectTemplate.mapMaterial 2 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

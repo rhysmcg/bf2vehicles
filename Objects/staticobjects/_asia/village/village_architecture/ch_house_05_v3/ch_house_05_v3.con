@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh ch_house_05_v3
+CollisionManager.createTemplate ch_house_05_v3
+
+ObjectTemplate.create SimpleObject ch_house_05_v3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_house_05_v3
+ObjectTemplate.mapMaterial 0 solid_metal 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 ceramic_tiles 0
+ObjectTemplate.mapMaterial 4 brick 0
+ObjectTemplate.mapMaterial 5 Stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_05_v3
+
+include ch_house_05_v3.tweak

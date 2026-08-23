@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ca1vtxwm6v3de"
+path="res://.godot/imported/wrecks_b.dds-352249465bee28bab511838415545c0b.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/textures/wrecks_b.dds"
+dest_files=["res://.godot/imported/wrecks_b.dds-352249465bee28bab511838415545c0b.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://47w7mqd647fc"
+path="res://.godot/imported/gate_b.dds-d169d6ad4a1a6141d48cc89ccf1eb8a3.res"
+
+[deps]
+
+source_file="res://Objects/miscobjects/middle-east/gate/textures/gate_b.dds"
+dest_files=["res://.godot/imported/gate_b.dds-d169d6ad4a1a6141d48cc89ccf1eb8a3.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/20 19:27]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 80
+GeometryTemplate.setSubGeometryLodDistance 0 2 140
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle office_02
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry office_02
+ObjectTemplate.setCollisionMesh office_02
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 1 Metal_Solid 21
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 3 Wood_solid 15
+ObjectTemplate.mapMaterial 4 Plastic 11
+ObjectTemplate.mapMaterial 5 soldier_slippery 7001
+ObjectTemplate.mapMaterial 6 stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_7m
+ObjectTemplate.setPosition -8.6206/0.22581/-6.25135
+ObjectTemplate.addTemplate ladder_5m
+ObjectTemplate.setPosition -8.40307/2.55087/9.26826
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

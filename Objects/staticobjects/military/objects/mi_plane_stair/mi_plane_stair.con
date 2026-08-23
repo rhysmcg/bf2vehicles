@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh mi_plane_stair
+CollisionManager.createTemplate mi_plane_stair
+
+ObjectTemplate.create SimpleObject mi_plane_stair
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh mi_plane_stair
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_plane_stair
+ObjectTemplate.anchor 0/-1.5116/0
+
+include mi_plane_stair.tweak

@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_toolshed
+ObjectTemplate.creator MIKEC:mikeca
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_toolshed
+ObjectTemplate.setCollisionMesh xp2_toolshed
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 Metal_Thin 20
+ObjectTemplate.mapMaterial 2 wood_penetrable 1003
+ObjectTemplate.mapMaterial 3 Wood_Solid 15
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

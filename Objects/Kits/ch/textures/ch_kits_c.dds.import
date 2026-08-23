@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bruesulrufarp"
+path="res://.godot/imported/ch_kits_c.dds-b6c6e029e2437dab1c7ff7c05c05b648.res"
+
+[deps]
+
+source_file="res://Objects/Kits/ch/textures/ch_kits_c.dds"
+dest_files=["res://.godot/imported/ch_kits_c.dds-b6c6e029e2437dab1c7ff7c05c05b648.res"]
+
+[params]
+
+mipmaps/generate=true

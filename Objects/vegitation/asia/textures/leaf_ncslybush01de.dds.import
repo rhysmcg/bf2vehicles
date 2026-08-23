@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwfxqenyphf1f"
+path="res://.godot/imported/leaf_ncslybush01de.dds-c67f8fa5c1a147293741277baf8839ab.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_ncslybush01de.dds"
+dest_files=["res://.godot/imported/leaf_ncslybush01de.dds-c67f8fa5c1a147293741277baf8839ab.res"]
+
+[params]
+
+mipmaps/generate=true

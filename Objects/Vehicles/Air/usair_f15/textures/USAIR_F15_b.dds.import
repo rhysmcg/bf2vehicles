@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bjvaed1451p80"
+path="res://.godot/imported/USAIR_F15_b.dds-2f49b7ca7563f59131db4a13eba3ab01.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f15/textures/USAIR_F15_b.dds"
+dest_files=["res://.godot/imported/USAIR_F15_b.dds-2f49b7ca7563f59131db4a13eba3ab01.res"]
+
+[params]
+
+mipmaps/generate=true

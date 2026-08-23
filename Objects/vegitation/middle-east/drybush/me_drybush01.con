@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh me_drybush01
+CollisionManager.createTemplate me_drybush01
+
+ObjectTemplate.create SimpleObject me_drybush01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_drybush01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_drybush01
+ObjectTemplate.anchor 0/-0.4007/0.1134
+
+include me_drybush01.tweak

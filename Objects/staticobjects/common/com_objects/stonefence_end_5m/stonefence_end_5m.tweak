@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject stonefence_end_5m
+ObjectTemplate.creator DFR-2:dfr
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry stonefence_end_5m
+ObjectTemplate.setCollisionMesh stonefence_end_5m
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

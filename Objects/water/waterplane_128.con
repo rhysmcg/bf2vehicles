@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh waterplane_128
+CollisionManager.createTemplate waterplane_128
+
+ObjectTemplate.create SimpleObject waterplane_128
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.collisionMesh waterplane_128
+ObjectTemplate.mapMaterial 0 Water 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry waterplane_128
+ObjectTemplate.anchor -64.0000/0/64.0000
+
+include waterplane_128.tweak

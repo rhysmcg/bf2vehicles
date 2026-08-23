@@ -1,0 +1,4 @@
+ObjectTemplate.create GenericFireArm car_horn2
+
+include car_horn2.tweak
+

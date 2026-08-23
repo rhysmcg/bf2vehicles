@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh concrete_pillar_wall
+CollisionManager.createTemplate concrete_pillar_wall
+
+ObjectTemplate.create SimpleObject concrete_pillar_wall
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh concrete_pillar_wall
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concrete_pillar_wall
+ObjectTemplate.anchor -0.0176/-5.5181/0.0055
+
+include concrete_pillar_wall.tweak

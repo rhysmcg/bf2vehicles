@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dha3vy0ou32qn"
+path="res://.godot/imported/3p_gbrif_benelli_m4_c.dds-0f8bc0d005f7dd045ae0420ea6aac0bc.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_benelli_m4/textures/dds/3p_gbrif_benelli_m4_c.dds"
+dest_files=["res://.godot/imported/3p_gbrif_benelli_m4_c.dds-0f8bc0d005f7dd045ae0420ea6aac0bc.res"]
+
+[params]
+
+mipmaps/generate=true

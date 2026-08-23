@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/28 8:19]
+GeometryTemplate.setSubGeometryLodDistance 0 0 24
+GeometryTemplate.setSubGeometryLodDistance 0 1 49
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject boxesonpallet_01
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry boxesonpallet_01
+ObjectTemplate.setCollisionMesh boxesOnPallet_01
+ObjectTemplate.mapMaterial 0 cardboard 64
+ObjectTemplate.mapMaterial 1 wood 15
+ObjectTemplate.mapMaterial 2 lambert1 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

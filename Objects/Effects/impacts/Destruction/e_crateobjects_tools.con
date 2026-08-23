@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_crateobjects_tools
+ObjectTemplate.createdInEditor 1
+
+include e_crateobjects_tools.tweak

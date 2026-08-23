@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_palmtree02_lod
+
+ObjectTemplate.create SimpleObject me_palmtree02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_palmtree02_lod
+
+include me_palmtree02_lod.tweak

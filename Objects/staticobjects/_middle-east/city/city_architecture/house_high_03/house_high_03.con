@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh house_high_03
+CollisionManager.createTemplate house_high_03
+
+ObjectTemplate.create Bundle house_high_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh house_high_03
+ObjectTemplate.mapMaterial 0 Cloth_carpet 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Wood_solid 0
+ObjectTemplate.mapMaterial 4 Metal_Solid 0
+ObjectTemplate.mapMaterial 5 Tarmac 0
+ObjectTemplate.mapMaterial 6 Plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_high_03
+ObjectTemplate.anchor 5.7138/-7.1284/7.5737
+
+include house_high_03.tweak

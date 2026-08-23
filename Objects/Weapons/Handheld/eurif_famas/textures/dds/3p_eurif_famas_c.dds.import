@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bjblomlsid46y"
+path="res://.godot/imported/3p_eurif_famas_c.dds-b89fb7349a7cb35fcf926aea5f609fa3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_famas/textures/dds/3p_eurif_famas_c.dds"
+dest_files=["res://.godot/imported/3p_eurif_famas_c.dds-b89fb7349a7cb35fcf926aea5f609fa3.res"]
+
+[params]
+
+mipmaps/generate=true

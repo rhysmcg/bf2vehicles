@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh xp2_lrgstrgopen01
+CollisionManager.createTemplate xp2_lrgstrgopen01
+
+ObjectTemplate.create Bundle xp2_lrgstrgopen01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICK:nickwh
+ObjectTemplate.collisionMesh xp2_lrgstrgopen01
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Metal_Solid 0
+ObjectTemplate.mapMaterial 2 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 3 Penetratable_metal 0
+ObjectTemplate.mapMaterial 4 stairs_Metal_Solid 0
+ObjectTemplate.mapMaterial 5 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_lrgstrgopen01
+ObjectTemplate.anchor -65.7215/6.0402/5.1005
+
+include xp2_lrgstrgopen01.tweak

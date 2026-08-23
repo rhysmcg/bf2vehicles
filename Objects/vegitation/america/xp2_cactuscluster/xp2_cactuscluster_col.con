@@ -1,0 +1,13 @@
+CollisionManager.createTemplate xp2_cactuscluster
+
+ObjectTemplate.create SimpleObject xp2_cactuscluster_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.collisionMesh xp2_cactuscluster
+ObjectTemplate.mapMaterial 0 cactusSkin 0
+ObjectTemplate.mapMaterial 1 leafCol 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0.0262/0/2.3883
+
+include xp2_cactuscluster_col.tweak

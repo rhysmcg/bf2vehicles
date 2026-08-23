@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b41i1cdti2wpi"
+path="res://.godot/imported/road_signs_c.dds-7ac37e317a176e8b1fffcce30f4b2d1d.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/textures/road_signs_c.dds"
+dest_files=["res://.godot/imported/road_signs_c.dds-7ac37e317a176e8b1fffcce30f4b2d1d.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/15 11:53]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject sign_electric
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sign_electric
+ObjectTemplate.setCollisionMesh Sign_electric
+ObjectTemplate.mapMaterial 0 wood_thin 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

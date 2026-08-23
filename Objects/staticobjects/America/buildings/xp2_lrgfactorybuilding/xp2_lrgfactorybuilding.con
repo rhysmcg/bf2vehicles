@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh xp2_lrgfactorybuilding
+
+ObjectTemplate.create SimpleObject xp2_lrgfactorybuilding
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.geometry xp2_lrgfactorybuilding
+ObjectTemplate.anchor -13.4925/-23.0334/22.4388
+
+include xp2_lrgfactorybuilding.tweak

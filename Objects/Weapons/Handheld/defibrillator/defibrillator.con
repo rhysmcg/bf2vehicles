@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh defibrillator
+CollisionManager.createTemplate defibrillator
+
+ObjectTemplate.create GenericFireArm defibrillator
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PAN-1:pan
+ObjectTemplate.collisionMesh defibrillator
+ObjectTemplate.mapMaterial 0 collisionmaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry defibrillator
+
+include defibrillator.tweak

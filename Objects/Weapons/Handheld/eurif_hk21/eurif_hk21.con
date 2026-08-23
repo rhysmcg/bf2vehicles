@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh eurif_hk21
+CollisionManager.createTemplate eurif_hk21
+
+ObjectTemplate.create GenericFireArm eurif_hk21
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:danielab
+ObjectTemplate.collisionMesh eurif_hk21
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry eurif_hk21
+
+include eurif_hk21.tweak

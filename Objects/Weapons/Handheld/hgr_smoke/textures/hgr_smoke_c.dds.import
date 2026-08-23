@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvja7wdvedajx"
+path="res://.godot/imported/hgr_smoke_c.dds-e7372bedc48d41fa354c9a93507c7ae3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/hgr_smoke/textures/hgr_smoke_c.dds"
+dest_files=["res://.godot/imported/hgr_smoke_c.dds-e7372bedc48d41fa354c9a93507c7ae3.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dibqvmsqe3106"
+path="res://.godot/imported/USTHE_UH60_rotor_b.dds-01e4e0135dac0227207f6dcfe203444d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/Textures/USTHE_UH60_rotor_b.dds"
+dest_files=["res://.godot/imported/USTHE_UH60_rotor_b.dds-01e4e0135dac0227207f6dcfe203444d.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/8 14:3]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 35
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject beam_01
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry beam_01
+ObjectTemplate.setCollisionMesh beam_01
+ObjectTemplate.mapMaterial 0 steel 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

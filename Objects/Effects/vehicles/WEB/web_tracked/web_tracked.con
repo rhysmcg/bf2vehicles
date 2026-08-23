@@ -1,0 +1,4 @@
+ObjectTemplate.create WheelEffectBundle web_tracked
+ObjectTemplate.createdInEditor 1
+
+include web_tracked.tweak

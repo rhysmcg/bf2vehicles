@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh pipeline_rig
+CollisionManager.createTemplate pipeline_rig
+
+ObjectTemplate.create SimpleObject pipeline_rig
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh pipeline_rig
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pipeline_rig
+ObjectTemplate.anchor 0/-4.3148/0
+
+include pipeline_rig.tweak

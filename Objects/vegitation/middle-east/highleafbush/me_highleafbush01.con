@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh me_highleafbush01
+CollisionManager.createTemplate me_highleafbush01
+
+ObjectTemplate.create SimpleObject me_highleafbush01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_highleafbush01
+ObjectTemplate.mapMaterial 0 leaf_col1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_highleafbush01
+ObjectTemplate.anchor -0.2069/-0.9534/0
+
+include me_highleafbush01.tweak

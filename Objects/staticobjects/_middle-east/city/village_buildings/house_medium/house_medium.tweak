@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/29 17:0]
+GeometryTemplate.setSubGeometryLodDistance 0 2 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject house_medium
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_medium
+ObjectTemplate.setCollisionMesh house_medium
+ObjectTemplate.mapMaterial 0 stones 78
+ObjectTemplate.mapMaterial 1 wood_Solid 15
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 Penetrable_Wood 1003
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

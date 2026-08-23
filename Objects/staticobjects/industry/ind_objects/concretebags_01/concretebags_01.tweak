@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/24 20:1]
+GeometryTemplate.setSubGeometryLodDistance 0 0 35
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject concretebags_01
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry concretebags_01
+ObjectTemplate.setCollisionMesh concreteBags_01
+ObjectTemplate.mapMaterial 0 wood 14
+ObjectTemplate.mapMaterial 1 bagsMtrl 76
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

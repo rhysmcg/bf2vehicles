@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2wqkbnmea2iy"
+path="res://.godot/imported/ussni_m95_barret_scope_c.dds-90e1cddbf16656b82663d2729e9e9caf.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M95_Barret/textures/ussni_m95_barret_scope_c.dds"
+dest_files=["res://.godot/imported/ussni_m95_barret_scope_c.dds-90e1cddbf16656b82663d2729e9e9caf.res"]
+
+[params]
+
+mipmaps/generate=true

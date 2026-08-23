@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bchpyojawxpcp"
+path="res://.godot/imported/me_bark_01_deb.dds-34302ba2934f1777d6f4e430e18b890a.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/me_bark_01_deb.dds"
+dest_files=["res://.godot/imported/me_bark_01_deb.dds-34302ba2934f1777d6f4e430e18b890a.res"]
+
+[params]
+
+mipmaps/generate=true

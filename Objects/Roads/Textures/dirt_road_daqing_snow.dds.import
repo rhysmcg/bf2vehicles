@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://8ae4txlcpqby"
+path="res://.godot/imported/dirt_road_daqing_snow.dds-202273f4d99e04b1d877e8935ff7f7e8.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road_daqing_snow.dds"
+dest_files=["res://.godot/imported/dirt_road_daqing_snow.dds-202273f4d99e04b1d877e8935ff7f7e8.res"]
+
+[params]
+
+mipmaps/generate=true

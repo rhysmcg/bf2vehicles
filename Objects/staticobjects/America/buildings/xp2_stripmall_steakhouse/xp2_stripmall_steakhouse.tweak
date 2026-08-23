@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.setSubGeometryLodDistance 0 0 100
+GeometryTemplate.setSubGeometryLodDistance 0 1 175
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_stripmall_steakhouse
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_stripmall_steakhouse
+ObjectTemplate.setCollisionMesh xp2_stripmall_steakhouse
+ObjectTemplate.mapMaterial 0 wood 15
+ObjectTemplate.mapMaterial 1 metal 21
+ObjectTemplate.mapMaterial 2 concrete 78
+ObjectTemplate.mapMaterial 3 stone 78
+ObjectTemplate.mapMaterial 4 canvas 1002
+ObjectTemplate.mapMaterial 5 fiberGlass 11
+ObjectTemplate.mapMaterial 6 glass 17
+ObjectTemplate.mapMaterial 7 dirt 8
+ObjectTemplate.mapMaterial 8 icySlope 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_stripmall_steakhouse_glass
+rem -------------------------------------
+

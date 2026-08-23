@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c1v25y1i1p8lm"
+path="res://.godot/imported/p_wreck_sign_01_c.dds-d0823f7041400f633f86f111684b5493.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_sign_01_c.dds"
+dest_files=["res://.godot/imported/p_wreck_sign_01_c.dds-d0823f7041400f633f86f111684b5493.res"]
+
+[params]
+
+mipmaps/generate=true

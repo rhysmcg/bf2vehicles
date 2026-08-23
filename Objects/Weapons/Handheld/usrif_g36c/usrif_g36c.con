@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usrif_g36c
+CollisionManager.createTemplate usrif_g36c
+
+ObjectTemplate.create GenericFireArm usrif_g36c
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh usrif_g36c
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usrif_g36c
+
+include usrif_g36c.tweak

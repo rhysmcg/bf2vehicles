@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_tropicalplant03_lod
+
+ObjectTemplate.create SimpleObject me_tropicalplant03_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_tropicalplant03_lod
+
+include me_tropicalplant03_lod.tweak

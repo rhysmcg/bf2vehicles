@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh highway_bridge_support
+CollisionManager.createTemplate highway_bridge_support
+
+ObjectTemplate.create SimpleObject highway_bridge_support
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh highway_bridge_support
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry highway_bridge_support
+ObjectTemplate.anchor -5.9663/20.9910/20.2994
+
+include highway_bridge_support.tweak

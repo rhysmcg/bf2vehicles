@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh roadmarker_dest
+CollisionManager.createTemplate roadmarker_dest
+
+ObjectTemplate.create DestroyableObject roadmarker_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh roadmarker_dest
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry roadmarker_dest
+ObjectTemplate.anchor 0/-0.6295/0
+
+include roadmarker_dest.tweak

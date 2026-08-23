@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://byvhsosstvllu"
+path="res://.godot/imported/me_mangmedfin01_lod.dds-79af97426502b3978655b8ae0e2c7819.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/me_mangmedfin01_lod.dds"
+dest_files=["res://.godot/imported/me_mangmedfin01_lod.dds-79af97426502b3978655b8ae0e2c7819.res"]
+
+[params]
+
+mipmaps/generate=true

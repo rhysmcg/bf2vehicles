@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_teddy
+CollisionManager.createTemplate p_teddy
+
+ObjectTemplate.create Particle p_teddy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_teddy
+ObjectTemplate.mapMaterial 0 fabric 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_teddy
+
+include p_teddy.tweak

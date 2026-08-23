@@ -1,0 +1,11 @@
+GeometryTemplate.create BundledMesh p_tunguskacap
+
+ObjectTemplate.create Particle p_tunguskacap
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.mapMaterial 0 Plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_tunguskacap
+
+include p_tunguskacap.tweak

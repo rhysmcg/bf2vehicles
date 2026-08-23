@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bynj51lurk7eh"
+path="res://.godot/imported/scopetexture_b.dds-209b415c83370e10658e16e01d7ee17f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/textures/scopetexture_b.dds"
+dest_files=["res://.godot/imported/scopetexture_b.dds-209b415c83370e10658e16e01d7ee17f.res"]
+
+[params]
+
+mipmaps/generate=true

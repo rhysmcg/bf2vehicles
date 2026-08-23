@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cmxd71ch3bvqb"
+path="res://.godot/imported/RR_ParkingLots02_XP2.dds-8013c99c817b80c30a63d272f6e167cd.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/RR_ParkingLots02_XP2.dds"
+dest_files=["res://.godot/imported/RR_ParkingLots02_XP2.dds-8013c99c817b80c30a63d272f6e167cd.res"]
+
+[params]
+
+mipmaps/generate=true

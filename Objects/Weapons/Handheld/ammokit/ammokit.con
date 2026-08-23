@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh ammokit
+CollisionManager.createTemplate ammokit
+
+ObjectTemplate.create GenericFireArm ammokit
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh ammokit
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ammokit
+
+include ammokit.tweak

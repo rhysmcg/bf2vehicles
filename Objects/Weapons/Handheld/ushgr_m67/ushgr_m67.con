@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh ushgr_m67
+CollisionManager.createTemplate ushgr_m67
+
+ObjectTemplate.create GenericFireArm ushgr_m67
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh ushgr_m67
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ushgr_m67
+
+include ushgr_m67.tweak

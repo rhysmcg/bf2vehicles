@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwrvlwtd0py6c"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/asphalt.dds"
+
+[params]
+
+mipmaps/generate=false

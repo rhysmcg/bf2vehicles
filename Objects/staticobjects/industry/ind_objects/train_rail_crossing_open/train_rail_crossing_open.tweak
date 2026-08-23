@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/11 17:51]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.setSubGeometryLodDistance 0 1 75
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject train_rail_crossing_open
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry train_rail_crossing_open
+ObjectTemplate.setCollisionMesh train_rail_crossing_open
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.mapMaterial 2 Metal_solid 21
+ObjectTemplate.mapMaterial 3 wood 15
+ObjectTemplate.mapMaterial 4 Gravel 3
+ObjectTemplate.mapMaterial 5 ind01c_ind01objde_cgfx 78
+ObjectTemplate.mapMaterial 6 stair_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

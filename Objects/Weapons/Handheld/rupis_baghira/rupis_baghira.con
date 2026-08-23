@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rupis_baghira
+CollisionManager.createTemplate rupis_baghira
+
+ObjectTemplate.create GenericFireArm rupis_baghira
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh rupis_baghira
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rupis_baghira
+
+include rupis_baghira.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://s6l7fplo2tor"
+path="res://.godot/imported/rurif_bizon_mini.dds-bdd981d3cab8b6556c71a79a070e07f3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_Bizon/textures/rurif_bizon_mini.dds"
+dest_files=["res://.godot/imported/rurif_bizon_mini.dds-bdd981d3cab8b6556c71a79a070e07f3.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/8/20 0:14]
+ObjectTemplate.activeSafe Decal decal_s_glass_armored
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.isStatic 0
+ObjectTemplate.randomSize 0.005
+ObjectTemplate.size 0.05
+ObjectTemplate.color 0.8/0.929412/1
+ObjectTemplate.decalTextureName objects\effects\decals\textures\decal_glass_armored_anim
+ObjectTemplate.randomRotation 360
+ObjectTemplate.rotation 0
+ObjectTemplate.randomColorIntensity 0
+ObjectTemplate.animationEnable 1
+ObjectTemplate.animationSpeed 0
+ObjectTemplate.setAnimationFrameWidthRelative 0.5
+ObjectTemplate.setAnimationFrameHeightRelative 0.5
+ObjectTemplate.animationRandomizedStartFrame 1
+ObjectTemplate.animationFrameCount 4
+ObjectTemplate.animationFrameCountX 2
+

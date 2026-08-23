@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_grainelevator_01
+CollisionManager.createTemplate xp2_grainelevator_01
+
+ObjectTemplate.create SimpleObject xp2_grainelevator_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_grainelevator_01
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 bricks 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 glass 0
+ObjectTemplate.mapMaterial 4 stairs_metal 0
+ObjectTemplate.mapMaterial 5 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_grainelevator_01
+
+include xp2_grainelevator_01.tweak

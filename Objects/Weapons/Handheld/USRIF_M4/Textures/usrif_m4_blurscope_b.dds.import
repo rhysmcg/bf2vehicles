@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bbm20phg31m2i"
+path="res://.godot/imported/usrif_m4_blurscope_b.dds-9e81ebca279ea8ed56ee82456d4dc0ad.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRIF_M4/Textures/usrif_m4_blurscope_b.dds"
+dest_files=["res://.godot/imported/usrif_m4_blurscope_b.dds-9e81ebca279ea8ed56ee82456d4dc0ad.res"]
+
+[params]
+
+mipmaps/generate=true

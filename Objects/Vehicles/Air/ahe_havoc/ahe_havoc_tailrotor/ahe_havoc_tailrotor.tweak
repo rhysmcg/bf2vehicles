@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/22 17:49]
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Rotor ahe_havoc_tailrotor
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.modifiedByUser pho
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ahe_havoc_tailrotor
+ObjectTemplate.setCollisionMesh ahe_havoc_tailrotor
+ObjectTemplate.mapMaterial 0 tailrotor_metalthin 31
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.changeLodAt 0.35
+ObjectTemplate.tolerance 6.1035e-006
+ObjectTemplate.rotationSpeedMod 2
+ObjectTemplate.rotationSpeedModBlur 0.085
+ObjectTemplate.rotationAxle 1
+ObjectTemplate.engineName ahe_havoc_TailEngine
+

@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh usrif_fnscarl
+
+ObjectTemplate.create GenericFireArm usrif_fnscarl
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RICK:rickgi
+ObjectTemplate.geometry usrif_fnscarl
+
+include usrif_fnscarl.tweak

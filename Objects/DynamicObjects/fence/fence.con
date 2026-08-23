@@ -1,0 +1,9 @@
+GeometryTemplate.create BundledMesh fence
+
+ObjectTemplate.create DestroyableObject fence
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.geometry fence
+ObjectTemplate.anchor 0/-1.5345/0
+
+include fence.tweak

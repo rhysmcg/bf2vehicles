@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvqrdm5kpxaw1"
+path="res://.godot/imported/housetext_c.dds-532093a970183f34417a0d66062a7fdf.res"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/barrels_stacked/textures/housetext_c.dds"
+dest_files=["res://.godot/imported/housetext_c.dds-532093a970183f34417a0d66062a7fdf.res"]
+
+[params]
+
+mipmaps/generate=true

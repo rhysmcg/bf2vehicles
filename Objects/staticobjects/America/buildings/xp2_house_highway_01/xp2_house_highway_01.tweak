@@ -1,0 +1,29 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/4/10 7:10]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_house_highway_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_house_highway_01
+ObjectTemplate.setCollisionMesh xp2_house_highway_01
+ObjectTemplate.mapMaterial 0 glass 1004
+ObjectTemplate.mapMaterial 1 plastic 11
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 Usa01c_Usa01de 19
+ObjectTemplate.mapMaterial 4 bricks 78
+ObjectTemplate.mapMaterial 5 wood 15
+ObjectTemplate.mapMaterial 6 metal_thin 20
+ObjectTemplate.mapMaterial 7 ladder 34
+ObjectTemplate.mapMaterial 8 ladder 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_house_highway_01_windows
+rem -------------------------------------
+

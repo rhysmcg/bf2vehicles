@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://deb76k0ddavmo"
+path="res://.godot/imported/boat_rib_b.dds-840e21d55bb82676b508481fd451576d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/sea/boat_rib/textures/boat_rib_b.dds"
+dest_files=["res://.godot/imported/boat_rib_b.dds-840e21d55bb82676b508481fd451576d.res"]
+
+[params]
+
+mipmaps/generate=true

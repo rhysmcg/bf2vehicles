@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/12/20 7:43]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject house_high_04_collision
+ObjectTemplate.creator DANIELA:danielab
+ObjectTemplate.modifiedByUser "danielab"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_high_04_collision
+ObjectTemplate.setCollisionMesh house_high_04_collision
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 1 Ninja_Spikes 666
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

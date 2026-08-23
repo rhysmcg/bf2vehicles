@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stonefence_l
+CollisionManager.createTemplate stonefence_l
+
+ObjectTemplate.create SimpleObject stonefence_l
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh stonefence_l
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stonefence_l
+ObjectTemplate.anchor 1.0000/-0.5023/-1.0000
+
+include stonefence_l.tweak

@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh house_small2_v2
+CollisionManager.createTemplate house_small2_v2
+
+ObjectTemplate.create SimpleObject house_small2_v2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_small2_v2
+ObjectTemplate.mapMaterial 0 Stone 0
+ObjectTemplate.mapMaterial 1 Wood 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.mapMaterial 4 wood_Thin 0
+ObjectTemplate.mapMaterial 5 Penetrable_Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_small2_v2
+ObjectTemplate.anchor -1.2950/0.0413/-0.1736
+
+include house_small2_v2.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cgyshatsvfsyn"
+path="res://.godot/imported/aimpoint.dds-57b3f67867885d44b62b919b52efd461.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/aimpoint.dds"
+dest_files=["res://.godot/imported/aimpoint.dds-57b3f67867885d44b62b919b52efd461.res"]
+
+[params]
+
+mipmaps/generate=true

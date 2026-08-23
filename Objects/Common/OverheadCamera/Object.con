@@ -1,0 +1,4 @@
+ObjectTemplate.create OverheadCamera MultiPlayerOverheadCamera
+ObjectTemplate.setNetworkableInfo NoGhostingInfo
+ObjectTemplate.saveInSeparateFile 1
+include MultiPlayerOverheadCamera.tweak

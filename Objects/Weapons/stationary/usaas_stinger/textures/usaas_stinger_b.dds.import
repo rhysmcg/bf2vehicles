@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://csn6vhyhhu854"
+path="res://.godot/imported/usaas_stinger_b.dds-4582710c3144fbb5df3508ad1ff1f637.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/usaas_stinger/textures/usaas_stinger_b.dds"
+dest_files=["res://.godot/imported/usaas_stinger_b.dds-4582710c3144fbb5df3508ad1ff1f637.res"]
+
+[params]
+
+mipmaps/generate=true

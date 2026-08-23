@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh container_cl_red_trash
+CollisionManager.createTemplate container_cl_red_trash
+
+ObjectTemplate.create SimpleObject container_cl_red_trash
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh container_cl_red_trash
+ObjectTemplate.mapMaterial 0 Dirt 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 wood_thin 0
+ObjectTemplate.mapMaterial 3 Metal_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry container_cl_red_trash
+ObjectTemplate.anchor -0.0843/-0.9495/0.6854
+
+include container_cl_red_trash.tweak

@@ -1,0 +1,1719 @@
+[gd_resource type="Resource" script_class="MaterialDatabase" load_steps=289 format=3 uid="uid://bp88udxagratl"]
+
+[ext_resource type="Script" uid="uid://dx2qs4fcydysy" path="res://Common/Material/CustomPhysicsMaterial.gd" id="1_gqqfu"]
+[ext_resource type="Script" uid="uid://cb712l7ns8e4t" path="res://Common/Material/BF2PhysicsMaterialDatabase.gd" id="2_te2x6"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_eabrr"]
+friction = 0.75
+
+[sub_resource type="Resource" id="Resource_r60m5"]
+script = ExtResource("1_gqqfu")
+name = "Default"
+physics_material = SubResource("PhysicsMaterial_eabrr")
+type = 4
+resistance = 0.02
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_mpsnd"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_nsbvn"]
+script = ExtResource("1_gqqfu")
+active = 1
+name = "Water_deep"
+physics_material = SubResource("PhysicsMaterial_mpsnd")
+friction = 1
+resistance = 0.02
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_xh243"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_5x5ev"]
+script = ExtResource("1_gqqfu")
+active = 2
+name = "Sand"
+physics_material = SubResource("PhysicsMaterial_xh243")
+resistance = 0.06
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_buyfw"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_m83h1"]
+script = ExtResource("1_gqqfu")
+active = 3
+name = "Gravel"
+physics_material = SubResource("PhysicsMaterial_buyfw")
+resistance = 0.08
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_4e7yj"]
+friction = 1.2
+
+[sub_resource type="Resource" id="Resource_awkyk"]
+script = ExtResource("1_gqqfu")
+active = 4
+name = "Tarmac"
+physics_material = SubResource("PhysicsMaterial_4e7yj")
+friction = 1
+resistance = 0.04
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_uswuk"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_o405a"]
+script = ExtResource("1_gqqfu")
+active = 5
+name = "Grass"
+physics_material = SubResource("PhysicsMaterial_uswuk")
+resistance = 0.06
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6i25h"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_nl2ud"]
+script = ExtResource("1_gqqfu")
+active = 6
+name = "Grass_tall"
+physics_material = SubResource("PhysicsMaterial_6i25h")
+resistance = 0.1
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kr1k8"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_agmhf"]
+script = ExtResource("1_gqqfu")
+active = 7
+name = "Reserved"
+physics_material = SubResource("PhysicsMaterial_kr1k8")
+resistance = 0.08
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_xgs21"]
+friction = 0.9
+
+[sub_resource type="Resource" id="Resource_vgdb6"]
+script = ExtResource("1_gqqfu")
+active = 8
+name = "Dirt"
+physics_material = SubResource("PhysicsMaterial_xgs21")
+resistance = 0.1
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_40tnk"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_jxjeu"]
+script = ExtResource("1_gqqfu")
+active = 9
+name = "Water_puddle"
+physics_material = SubResource("PhysicsMaterial_40tnk")
+resistance = 0.05
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rhlhk"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_4c0gf"]
+script = ExtResource("1_gqqfu")
+active = 10
+name = "Cloth_carpet"
+physics_material = SubResource("PhysicsMaterial_rhlhk")
+type = 1
+resistance = 0.05
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_wqvwv"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_kor23"]
+script = ExtResource("1_gqqfu")
+active = 11
+name = "Plastic"
+physics_material = SubResource("PhysicsMaterial_wqvwv")
+type = 1
+resistance = 0.04
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_4gv2i"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_u7v1t"]
+script = ExtResource("1_gqqfu")
+active = 12
+name = "rock"
+physics_material = SubResource("PhysicsMaterial_4gv2i")
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_seqxk"]
+
+[sub_resource type="Resource" id="Resource_i57w5"]
+script = ExtResource("1_gqqfu")
+active = 13
+name = "Trash_light_objects"
+physics_material = SubResource("PhysicsMaterial_seqxk")
+friction = 1
+resistance = 0.02
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_00j5k"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_6j5xo"]
+script = ExtResource("1_gqqfu")
+active = 14
+name = "Wood_thin"
+physics_material = SubResource("PhysicsMaterial_00j5k")
+type = 1
+resistance = 0.02
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_36m67"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_c2et5"]
+script = ExtResource("1_gqqfu")
+active = 15
+name = "Wood_solid"
+physics_material = SubResource("PhysicsMaterial_36m67")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_q1omn"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_aad82"]
+script = ExtResource("1_gqqfu")
+active = 16
+name = "Bushes_leaves"
+physics_material = SubResource("PhysicsMaterial_q1omn")
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_df8qt"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_yx0bi"]
+script = ExtResource("1_gqqfu")
+active = 17
+name = "Glass_common"
+physics_material = SubResource("PhysicsMaterial_df8qt")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qt06i"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_l3xdo"]
+script = ExtResource("1_gqqfu")
+active = 18
+name = "Glass_vehicle"
+physics_material = SubResource("PhysicsMaterial_qt06i")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_amj5v"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_bi6qw"]
+script = ExtResource("1_gqqfu")
+active = 19
+name = "Glass_bulletproof"
+physics_material = SubResource("PhysicsMaterial_amj5v")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_gwipb"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_q1xgy"]
+script = ExtResource("1_gqqfu")
+active = 20
+name = "Metal_plate_thin"
+physics_material = SubResource("PhysicsMaterial_gwipb")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_q6dk4"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_bh060"]
+script = ExtResource("1_gqqfu")
+active = 21
+name = "Metal_solid"
+physics_material = SubResource("PhysicsMaterial_q6dk4")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_mjtbk"]
+friction = 0.6
+
+[sub_resource type="Resource" id="Resource_l7rld"]
+script = ExtResource("1_gqqfu")
+active = 22
+name = "Rubber"
+physics_material = SubResource("PhysicsMaterial_mjtbk")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_jrbr6"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_imy6g"]
+script = ExtResource("1_gqqfu")
+active = 23
+name = "Human_bodyarmour"
+physics_material = SubResource("PhysicsMaterial_jrbr6")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_04ytm"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_g2x6g"]
+script = ExtResource("1_gqqfu")
+active = 24
+name = "Human_body"
+physics_material = SubResource("PhysicsMaterial_04ytm")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_3onkh"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_eqvqj"]
+script = ExtResource("1_gqqfu")
+active = 25
+name = "Human_head"
+physics_material = SubResource("PhysicsMaterial_3onkh")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_20125"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_s7d2f"]
+script = ExtResource("1_gqqfu")
+active = 26
+name = "Armor_1_metal_plating"
+physics_material = SubResource("PhysicsMaterial_20125")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_s66av"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_5ybq3"]
+script = ExtResource("1_gqqfu")
+active = 27
+name = "Armor_2_light_armored_vehicles"
+physics_material = SubResource("PhysicsMaterial_s66av")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_s4tid"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_bl0sf"]
+script = ExtResource("1_gqqfu")
+active = 28
+name = "Armor_3_tank_rear_top"
+physics_material = SubResource("PhysicsMaterial_s4tid")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_53xbo"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_8hfh3"]
+script = ExtResource("1_gqqfu")
+active = 29
+name = "Armor_4_tank_sides"
+physics_material = SubResource("PhysicsMaterial_53xbo")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_gnfkt"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_n2evx"]
+script = ExtResource("1_gqqfu")
+active = 30
+name = "Armor_5_tank_front"
+physics_material = SubResource("PhysicsMaterial_gnfkt")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ewd03"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_5qxp5"]
+script = ExtResource("1_gqqfu")
+active = 31
+name = "Armor_6_helicopter"
+physics_material = SubResource("PhysicsMaterial_ewd03")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_d5skq"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_404is"]
+script = ExtResource("1_gqqfu")
+active = 32
+name = "Airplane"
+physics_material = SubResource("PhysicsMaterial_d5skq")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_7fg4t"]
+
+[sub_resource type="Resource" id="Resource_onqus"]
+script = ExtResource("1_gqqfu")
+active = 33
+name = "Chicken_Wire_Thin"
+physics_material = SubResource("PhysicsMaterial_7fg4t")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_yqh1v"]
+friction = 5.0
+
+[sub_resource type="Resource" id="Resource_f2kyl"]
+script = ExtResource("1_gqqfu")
+active = 34
+name = "Stairs_concrete"
+physics_material = SubResource("PhysicsMaterial_yqh1v")
+friction = 5
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5205p"]
+friction = 5.0
+
+[sub_resource type="Resource" id="Resource_jr8h7"]
+script = ExtResource("1_gqqfu")
+active = 35
+name = "Stairs_wood"
+physics_material = SubResource("PhysicsMaterial_5205p")
+friction = 5
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_c87ab"]
+friction = 5.0
+
+[sub_resource type="Resource" id="Resource_xfsic"]
+script = ExtResource("1_gqqfu")
+active = 36
+name = "Stairs_metal"
+physics_material = SubResource("PhysicsMaterial_c87ab")
+friction = 5
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_hy3m4"]
+
+[sub_resource type="Resource" id="Resource_egslq"]
+script = ExtResource("1_gqqfu")
+active = 37
+name = "webMat_lcac"
+physics_material = SubResource("PhysicsMaterial_hy3m4")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6oldf"]
+
+[sub_resource type="Resource" id="Resource_qni4d"]
+script = ExtResource("1_gqqfu")
+active = 38
+name = "Bullet_small_arms"
+physics_material = SubResource("PhysicsMaterial_6oldf")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_66o4w"]
+
+[sub_resource type="Resource" id="Resource_ei4pk"]
+script = ExtResource("1_gqqfu")
+active = 39
+name = "Bullet_50caliber"
+physics_material = SubResource("PhysicsMaterial_66o4w")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_wy4b1"]
+
+[sub_resource type="Resource" id="Resource_5kw4s"]
+script = ExtResource("1_gqqfu")
+active = 40
+name = "Bullet_minigun"
+physics_material = SubResource("PhysicsMaterial_wy4b1")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_0fhos"]
+
+[sub_resource type="Resource" id="Resource_dgmgv"]
+script = ExtResource("1_gqqfu")
+active = 41
+name = "Bullet_shotgun"
+physics_material = SubResource("PhysicsMaterial_0fhos")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_trqf3"]
+
+[sub_resource type="Resource" id="Resource_koi1f"]
+script = ExtResource("1_gqqfu")
+active = 42
+name = "Shell_25mm"
+physics_material = SubResource("PhysicsMaterial_trqf3")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_j6qnj"]
+
+[sub_resource type="Resource" id="Resource_w2v5h"]
+script = ExtResource("1_gqqfu")
+active = 43
+name = "Shell_tank"
+physics_material = SubResource("PhysicsMaterial_j6qnj")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_cnso7"]
+friction = 1.5
+
+[sub_resource type="Resource" id="Resource_exdsf"]
+script = ExtResource("1_gqqfu")
+active = 44
+name = "Shell_artillery"
+physics_material = SubResource("PhysicsMaterial_cnso7")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_xpe5m"]
+
+[sub_resource type="Resource" id="Resource_w5muo"]
+script = ExtResource("1_gqqfu")
+active = 45
+name = "Grenade_rifle"
+physics_material = SubResource("PhysicsMaterial_xpe5m")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_82tlo"]
+friction = 0.25
+
+[sub_resource type="Resource" id="Resource_cn2am"]
+script = ExtResource("1_gqqfu")
+active = 46
+name = "Grenade_hand"
+physics_material = SubResource("PhysicsMaterial_82tlo")
+type = 2
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_t3wca"]
+
+[sub_resource type="Resource" id="Resource_77yno"]
+script = ExtResource("1_gqqfu")
+active = 47
+name = "Flare"
+physics_material = SubResource("PhysicsMaterial_t3wca")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ww4ly"]
+
+[sub_resource type="Resource" id="Resource_qabki"]
+script = ExtResource("1_gqqfu")
+active = 48
+name = "Knife"
+physics_material = SubResource("PhysicsMaterial_ww4ly")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_gveog"]
+
+[sub_resource type="Resource" id="Resource_kcchu"]
+script = ExtResource("1_gqqfu")
+active = 49
+name = "Mine_antitank"
+physics_material = SubResource("PhysicsMaterial_gveog")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5ga77"]
+
+[sub_resource type="Resource" id="Resource_2wrnj"]
+script = ExtResource("1_gqqfu")
+active = 50
+name = "Detonation_claymore"
+physics_material = SubResource("PhysicsMaterial_5ga77")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_bo2u6"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_i6307"]
+script = ExtResource("1_gqqfu")
+active = 51
+name = "Armor_7_stationary_object_metal"
+physics_material = SubResource("PhysicsMaterial_bo2u6")
+type = 4
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_wld6y"]
+
+[sub_resource type="Resource" id="Resource_2lgd8"]
+script = ExtResource("1_gqqfu")
+active = 52
+name = "Missile_antitank"
+physics_material = SubResource("PhysicsMaterial_wld6y")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_xs8k4"]
+
+[sub_resource type="Resource" id="Resource_r136i"]
+script = ExtResource("1_gqqfu")
+active = 53
+name = "Missile_antiair_light"
+physics_material = SubResource("PhysicsMaterial_xs8k4")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qjyho"]
+
+[sub_resource type="Resource" id="Resource_8hob6"]
+script = ExtResource("1_gqqfu")
+active = 54
+name = "webMat_lcac_rear"
+physics_material = SubResource("PhysicsMaterial_qjyho")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_oogwj"]
+
+[sub_resource type="Resource" id="Resource_skdfd"]
+script = ExtResource("1_gqqfu")
+active = 55
+name = "Missile_airtoground_light"
+physics_material = SubResource("PhysicsMaterial_oogwj")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_wls4b"]
+
+[sub_resource type="Resource" id="Resource_vkqbr"]
+script = ExtResource("1_gqqfu")
+active = 56
+name = "Missile_airtoground_heavy"
+physics_material = SubResource("PhysicsMaterial_wls4b")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_lebnq"]
+
+[sub_resource type="Resource" id="Resource_mltud"]
+script = ExtResource("1_gqqfu")
+active = 57
+name = "Shell_20mm_AAA"
+physics_material = SubResource("PhysicsMaterial_lebnq")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_acynj"]
+friction = 0.7
+
+[sub_resource type="Resource" id="Resource_12kmo"]
+script = ExtResource("1_gqqfu")
+active = 58
+name = "Mud_wet"
+physics_material = SubResource("PhysicsMaterial_acynj")
+resistance = 0.1
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_o0x1l"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_mlui5"]
+script = ExtResource("1_gqqfu")
+active = 59
+name = "wood_destructible"
+physics_material = SubResource("PhysicsMaterial_o0x1l")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_bj4b6"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_lbftr"]
+script = ExtResource("1_gqqfu")
+active = 60
+name = "wreck"
+physics_material = SubResource("PhysicsMaterial_bj4b6")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rq3h6"]
+
+[sub_resource type="Resource" id="Resource_qv43l"]
+script = ExtResource("1_gqqfu")
+active = 61
+name = "webMat_Tracked"
+physics_material = SubResource("PhysicsMaterial_rq3h6")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_h63ou"]
+
+[sub_resource type="Resource" id="Resource_rvihm"]
+script = ExtResource("1_gqqfu")
+active = 62
+name = "adeMat_HeliDraft"
+physics_material = SubResource("PhysicsMaterial_h63ou")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_yskwu"]
+
+[sub_resource type="Resource" id="Resource_7khbb"]
+script = ExtResource("1_gqqfu")
+active = 63
+name = "EmptyShell_small_arms"
+physics_material = SubResource("PhysicsMaterial_yskwu")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_b663n"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_jl6un"]
+script = ExtResource("1_gqqfu")
+active = 64
+name = "Cardboard_box"
+physics_material = SubResource("PhysicsMaterial_b663n")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qhg5p"]
+
+[sub_resource type="Resource" id="Resource_sx33y"]
+script = ExtResource("1_gqqfu")
+active = 65
+name = "EmptyShell_50cal"
+physics_material = SubResource("PhysicsMaterial_qhg5p")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_0b005"]
+
+[sub_resource type="Resource" id="Resource_5d2ol"]
+script = ExtResource("1_gqqfu")
+active = 66
+name = "gebMat_groundEffect"
+physics_material = SubResource("PhysicsMaterial_0b005")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_coa5o"]
+
+[sub_resource type="Resource" id="Resource_7323b"]
+script = ExtResource("1_gqqfu")
+active = 67
+name = "webMat_wheelBig"
+physics_material = SubResource("PhysicsMaterial_coa5o")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_e01ml"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_ljugg"]
+script = ExtResource("1_gqqfu")
+active = 68
+name = "Soldier_weapon"
+physics_material = SubResource("PhysicsMaterial_e01ml")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_s5bdf"]
+
+[sub_resource type="Resource" id="Resource_yf5df"]
+script = ExtResource("1_gqqfu")
+active = 69
+name = "Detonation_grenade"
+physics_material = SubResource("PhysicsMaterial_s5bdf")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_jkmem"]
+
+[sub_resource type="Resource" id="Resource_glder"]
+script = ExtResource("1_gqqfu")
+active = 70
+name = "Explosion_blastwave"
+physics_material = SubResource("PhysicsMaterial_jkmem")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_d3om4"]
+
+[sub_resource type="Resource" id="Resource_qe6u3"]
+script = ExtResource("1_gqqfu")
+active = 71
+name = "Blast_sensitivity_softobject"
+physics_material = SubResource("PhysicsMaterial_d3om4")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_082j4"]
+
+[sub_resource type="Resource" id="Resource_saqcj"]
+script = ExtResource("1_gqqfu")
+active = 72
+name = "Blast_sensitivity_hardobject"
+physics_material = SubResource("PhysicsMaterial_082j4")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_8lnni"]
+
+[sub_resource type="Resource" id="Resource_fbqe5"]
+script = ExtResource("1_gqqfu")
+active = 73
+name = "Soldier_healing"
+physics_material = SubResource("PhysicsMaterial_8lnni")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6qsi6"]
+
+[sub_resource type="Resource" id="Resource_o2a0g"]
+script = ExtResource("1_gqqfu")
+active = 74
+name = "Medikit"
+physics_material = SubResource("PhysicsMaterial_6qsi6")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_mrqcu"]
+
+[sub_resource type="Resource" id="Resource_uneuk"]
+script = ExtResource("1_gqqfu")
+active = 75
+name = "Ammokit"
+physics_material = SubResource("PhysicsMaterial_mrqcu")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ij5ym"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_7hfo2"]
+script = ExtResource("1_gqqfu")
+active = 76
+name = "Sandbags"
+physics_material = SubResource("PhysicsMaterial_ij5ym")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_muf5r"]
+friction = 0.6
+
+[sub_resource type="Resource" id="Resource_fmnce"]
+script = ExtResource("1_gqqfu")
+active = 77
+name = "Human_limbs"
+physics_material = SubResource("PhysicsMaterial_muf5r")
+type = 4
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6744k"]
+friction = 0.7
+
+[sub_resource type="Resource" id="Resource_vx2ok"]
+script = ExtResource("1_gqqfu")
+active = 78
+name = "concrete"
+physics_material = SubResource("PhysicsMaterial_6744k")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_4sjym"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_ecj2b"]
+script = ExtResource("1_gqqfu")
+active = 79
+name = "Soldier_weapon_light"
+physics_material = SubResource("PhysicsMaterial_4sjym")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_cmdxn"]
+
+[sub_resource type="Resource" id="Resource_scv7j"]
+script = ExtResource("1_gqqfu")
+active = 80
+name = "Detonation_C4"
+physics_material = SubResource("PhysicsMaterial_cmdxn")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_0inrx"]
+
+[sub_resource type="Resource" id="Resource_f0xsm"]
+script = ExtResource("1_gqqfu")
+active = 81
+name = "C4_pack"
+physics_material = SubResource("PhysicsMaterial_0inrx")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_cqx34"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_vbx3u"]
+script = ExtResource("1_gqqfu")
+active = 82
+name = "Ceramic_tiles"
+physics_material = SubResource("PhysicsMaterial_cqx34")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_nd1bt"]
+
+[sub_resource type="Resource" id="Resource_6lruy"]
+script = ExtResource("1_gqqfu")
+active = 83
+name = "obj_impact_large"
+physics_material = SubResource("PhysicsMaterial_nd1bt")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_3phht"]
+
+[sub_resource type="Resource" id="Resource_kwxvv"]
+script = ExtResource("1_gqqfu")
+active = 84
+name = "Engineer_repair"
+physics_material = SubResource("PhysicsMaterial_3phht")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_nad65"]
+
+[sub_resource type="Resource" id="Resource_4ua6m"]
+script = ExtResource("1_gqqfu")
+active = 85
+name = "Mud_Grass_tall"
+physics_material = SubResource("PhysicsMaterial_nad65")
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5panb"]
+friction = 0.9
+
+[sub_resource type="Resource" id="Resource_fvgks"]
+script = ExtResource("1_gqqfu")
+active = 86
+name = "Tank_tracks"
+physics_material = SubResource("PhysicsMaterial_5panb")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_bh3wk"]
+
+[sub_resource type="Resource" id="Resource_6gjri"]
+script = ExtResource("1_gqqfu")
+active = 87
+name = "Shell_20mm"
+physics_material = SubResource("PhysicsMaterial_bh3wk")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_g13q4"]
+
+[sub_resource type="Resource" id="Resource_uuduj"]
+script = ExtResource("1_gqqfu")
+active = 88
+name = "Shell_25mm_AAA"
+physics_material = SubResource("PhysicsMaterial_g13q4")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_gtuxq"]
+
+[sub_resource type="Resource" id="Resource_mmiov"]
+script = ExtResource("1_gqqfu")
+active = 89
+name = "Soldier_resurrection"
+physics_material = SubResource("PhysicsMaterial_gtuxq")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_4s6rn"]
+
+[sub_resource type="Resource" id="Resource_hfgb5"]
+script = ExtResource("1_gqqfu")
+active = 90
+name = "Mine_object"
+physics_material = SubResource("PhysicsMaterial_4s6rn")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ymual"]
+
+[sub_resource type="Resource" id="Resource_u1hey"]
+script = ExtResource("1_gqqfu")
+active = 91
+name = "Ammo_replenish"
+physics_material = SubResource("PhysicsMaterial_ymual")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_oyx52"]
+
+[sub_resource type="Resource" id="Resource_1fl0d"]
+script = ExtResource("1_gqqfu")
+active = 92
+name = "Vehicle_explosion_blastwave"
+physics_material = SubResource("PhysicsMaterial_oyx52")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_tpd4g"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_s8rus"]
+script = ExtResource("1_gqqfu")
+active = 93
+name = "Tree_trunk"
+physics_material = SubResource("PhysicsMaterial_tpd4g")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_jb6ey"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_warwt"]
+script = ExtResource("1_gqqfu")
+active = 94
+name = "Water_deep_muddy"
+physics_material = SubResource("PhysicsMaterial_jb6ey")
+friction = 1
+resistance = 0.02
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_t5jg2"]
+friction = 0.7
+
+[sub_resource type="Resource" id="Resource_hrvxk"]
+script = ExtResource("1_gqqfu")
+active = 95
+name = "Dry_leaves_on_ground"
+physics_material = SubResource("PhysicsMaterial_t5jg2")
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rl5du"]
+
+[sub_resource type="Resource" id="Resource_67mvs"]
+script = ExtResource("1_gqqfu")
+active = 96
+name = "Barbed_Wire"
+physics_material = SubResource("PhysicsMaterial_rl5du")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_tc7lt"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_gjpgc"]
+script = ExtResource("1_gqqfu")
+active = 97
+name = "Destroyable_obj_small"
+physics_material = SubResource("PhysicsMaterial_tc7lt")
+type = 4
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_455o1"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_eraia"]
+script = ExtResource("1_gqqfu")
+active = 98
+name = "Destroyable_obj_large"
+physics_material = SubResource("PhysicsMaterial_455o1")
+type = 4
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_nvwjf"]
+
+[sub_resource type="Resource" id="Resource_y8an0"]
+script = ExtResource("1_gqqfu")
+active = 99
+name = "Vehicle_exp_large"
+physics_material = SubResource("PhysicsMaterial_nvwjf")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kn7x8"]
+
+[sub_resource type="Resource" id="Resource_qy7bx"]
+script = ExtResource("1_gqqfu")
+active = 100
+name = "Vehicle_exp_medium"
+physics_material = SubResource("PhysicsMaterial_kn7x8")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_72gol"]
+
+[sub_resource type="Resource" id="Resource_gt3tm"]
+script = ExtResource("1_gqqfu")
+active = 101
+name = "Vehicle_exp_small"
+physics_material = SubResource("PhysicsMaterial_72gol")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_7qpcb"]
+friction = 0.6
+
+[sub_resource type="Resource" id="Resource_rlrec"]
+script = ExtResource("1_gqqfu")
+active = 102
+name = "Rubber_heavy"
+physics_material = SubResource("PhysicsMaterial_7qpcb")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_r8dun"]
+
+[sub_resource type="Resource" id="Resource_nowfc"]
+script = ExtResource("1_gqqfu")
+active = 103
+name = "adeMat_jetDraft"
+physics_material = SubResource("PhysicsMaterial_r8dun")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ywyuq"]
+
+[sub_resource type="Resource" id="Resource_kf725"]
+script = ExtResource("1_gqqfu")
+active = 104
+name = "EmptyShell_shotgun"
+physics_material = SubResource("PhysicsMaterial_ywyuq")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rfyyx"]
+
+[sub_resource type="Resource" id="Resource_rgct0"]
+script = ExtResource("1_gqqfu")
+active = 105
+name = "Helicopter_rotorblades"
+physics_material = SubResource("PhysicsMaterial_rfyyx")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_m84pc"]
+
+[sub_resource type="Resource" id="Resource_tlyhd"]
+script = ExtResource("1_gqqfu")
+active = 106
+name = "Helicopter_landing_rails"
+physics_material = SubResource("PhysicsMaterial_m84pc")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kfbqq"]
+
+[sub_resource type="Resource" id="Resource_squkq"]
+script = ExtResource("1_gqqfu")
+active = 107
+name = "webMat_TrackedSmoke"
+physics_material = SubResource("PhysicsMaterial_kfbqq")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_7b8by"]
+
+[sub_resource type="Resource" id="Resource_qdca5"]
+script = ExtResource("1_gqqfu")
+active = 108
+name = "webMat_wheelBigSmoke"
+physics_material = SubResource("PhysicsMaterial_7b8by")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_lrxch"]
+
+[sub_resource type="Resource" id="Resource_6afnp"]
+script = ExtResource("1_gqqfu")
+active = 109
+name = "Explosion_AA_blastwave"
+physics_material = SubResource("PhysicsMaterial_lrxch")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_3ph33"]
+
+[sub_resource type="Resource" id="Resource_24rmy"]
+script = ExtResource("1_gqqfu")
+active = 110
+name = "Blast_sensitivity_light_vehicle"
+physics_material = SubResource("PhysicsMaterial_3ph33")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qeuu1"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_33owj"]
+script = ExtResource("1_gqqfu")
+active = 111
+name = "Armor_0_thin_metal"
+physics_material = SubResource("PhysicsMaterial_qeuu1")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_cc65q"]
+
+[sub_resource type="Resource" id="Resource_gfv1g"]
+script = ExtResource("1_gqqfu")
+active = 112
+name = "Destroyable_object_huge"
+physics_material = SubResource("PhysicsMaterial_cc65q")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_880eu"]
+
+[sub_resource type="Resource" id="Resource_cd2nc"]
+script = ExtResource("1_gqqfu")
+active = 113
+name = "Shell_30mm"
+physics_material = SubResource("PhysicsMaterial_880eu")
+type = 2
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_j7h0w"]
+
+[sub_resource type="Resource" id="Resource_0nsxl"]
+script = ExtResource("1_gqqfu")
+active = 666
+name = "Death_material"
+physics_material = SubResource("PhysicsMaterial_j7h0w")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ojtiq"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_ic08u"]
+script = ExtResource("1_gqqfu")
+active = 667
+name = "XpackInvisible_material"
+physics_material = SubResource("PhysicsMaterial_ojtiq")
+type = 4
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_adycy"]
+friction = 0.2
+
+[sub_resource type="Resource" id="Resource_0lbep"]
+script = ExtResource("1_gqqfu")
+active = 1000
+name = "Pentrable_Metal_thin"
+physics_material = SubResource("PhysicsMaterial_adycy")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_3l8ju"]
+friction = 0.6
+
+[sub_resource type="Resource" id="Resource_nrm2c"]
+script = ExtResource("1_gqqfu")
+active = 1001
+name = "Penetrable_plaster_wall"
+physics_material = SubResource("PhysicsMaterial_3l8ju")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_7jobj"]
+friction = 0.8
+
+[sub_resource type="Resource" id="Resource_j22yp"]
+script = ExtResource("1_gqqfu")
+active = 1002
+name = "Penetrable_Cloth"
+physics_material = SubResource("PhysicsMaterial_7jobj")
+type = 3
+resistance = 0.05
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_udbyb"]
+
+[sub_resource type="Resource" id="Resource_cbgoj"]
+script = ExtResource("1_gqqfu")
+active = 1003
+name = "Penetrable_Wood"
+physics_material = SubResource("PhysicsMaterial_udbyb")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_crefq"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_ggdcn"]
+script = ExtResource("1_gqqfu")
+active = 1004
+name = "Penetrable_Glass_common"
+physics_material = SubResource("PhysicsMaterial_crefq")
+type = 1
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5oa4e"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_pm6el"]
+script = ExtResource("1_gqqfu")
+active = 1005
+name = "Penetrable_Glass_vehicle"
+physics_material = SubResource("PhysicsMaterial_5oa4e")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_uq4wr"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_olj2l"]
+script = ExtResource("1_gqqfu")
+active = 1006
+name = "Penetrable_Glass_bulletproof"
+physics_material = SubResource("PhysicsMaterial_uq4wr")
+type = 3
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_f2kaq"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_qrmnc"]
+script = ExtResource("1_gqqfu")
+active = 1007
+name = "Penetrable_Bushes_leaves"
+physics_material = SubResource("PhysicsMaterial_f2kaq")
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rta0k"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_pint7"]
+script = ExtResource("1_gqqfu")
+active = 1008
+name = "Penetrable_Grass"
+physics_material = SubResource("PhysicsMaterial_rta0k")
+resistance = 0.06
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_2pcpg"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_f4fx2"]
+script = ExtResource("1_gqqfu")
+active = 1009
+name = "Penetrable_Grass_tall"
+physics_material = SubResource("PhysicsMaterial_2pcpg")
+resistance = 0.1
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_8op4t"]
+friction = 1.1
+
+[sub_resource type="Resource" id="Resource_omufx"]
+script = ExtResource("1_gqqfu")
+active = 1010
+name = "Penetrable_Helmet"
+physics_material = SubResource("PhysicsMaterial_8op4t")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rt36k"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_aeu68"]
+script = ExtResource("1_gqqfu")
+active = 1011
+name = "Penetrable_Cardboardbox"
+physics_material = SubResource("PhysicsMaterial_rt36k")
+type = 1
+resistance = 0.06
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kw861"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_3cygo"]
+script = ExtResource("1_gqqfu")
+active = 1012
+name = "Concrete_slippery"
+physics_material = SubResource("PhysicsMaterial_kw861")
+type = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_vaos8"]
+friction = 0.2
+
+[sub_resource type="Resource" id="Resource_bw4l7"]
+script = ExtResource("1_gqqfu")
+active = 1013
+name = "Pentrable_Metal_plating"
+physics_material = SubResource("PhysicsMaterial_vaos8")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_uv2mh"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_jnl0f"]
+script = ExtResource("1_gqqfu")
+active = 1014
+name = "Armor_Pentrable_Metal_plating"
+physics_material = SubResource("PhysicsMaterial_uv2mh")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_slvrf"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_6of3x"]
+script = ExtResource("1_gqqfu")
+active = 1015
+name = "Armor_Penetrable_Cardboardbox"
+physics_material = SubResource("PhysicsMaterial_slvrf")
+type = 3
+resistance = 0.06
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6vhrr"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_8nqjc"]
+script = ExtResource("1_gqqfu")
+active = 1016
+name = "Armor_Penetrable_Cloth"
+physics_material = SubResource("PhysicsMaterial_6vhrr")
+type = 3
+resistance = 0.05
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_hy21d"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_n4oqe"]
+script = ExtResource("1_gqqfu")
+active = 1017
+name = "Armor_Penetrable_Wood"
+physics_material = SubResource("PhysicsMaterial_hy21d")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_41l0m"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_m1k6v"]
+script = ExtResource("1_gqqfu")
+active = 1018
+name = "Armor_Penetrable_Glass_vehicle"
+physics_material = SubResource("PhysicsMaterial_41l0m")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_oyduy"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_ck7pe"]
+script = ExtResource("1_gqqfu")
+active = 1019
+name = "Armor_Pentrable_Metal_thin"
+physics_material = SubResource("PhysicsMaterial_oyduy")
+type = 3
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_3y8da"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_jerkm"]
+script = ExtResource("1_gqqfu")
+active = 2000
+name = "Air"
+physics_material = SubResource("PhysicsMaterial_3y8da")
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_up1o5"]
+
+[sub_resource type="Resource" id="Resource_12p02"]
+script = ExtResource("1_gqqfu")
+active = 5500
+name = "Soldier_FootSteps"
+physics_material = SubResource("PhysicsMaterial_up1o5")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_k5o38"]
+
+[sub_resource type="Resource" id="Resource_qx1hl"]
+script = ExtResource("1_gqqfu")
+active = 5501
+name = "Bullet_Flyby"
+physics_material = SubResource("PhysicsMaterial_k5o38")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kk6jl"]
+
+[sub_resource type="Resource" id="Resource_dh0fh"]
+script = ExtResource("1_gqqfu")
+active = 6600
+name = "ladder_front"
+physics_material = SubResource("PhysicsMaterial_kk6jl")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_yk6vy"]
+
+[sub_resource type="Resource" id="Resource_chfc3"]
+script = ExtResource("1_gqqfu")
+active = 6601
+name = "ladder_backside"
+physics_material = SubResource("PhysicsMaterial_yk6vy")
+type = 4
+friction = 1
+resistance = 0.01
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_c8b31"]
+friction = 0.1
+
+[sub_resource type="Resource" id="Resource_otju4"]
+script = ExtResource("1_gqqfu")
+active = 7000
+name = "Hard_Collision_vs_Water"
+physics_material = SubResource("PhysicsMaterial_c8b31")
+type = 4
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_tuwg5"]
+friction = 0.0
+
+[sub_resource type="Resource" id="Resource_veprf"]
+script = ExtResource("1_gqqfu")
+active = 7001
+name = "Slippery_For_Soldier"
+physics_material = SubResource("PhysicsMaterial_tuwg5")
+type = 4
+
+[resource]
+script = ExtResource("2_te2x6")
+materials_by_id = {
+0: SubResource("Resource_r60m5"),
+1: SubResource("Resource_nsbvn"),
+2: SubResource("Resource_5x5ev"),
+3: SubResource("Resource_m83h1"),
+4: SubResource("Resource_awkyk"),
+5: SubResource("Resource_o405a"),
+6: SubResource("Resource_nl2ud"),
+7: SubResource("Resource_agmhf"),
+8: SubResource("Resource_vgdb6"),
+9: SubResource("Resource_jxjeu"),
+10: SubResource("Resource_4c0gf"),
+11: SubResource("Resource_kor23"),
+12: SubResource("Resource_u7v1t"),
+13: SubResource("Resource_i57w5"),
+14: SubResource("Resource_6j5xo"),
+15: SubResource("Resource_c2et5"),
+16: SubResource("Resource_aad82"),
+17: SubResource("Resource_yx0bi"),
+18: SubResource("Resource_l3xdo"),
+19: SubResource("Resource_bi6qw"),
+20: SubResource("Resource_q1xgy"),
+21: SubResource("Resource_bh060"),
+22: SubResource("Resource_l7rld"),
+23: SubResource("Resource_imy6g"),
+24: SubResource("Resource_g2x6g"),
+25: SubResource("Resource_eqvqj"),
+26: SubResource("Resource_s7d2f"),
+27: SubResource("Resource_5ybq3"),
+28: SubResource("Resource_bl0sf"),
+29: SubResource("Resource_8hfh3"),
+30: SubResource("Resource_n2evx"),
+31: SubResource("Resource_5qxp5"),
+32: SubResource("Resource_404is"),
+33: SubResource("Resource_onqus"),
+34: SubResource("Resource_f2kyl"),
+35: SubResource("Resource_jr8h7"),
+36: SubResource("Resource_xfsic"),
+37: SubResource("Resource_egslq"),
+38: SubResource("Resource_qni4d"),
+39: SubResource("Resource_ei4pk"),
+40: SubResource("Resource_5kw4s"),
+41: SubResource("Resource_dgmgv"),
+42: SubResource("Resource_koi1f"),
+43: SubResource("Resource_w2v5h"),
+44: SubResource("Resource_exdsf"),
+45: SubResource("Resource_w5muo"),
+46: SubResource("Resource_cn2am"),
+47: SubResource("Resource_77yno"),
+48: SubResource("Resource_qabki"),
+49: SubResource("Resource_kcchu"),
+50: SubResource("Resource_2wrnj"),
+51: SubResource("Resource_i6307"),
+52: SubResource("Resource_2lgd8"),
+53: SubResource("Resource_r136i"),
+54: SubResource("Resource_8hob6"),
+55: SubResource("Resource_skdfd"),
+56: SubResource("Resource_vkqbr"),
+57: SubResource("Resource_mltud"),
+58: SubResource("Resource_12kmo"),
+59: SubResource("Resource_mlui5"),
+60: SubResource("Resource_lbftr"),
+61: SubResource("Resource_qv43l"),
+62: SubResource("Resource_rvihm"),
+63: SubResource("Resource_7khbb"),
+64: SubResource("Resource_jl6un"),
+65: SubResource("Resource_sx33y"),
+66: SubResource("Resource_5d2ol"),
+67: SubResource("Resource_7323b"),
+68: SubResource("Resource_ljugg"),
+69: SubResource("Resource_yf5df"),
+70: SubResource("Resource_glder"),
+71: SubResource("Resource_qe6u3"),
+72: SubResource("Resource_saqcj"),
+73: SubResource("Resource_fbqe5"),
+74: SubResource("Resource_o2a0g"),
+75: SubResource("Resource_uneuk"),
+76: SubResource("Resource_7hfo2"),
+77: SubResource("Resource_fmnce"),
+78: SubResource("Resource_vx2ok"),
+79: SubResource("Resource_ecj2b"),
+80: SubResource("Resource_scv7j"),
+81: SubResource("Resource_f0xsm"),
+82: SubResource("Resource_vbx3u"),
+83: SubResource("Resource_6lruy"),
+84: SubResource("Resource_kwxvv"),
+85: SubResource("Resource_4ua6m"),
+86: SubResource("Resource_fvgks"),
+87: SubResource("Resource_6gjri"),
+88: SubResource("Resource_uuduj"),
+89: SubResource("Resource_mmiov"),
+90: SubResource("Resource_hfgb5"),
+91: SubResource("Resource_u1hey"),
+92: SubResource("Resource_1fl0d"),
+93: SubResource("Resource_s8rus"),
+94: SubResource("Resource_warwt"),
+95: SubResource("Resource_hrvxk"),
+96: SubResource("Resource_67mvs"),
+97: SubResource("Resource_gjpgc"),
+98: SubResource("Resource_eraia"),
+99: SubResource("Resource_y8an0"),
+100: SubResource("Resource_qy7bx"),
+101: SubResource("Resource_gt3tm"),
+102: SubResource("Resource_rlrec"),
+103: SubResource("Resource_nowfc"),
+104: SubResource("Resource_kf725"),
+105: SubResource("Resource_rgct0"),
+106: SubResource("Resource_tlyhd"),
+107: SubResource("Resource_squkq"),
+108: SubResource("Resource_qdca5"),
+109: SubResource("Resource_6afnp"),
+110: SubResource("Resource_24rmy"),
+111: SubResource("Resource_33owj"),
+112: SubResource("Resource_gfv1g"),
+113: SubResource("Resource_cd2nc"),
+666: SubResource("Resource_0nsxl"),
+667: SubResource("Resource_ic08u"),
+1000: SubResource("Resource_0lbep"),
+1001: SubResource("Resource_nrm2c"),
+1002: SubResource("Resource_j22yp"),
+1003: SubResource("Resource_cbgoj"),
+1004: SubResource("Resource_ggdcn"),
+1005: SubResource("Resource_pm6el"),
+1006: SubResource("Resource_olj2l"),
+1007: SubResource("Resource_qrmnc"),
+1008: SubResource("Resource_pint7"),
+1009: SubResource("Resource_f4fx2"),
+1010: SubResource("Resource_omufx"),
+1011: SubResource("Resource_aeu68"),
+1012: SubResource("Resource_3cygo"),
+1013: SubResource("Resource_bw4l7"),
+1014: SubResource("Resource_jnl0f"),
+1015: SubResource("Resource_6of3x"),
+1016: SubResource("Resource_8nqjc"),
+1017: SubResource("Resource_n4oqe"),
+1018: SubResource("Resource_m1k6v"),
+1019: SubResource("Resource_ck7pe"),
+2000: SubResource("Resource_jerkm"),
+5500: SubResource("Resource_12p02"),
+5501: SubResource("Resource_qx1hl"),
+6600: SubResource("Resource_dh0fh"),
+6601: SubResource("Resource_chfc3"),
+7000: SubResource("Resource_otju4"),
+7001: SubResource("Resource_veprf")
+}

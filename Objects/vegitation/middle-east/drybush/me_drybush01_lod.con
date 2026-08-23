@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_drybush01_lod
+
+ObjectTemplate.create SimpleObject me_drybush01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_drybush01_lod
+
+include me_drybush01_lod.tweak

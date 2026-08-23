@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh WoodBoard2m
+
+ObjectTemplate.create SimpleObject WoodBoard2m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh WoodBoard2m
+ObjectTemplate.mapMaterial 0 lambert14 0
+ObjectTemplate.mapMaterial 1 lambert13 0
+ObjectTemplate.mapMaterial 2 lambert17 2
+ObjectTemplate.mapMaterial 3 lambert16 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.geometry WoodBoard2m
+
+include WoodBoard2m.tweak

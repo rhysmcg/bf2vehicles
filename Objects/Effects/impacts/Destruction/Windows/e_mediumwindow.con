@@ -1,0 +1,151 @@
+GeometryTemplate.create BundledMesh e_mediumwindow
+
+ObjectTemplate.create EffectBundle e_mediumwindow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_mediumwindow_shard_01
+ObjectTemplate.setPosition 0.5667/-0.2660/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_02
+ObjectTemplate.setPosition -0.4800/0.4780/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_03
+ObjectTemplate.setPosition 0.1338/-0.5421/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_04
+ObjectTemplate.setPosition 0.5585/0.2378/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_05
+ObjectTemplate.setPosition 0.3751/-0.3969/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_06
+ObjectTemplate.setPosition 0.2831/0.0742/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_07
+ObjectTemplate.setPosition 0.0045/-0.2711/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_08
+ObjectTemplate.setPosition 0.3319/-0.1339/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_09
+ObjectTemplate.setPosition -0.1050/0.0380/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_10
+ObjectTemplate.setPosition -0.4659/-0.5357/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_11
+ObjectTemplate.setPosition -0.2887/-0.3092/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_12
+ObjectTemplate.setPosition 0.2690/0.3287/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_13
+ObjectTemplate.setPosition -0.2684/0.1062/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_14
+ObjectTemplate.setPosition -0.1719/0.4027/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_15
+ObjectTemplate.setPosition 0.3209/0.6154/0
+ObjectTemplate.addTemplate em_mediumwindow_shard_16
+ObjectTemplate.setPosition -0.4912/-0.0348/0
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_01
+ObjectTemplate.template p_mediumwindow_shard_01
+
+ObjectTemplate.create Particle p_mediumwindow_shard_01
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_02
+ObjectTemplate.template p_mediumwindow_shard_02
+
+ObjectTemplate.create Particle p_mediumwindow_shard_02
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_03
+ObjectTemplate.template p_mediumwindow_shard_03
+
+ObjectTemplate.create Particle p_mediumwindow_shard_03
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_04
+ObjectTemplate.template p_mediumwindow_shard_04
+
+ObjectTemplate.create Particle p_mediumwindow_shard_04
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_05
+ObjectTemplate.template p_mediumwindow_shard_05
+
+ObjectTemplate.create Particle p_mediumwindow_shard_05
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_06
+ObjectTemplate.template p_mediumwindow_shard_06
+
+ObjectTemplate.create Particle p_mediumwindow_shard_06
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_07
+ObjectTemplate.template p_mediumwindow_shard_07
+
+ObjectTemplate.create Particle p_mediumwindow_shard_07
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_08
+ObjectTemplate.template p_mediumwindow_shard_08
+
+ObjectTemplate.create Particle p_mediumwindow_shard_08
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_09
+ObjectTemplate.template p_mediumwindow_shard_09
+
+ObjectTemplate.create Particle p_mediumwindow_shard_09
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_10
+ObjectTemplate.template p_mediumwindow_shard_10
+
+ObjectTemplate.create Particle p_mediumwindow_shard_10
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_11
+ObjectTemplate.template p_mediumwindow_shard_11
+
+ObjectTemplate.create Particle p_mediumwindow_shard_11
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_12
+ObjectTemplate.template p_mediumwindow_shard_12
+
+ObjectTemplate.create Particle p_mediumwindow_shard_12
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_13
+ObjectTemplate.template p_mediumwindow_shard_13
+
+ObjectTemplate.create Particle p_mediumwindow_shard_13
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_14
+ObjectTemplate.template p_mediumwindow_shard_14
+
+ObjectTemplate.create Particle p_mediumwindow_shard_14
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_15
+ObjectTemplate.template p_mediumwindow_shard_15
+
+ObjectTemplate.create Particle p_mediumwindow_shard_15
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Emitter em_mediumwindow_shard_16
+ObjectTemplate.template p_mediumwindow_shard_16
+
+ObjectTemplate.create Particle p_mediumwindow_shard_16
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.geometryPart 15
+
+include e_mediumwindow.tweak

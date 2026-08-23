@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh flag_ch
+
+ObjectTemplate.create AnimatedBundle flag_ch
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.geometry flag_ch
+
+include flag_ch.tweak

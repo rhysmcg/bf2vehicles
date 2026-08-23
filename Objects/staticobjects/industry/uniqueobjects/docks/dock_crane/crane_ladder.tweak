@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/10 9:53]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Ladder crane_ladder
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry crane_ladder
+ObjectTemplate.setCollisionMesh crane_ladder
+ObjectTemplate.mapMaterial 0 metal_solid 6600
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

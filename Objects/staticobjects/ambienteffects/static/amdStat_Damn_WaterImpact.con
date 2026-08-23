@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle amdStat_Damn_WaterImpact
+ObjectTemplate.createdInEditor 1
+
+include amdStat_Damn_WaterImpact.tweak

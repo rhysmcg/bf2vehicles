@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh trashcan_small
+CollisionManager.createTemplate trashcan_small
+
+ObjectTemplate.create SimpleObject trashcan_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh trashcan_small
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry trashcan_small
+ObjectTemplate.anchor 0/-0.3611/0.1273
+
+include trashcan_small.tweak

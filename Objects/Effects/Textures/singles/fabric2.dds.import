@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://chpdarj7hfwyk"
+path="res://.godot/imported/fabric2.dds-306b83d20bd77edf452d7259e4ef2c66.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/fabric2.dds"
+dest_files=["res://.godot/imported/fabric2.dds-306b83d20bd77edf452d7259e4ef2c66.res"]
+
+[params]
+
+mipmaps/generate=true

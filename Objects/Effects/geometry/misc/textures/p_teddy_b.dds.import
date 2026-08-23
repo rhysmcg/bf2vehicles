@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://xr5l3v455djf"
+path="res://.godot/imported/p_teddy_b.dds-d9ffa87df08a7b680064aa94f6fe1f12.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/textures/p_teddy_b.dds"
+dest_files=["res://.godot/imported/p_teddy_b.dds-d9ffa87df08a7b680064aa94f6fe1f12.res"]
+
+[params]
+
+mipmaps/generate=true

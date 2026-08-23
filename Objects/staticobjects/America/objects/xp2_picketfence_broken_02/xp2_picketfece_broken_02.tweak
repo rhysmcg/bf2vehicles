@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_picketfece_broken_02
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_picketfece_broken_02
+ObjectTemplate.setCollisionMesh xp2_picketfece_broken_02
+ObjectTemplate.mapMaterial 0 Wood 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

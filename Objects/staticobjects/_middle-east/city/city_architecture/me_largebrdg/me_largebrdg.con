@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh me_largebrdg
+
+ObjectTemplate.create Bundle me_largebrdg
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh ME_largebrdg
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_largebrdg
+ObjectTemplate.anchor -20.0059/4.5547/-21.0000
+
+include me_largebrdg.tweak

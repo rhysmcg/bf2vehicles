@@ -1,0 +1,37 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/11 17:11]
+GeometryTemplate.setSubGeometryLodDistance 0 0 100
+GeometryTemplate.setSubGeometryLodDistance 0 1 190
+GeometryTemplate.setSubGeometryLodDistance 0 2 240
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle constructhouse_01
+ObjectTemplate.creator KHE-1:khe
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry constructhouse_01
+ObjectTemplate.setCollisionMesh ConstructHouse_01
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.mapMaterial 2 wood 15
+ObjectTemplate.mapMaterial 3 glass 17
+ObjectTemplate.mapMaterial 4 penetrable_wood 1003
+ObjectTemplate.mapMaterial 5 plastic 11
+ObjectTemplate.mapMaterial 6 stairs_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_construct
+ObjectTemplate.setPosition -5.50365/-4.10357/11.2089
+ObjectTemplate.setRotation 95/0/0
+ObjectTemplate.addTemplate ladder_construct
+ObjectTemplate.setPosition 7.39398/-4.08383/8.80059
+ObjectTemplate.setRotation -180/0/0
+ObjectTemplate.addTemplate ladder_3m
+ObjectTemplate.setPosition 6.74005/-0.178384/0.310567
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

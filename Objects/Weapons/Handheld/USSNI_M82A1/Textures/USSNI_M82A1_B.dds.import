@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dw2fvlfoml87u"
+path="res://.godot/imported/USSNI_M82A1_B.dds-6971847b3c38d1f6cb7a21ce594b73d1.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M82A1/Textures/USSNI_M82A1_B.dds"
+dest_files=["res://.godot/imported/USSNI_M82A1_B.dds-6971847b3c38d1f6cb7a21ce594b73d1.res"]
+
+[params]
+
+mipmaps/generate=true

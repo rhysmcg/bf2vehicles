@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_deserttree_04
+CollisionManager.createTemplate xp2_deserttree_04
+
+ObjectTemplate.create SimpleObject xp2_deserttree_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.collisionMesh xp2_deserttree_04
+ObjectTemplate.mapMaterial 0 leafCol 0
+ObjectTemplate.mapMaterial 1 trunkCol 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_deserttree_04
+
+include xp2_deserttree_04.tweak

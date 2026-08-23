@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://f0f01qdjw3nv"
+path="res://.godot/imported/decal_bag_anim.dds-e1b53a5cf5e9b987048ad23ae0deef9b.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_bag_anim.dds"
+dest_files=["res://.godot/imported/decal_bag_anim.dds-e1b53a5cf5e9b987048ad23ae0deef9b.res"]
+
+[params]
+
+mipmaps/generate=true

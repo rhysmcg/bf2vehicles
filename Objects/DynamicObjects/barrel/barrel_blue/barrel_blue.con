@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh barrel_blue
+CollisionManager.createTemplate barrel_blue
+
+ObjectTemplate.create SimpleObject barrel_blue
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh barrel_blue
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barrel_blue
+
+include barrel_blue.tweak

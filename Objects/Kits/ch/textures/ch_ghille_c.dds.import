@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ccrn13hudf25"
+path="res://.godot/imported/ch_ghille_c.dds-71bb54394dbe4544416777c996bfb7b1.res"
+
+[deps]
+
+source_file="res://Objects/Kits/ch/textures/ch_ghille_c.dds"
+dest_files=["res://.godot/imported/ch_ghille_c.dds-71bb54394dbe4544416777c996bfb7b1.res"]
+
+[params]
+
+mipmaps/generate=true

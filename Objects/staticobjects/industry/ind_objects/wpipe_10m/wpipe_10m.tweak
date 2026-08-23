@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/4 12:10]
+GeometryTemplate.setSubGeometryLodDistance 0 0 25
+GeometryTemplate.setSubGeometryLodDistance 0 1 50
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject wpipe_10m
+ObjectTemplate.creator BF2-TEST-1:jcr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry wpipe_10m
+ObjectTemplate.setCollisionMesh Wpipe_10m
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

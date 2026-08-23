@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://befqneo44bgym"
+path="res://.godot/imported/Tarmac_mirror_fall.dds-35dcb5e0069465f18d85bec4f3df3156.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_mirror_fall.dds"
+dest_files=["res://.godot/imported/Tarmac_mirror_fall.dds-35dcb5e0069465f18d85bec4f3df3156.res"]
+
+[params]
+
+mipmaps/generate=true

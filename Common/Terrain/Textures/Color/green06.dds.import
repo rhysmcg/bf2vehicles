@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cghgudaomusxg"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/green06.dds"
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dyjsufa8th5u7"
+path="res://.godot/imported/Anim_bird.dds-038c697bfdb7ad7c63aa74dda8e6fff2.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/Anim_bird.dds"
+dest_files=["res://.godot/imported/Anim_bird.dds-038c697bfdb7ad7c63aa74dda8e6fff2.res"]
+
+[params]
+
+mipmaps/generate=true

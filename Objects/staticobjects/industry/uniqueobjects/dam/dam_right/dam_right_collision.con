@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh dam_right_collision
+CollisionManager.createTemplate dam_right_collision
+
+ObjectTemplate.create SimpleObject dam_right_collision
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh dam_right_collision
+ObjectTemplate.mapMaterial 0 Evil_Red_Stuff 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_right_collision
+ObjectTemplate.anchor 78.2192/-42.9748/47.1375
+
+include dam_right_collision.tweak

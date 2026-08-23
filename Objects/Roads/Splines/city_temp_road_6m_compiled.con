@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled city_temp_road_6m
+ObjectTemplate.create SimpleObject city_temp_road_6m
+ObjectTemplate.geometry city_temp_road_6m

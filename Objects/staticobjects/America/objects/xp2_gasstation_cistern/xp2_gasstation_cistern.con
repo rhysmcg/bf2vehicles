@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_gasstation_cistern
+CollisionManager.createTemplate xp2_gasstation_cistern
+
+ObjectTemplate.create SimpleObject xp2_gasstation_cistern
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_gasstation_cistern
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gasstation_cistern
+ObjectTemplate.anchor -0.0261/-4.4345/2.0855
+
+include xp2_gasstation_cistern.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh sign_busstop_dest
+CollisionManager.createTemplate sign_busstop_dest
+
+ObjectTemplate.create DestroyableObject sign_busstop_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh sign_busstop_dest
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_busstop_dest
+ObjectTemplate.anchor 0/-1.2106/0
+
+include sign_busstop_dest.tweak

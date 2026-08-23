@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh rupis_baghira_silencer
+CollisionManager.createTemplate rupis_baghira_silencer
+
+ObjectTemplate.create GenericFireArm rupis_baghira_silencer
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh rupis_baghira_silencer
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rupis_baghira_silencer
+
+include rupis_baghira_silencer.tweak

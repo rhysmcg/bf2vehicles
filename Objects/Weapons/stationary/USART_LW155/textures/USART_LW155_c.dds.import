@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdrg27iu5mhux"
+path="res://.godot/imported/USART_LW155_c.dds-bdd8a68bb91a4dd2ba6b1770b03e99a8.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/USART_LW155/textures/USART_LW155_c.dds"
+dest_files=["res://.godot/imported/USART_LW155_c.dds-bdd8a68bb91a4dd2ba6b1770b03e99a8.res"]
+
+[params]
+
+mipmaps/generate=true

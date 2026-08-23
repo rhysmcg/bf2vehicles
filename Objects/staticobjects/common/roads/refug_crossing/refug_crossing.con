@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh refug_crossing
+CollisionManager.createTemplate refug_crossing
+
+ObjectTemplate.create SimpleObject refug_crossing
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh refug_crossing
+ObjectTemplate.mapMaterial 0 tarmac 0
+ObjectTemplate.mapMaterial 1 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry refug_crossing
+
+include refug_crossing.tweak

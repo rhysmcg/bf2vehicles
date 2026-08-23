@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wreck_f15_engine
+
+ObjectTemplate.create SimpleObject wreck_f15_engine
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wreck_f15_engine
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_f15_engine
+
+include wreck_f15_engine.tweak

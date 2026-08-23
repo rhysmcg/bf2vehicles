@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_bungalow_01_garagedoor_02
+CollisionManager.createTemplate xp2_bungalow_01_garagedoor_02
+
+ObjectTemplate.create SimpleObject xp2_bungalow_01_garagedoor_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.collisionMesh xp2_bungalow_01_garagedoor_02
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_bungalow_01_garagedoor_02
+ObjectTemplate.anchor 7.9896/-3.0583/5.5025
+
+include xp2_bungalow_01_garagedoor_02.tweak

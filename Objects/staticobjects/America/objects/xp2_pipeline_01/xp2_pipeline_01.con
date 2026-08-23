@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_pipeline_01
+CollisionManager.createTemplate xp2_pipeline_01
+
+ObjectTemplate.create SimpleObject xp2_pipeline_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_pipeline_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_pipeline_01
+ObjectTemplate.anchor 11.6979/0/0.0084
+
+include xp2_pipeline_01.tweak

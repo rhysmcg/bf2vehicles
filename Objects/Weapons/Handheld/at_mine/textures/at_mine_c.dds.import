@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b38uwbwpn5586"
+path="res://.godot/imported/at_mine_c.dds-aa34dafb36028b0f567e5566a6cd188e.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/at_mine/textures/at_mine_c.dds"
+dest_files=["res://.godot/imported/at_mine_c.dds-aa34dafb36028b0f567e5566a6cd188e.res"]
+
+[params]
+
+mipmaps/generate=true

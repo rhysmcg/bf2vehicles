@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh wpipe_valve
+CollisionManager.createTemplate wpipe_valve
+
+ObjectTemplate.create SimpleObject wpipe_valve
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wpipe_valve
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 rock_or_concrete1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_valve
+ObjectTemplate.anchor 0.2146/-0.3659/-0.0569
+
+include wpipe_valve.tweak

@@ -1,0 +1,119 @@
+GeometryTemplate.create BundledMesh e_vexp_tow
+
+ObjectTemplate.create EffectBundle e_vexp_tow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate e_vExp_TOW_barrel
+ObjectTemplate.setPosition 0.0094/0.9745/0.4437
+ObjectTemplate.addTemplate e_vExp_TOW_casing
+ObjectTemplate.setPosition -0.0033/0.9781/0.0414
+ObjectTemplate.addTemplate e_vExp_TOW_Tripod
+ObjectTemplate.setPosition -0.0022/0.4645/0.0045
+ObjectTemplate.addTemplate e_vExp_TOW_LeftLeg
+ObjectTemplate.setPosition -0.4103/0.3137/-0.2457
+ObjectTemplate.addTemplate e_vExp_TOW_RightLeg
+ObjectTemplate.setPosition 0.4009/0.3106/-0.2419
+ObjectTemplate.addTemplate e_vExp_TOW_targetbox
+ObjectTemplate.setPosition -0.1359/0.0795/-0.0327
+ObjectTemplate.addTemplate e_vExp_TOW_sights
+ObjectTemplate.setPosition -0.2320/1.1282/-0.0559
+ObjectTemplate.addTemplate e_vExp_TOW_mount
+ObjectTemplate.setPosition 0.0361/0.8806/0.0034
+
+ObjectTemplate.create Emitter e_vExp_TOW_barrel
+ObjectTemplate.template p_e_vExp_TOW_barrel
+
+ObjectTemplate.create Particle p_e_vExp_TOW_barrel
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter e_vExp_TOW_casing
+ObjectTemplate.template p_e_vExp_TOW_casing
+
+ObjectTemplate.create Particle p_e_vExp_TOW_casing
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter e_vExp_TOW_Tripod
+ObjectTemplate.template p_e_vExp_TOW_Tripod
+
+ObjectTemplate.create Particle p_e_vExp_TOW_Tripod
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter e_vExp_TOW_LeftLeg
+ObjectTemplate.template p_e_vExp_TOW_LeftLeg
+
+ObjectTemplate.create Particle p_e_vExp_TOW_LeftLeg
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter e_vExp_TOW_RightLeg
+ObjectTemplate.template p_e_vExp_TOW_RightLeg
+
+ObjectTemplate.create Particle p_e_vExp_TOW_RightLeg
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter e_vExp_TOW_targetbox
+ObjectTemplate.template p_e_vExp_TOW_targetbox
+
+ObjectTemplate.create Particle p_e_vExp_TOW_targetbox
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter e_vExp_TOW_sights
+ObjectTemplate.template p_e_vExp_TOW_sights
+
+ObjectTemplate.create Particle p_e_vExp_TOW_sights
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter e_vExp_TOW_mount
+ObjectTemplate.template p_e_vExp_TOW_mount
+
+ObjectTemplate.create Particle p_e_vExp_TOW_mount
+ObjectTemplate.collisionMesh e_vexp_tow
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_tow
+ObjectTemplate.geometryPart 7
+
+include e_vexp_tow.tweak

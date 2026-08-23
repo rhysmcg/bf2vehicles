@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://btnwi4me01wlv"
+path="res://.godot/imported/ncpineleaf02de_le.dds-fc05d2d1f5d5c166c06a6f436716ac9a.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/ncpineleaf02de_le.dds"
+dest_files=["res://.godot/imported/ncpineleaf02de_le.dds-fc05d2d1f5d5c166c06a6f436716ac9a.res"]
+
+[params]
+
+mipmaps/generate=true

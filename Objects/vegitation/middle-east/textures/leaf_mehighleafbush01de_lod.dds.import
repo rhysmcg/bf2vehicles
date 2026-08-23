@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://djgxmb5r4ve3"
+path="res://.godot/imported/leaf_mehighleafbush01de_lod.dds-61b5ea26371e7536e47caa38c1dceaa4.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_mehighleafbush01de_lod.dds"
+dest_files=["res://.godot/imported/leaf_mehighleafbush01de_lod.dds-61b5ea26371e7536e47caa38c1dceaa4.res"]
+
+[params]
+
+mipmaps/generate=true

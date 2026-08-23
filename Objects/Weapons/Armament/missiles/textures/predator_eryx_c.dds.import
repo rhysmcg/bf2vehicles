@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://duxo5mc86joah"
+path="res://.godot/imported/predator_eryx_c.dds-cac6d119f4a8b59e7beba00f38ebf3d1.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/predator_eryx_c.dds"
+dest_files=["res://.godot/imported/predator_eryx_c.dds-cac6d119f4a8b59e7beba00f38ebf3d1.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh sign_powercompany_small
+CollisionManager.createTemplate sign_powercompany_small
+
+ObjectTemplate.create DestroyableObject sign_powercompany_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh sign_powercompany_small
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_powercompany_small
+ObjectTemplate.anchor 0/-1.1187/0
+
+include sign_powercompany_small.tweak

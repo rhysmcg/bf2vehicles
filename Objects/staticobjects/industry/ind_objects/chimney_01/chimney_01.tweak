@@ -1,0 +1,33 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/2 17:30]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 70
+GeometryTemplate.setSubGeometryLodDistance 0 2 120
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle chimney_01
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry chimney_01
+ObjectTemplate.setCollisionMesh chimney_01
+ObjectTemplate.mapMaterial 0 Concrete 78
+ObjectTemplate.mapMaterial 1 Metal_solid 21
+ObjectTemplate.mapMaterial 2 brick 78
+ObjectTemplate.mapMaterial 3 Penetratable_Metal_net 33
+ObjectTemplate.mapMaterial 4 stairs_metal 36
+ObjectTemplate.mapMaterial 5 stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_chimney_top
+ObjectTemplate.setPosition 0.719536/18.4334/3.30472
+ObjectTemplate.setRotation 75/0/0
+ObjectTemplate.addTemplate ladder_chimney_long
+ObjectTemplate.setPosition -0.33021/-3.22958/2.70781
+ObjectTemplate.addTemplate ladder_chimney_short
+ObjectTemplate.setPosition -1.15009/-25.3093/1.71536
+rem -------------------------------------
+

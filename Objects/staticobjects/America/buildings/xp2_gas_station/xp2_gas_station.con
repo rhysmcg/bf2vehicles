@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh xp2_gas_station
+CollisionManager.createTemplate xp2_gas_station
+
+ObjectTemplate.create SimpleObject xp2_gas_station
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RON:ronda
+ObjectTemplate.collisionMesh xp2_gas_station
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 metal_solid 0
+ObjectTemplate.mapMaterial 4 concrete 0
+ObjectTemplate.mapMaterial 5 wood 0
+ObjectTemplate.mapMaterial 6 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gas_station
+ObjectTemplate.anchor -5.1060/-3.2435/0
+
+include xp2_gas_station.tweak

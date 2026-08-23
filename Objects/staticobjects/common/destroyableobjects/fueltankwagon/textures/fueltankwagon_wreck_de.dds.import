@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://csjemivut2720"
+path="res://.godot/imported/fueltankwagon_wreck_de.dds-8b923dbb5e15a8ab33c01f30f5b54f5c.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fueltankwagon/textures/fueltankwagon_wreck_de.dds"
+dest_files=["res://.godot/imported/fueltankwagon_wreck_de.dds-8b923dbb5e15a8ab33c01f30f5b54f5c.res"]
+
+[params]
+
+mipmaps/generate=true

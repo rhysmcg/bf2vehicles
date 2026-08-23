@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh container_suspended_2
+CollisionManager.createTemplate container_suspended_2
+
+ObjectTemplate.create DynamicBundle container_suspended_2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh container_suspended_2
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 Obj_imp_large 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry container_suspended_2
+ObjectTemplate.anchor 0.0661/-23.1280/-26.1173
+
+include container_suspended_2.tweak

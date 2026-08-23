@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh nc_fern01
+CollisionManager.createTemplate nc_fern01
+
+ObjectTemplate.create SimpleObject nc_fern01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh nc_fern01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_fern01
+ObjectTemplate.anchor -0.2666/-0.4440/-0.1799
+
+include nc_fern01.tweak

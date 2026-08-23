@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_rockpile_1
+ObjectTemplate.creator NICK:nickwh
+ObjectTemplate.modifiedByUser "jeremypr"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_rockpile_1
+ObjectTemplate.setCollisionMesh xp2_rockpile_1
+ObjectTemplate.mapMaterial 0 rock 12
+ObjectTemplate.mapMaterial 1 slippery_for_soldier 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

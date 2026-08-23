@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh refug
+CollisionManager.createTemplate refug
+
+ObjectTemplate.create SimpleObject refug
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh refug
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry refug
+ObjectTemplate.anchor -1.0000/-0.0500/1.0000
+
+include refug.tweak

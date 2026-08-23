@@ -1,0 +1,133 @@
+GeometryTemplate.create BundledMesh e_destruction_fenceboards
+
+ObjectTemplate.create EffectBundle e_destruction_fenceboards
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_FenceBoards_01
+ObjectTemplate.setPosition 0.1017/0.3360/-0.0439
+ObjectTemplate.addTemplate em_destruction_FenceBoards_02
+ObjectTemplate.setPosition 0.5401/-0.4477/0.0246
+ObjectTemplate.addTemplate em_destruction_FenceBoards_03
+ObjectTemplate.setPosition -0.5420/-0.8001/-0.0437
+ObjectTemplate.addTemplate em_destruction_FenceBoards_04
+ObjectTemplate.setPosition 0.1697/-0.1193/-0.0498
+ObjectTemplate.addTemplate em_destruction_FenceBoards_05
+ObjectTemplate.setPosition -0.4374/-0.2149/0.0592
+ObjectTemplate.addTemplate em_destruction_FenceBoards_06
+ObjectTemplate.setPosition -0.4890/-0.7081/0.0396
+ObjectTemplate.addTemplate em_destruction_FenceBoards_07
+ObjectTemplate.setPosition 0.5739/0.9042/0.0156
+ObjectTemplate.addTemplate em_destruction_FenceBoards_08
+ObjectTemplate.setPosition -0.4357/0.8705/-0.0081
+ObjectTemplate.addTemplate em_destruction_FenceBoards_09
+ObjectTemplate.setPosition -0.2853/0.2729/0.0525
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_01
+ObjectTemplate.template p_destruction_FenceBoards_01
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_01
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_02
+ObjectTemplate.template p_destruction_FenceBoards_02
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_02
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_03
+ObjectTemplate.template p_destruction_FenceBoards_03
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_03
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_04
+ObjectTemplate.template p_destruction_FenceBoards_04
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_04
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_05
+ObjectTemplate.template p_destruction_FenceBoards_05
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_05
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_06
+ObjectTemplate.template p_destruction_FenceBoards_06
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_06
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_07
+ObjectTemplate.template p_destruction_FenceBoards_07
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_07
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_08
+ObjectTemplate.template p_destruction_FenceBoards_08
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_08
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_destruction_FenceBoards_09
+ObjectTemplate.template p_destruction_FenceBoards_09
+
+ObjectTemplate.create Particle p_destruction_FenceBoards_09
+ObjectTemplate.collisionMesh e_destruction_fenceboards
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_fenceboards
+ObjectTemplate.geometryPart 8
+
+include e_destruction_fenceboards.tweak

@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh m249saw_ammo
+
+ObjectTemplate.create GenericFireArm m249saw_ammo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.geometry m249saw_ammo
+
+include m249saw_ammo.tweak

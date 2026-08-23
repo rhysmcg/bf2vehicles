@@ -1,0 +1,6 @@
+
+ObjectTemplate.create SimpleObject canopy_01_vines_02_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+
+include canopy_01_vines_02_col.tweak

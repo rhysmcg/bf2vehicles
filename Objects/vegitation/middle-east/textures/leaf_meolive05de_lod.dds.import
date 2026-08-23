@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b4q3qw1gdne3f"
+path="res://.godot/imported/leaf_meolive05de_lod.dds-dc45dd9b73f844447a981493a543b05d.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_meolive05de_lod.dds"
+dest_files=["res://.godot/imported/leaf_meolive05de_lod.dds-dc45dd9b73f844447a981493a543b05d.res"]
+
+[params]
+
+mipmaps/generate=true

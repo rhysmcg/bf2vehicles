@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://4aoc122ujtu1"
+path="res://.godot/imported/usmin_claymore_b.dds-90e1cc986a64436d4a3e7ed3b21a88b9.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usmin_claymore/texture/usmin_claymore_b.dds"
+dest_files=["res://.godot/imported/usmin_claymore_b.dds-90e1cc986a64436d4a3e7ed3b21a88b9.res"]
+
+[params]
+
+mipmaps/generate=true

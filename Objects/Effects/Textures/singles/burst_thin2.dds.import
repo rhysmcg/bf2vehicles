@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d2txqaw0p3wsu"
+path="res://.godot/imported/burst_thin2.dds-19ea59aba78918f73433d6d76055c18d.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/burst_thin2.dds"
+dest_files=["res://.godot/imported/burst_thin2.dds-19ea59aba78918f73433d6d76055c18d.res"]
+
+[params]
+
+mipmaps/generate=true

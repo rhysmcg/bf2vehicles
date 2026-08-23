@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bess8d83r8xbd"
+path="res://.godot/imported/Grid.dds-acafd0ad6873adec977acf78b87274d7.res"
+
+[deps]
+
+source_file="res://Content/DebugPrimitives/Grid.dds"
+dest_files=["res://.godot/imported/Grid.dds-acafd0ad6873adec977acf78b87274d7.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/4 13:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 150
+GeometryTemplate.setSubGeometryLodDistance 0 2 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle lrgstrgopen02
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry lrgstrgopen02
+ObjectTemplate.setCollisionMesh lrgstrgopen02
+ObjectTemplate.mapMaterial 0 metal_plate_thin 20
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 Penetrable_metal 1000
+ObjectTemplate.mapMaterial 4 Stairs_Metal 36
+ObjectTemplate.mapMaterial 5 Stairs_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_8m_noholders
+ObjectTemplate.setPosition 9.40753/-11.816/5.01349
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate ladder_8m_noholders
+ObjectTemplate.setPosition 15.0053/-11.8168/18.0297
+ObjectTemplate.setRotation -90/0/0
+rem -------------------------------------
+

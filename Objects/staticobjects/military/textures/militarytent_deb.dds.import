@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://fmtic65f4vqr"
+path="res://.godot/imported/militarytent_deb.dds-48e06d9ee954dc61f189b531193725dd.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/textures/militarytent_deb.dds"
+dest_files=["res://.godot/imported/militarytent_deb.dds-48e06d9ee954dc61f189b531193725dd.res"]
+
+[params]
+
+mipmaps/generate=true

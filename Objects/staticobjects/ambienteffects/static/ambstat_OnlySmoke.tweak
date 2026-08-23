@@ -1,0 +1,9 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/15 15:16]
+ObjectTemplate.activeSafe Bundle ambstat_OnlySmoke
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate e_sAmb_OnlySmoke
+rem -------------------------------------

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://kxkcl0ylxbg6"
+path="res://.godot/imported/USAPC_Lav25_C_Woodland.dds-9a6321e46bc0984461c127c154b8b909.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USAPC_LAV25/textures/USAPC_Lav25_C_Woodland.dds"
+dest_files=["res://.godot/imported/USAPC_Lav25_C_Woodland.dds-9a6321e46bc0984461c127c154b8b909.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://kfs62msvoebq"
+path="res://.godot/imported/rotor_blur_b.dds-7f1b367a60fb25e485de9d9c133e29b5.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/textures/rotor_blur_b.dds"
+dest_files=["res://.godot/imported/rotor_blur_b.dds-7f1b367a60fb25e485de9d9c133e29b5.res"]
+
+[params]
+
+mipmaps/generate=true

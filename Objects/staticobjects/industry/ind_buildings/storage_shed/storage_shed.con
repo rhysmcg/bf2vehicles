@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh storage_shed
+CollisionManager.createTemplate storage_shed
+
+ObjectTemplate.create SimpleObject storage_shed
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh storage_shed
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 concret 0
+ObjectTemplate.mapMaterial 2 metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry storage_shed
+ObjectTemplate.anchor 0/-3.6258/-0.8979
+
+include storage_shed.tweak

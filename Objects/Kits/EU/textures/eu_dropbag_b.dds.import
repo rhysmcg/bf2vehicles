@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dykoefp37w0ae"
+path="res://.godot/imported/eu_dropbag_b.dds-5313da87848c67482b010ae780811944.res"
+
+[deps]
+
+source_file="res://Objects/Kits/EU/textures/eu_dropbag_b.dds"
+dest_files=["res://.godot/imported/eu_dropbag_b.dds-5313da87848c67482b010ae780811944.res"]
+
+[params]
+
+mipmaps/generate=true

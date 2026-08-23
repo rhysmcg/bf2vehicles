@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled highway_xp2
+ObjectTemplate.create SimpleObject highway_xp2
+ObjectTemplate.geometry highway_xp2

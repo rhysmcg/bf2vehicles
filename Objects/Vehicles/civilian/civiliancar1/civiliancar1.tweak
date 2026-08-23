@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/9 13:59]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject civiliancar1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.modifiedByUser mlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry civiliancar1
+ObjectTemplate.setCollisionMesh CivilianCar1
+ObjectTemplate.mapMaterial 0 metal 20
+ObjectTemplate.mapMaterial 1 glass 18
+ObjectTemplate.mapMaterial 2 rubber 22
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+rem ---BeginComp:VehicleHud ---
+ObjectTemplate.createComponent VehicleHud
+ObjectTemplate.vehicleHud.hudName "CIVILIAN CAR"
+ObjectTemplate.vehicleHud.miniMapIcon Ingame\Vehicles\Icons\Minimap\mini_Jeep.tga
+rem ---EndComp ---
+
+rem ---BeginComp:Radio ---
+ObjectTemplate.createComponent Radio
+ObjectTemplate.Radio.spottedMessage vehicle_spotted
+rem ---EndComp ---
+

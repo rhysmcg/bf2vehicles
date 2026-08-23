@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwodttqyl2kcj"
+path="res://.godot/imported/leaf_mepinebush01de.dds-4e9bd1e2cfb8f4b3cf78808f7cb62f62.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_mepinebush01de.dds"
+dest_files=["res://.godot/imported/leaf_mepinebush01de.dds-4e9bd1e2cfb8f4b3cf78808f7cb62f62.res"]
+
+[params]
+
+mipmaps/generate=true

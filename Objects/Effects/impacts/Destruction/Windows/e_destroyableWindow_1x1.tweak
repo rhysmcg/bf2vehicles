@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/14 0:16]
+ObjectTemplate.activeSafe EffectBundle e_destroyableWindow_1x1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_destroyableWindow_1x1_Start
+ObjectTemplate.addTemplate e_mediumwindow
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_destroyableWindow_1x1_Start
+ObjectTemplate.soundFilename "common/material/Collision/Glass/glass_expl_01.wav,common/material/Collision/Glass/glass_expl_02.wav,common/material/Collision/Glass/glass_expl_03.wav,common/material/Collision/Glass/glass_expl_04.wav"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 1
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.pitchEnvelope 0/1/0.9/1.1/1/1/0/0.95/1.05/
+ObjectTemplate.minDistance 2

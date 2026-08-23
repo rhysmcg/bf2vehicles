@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh xp2_office_building
+CollisionManager.createTemplate xp2_office_building
+
+ObjectTemplate.create SimpleObject xp2_office_building
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_office_building
+ObjectTemplate.mapMaterial 0 glass_common 0
+ObjectTemplate.mapMaterial 1 thin_metal 0
+ObjectTemplate.mapMaterial 2 solid_metal 0
+ObjectTemplate.mapMaterial 3 solid_wood 0
+ObjectTemplate.mapMaterial 4 thin_wood 0
+ObjectTemplate.mapMaterial 5 concrete 0
+ObjectTemplate.mapMaterial 6 stairs_wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_office_building
+ObjectTemplate.anchor -0.0980/-2.2550/-0.0780
+
+include xp2_office_building.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://djxmbjr1xh5ig"
+path="res://.godot/imported/usart_lw155_wreck_w.dds-1b7330990635eb4e39e3984f827f900d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/USART_LW155/textures/usart_lw155_wreck_w.dds"
+dest_files=["res://.godot/imported/usart_lw155_wreck_w.dds-1b7330990635eb4e39e3984f827f900d.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh mine_entrance
+CollisionManager.createTemplate mine_entrance
+
+ObjectTemplate.create SimpleObject mine_entrance
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh mine_entrance
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 plastic 0
+ObjectTemplate.mapMaterial 3 metal_thin 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.mapMaterial 5 stairs_metal 0
+ObjectTemplate.mapMaterial 6 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mine_entrance
+ObjectTemplate.anchor 0/-4.5000/0
+
+include mine_entrance.tweak

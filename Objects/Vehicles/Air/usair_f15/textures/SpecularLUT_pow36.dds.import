@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dva3iwdhyfg2m"
+path="res://.godot/imported/SpecularLUT_pow36.dds-863f2acedac4897bf666a14632ec6220.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f15/textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-863f2acedac4897bf666a14632ec6220.res"]
+
+[params]
+
+mipmaps/generate=true

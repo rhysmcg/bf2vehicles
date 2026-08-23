@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh us_carrier_wasp_front
+CollisionManager.createTemplate us_carrier_wasp_front
+
+ObjectTemplate.create Bundle us_carrier_wasp_front
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh us_carrier_wasp_front
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.mapMaterial 2 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry us_carrier_wasp_front
+ObjectTemplate.anchor 211.4774/-0.6096/16.3679
+
+include us_carrier_wasp_front.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ce1u1ip72ax1a"
+path="res://.godot/imported/glass_burst.dds-35dbba4d2f018b03b0e6f2dcccc547ce.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/glass_burst.dds"
+dest_files=["res://.godot/imported/glass_burst.dds-35dbba4d2f018b03b0e6f2dcccc547ce.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/5/14 0:17]
+ObjectTemplate.activeSafe Bundle barrels_stacked_dummy
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry barrels_stacked_dummy
+ObjectTemplate.setCollisionMesh barrels_stacked_dummy
+ObjectTemplate.mapMaterial 0 dummyMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor -0.674/-1.4695/2.4317
+

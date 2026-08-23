@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh mi_sandbags_corner_2m
+CollisionManager.createTemplate mi_sandbags_corner_2m
+
+ObjectTemplate.create SimpleObject mi_sandbags_corner_2m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh mi_sandbags_corner_2m
+ObjectTemplate.mapMaterial 0 Sand 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_sandbags_corner_2m
+ObjectTemplate.anchor -1.1624/-0.5770/-0.8404
+
+include mi_sandbags_corner_2m.tweak

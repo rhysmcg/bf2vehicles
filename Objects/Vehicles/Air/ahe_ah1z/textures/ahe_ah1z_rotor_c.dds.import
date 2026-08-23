@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ppnqgi7d2oqs"
+path="res://.godot/imported/ahe_ah1z_rotor_c.dds-73a01c25acbf8492c9909e4b86d7535a.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/textures/ahe_ah1z_rotor_c.dds"
+dest_files=["res://.godot/imported/ahe_ah1z_rotor_c.dds-73a01c25acbf8492c9909e4b86d7535a.res"]
+
+[params]
+
+mipmaps/generate=true

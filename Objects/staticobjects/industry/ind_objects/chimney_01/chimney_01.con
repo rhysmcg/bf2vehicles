@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh chimney_01
+CollisionManager.createTemplate chimney_01
+
+ObjectTemplate.create Bundle chimney_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh chimney_01
+ObjectTemplate.mapMaterial 0 Concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 brick 0
+ObjectTemplate.mapMaterial 3 Penetratable_Metal_net 0
+ObjectTemplate.mapMaterial 4 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chimney_01
+ObjectTemplate.anchor 7.8234/-35.1421/-12.2077
+
+include chimney_01.tweak

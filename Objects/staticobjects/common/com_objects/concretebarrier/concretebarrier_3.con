@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh concretebarrier_3
+CollisionManager.createTemplate concretebarrier_3
+
+ObjectTemplate.create SimpleObject concretebarrier_3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh concretebarrier_3
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concretebarrier_3
+ObjectTemplate.anchor -0.3222/-0.5000/3.5812
+
+include concretebarrier_3.tweak

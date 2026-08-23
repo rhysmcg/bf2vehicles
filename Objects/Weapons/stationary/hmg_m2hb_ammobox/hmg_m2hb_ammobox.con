@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh hmg_m2hb_ammobox
+
+ObjectTemplate.create SimpleObject hmg_m2hb_ammobox
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.geometry hmg_m2hb_ammobox
+
+include hmg_m2hb_ammobox.tweak

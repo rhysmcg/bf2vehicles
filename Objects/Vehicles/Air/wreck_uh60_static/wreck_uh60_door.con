@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wreck_uh60_door
+CollisionManager.createTemplate wreck_uh60_door
+
+ObjectTemplate.create SimpleObject wreck_uh60_door
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh wreck_uh60_door
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_uh60_door
+
+include wreck_uh60_door.tweak

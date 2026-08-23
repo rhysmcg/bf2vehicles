@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/9 0:18]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject nc_stump03
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.modifiedByUser jlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry nc_stump03
+ObjectTemplate.setCollisionMesh nc_stump03
+ObjectTemplate.mapMaterial 0 wood_col 93
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

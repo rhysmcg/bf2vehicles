@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usrif_sa80
+CollisionManager.createTemplate usrif_sa80
+
+ObjectTemplate.create GenericFireArm usrif_sa80
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh usrif_sa80
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usrif_sa80
+
+include usrif_sa80.tweak

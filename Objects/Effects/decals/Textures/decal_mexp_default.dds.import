@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2rf6ijq664gr"
+path="res://.godot/imported/decal_mexp_default.dds-bae19b0badcfb73bcfd724a402d3a1c5.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_mexp_default.dds"
+dest_files=["res://.godot/imported/decal_mexp_default.dds-bae19b0badcfb73bcfd724a402d3a1c5.res"]
+
+[params]
+
+mipmaps/generate=true

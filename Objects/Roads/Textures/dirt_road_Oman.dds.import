@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d05q2kqefbycm"
+path="res://.godot/imported/dirt_road_Oman.dds-aefaa003dff58268fa5d4fbfb0ac6c17.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road_Oman.dds"
+dest_files=["res://.godot/imported/dirt_road_Oman.dds-aefaa003dff58268fa5d4fbfb0ac6c17.res"]
+
+[params]
+
+mipmaps/generate=true

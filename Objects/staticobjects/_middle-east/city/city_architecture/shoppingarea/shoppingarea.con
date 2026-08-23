@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh shoppingarea
+
+ObjectTemplate.create Bundle shoppingarea
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh shoppingarea
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry shoppingarea
+ObjectTemplate.anchor 1.0000/-6.8327/-36.0814
+
+include shoppingarea.tweak

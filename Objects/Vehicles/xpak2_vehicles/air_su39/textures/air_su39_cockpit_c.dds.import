@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b4w61v36j038m"
+path="res://.godot/imported/air_su39_cockpit_c.dds-05663325ff1a4b63ae7660813f7386f7.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_su39/textures/air_su39_cockpit_c.dds"
+dest_files=["res://.godot/imported/air_su39_cockpit_c.dds-05663325ff1a4b63ae7660813f7386f7.res"]
+
+[params]
+
+mipmaps/generate=true

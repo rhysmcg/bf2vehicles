@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cedhww7uxgfmt"
+path="res://.godot/imported/fboat01de.dds-b00eb717cccb8e720a7786be619bdfab.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/fishingboat/textures/fboat01de.dds"
+dest_files=["res://.godot/imported/fboat01de.dds-b00eb717cccb8e720a7786be619bdfab.res"]
+
+[params]
+
+mipmaps/generate=true

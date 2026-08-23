@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh chlmg_type95_stationary
+
+ObjectTemplate.create GenericFireArm chlmg_type95_stationary
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.geometry chlmg_type95_stationary
+
+include chlmg_type95_stationary.tweak

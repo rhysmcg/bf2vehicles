@@ -1,0 +1,37 @@
+GeometryTemplate.create BundledMesh e_destruction_parkingmeter
+
+ObjectTemplate.create EffectBundle e_destruction_parkingmeter
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_destruction_ParkingMeter_Main
+ObjectTemplate.setPosition 0/0/0.0017
+ObjectTemplate.addTemplate em_destruction_ParkingMeter_Lid
+ObjectTemplate.setPosition 0.0011/0.3161/0.0512
+
+ObjectTemplate.create Emitter em_destruction_ParkingMeter_Main
+ObjectTemplate.template p_destruction_ParkingMeter_Main
+
+ObjectTemplate.create Particle p_destruction_ParkingMeter_Main
+ObjectTemplate.collisionMesh e_destruction_parkingmeter
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_parkingmeter
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_ParkingMeter_Lid
+ObjectTemplate.template p_destruction_ParkingMeter_Lid
+
+ObjectTemplate.create Particle p_destruction_ParkingMeter_Lid
+ObjectTemplate.collisionMesh e_destruction_parkingmeter
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_parkingmeter
+ObjectTemplate.geometryPart 1
+
+include e_destruction_parkingmeter.tweak

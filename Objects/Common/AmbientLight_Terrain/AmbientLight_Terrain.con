@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle AmbientLight_Terrain
+ObjectTemplate.createdInEditor 1
+
+include AmbientLight_Terrain.tweak

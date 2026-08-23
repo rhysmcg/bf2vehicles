@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwlw5ik1k5md7"
+path="res://.godot/imported/decal_glass_vehicle_anim.dds-d2504ec4892ca7c9eff0e52ed508659a.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_glass_vehicle_anim.dds"
+dest_files=["res://.godot/imported/decal_glass_vehicle_anim.dds-d2504ec4892ca7c9eff0e52ed508659a.res"]
+
+[params]
+
+mipmaps/generate=true

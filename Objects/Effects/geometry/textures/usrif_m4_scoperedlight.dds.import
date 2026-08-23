@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dydmpxh6qh4jb"
+path="res://.godot/imported/usrif_m4_scoperedlight.dds-77dc5083862a870090489a9de0aba1e5.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/usrif_m4_scoperedlight.dds"
+dest_files=["res://.godot/imported/usrif_m4_scoperedlight.dds-77dc5083862a870090489a9de0aba1e5.res"]
+
+[params]
+
+mipmaps/generate=true

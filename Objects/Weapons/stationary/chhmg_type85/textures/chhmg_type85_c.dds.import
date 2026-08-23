@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dwjqxvullawsu"
+path="res://.godot/imported/chhmg_type85_c.dds-09a276db9473836b8c50a2d921f77b7e.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/chhmg_type85/textures/chhmg_type85_c.dds"
+dest_files=["res://.godot/imported/chhmg_type85_c.dds-09a276db9473836b8c50a2d921f77b7e.res"]
+
+[params]
+
+mipmaps/generate=true

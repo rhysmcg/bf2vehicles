@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/8 11:53]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject marketstand_1
+ObjectTemplate.creator FUL-2:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry marketstand_1
+ObjectTemplate.setCollisionMesh marketstand_1
+ObjectTemplate.mapMaterial 0 penetrable_metal 1000
+ObjectTemplate.mapMaterial 1 metal_thin 20
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 penetrable_wood 1003
+ObjectTemplate.mapMaterial 4 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

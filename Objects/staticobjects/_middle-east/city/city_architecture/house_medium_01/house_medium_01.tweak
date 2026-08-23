@@ -1,0 +1,34 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 17:43]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle house_medium_01
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_medium_01
+ObjectTemplate.setCollisionMesh House_Medium_01
+ObjectTemplate.mapMaterial 0 Cloth_carpet 10
+ObjectTemplate.mapMaterial 1 Glass_common 17
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 3 Metal_solid 21
+ObjectTemplate.mapMaterial 4 Rubber 11
+ObjectTemplate.mapMaterial 5 Tarmac 4
+ObjectTemplate.mapMaterial 6 Wood_solid 15
+ObjectTemplate.mapMaterial 7 concrete 78
+ObjectTemplate.mapMaterial 8 rock 12
+ObjectTemplate.mapMaterial 9 concrete_slippery 7001
+ObjectTemplate.mapMaterial 10 slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_20m
+ObjectTemplate.setPosition -9.31841/-3.71499/6.62744
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

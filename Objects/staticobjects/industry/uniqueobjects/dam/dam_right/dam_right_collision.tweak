@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject dam_right_collision
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.modifiedByUser "Danielab"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_right_collision
+ObjectTemplate.setCollisionMesh dam_right_collision
+ObjectTemplate.mapMaterial 0 Evil_Red_Stuff 666
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

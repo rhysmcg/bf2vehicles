@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh power_station_pt_2
+CollisionManager.createTemplate power_station_pt_2
+
+ObjectTemplate.create SimpleObject power_station_pt_2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh power_station_pt_2
+ObjectTemplate.mapMaterial 0 solid_metal 0
+ObjectTemplate.mapMaterial 1 porslin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry power_station_pt_2
+ObjectTemplate.anchor 0/-3.0821/0
+
+include power_station_pt_2.tweak

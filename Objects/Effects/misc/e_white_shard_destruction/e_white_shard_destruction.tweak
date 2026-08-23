@@ -1,0 +1,51 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/4/29 0:13]
+ObjectTemplate.activeSafe EffectBundle e_white_shard_destruction
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_white_shard_destruction_Start
+ObjectTemplate.addTemplate em_white_shard_small
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_white_shard_destruction_Start
+ObjectTemplate.soundFilename Common/Material/Impact/Glass/glass_01.wav,Common/Material/Impact/Glass/glass_04.wav,Common/Material/Impact/Glass/glass_05.wav,Common/Material/Impact/Glass/glass_06.wav,Common/Material/Impact/Glass/glass_05.wav,Common/Material/Impact/Glass/glass_06.wav,Common/Material/Impact/Glass/glass_07.wav,Common/Material/Impact/Glass/glass_08.wav,Common/Material/Impact/Glass/glass_09.wav
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 1
+ObjectTemplate.volume 0.6
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.minDistance 2.5
+ObjectTemplate.pitchEnvelope 0/1/0.9/1.1/1/1/0/1.5/2.1/
+ObjectTemplate.volumeEnvelope 0/1/0/1/1/1/0/0.8/1/
+ObjectTemplate.soundRadius 0.2
+
+ObjectTemplate.create Emitter em_white_shard_small
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.template p_shard_signb_08
+ObjectTemplate.alternateTemplate0 p_shard_signb_07
+ObjectTemplate.alternateTemplate1 
+ObjectTemplate.alternateTemplate2 
+ObjectTemplate.alternateTemplate3 
+ObjectTemplate.alternateTemplate4 
+ObjectTemplate.timeToLive CRD_NONE/0.2/0/0
+ObjectTemplate.intensity CRD_NONE/20/0/0
+ObjectTemplate.relativePositionInUp CRD_UNIFORM/-0.08/0.08/0
+ObjectTemplate.relativePositionInRight CRD_UNIFORM/-0.4/0.4/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/-1/1/0
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/-1/1/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/-5/5/0
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/-5/5/0
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/-5/5/0
+ObjectTemplate.startRotation CRD_UNIFORM/-45/45/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+ObjectTemplate.showInFirstPerson 1
+ObjectTemplate.showInThirdPerson 1
+

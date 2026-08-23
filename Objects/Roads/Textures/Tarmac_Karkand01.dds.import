@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cllvx1npwr4uh"
+path="res://.godot/imported/Tarmac_Karkand01.dds-57c225a2b51b70c4d262a20c1aa0d44c.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Karkand01.dds"
+dest_files=["res://.godot/imported/Tarmac_Karkand01.dds-57c225a2b51b70c4d262a20c1aa0d44c.res"]
+
+[params]
+
+mipmaps/generate=true

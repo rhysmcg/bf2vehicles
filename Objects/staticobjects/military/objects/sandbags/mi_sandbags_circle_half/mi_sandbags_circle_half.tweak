@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.setSubGeometryLodDistance 0 0 27
+GeometryTemplate.setSubGeometryLodDistance 0 1 55
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject mi_sandbags_circle_half
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry mi_sandbags_circle_half
+ObjectTemplate.setCollisionMesh mi_sandbags_circle_half
+ObjectTemplate.mapMaterial 0 Sand 76
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

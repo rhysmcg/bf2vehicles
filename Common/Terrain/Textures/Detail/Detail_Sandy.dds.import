@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://drs1o4d4dux02"
+path="res://.godot/imported/Detail_Sandy.dds-284a123b1e376406dde911fb65ddaa80.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Sandy.dds"
+dest_files=["res://.godot/imported/Detail_Sandy.dds-284a123b1e376406dde911fb65ddaa80.res"]
+
+[params]
+
+mipmaps/generate=true

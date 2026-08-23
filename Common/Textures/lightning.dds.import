@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d254jx6sosedh"
+path="res://.godot/imported/lightning.dds-efc8287841f6a8e5109214a27f16c507.res"
+
+[deps]
+
+source_file="res://Common/Textures/lightning.dds"
+dest_files=["res://.godot/imported/lightning.dds-efc8287841f6a8e5109214a27f16c507.res"]
+
+[params]
+
+mipmaps/generate=true

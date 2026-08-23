@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dll05agi5ym6e"
+path="res://.godot/imported/ammokit_c.dds-e0e69bd4074aef9c8e737241e76ce72f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ammokit/textures/ammokit_c.dds"
+dest_files=["res://.godot/imported/ammokit_c.dds-e0e69bd4074aef9c8e737241e76ce72f.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dtb5iu3fd5xk5"
+path="res://.godot/imported/the_mi17_b.dds-079f4d6f6df7788ed5c164446d134a21.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/textures/the_mi17_b.dds"
+dest_files=["res://.godot/imported/the_mi17_b.dds-079f4d6f6df7788ed5c164446d134a21.res"]
+
+[params]
+
+mipmaps/generate=true

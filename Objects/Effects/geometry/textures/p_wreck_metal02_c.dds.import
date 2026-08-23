@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bkq7vaiw2g8mc"
+path="res://.godot/imported/p_wreck_metal02_c.dds-2719356a2e2bd235258c23577c02e98b.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_metal02_c.dds"
+dest_files=["res://.godot/imported/p_wreck_metal02_c.dds-2719356a2e2bd235258c23577c02e98b.res"]
+
+[params]
+
+mipmaps/generate=true

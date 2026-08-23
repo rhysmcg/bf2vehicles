@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dbfrnimivp2ke"
+path="res://.godot/imported/dash_v.dds-8a9646e7bd3b412cfdd4bad7b909fbd3.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/point/dash_v.dds"
+dest_files=["res://.godot/imported/dash_v.dds-8a9646e7bd3b412cfdd4bad7b909fbd3.res"]
+
+[params]
+
+mipmaps/generate=true

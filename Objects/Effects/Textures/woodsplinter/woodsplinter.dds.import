@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://diegrlsyhwoi0"
+path="res://.godot/imported/woodsplinter.dds-0fadc823eff8441c0fba7f7f496e87b7.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/woodsplinter/woodsplinter.dds"
+dest_files=["res://.godot/imported/woodsplinter.dds-0fadc823eff8441c0fba7f7f496e87b7.res"]
+
+[params]
+
+mipmaps/generate=true

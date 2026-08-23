@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled highway
+ObjectTemplate.create SimpleObject highway
+ObjectTemplate.geometry highway

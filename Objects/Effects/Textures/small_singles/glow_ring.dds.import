@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://chtmtmu4qv8ie"
+path="res://.godot/imported/glow_ring.dds-4d8cfba969666a0664fd678caed6c362.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/glow_ring.dds"
+dest_files=["res://.godot/imported/glow_ring.dds-4d8cfba969666a0664fd678caed6c362.res"]
+
+[params]
+
+mipmaps/generate=true

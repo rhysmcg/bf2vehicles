@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dbrpudbsklb3s"
+path="res://.godot/imported/trashcan_small_c.dds-57bd4f5559017670164b1b2abaff53c6.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/trashcan_small/textures/trashcan_small_c.dds"
+dest_files=["res://.godot/imported/trashcan_small_c.dds-57bd4f5559017670164b1b2abaff53c6.res"]
+
+[params]
+
+mipmaps/generate=true

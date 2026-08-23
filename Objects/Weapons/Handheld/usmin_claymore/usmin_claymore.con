@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh usmin_claymore
+CollisionManager.createTemplate usmin_claymore
+
+ObjectTemplate.create GenericFireArm usmin_claymore
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh usmin_claymore
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usmin_claymore
+
+include usmin_claymore.tweak

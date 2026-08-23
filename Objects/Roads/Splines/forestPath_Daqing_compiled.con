@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled forestPath_Daqing
+ObjectTemplate.create SimpleObject forestPath_Daqing
+ObjectTemplate.geometry forestPath_Daqing

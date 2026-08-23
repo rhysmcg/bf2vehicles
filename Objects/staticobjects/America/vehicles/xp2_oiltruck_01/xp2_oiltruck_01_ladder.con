@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh xp2_oiltruck_01_ladder
+CollisionManager.createTemplate xp2_oiltruck_01_ladder
+
+ObjectTemplate.create Ladder xp2_oiltruck_01_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.collisionMesh xp2_oiltruck_01_ladder
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_oiltruck_01_ladder
+
+include xp2_oiltruck_01_ladder.tweak

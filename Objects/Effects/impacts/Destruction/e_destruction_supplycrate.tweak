@@ -1,0 +1,305 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/14 17:21]
+ObjectTemplate.activeSafe EffectBundle e_destruction_supplycrate
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_destruction_supplycrate_Start
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_destruction_supplycrate_Start
+ObjectTemplate.modifiedByUser dsu
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Strap1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Strap1
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Strap1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.5
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Strap2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Strap2
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Strap2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Strap3
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Strap3
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Strap3
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Strap4
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Strap4
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Strap4
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/4/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/4/0
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/5/7/1
+ObjectTemplate.startRotation CRD_UNIFORM/5/10/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1/1.5/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1.2/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

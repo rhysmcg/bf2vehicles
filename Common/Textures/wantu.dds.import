@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bhnt2genhb5g1"
+path="res://.godot/imported/wantu.dds-3f8f0fe59199f9268c872f800eebc413.res"
+
+[deps]
+
+source_file="res://Common/Textures/wantu.dds"
+dest_files=["res://.godot/imported/wantu.dds-3f8f0fe59199f9268c872f800eebc413.res"]
+
+[params]
+
+mipmaps/generate=true

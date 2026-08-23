@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cyu1blia6ff5q"
+path="res://.godot/imported/apc_wz551_hud_c.dds-fb8645da529bf50dec97dc4d7c5d24b2.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_wz551/textures/apc_wz551_hud_c.dds"
+dest_files=["res://.godot/imported/apc_wz551_hud_c.dds-fb8645da529bf50dec97dc4d7c5d24b2.res"]
+
+[params]
+
+mipmaps/generate=true

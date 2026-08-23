@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://68r22ekjjejw"
+path="res://.godot/imported/USSHT_Jackhammer_c.dds-1f4b7e9ac65294b8f35198d6aa9347c3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSHT_Jackhammer/Textures/USSHT_Jackhammer_c.dds"
+dest_files=["res://.godot/imported/USSHT_Jackhammer_c.dds-1f4b7e9ac65294b8f35198d6aa9347c3.res"]
+
+[params]
+
+mipmaps/generate=true

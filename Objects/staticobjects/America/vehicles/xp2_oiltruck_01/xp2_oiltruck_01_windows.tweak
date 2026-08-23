@@ -1,0 +1,10 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/11/11 6:9]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject xp2_oiltruck_01_windows
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.modifiedByUser "nickwh"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_oiltruck_01_windows
+ObjectTemplate.hasMobilePhysics 0
+

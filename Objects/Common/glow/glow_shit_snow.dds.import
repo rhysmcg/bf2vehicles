@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ckba7pqpeim0y"
+path="res://.godot/imported/glow_shit_snow.dds-b4c0a3a101b88b1b3f9a229c41652081.res"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glow_shit_snow.dds"
+dest_files=["res://.godot/imported/glow_shit_snow.dds-b4c0a3a101b88b1b3f9a229c41652081.res"]
+
+[params]
+
+mipmaps/generate=true

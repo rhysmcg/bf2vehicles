@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c0lahn7uyp24c"
+path="res://.godot/imported/Detail_stones03.dds-dd952d4688a612b0b5d44a878ca22e10.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_stones03.dds"
+dest_files=["res://.godot/imported/Detail_stones03.dds-dd952d4688a612b0b5d44a878ca22e10.res"]
+
+[params]
+
+mipmaps/generate=true

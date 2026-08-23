@@ -1,0 +1,12 @@
+CollisionManager.createTemplate me_vines01
+
+ObjectTemplate.create SimpleObject me_vines01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_vines01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-7.6429/0
+
+include me_vines01_col.tweak

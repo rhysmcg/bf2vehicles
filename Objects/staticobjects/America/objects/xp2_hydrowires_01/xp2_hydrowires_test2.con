@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh xp2_hydrowires_test2
+CollisionManager.createTemplate xp2_hydrowires_test2
+
+ObjectTemplate.create SimpleObject xp2_hydrowires_test2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_hydrowires_test2
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_hydrowires_test2
+
+include xp2_hydrowires_test2.tweak

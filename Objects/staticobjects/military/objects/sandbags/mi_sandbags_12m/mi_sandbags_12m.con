@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh mi_sandbags_12m
+CollisionManager.createTemplate mi_sandbags_12m
+
+ObjectTemplate.create SimpleObject mi_sandbags_12m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh mi_sandbags_12m
+ObjectTemplate.mapMaterial 0 sand 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_sandbags_12m
+ObjectTemplate.anchor 6.0000/-0.5861/0.0283
+
+include mi_sandbags_12m.tweak

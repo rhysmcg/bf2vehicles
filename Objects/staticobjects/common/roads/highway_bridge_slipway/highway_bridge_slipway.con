@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh highway_bridge_slipway
+CollisionManager.createTemplate highway_bridge_slipway
+
+ObjectTemplate.create SimpleObject highway_bridge_slipway
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh highway_bridge_slipway
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry highway_bridge_slipway
+ObjectTemplate.anchor -5.9663/7.1233/-1.0000
+
+include highway_bridge_slipway.tweak

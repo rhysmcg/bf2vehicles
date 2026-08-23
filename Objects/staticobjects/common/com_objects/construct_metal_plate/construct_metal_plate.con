@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh construct_metal_plate
+CollisionManager.createTemplate construct_metal_plate
+
+ObjectTemplate.create SimpleObject construct_metal_plate
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh construct_metal_plate
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry construct_metal_plate
+ObjectTemplate.anchor -1.5000/-0.0500/5.0000
+
+include construct_metal_plate.tweak

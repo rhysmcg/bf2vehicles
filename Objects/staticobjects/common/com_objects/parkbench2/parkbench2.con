@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh parkbench2
+CollisionManager.createTemplate parkbench2
+
+ObjectTemplate.create SimpleObject parkbench2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh parkbench2
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry parkbench2
+ObjectTemplate.anchor 0/-0.3961/0.0025
+
+include parkbench2.tweak

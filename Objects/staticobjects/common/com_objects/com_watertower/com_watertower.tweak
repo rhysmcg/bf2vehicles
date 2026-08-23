@@ -1,0 +1,26 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.setSubGeometryLodDistance 0 0 51
+GeometryTemplate.setSubGeometryLodDistance 0 1 180
+GeometryTemplate.setSubGeometryLodDistance 0 2 201
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle com_watertower
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser eni
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry com_watertower
+ObjectTemplate.setCollisionMesh com_watertower
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.mapMaterial 2 wood_solid 15
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_20m_platform
+ObjectTemplate.setPosition 0.00266144/-2.10343/9.95187
+ObjectTemplate.setRotation 180/0/0
+rem -------------------------------------
+

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_highwaybridge_01
+CollisionManager.createTemplate xp2_highwaybridge_01
+
+ObjectTemplate.create SimpleObject xp2_highwaybridge_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_highwaybridge_01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_highwaybridge_01
+ObjectTemplate.anchor 0.0402/0.0710/0.0508
+
+include xp2_highwaybridge_01.tweak

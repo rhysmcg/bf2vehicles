@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/13 5:17]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject xp2_sprucetree_02_lod
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_sprucetree_02_lod
+ObjectTemplate.hasMobilePhysics 0
+

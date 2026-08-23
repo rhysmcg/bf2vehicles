@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stnwalls_invert_corner_10m
+CollisionManager.createTemplate stnwalls_invert_corner_10m
+
+ObjectTemplate.create SimpleObject stnwalls_invert_corner_10m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh stnwalls_invert_corner_10m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_invert_corner_10m
+ObjectTemplate.anchor -5.0500/-3.5500/-2.9500
+
+include stnwalls_invert_corner_10m.tweak

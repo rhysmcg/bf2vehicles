@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2087egrorbdi"
+path="res://.godot/imported/rurrif_ak74u_blurscope_c.dds-97180c314be3e169d521eb3400c31cc4.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rurrif_ak74u/textures/rurrif_ak74u_blurscope_c.dds"
+dest_files=["res://.godot/imported/rurrif_ak74u_blurscope_c.dds-97180c314be3e169d521eb3400c31cc4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,2801 @@
+rem *********** TriggerTrigger ***********
+
+rem [TriggerTemplate: Dust_1]
+ObjectTemplate.create Trigger Dust_1
+ObjectTemplate.activeSafe Trigger Dust_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 1
+ObjectTemplate.radius 12
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Dust_2]
+ObjectTemplate.create Trigger Dust_2
+ObjectTemplate.activeSafe Trigger Dust_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 2
+ObjectTemplate.radius 19
+ObjectTemplate.events 4
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Dust_3]
+ObjectTemplate.create Trigger Dust_3
+ObjectTemplate.activeSafe Trigger Dust_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 3
+ObjectTemplate.radius 20
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Dust_4]
+ObjectTemplate.create Trigger Dust_4
+ObjectTemplate.activeSafe Trigger Dust_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 4
+ObjectTemplate.radius 10
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Dust_5]
+ObjectTemplate.create Trigger Dust_5
+ObjectTemplate.activeSafe Trigger Dust_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 5
+ObjectTemplate.radius 10
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Mosquitos_1]
+ObjectTemplate.create Trigger Mosquitos_1
+ObjectTemplate.activeSafe Trigger Mosquitos_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 6
+ObjectTemplate.radius 6
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Mosquitos_2]
+ObjectTemplate.create Trigger Mosquitos_2
+ObjectTemplate.activeSafe Trigger Mosquitos_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.radius 10
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Dust_6]
+ObjectTemplate.create Trigger Dust_6
+ObjectTemplate.activeSafe Trigger Dust_6
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 8
+ObjectTemplate.radius 12
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Dust_6_0]
+ObjectTemplate.create Trigger Dust_6_0
+ObjectTemplate.activeSafe Trigger Dust_6_0
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 9
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 10
+
+rem [TriggerTemplate: Dust_7]
+ObjectTemplate.create Trigger Dust_7
+ObjectTemplate.activeSafe Trigger Dust_7
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 10
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 20
+
+rem [TriggerTemplate: Dust_8]
+ObjectTemplate.create Trigger Dust_8
+ObjectTemplate.activeSafe Trigger Dust_8
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 11
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 20
+
+rem [TriggerTemplate: Dust_9]
+ObjectTemplate.create Trigger Dust_9
+ObjectTemplate.activeSafe Trigger Dust_9
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 12
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 20
+
+rem [TriggerTemplate: Dust_10]
+ObjectTemplate.create Trigger Dust_10
+ObjectTemplate.activeSafe Trigger Dust_10
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 13
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 25
+
+rem [TriggerTemplate: Dust_11]
+ObjectTemplate.create Trigger Dust_11
+ObjectTemplate.activeSafe Trigger Dust_11
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 14
+ObjectTemplate.radius 16
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 20
+
+rem [TriggerTemplate: Bird_1]
+ObjectTemplate.create Trigger Bird_1
+ObjectTemplate.activeSafe Trigger Bird_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.radius 12
+ObjectTemplate.events 10
+ObjectTemplate.minimumTimeBetweenTriggering 180
+
+rem [TriggerTemplate: Dust_11_0]
+ObjectTemplate.create Trigger Dust_11_0
+ObjectTemplate.activeSafe Trigger Dust_11_0
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 16
+ObjectTemplate.radius 20
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Bird_2]
+ObjectTemplate.create Trigger Bird_2
+ObjectTemplate.activeSafe Trigger Bird_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.radius 19
+ObjectTemplate.events 10
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 120
+
+rem [TriggerTemplate: Bird_3]
+ObjectTemplate.create Trigger Bird_3
+ObjectTemplate.activeSafe Trigger Bird_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.radius 10
+ObjectTemplate.events 10
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 120
+
+rem [TriggerTemplate: Dust_12]
+ObjectTemplate.create Trigger Dust_12
+ObjectTemplate.activeSafe Trigger Dust_12
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 20
+ObjectTemplate.radius 10
+ObjectTemplate.events 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Mosquito_5]
+ObjectTemplate.create Trigger Mosquito_5
+ObjectTemplate.activeSafe Trigger Mosquito_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 19
+ObjectTemplate.radius 15
+ObjectTemplate.events 1
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 15
+
+rem [TriggerTemplate: Mosquitos_5]
+ObjectTemplate.create Trigger Mosquitos_5
+ObjectTemplate.activeSafe Trigger Mosquitos_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 21
+ObjectTemplate.radius 6
+ObjectTemplate.events 0
+ObjectTemplate.chance 0.7
+ObjectTemplate.minimumTimeBetweenTriggering 45
+
+rem [TriggerTemplate: Mosquito_3]
+ObjectTemplate.create Trigger Mosquito_3
+ObjectTemplate.activeSafe Trigger Mosquito_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 22
+ObjectTemplate.radius 4
+ObjectTemplate.events 5
+ObjectTemplate.chance 1
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+   rem [Trigger: Dust_1]
+   Object.create Dust_1
+   Object.absolutePosition -149.000/161.133/-284.783
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_2]
+   Object.create Dust_2
+   Object.absolutePosition -161.789/162.497/-114.041
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_3]
+   Object.create Dust_3
+   Object.absolutePosition -244.268/163.399/-144.906
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_4]
+   Object.create Dust_4
+   Object.absolutePosition -161.137/155.800/-32.134
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_5]
+   Object.create Dust_5
+   Object.absolutePosition -239.000/155.800/-19.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Mosquitos_1]
+   Object.create Mosquitos_1
+   Object.absolutePosition -209.728/155.800/81.932
+   Object.rotation 20.549/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Mosquitos_2]
+   Object.create Mosquitos_2
+   Object.absolutePosition -224.000/155.800/85.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_6]
+   Object.create Dust_6
+   Object.absolutePosition -201.461/149.899/123.384
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_6_0]
+   Object.create Dust_6_0
+   Object.absolutePosition -165.000/155.800/39.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_7]
+   Object.create Dust_7
+   Object.absolutePosition -133.107/149.899/246.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_8]
+   Object.create Dust_8
+   Object.absolutePosition -330.384/168.591/201.376
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_9]
+   Object.create Dust_9
+   Object.absolutePosition -8.000/149.996/261.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_10]
+   Object.create Dust_10
+   Object.absolutePosition 0.000/149.996/174.055
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_11]
+   Object.create Dust_11
+   Object.absolutePosition 122.571/152.696/165.754
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Bird_1]
+   Object.create Bird_1
+   Object.absolutePosition -210.319/155.800/-18.950
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_11_0]
+   Object.create Dust_11_0
+   Object.absolutePosition -284.920/155.800/132.103
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Bird_2]
+   Object.create Bird_2
+   Object.absolutePosition -339.357/164.485/101.216
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Bird_3]
+   Object.create Bird_3
+   Object.absolutePosition -235.538/163.399/-135.505
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Dust_12]
+   Object.create Dust_12
+   Object.absolutePosition -251.718/155.800/179.909
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Mosquito_5]
+   Object.create Mosquito_5
+   Object.absolutePosition -185.858/149.799/179.557
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Mosquitos_5]
+   Object.create Mosquitos_5
+   Object.absolutePosition -252.640/163.598/-126.332
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Mosquito_3]
+   Object.create Mosquito_3
+   Object.absolutePosition -175.193/149.799/214.161
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+rem ********** AmbientEffectArea **********
+
+rem [AmbientEffectAreaTemplate: Dust_1_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_1_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_1_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 1
+ObjectTemplate.numNetworkedEffects 1
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_1_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_1_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_1_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.triggerId 1
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_2_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_2_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_2_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.triggerId 2
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_3_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_3_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_3_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 3
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_3_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_3_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_3_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 3
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_4_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_4_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_4_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 8
+ObjectTemplate.triggerId 4
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_4_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_4_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_4_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 8
+ObjectTemplate.triggerId 4
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_5_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_5_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_5_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 7
+ObjectTemplate.triggerId 5
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Mosquitos_1_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Mosquitos_1_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Mosquitos_1_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 6
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquitos_2_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Mosquitos_2_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Mosquitos_2_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquitos_2_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Mosquitos_2_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Mosquitos_2_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Dust_6_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_6_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_6_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 7
+ObjectTemplate.triggerId 8
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_6_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_6_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_6_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 8
+ObjectTemplate.triggerId 8
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_7_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_7_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_7_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 7
+ObjectTemplate.triggerId 10
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_7_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_7_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_7_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 7
+ObjectTemplate.triggerId 10
+ObjectTemplate.linkedEffectContainer e_damb_dustsmall
+
+rem [AmbientEffectAreaTemplate: Dust_8_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_8_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_8_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 11
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_8_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_8_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_8_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 8
+ObjectTemplate.triggerId 11
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_9_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_9_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_9_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 12
+ObjectTemplate.triggerId 12
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_9_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_9_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_9_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 9
+ObjectTemplate.triggerId 12
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_11_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_11_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_11_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 12
+ObjectTemplate.triggerId 14
+ObjectTemplate.linkedEffectContainer e_dAmb_dustTrail
+
+rem [AmbientEffectAreaTemplate: Dust_11_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_11_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_11_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 14
+ObjectTemplate.linkedEffectContainer e_damb_dustsmall
+
+rem [AmbientEffectAreaTemplate: Bird_1_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Bird_1_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Bird_1_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 3
+ObjectTemplate.triggerId 15
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_bird
+
+rem [AmbientEffectAreaTemplate: Dust_11_0_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_11_0_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_11_0_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 16
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Dust_11_0_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Dust_11_0_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Dust_11_0_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 16
+ObjectTemplate.linkedEffectContainer e_damb_dustsmall
+
+rem [AmbientEffectAreaTemplate: Bird_2_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Bird_2_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Bird_2_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.numNetworkedEffects 1
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_bird
+
+rem [AmbientEffectAreaTemplate: Bird_2_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Bird_2_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Bird_2_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.numNetworkedEffects 1
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_bird
+
+rem [AmbientEffectAreaTemplate: Bird_3_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Bird_3_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Bird_3_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.numNetworkedEffects 1
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_bird
+
+rem [AmbientEffectAreaTemplate: Dust_12_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Dust_12_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Dust_12_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 10
+ObjectTemplate.triggerId 20
+ObjectTemplate.linkedEffectContainer e_dAmb_dustCloud
+
+rem [AmbientEffectAreaTemplate: Mosquito_5_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Mosquito_5_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Mosquito_5_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 5
+ObjectTemplate.triggerId 19
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquito_5_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Mosquito_5_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Mosquito_5_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 2
+ObjectTemplate.triggerId 19
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquitos_5_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Mosquitos_5_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Mosquitos_5_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 2
+ObjectTemplate.triggerId 21
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquitos_5_AmbientEffect_2]
+ObjectTemplate.create AmbientEffectArea Mosquitos_5_AmbientEffect_2
+ObjectTemplate.activeSafe AmbientEffectArea Mosquitos_5_AmbientEffect_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 3
+ObjectTemplate.triggerId 21
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+rem [AmbientEffectAreaTemplate: Mosquito_3_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Mosquito_3_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Mosquito_3_AmbientEffect_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 2
+ObjectTemplate.triggerId 22
+ObjectTemplate.linkedEffectContainer e_dAmb_mosquito
+
+   rem [AmbientEffectArea: Dust_1_AmbientEffect_1]
+   Object.create Dust_1_AmbientEffect_1
+   Object.absolutePosition -155.678/161.427/-248.699
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_1_AmbientEffect_2]
+   Object.create Dust_1_AmbientEffect_2
+   Object.absolutePosition -153.536/161.298/-315.194
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_2_AmbientEffect_1]
+   Object.create Dust_2_AmbientEffect_1
+   Object.absolutePosition -161.403/161.605/-138.524
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_3_AmbientEffect_1]
+   Object.create Dust_3_AmbientEffect_1
+   Object.absolutePosition -221.691/161.572/-124.676
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_3_AmbientEffect_2]
+   Object.create Dust_3_AmbientEffect_2
+   Object.absolutePosition -212.637/163.399/-160.231
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_4_AmbientEffect_1]
+   Object.create Dust_4_AmbientEffect_1
+   Object.absolutePosition -161.066/155.800/-12.399
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_4_AmbientEffect_2]
+   Object.create Dust_4_AmbientEffect_2
+   Object.absolutePosition -163.726/155.800/-46.243
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_5_AmbientEffect_1]
+   Object.create Dust_5_AmbientEffect_1
+   Object.absolutePosition -242.000/155.800/5.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquitos_1_AmbientEffect_1]
+   Object.create Mosquitos_1_AmbientEffect_1
+   Object.absolutePosition -209.252/155.800/82.466
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquitos_2_AmbientEffect_1]
+   Object.create Mosquitos_2_AmbientEffect_1
+   Object.absolutePosition -226.874/155.800/84.709
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquitos_2_AmbientEffect_2]
+   Object.create Mosquitos_2_AmbientEffect_2
+   Object.absolutePosition -221.082/155.800/89.124
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_6_AmbientEffect_1]
+   Object.create Dust_6_AmbientEffect_1
+   Object.absolutePosition -204.000/149.899/149.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_6_AmbientEffect_2]
+   Object.create Dust_6_AmbientEffect_2
+   Object.absolutePosition -165.000/155.800/119.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_7_AmbientEffect_1]
+   Object.create Dust_7_AmbientEffect_1
+   Object.absolutePosition -127.000/149.899/265.196
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_7_AmbientEffect_2]
+   Object.create Dust_7_AmbientEffect_2
+   Object.absolutePosition -166.000/149.899/248.209
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_8_AmbientEffect_1]
+   Object.create Dust_8_AmbientEffect_1
+   Object.absolutePosition -303.000/167.553/220.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_8_AmbientEffect_2]
+   Object.create Dust_8_AmbientEffect_2
+   Object.absolutePosition -336.000/171.794/173.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_9_AmbientEffect_1]
+   Object.create Dust_9_AmbientEffect_1
+   Object.absolutePosition 26.000/149.996/263.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_9_AmbientEffect_2]
+   Object.create Dust_9_AmbientEffect_2
+   Object.absolutePosition -32.000/149.996/224.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_11_AmbientEffect_1]
+   Object.create Dust_11_AmbientEffect_1
+   Object.absolutePosition 138.504/152.696/137.868
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_11_AmbientEffect_2]
+   Object.create Dust_11_AmbientEffect_2
+   Object.absolutePosition 82.000/152.696/164.000
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Bird_1_AmbientEffect_1]
+   Object.create Bird_1_AmbientEffect_1
+   Object.absolutePosition -220.173/169.393/2.323
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_11_0_AmbientEffect_1]
+   Object.create Dust_11_0_AmbientEffect_1
+   Object.absolutePosition -271.931/155.800/145.243
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_11_0_AmbientEffect_2]
+   Object.create Dust_11_0_AmbientEffect_2
+   Object.absolutePosition -296.635/155.800/119.561
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Bird_2_AmbientEffect_1]
+   Object.create Bird_2_AmbientEffect_1
+   Object.absolutePosition -358.200/173.408/85.353
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Bird_2_AmbientEffect_2]
+   Object.create Bird_2_AmbientEffect_2
+   Object.absolutePosition -332.420/175.633/127.353
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Bird_3_AmbientEffect_1]
+   Object.create Bird_3_AmbientEffect_1
+   Object.absolutePosition -241.465/171.695/-123.652
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Dust_12_AmbientEffect_1]
+   Object.create Dust_12_AmbientEffect_1
+   Object.absolutePosition -251.538/155.800/208.453
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquito_5_AmbientEffect_1]
+   Object.create Mosquito_5_AmbientEffect_1
+   Object.absolutePosition -185.593/149.799/183.474
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquito_5_AmbientEffect_2]
+   Object.create Mosquito_5_AmbientEffect_2
+   Object.absolutePosition -195.415/149.799/174.989
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquitos_5_AmbientEffect_1]
+   Object.create Mosquitos_5_AmbientEffect_1
+   Object.absolutePosition -253.233/163.388/-129.862
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquitos_5_AmbientEffect_2]
+   Object.create Mosquitos_5_AmbientEffect_2
+   Object.absolutePosition -253.024/163.600/-123.478
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Mosquito_3_AmbientEffect_1]
+   Object.create Mosquito_3_AmbientEffect_1
+   Object.absolutePosition -175.446/149.799/214.887
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+rem ************ AmbientSounds ************
+
+rem [SoundObjectTemplate: S_GlobalAmbient]
+ObjectTemplate.create Sound S_GlobalAmbient
+ObjectTemplate.activeSafe Sound S_GlobalAmbient
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/strike_at_karkand_global_ambient.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.85
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.minDistance 300000
+
+Sound.addTrigger S_GlobalAmbient
+
+rem [SoundObjectTemplate: S_Harbour_1]
+ObjectTemplate.create Sound S_Harbour_1
+ObjectTemplate.activeSafe Sound S_Harbour_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/harbour_ambient.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.91
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 156.737/152.696/169.31
+ObjectTemplate.minDistance 270
+
+Sound.addTrigger S_Harbour_1
+
+rem [SoundObjectTemplate: S_City_Ambient_1]
+ObjectTemplate.create Sound S_City_Ambient_1
+ObjectTemplate.activeSafe Sound S_City_Ambient_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/city_ambient.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -216.996/155.8/44.962
+ObjectTemplate.minDistance 110
+
+Sound.addTrigger S_City_Ambient_1
+
+rem [SoundObjectTemplate: S_City_Ambient_2]
+ObjectTemplate.create Sound S_City_Ambient_2
+ObjectTemplate.activeSafe Sound S_City_Ambient_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/city_ambient.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -205.798/159.188/179.067
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_City_Ambient_2
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_1]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_1
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -240.302/163.399/-145.478
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_Trees_n_Tall_Grass_1
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_2]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_2
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -263.939/153.902/1.47
+ObjectTemplate.minDistance 17
+
+Sound.addTrigger S_Trees_n_Tall_Grass_2
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_3]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_3
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -259.398/155.8/-12.424
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_Trees_n_Tall_Grass_3
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_4]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_4
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -324.955/161.797/64.94
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Trees_n_Tall_Grass_4
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_5]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_5
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -356.468/165.097/87.309
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Trees_n_Tall_Grass_5
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_6]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_6
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_6
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -329.212/171.407/154.029
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Trees_n_Tall_Grass_6
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_7]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_7
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_7
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -315.402/167.033/234.14
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Trees_n_Tall_Grass_7
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_9]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_9
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_9
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -263.049/164.72/255
+ObjectTemplate.minDistance 7
+
+Sound.addTrigger S_Trees_n_Tall_Grass_9
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_10]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_10
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_10
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -256.803/161.797/288.31
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Trees_n_Tall_Grass_10
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_11]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_11
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_11
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -226.613/158.155/287.267
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Trees_n_Tall_Grass_11
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_12]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_12
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_12
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -152.4/155.8/-53.497
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Trees_n_Tall_Grass_12
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_13]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_13
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_13
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -281.115/165.934/202.323
+ObjectTemplate.minDistance 6
+
+Sound.addTrigger S_Trees_n_Tall_Grass_13
+
+rem [SoundObjectTemplate: S_Windy_Outpost_1]
+ObjectTemplate.create Sound S_Windy_Outpost_1
+ObjectTemplate.activeSafe Sound S_Windy_Outpost_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/windy_outpost_crane.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 295.375/187.574/148.157
+ObjectTemplate.minDistance 15
+
+Sound.addTrigger S_Windy_Outpost_1
+
+rem [SoundObjectTemplate: S_Windy_Outpost_2]
+ObjectTemplate.create Sound S_Windy_Outpost_2
+ObjectTemplate.activeSafe Sound S_Windy_Outpost_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/windy_outpost_crane.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -0.403/188.465/157.26
+ObjectTemplate.minDistance 6
+
+Sound.addTrigger S_Windy_Outpost_2
+
+rem [SoundObjectTemplate: S_Hangar_1]
+ObjectTemplate.create Sound S_Hangar_1
+ObjectTemplate.activeSafe Sound S_Hangar_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 106.651/152.696/234.059
+ObjectTemplate.minDistance 19
+
+Sound.addTrigger S_Hangar_1
+
+rem [SoundObjectTemplate: S_Hangar_2]
+ObjectTemplate.create Sound S_Hangar_2
+ObjectTemplate.activeSafe Sound S_Hangar_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 106.867/152.696/222.072
+ObjectTemplate.minDistance 19
+
+Sound.addTrigger S_Hangar_2
+
+rem [SoundObjectTemplate: S_Hangar_3]
+ObjectTemplate.create Sound S_Hangar_3
+ObjectTemplate.activeSafe Sound S_Hangar_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 106.921/152.696/211.716
+ObjectTemplate.minDistance 19
+
+Sound.addTrigger S_Hangar_3
+
+rem [SoundObjectTemplate: S_Hangar_4]
+ObjectTemplate.create Sound S_Hangar_4
+ObjectTemplate.activeSafe Sound S_Hangar_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 106.987/152.696/200.483
+ObjectTemplate.minDistance 19
+
+Sound.addTrigger S_Hangar_4
+
+rem [SoundObjectTemplate: S_Hangar_5]
+ObjectTemplate.create Sound S_Hangar_5
+ObjectTemplate.activeSafe Sound S_Hangar_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 95.136/152.696/197.873
+ObjectTemplate.minDistance 19
+
+Sound.addTrigger S_Hangar_5
+
+rem [SoundObjectTemplate: S_Hangar_6]
+ObjectTemplate.create Sound S_Hangar_6
+ObjectTemplate.activeSafe Sound S_Hangar_6
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 117.19/158.072/191.475
+ObjectTemplate.minDistance 16
+
+Sound.addTrigger S_Hangar_6
+
+rem [SoundObjectTemplate: S_Windy_Outpost_3]
+ObjectTemplate.create Sound S_Windy_Outpost_3
+ObjectTemplate.activeSafe Sound S_Windy_Outpost_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/windy_outpost_crane.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 185.217/209.789/300.393
+ObjectTemplate.minDistance 37
+
+Sound.addTrigger S_Windy_Outpost_3
+
+rem [SoundObjectTemplate: S_Alley_1]
+ObjectTemplate.create Sound S_Alley_1
+ObjectTemplate.activeSafe Sound S_Alley_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -179.787/155.8/-19.328
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_1
+
+rem [SoundObjectTemplate: S_Alley_2]
+ObjectTemplate.create Sound S_Alley_2
+ObjectTemplate.activeSafe Sound S_Alley_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -180.178/155.8/-13.583
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_2
+
+rem [SoundObjectTemplate: S_Alley_3]
+ObjectTemplate.create Sound S_Alley_3
+ObjectTemplate.activeSafe Sound S_Alley_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -182.029/155.8/-8.542
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_3
+
+rem [SoundObjectTemplate: S_Alley_4]
+ObjectTemplate.create Sound S_Alley_4
+ObjectTemplate.activeSafe Sound S_Alley_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -182.173/155.8/-1.096
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_4
+
+rem [SoundObjectTemplate: S_Alley_5]
+ObjectTemplate.create Sound S_Alley_5
+ObjectTemplate.activeSafe Sound S_Alley_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -187.592/155.8/1.058
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_5
+
+rem [SoundObjectTemplate: S_Alley_6]
+ObjectTemplate.create Sound S_Alley_6
+ObjectTemplate.activeSafe Sound S_Alley_6
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_war_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -176.937/155.8/0.809
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_Alley_6
+
+rem [SoundObjectTemplate: S_Alley_Hatches_1]
+ObjectTemplate.create Sound S_Alley_Hatches_1
+ObjectTemplate.activeSafe Sound S_Alley_Hatches_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_hatch_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.7
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -224.508/155.8/-2.797
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Alley_Hatches_1
+
+rem [SoundObjectTemplate: S_Square_1]
+ObjectTemplate.create Sound S_Square_1
+ObjectTemplate.activeSafe Sound S_Square_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/open_square.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -187.884/155.8/-28.954
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Square_1
+
+rem [SoundObjectTemplate: S_Alley_Med_1]
+ObjectTemplate.create Sound S_Alley_Med_1
+ObjectTemplate.activeSafe Sound S_Alley_Med_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_2.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -223.378/156.855/14.881
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Alley_Med_1
+
+rem [SoundObjectTemplate: S_Alley_Med_2]
+ObjectTemplate.create Sound S_Alley_Med_2
+ObjectTemplate.activeSafe Sound S_Alley_Med_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_2.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -187.999/151.003/231.119
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Alley_Med_2
+
+rem [SoundObjectTemplate: S_Alley_Med_3]
+ObjectTemplate.create Sound S_Alley_Med_3
+ObjectTemplate.activeSafe Sound S_Alley_Med_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_2.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -194.004/150.983/231.205
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Alley_Med_3
+
+rem [SoundObjectTemplate: S_Alley_Med_4]
+ObjectTemplate.create Sound S_Alley_Med_4
+ObjectTemplate.activeSafe Sound S_Alley_Med_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_2.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -171.458/149.799/190.05
+ObjectTemplate.minDistance 5
+
+Sound.addTrigger S_Alley_Med_4
+
+rem [SoundObjectTemplate: S_Alley_Hatches_2]
+ObjectTemplate.create Sound S_Alley_Hatches_2
+ObjectTemplate.activeSafe Sound S_Alley_Hatches_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_medium_hatch_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.67
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -145.768/155.8/48.967
+ObjectTemplate.minDistance 4.5
+
+Sound.addTrigger S_Alley_Hatches_2
+
+rem [SoundObjectTemplate: S_Alley_Narrow_1]
+ObjectTemplate.create Sound S_Alley_Narrow_1
+ObjectTemplate.activeSafe Sound S_Alley_Narrow_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_narrow.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -145.822/155.8/26.9
+ObjectTemplate.minDistance 4.5
+
+Sound.addTrigger S_Alley_Narrow_1
+
+rem [SoundObjectTemplate: S_Alley_Narrow_2]
+ObjectTemplate.create Sound S_Alley_Narrow_2
+ObjectTemplate.activeSafe Sound S_Alley_Narrow_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/alley_narrow.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -146.545/155.8/-19.441
+ObjectTemplate.minDistance 4.5
+
+Sound.addTrigger S_Alley_Narrow_2
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_14]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_14
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_14
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -356.297/173.136/183.897
+ObjectTemplate.minDistance 8
+
+Sound.addTrigger S_Trees_n_Tall_Grass_14
+
+rem [SoundObjectTemplate: S_Trees_n_Tall_Grass_15]
+ObjectTemplate.create Sound S_Trees_n_Tall_Grass_15
+ObjectTemplate.activeSafe Sound S_Trees_n_Tall_Grass_15
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/by_the_trees.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -278.991/167.299/228.545
+ObjectTemplate.minDistance 8
+
+Sound.addTrigger S_Trees_n_Tall_Grass_15
+
+rem [SoundObjectTemplate: S_Empty_Street_1]
+ObjectTemplate.create Sound S_Empty_Street_1
+ObjectTemplate.activeSafe Sound S_Empty_Street_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/empty_street_metal_whining.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -200.605/155.8/293.901
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Empty_Street_1
+
+rem [SoundObjectTemplate: S_Empty_Street_2]
+ObjectTemplate.create Sound S_Empty_Street_2
+ObjectTemplate.activeSafe Sound S_Empty_Street_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/empty_street_metal_whining.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -199.616/158.752/311.076
+ObjectTemplate.minDistance 11
+
+Sound.addTrigger S_Empty_Street_2
+
+rem [SoundObjectTemplate: S_Hangar_7]
+ObjectTemplate.create Sound S_Hangar_7
+ObjectTemplate.activeSafe Sound S_Hangar_7
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -120.152/146.597/411.656
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_7
+
+rem [SoundObjectTemplate: S_Hangar_8]
+ObjectTemplate.create Sound S_Hangar_8
+ObjectTemplate.activeSafe Sound S_Hangar_8
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -119.849/146.84/395.246
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_8
+
+rem [SoundObjectTemplate: S_Hangar_9]
+ObjectTemplate.create Sound S_Hangar_9
+ObjectTemplate.activeSafe Sound S_Hangar_9
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -120.286/147.071/382.126
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_9
+
+rem [SoundObjectTemplate: S_Hangar_10]
+ObjectTemplate.create Sound S_Hangar_10
+ObjectTemplate.activeSafe Sound S_Hangar_10
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 140.907/151.109/296.951
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_10
+
+rem [SoundObjectTemplate: S_Hangar_11]
+ObjectTemplate.create Sound S_Hangar_11
+ObjectTemplate.activeSafe Sound S_Hangar_11
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 126.418/151.661/297.582
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_11
+
+rem [SoundObjectTemplate: S_Hangar_12]
+ObjectTemplate.create Sound S_Hangar_12
+ObjectTemplate.activeSafe Sound S_Hangar_12
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/hangar_large_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 107.544/151.783/296.579
+ObjectTemplate.minDistance 18
+
+Sound.addTrigger S_Hangar_12
+
+rem [SoundObjectTemplate: S_Water_Under_Stone_Bridge_1]
+ObjectTemplate.create Sound S_Water_Under_Stone_Bridge_1
+ObjectTemplate.activeSafe Sound S_Water_Under_Stone_Bridge_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/under_stone_bridge_water.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -93.791/140.434/267.888
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Water_Under_Stone_Bridge_1
+
+rem [SoundObjectTemplate: S_Water_Under_Stone_Bridge_2]
+ObjectTemplate.create Sound S_Water_Under_Stone_Bridge_2
+ObjectTemplate.activeSafe Sound S_Water_Under_Stone_Bridge_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/under_stone_bridge_water.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -51.345/140.399/265.659
+ObjectTemplate.minDistance 9
+
+Sound.addTrigger S_Water_Under_Stone_Bridge_2
+
+rem [SoundObjectTemplate: S_River_]
+ObjectTemplate.create Sound S_River_
+ObjectTemplate.activeSafe Sound S_River_
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -52.594/135.747/426.284
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_River_
+
+rem [SoundObjectTemplate: S_River_2]
+ObjectTemplate.create Sound S_River_2
+ObjectTemplate.activeSafe Sound S_River_2
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -58.173/149.799/472.51
+ObjectTemplate.minDistance 45
+
+Sound.addTrigger S_River_2
+
+rem [SoundObjectTemplate: S_River_3]
+ObjectTemplate.create Sound S_River_3
+ObjectTemplate.activeSafe Sound S_River_3
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -59.101/149.799/388.249
+ObjectTemplate.minDistance 30
+
+Sound.addTrigger S_River_3
+
+rem [SoundObjectTemplate: S_River_4]
+ObjectTemplate.create Sound S_River_4
+ObjectTemplate.activeSafe Sound S_River_4
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -72.667/149.799/348.115
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_4
+
+rem [SoundObjectTemplate: S_River_5]
+ObjectTemplate.create Sound S_River_5
+ObjectTemplate.activeSafe Sound S_River_5
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -73.614/149.799/322.336
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_5
+
+rem [SoundObjectTemplate: S_River_6]
+ObjectTemplate.create Sound S_River_6
+ObjectTemplate.activeSafe Sound S_River_6
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -87.86/145.238/297.14
+ObjectTemplate.minDistance 10
+
+Sound.addTrigger S_River_6
+
+rem [SoundObjectTemplate: S_River_7]
+ObjectTemplate.create Sound S_River_7
+ObjectTemplate.activeSafe Sound S_River_7
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -93.302/145.238/283.909
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_7
+
+rem [SoundObjectTemplate: S_River_8]
+ObjectTemplate.create Sound S_River_8
+ObjectTemplate.activeSafe Sound S_River_8
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -51.75/149.996/281.452
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_8
+
+rem [SoundObjectTemplate: S_River_9]
+ObjectTemplate.create Sound S_River_9
+ObjectTemplate.activeSafe Sound S_River_9
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -56.963/149.996/299.226
+ObjectTemplate.minDistance 14
+
+Sound.addTrigger S_River_9
+
+rem [SoundObjectTemplate: S_River_10]
+ObjectTemplate.create Sound S_River_10
+ObjectTemplate.activeSafe Sound S_River_10
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -93.726/146/251.168
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_10
+
+rem [SoundObjectTemplate: S_River_11]
+ObjectTemplate.create Sound S_River_11
+ObjectTemplate.activeSafe Sound S_River_11
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -51.656/149.996/249.092
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_11
+
+rem [SoundObjectTemplate: S_River_12]
+ObjectTemplate.create Sound S_River_12
+ObjectTemplate.activeSafe Sound S_River_12
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -88.954/146/236.78
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_12
+
+rem [SoundObjectTemplate: S_River_13]
+ObjectTemplate.create Sound S_River_13
+ObjectTemplate.activeSafe Sound S_River_13
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -57.524/146/234.995
+ObjectTemplate.minDistance 12
+
+Sound.addTrigger S_River_13
+
+rem [SoundObjectTemplate: S_River_14]
+ObjectTemplate.create Sound S_River_14
+ObjectTemplate.activeSafe Sound S_River_14
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -74.089/146/214.484
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_14
+
+rem [SoundObjectTemplate: S_River_15]
+ObjectTemplate.create Sound S_River_15
+ObjectTemplate.activeSafe Sound S_River_15
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -75.17/146/188.317
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_15
+
+rem [SoundObjectTemplate: S_River_16]
+ObjectTemplate.create Sound S_River_16
+ObjectTemplate.activeSafe Sound S_River_16
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -74.303/146/163.478
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_16
+
+rem [SoundObjectTemplate: S_River_17]
+ObjectTemplate.create Sound S_River_17
+ObjectTemplate.activeSafe Sound S_River_17
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -70.96/146/134.104
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_17
+
+rem [SoundObjectTemplate: S_River_18]
+ObjectTemplate.create Sound S_River_18
+ObjectTemplate.activeSafe Sound S_River_18
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -67.19/146/92.304
+ObjectTemplate.minDistance 27
+
+Sound.addTrigger S_River_18
+
+rem [SoundObjectTemplate: S_River_19]
+ObjectTemplate.create Sound S_River_19
+ObjectTemplate.activeSafe Sound S_River_19
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 9.321/146/9.346
+ObjectTemplate.minDistance 70
+
+Sound.addTrigger S_River_19
+
+rem [SoundObjectTemplate: S_River_21]
+ObjectTemplate.create Sound S_River_21
+ObjectTemplate.activeSafe Sound S_River_21
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 113.591/146/-42.157
+ObjectTemplate.minDistance 90
+
+Sound.addTrigger S_River_21
+
+rem [SoundObjectTemplate: S_River_22]
+ObjectTemplate.create Sound S_River_22
+ObjectTemplate.activeSafe Sound S_River_22
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 219.031/146/-94.879
+ObjectTemplate.minDistance 90
+
+Sound.addTrigger S_River_22
+
+rem [SoundObjectTemplate: S_River_23]
+ObjectTemplate.create Sound S_River_23
+ObjectTemplate.activeSafe Sound S_River_23
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/dry_river_in_city_light_water_movement.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 336.584/126.458/-111.794
+ObjectTemplate.minDistance 150
+
+Sound.addTrigger S_River_23
+
+rem [SoundObjectTemplate: S_Gas_Station_1]
+ObjectTemplate.create Sound S_Gas_Station_1
+ObjectTemplate.activeSafe Sound S_Gas_Station_1
+ObjectTemplate.modifiedByUser dgo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/strike_at_karkand/gas_station.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -133.085/160.702/-292.074
+ObjectTemplate.minDistance 14
+
+Sound.addTrigger S_Gas_Station_1
+
+if v_arg1 == BF2Editor
+
+Object.create S_Harbour_1
+Object.absolutePosition 156.737/152.696/169.310
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_City_Ambient_1
+Object.absolutePosition -216.996/155.800/44.962
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_City_Ambient_2
+Object.absolutePosition -205.798/159.188/179.067
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_1
+Object.absolutePosition -240.302/163.399/-145.478
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_2
+Object.absolutePosition -263.939/153.902/1.470
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_3
+Object.absolutePosition -259.398/155.800/-12.424
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_4
+Object.absolutePosition -324.955/161.797/64.940
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_5
+Object.absolutePosition -356.468/165.097/87.309
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_6
+Object.absolutePosition -329.212/171.407/154.029
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_7
+Object.absolutePosition -315.402/167.033/234.140
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_9
+Object.absolutePosition -263.049/164.720/255.000
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_10
+Object.absolutePosition -256.803/161.797/288.310
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_11
+Object.absolutePosition -226.613/158.155/287.267
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_12
+Object.absolutePosition -152.400/155.800/-53.497
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_13
+Object.absolutePosition -281.115/165.934/202.323
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Windy_Outpost_1
+Object.absolutePosition 295.375/187.574/148.157
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Windy_Outpost_2
+Object.absolutePosition -0.403/188.465/157.260
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_1
+Object.absolutePosition 106.651/152.696/234.059
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_2
+Object.absolutePosition 106.867/152.696/222.072
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_3
+Object.absolutePosition 106.921/152.696/211.716
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_4
+Object.absolutePosition 106.987/152.696/200.483
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_5
+Object.absolutePosition 95.136/152.696/197.873
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_6
+Object.absolutePosition 117.190/158.072/191.475
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Windy_Outpost_3
+Object.absolutePosition 185.217/209.789/300.393
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_1
+Object.absolutePosition -179.787/155.800/-19.328
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_2
+Object.absolutePosition -180.178/155.800/-13.583
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_3
+Object.absolutePosition -182.029/155.800/-8.542
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_4
+Object.absolutePosition -182.173/155.800/-1.096
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_5
+Object.absolutePosition -187.592/155.800/1.058
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_6
+Object.absolutePosition -176.937/155.800/0.809
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Hatches_1
+Object.absolutePosition -224.508/155.800/-2.797
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Square_1
+Object.absolutePosition -187.884/155.800/-28.954
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Med_1
+Object.absolutePosition -223.378/156.855/14.881
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Med_2
+Object.absolutePosition -187.999/151.003/231.119
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Med_3
+Object.absolutePosition -194.004/150.983/231.205
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Med_4
+Object.absolutePosition -171.458/149.799/190.050
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Hatches_2
+Object.absolutePosition -145.768/155.800/48.967
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Narrow_1
+Object.absolutePosition -145.822/155.800/26.900
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Alley_Narrow_2
+Object.absolutePosition -146.545/155.800/-19.441
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_14
+Object.absolutePosition -356.297/173.136/183.897
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Trees_n_Tall_Grass_15
+Object.absolutePosition -278.991/167.299/228.545
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Empty_Street_1
+Object.absolutePosition -200.605/155.800/293.901
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Empty_Street_2
+Object.absolutePosition -199.616/158.752/311.076
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_7
+Object.absolutePosition -120.152/146.597/411.656
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_8
+Object.absolutePosition -119.849/146.840/395.246
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_9
+Object.absolutePosition -120.286/147.071/382.126
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_10
+Object.absolutePosition 140.907/151.109/296.951
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_11
+Object.absolutePosition 126.418/151.661/297.582
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Hangar_12
+Object.absolutePosition 107.544/151.783/296.579
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Water_Under_Stone_Bridge_1
+Object.absolutePosition -93.791/140.434/267.888
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Water_Under_Stone_Bridge_2
+Object.absolutePosition -51.345/140.399/265.659
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_
+Object.absolutePosition -52.594/135.747/426.284
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_2
+Object.absolutePosition -58.173/149.799/472.510
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_3
+Object.absolutePosition -59.101/149.799/388.249
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_4
+Object.absolutePosition -72.667/149.799/348.115
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_5
+Object.absolutePosition -73.614/149.799/322.336
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_6
+Object.absolutePosition -87.860/145.238/297.140
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_7
+Object.absolutePosition -93.302/145.238/283.909
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_8
+Object.absolutePosition -51.750/149.996/281.452
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_9
+Object.absolutePosition -56.963/149.996/299.226
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_10
+Object.absolutePosition -93.726/146.000/251.168
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_11
+Object.absolutePosition -51.656/149.996/249.092
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_12
+Object.absolutePosition -88.954/146.000/236.780
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_13
+Object.absolutePosition -57.524/146.000/234.995
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_14
+Object.absolutePosition -74.089/146.000/214.484
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_15
+Object.absolutePosition -75.170/146.000/188.317
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_16
+Object.absolutePosition -74.303/146.000/163.478
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_17
+Object.absolutePosition -70.960/146.000/134.104
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_18
+Object.absolutePosition -67.190/146.000/92.304
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_19
+Object.absolutePosition 9.321/146.000/9.346
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_21
+Object.absolutePosition 113.591/146.000/-42.157
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_22
+Object.absolutePosition 219.031/146.000/-94.879
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_River_23
+Object.absolutePosition 336.584/126.458/-111.794
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_Gas_Station_1
+Object.absolutePosition -133.085/160.702/-292.074
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+endIf

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://g7smulifmmc7"
+path="res://.godot/imported/rotrodraft_1.dds-0c3a9cb3853e1775dd8a01e8446c46a6.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/rotrodraft_1.dds"
+dest_files=["res://.godot/imported/rotrodraft_1.dds-0c3a9cb3853e1775dd8a01e8446c46a6.res"]
+
+[params]
+
+mipmaps/generate=true

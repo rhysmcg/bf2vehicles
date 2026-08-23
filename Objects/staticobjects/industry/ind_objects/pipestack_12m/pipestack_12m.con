@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh pipestack_12m
+CollisionManager.createTemplate pipestack_12m
+
+ObjectTemplate.create SimpleObject pipestack_12m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh pipestack_12m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 steel 0
+ObjectTemplate.mapMaterial 2 pipeStack_01_wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pipestack_12m
+ObjectTemplate.anchor -5.7109/-0.0233/-0.7257
+
+include pipestack_12m.tweak

@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh train_rail_crossing
+CollisionManager.createTemplate train_rail_crossing
+
+ObjectTemplate.create SimpleObject train_rail_crossing
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh train_rail_crossing
+ObjectTemplate.mapMaterial 0 Gravel 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 4 stair_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry train_rail_crossing
+ObjectTemplate.anchor 0/-0.2576/-12.0000
+
+include train_rail_crossing.tweak

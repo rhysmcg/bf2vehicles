@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cxr6alerw5dh5"
+path="res://.godot/imported/wasp_defence_phalanx_c.dds-ed54f08bbb0270c35046368c528676b1.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/wasp_defence_back/textures/wasp_defence_phalanx_c.dds"
+dest_files=["res://.godot/imported/wasp_defence_phalanx_c.dds-ed54f08bbb0270c35046368c528676b1.res"]
+
+[params]
+
+mipmaps/generate=true

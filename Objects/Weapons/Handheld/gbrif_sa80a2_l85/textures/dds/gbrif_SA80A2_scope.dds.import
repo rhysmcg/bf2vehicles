@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bbu3ypumuxylw"
+path="res://.godot/imported/gbrif_SA80A2_scope.dds-b5eb77da1968dbd4243f55b5dcae97b9.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_sa80a2_l85/textures/dds/gbrif_SA80A2_scope.dds"
+dest_files=["res://.godot/imported/gbrif_SA80A2_scope.dds-b5eb77da1968dbd4243f55b5dcae97b9.res"]
+
+[params]
+
+mipmaps/generate=true

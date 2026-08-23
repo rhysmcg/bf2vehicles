@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh gasstation_cistern
+CollisionManager.createTemplate gasstation_cistern
+
+ObjectTemplate.create Bundle gasstation_cistern
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh gasstation_cistern
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gasstation_cistern
+ObjectTemplate.anchor -0.0261/-4.4345/2.0855
+
+include gasstation_cistern.tweak

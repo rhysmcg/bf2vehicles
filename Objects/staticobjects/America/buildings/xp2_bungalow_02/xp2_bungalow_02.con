@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh xp2_bungalow_02
+CollisionManager.createTemplate xp2_bungalow_02
+
+ObjectTemplate.create SimpleObject xp2_bungalow_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator WENDY:wendyyo
+ObjectTemplate.collisionMesh xp2_bungalow_02
+ObjectTemplate.mapMaterial 0 Common_01_c_Common_02_de_Common_02_deb 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 Wood_solid 0
+ObjectTemplate.mapMaterial 3 metal_plate_thin 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.mapMaterial 5 Stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_bungalow_02
+ObjectTemplate.anchor 8.0433/-4.9243/6.1821
+
+include xp2_bungalow_02.tweak

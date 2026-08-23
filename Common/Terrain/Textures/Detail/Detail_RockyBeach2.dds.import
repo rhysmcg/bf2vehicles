@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bkjqdrpombw"
+path="res://.godot/imported/Detail_RockyBeach2.dds-133b0c621964329ac630a77803d6b6b6.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_RockyBeach2.dds"
+dest_files=["res://.godot/imported/Detail_RockyBeach2.dds-133b0c621964329ac630a77803d6b6b6.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,58 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/29 17:0]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.setSubGeometryLodDistance 1 0 50
+GeometryTemplate.setSubGeometryLodDistance 1 1 100
+GeometryTemplate.setSubGeometryLodDistance 1 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject dam_bridge_part1
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.isDestructable 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 1000
+ObjectTemplate.armor.hitPoints 1000
+ObjectTemplate.armor.defaultMaterial 112
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.explosionMaterial 98
+ObjectTemplate.armor.wreckHitPoints 1000
+ObjectTemplate.armor.timeToStayAsWreck -1
+ObjectTemplate.armor.timeToStayAfterDestroyed -1
+ObjectTemplate.armor.canBeRepairedWhenWreck 1
+ObjectTemplate.armor.showDamageAsDirt 500
+ObjectTemplate.armor.addArmorEffect 75 e_dstate_bridge_d1 0/0.995568/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 35 e_dstate_bridge_d2 0/0.995568/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_bridge 0/0/0 0/0/0
+rem ---EndComp ---
+rem ---BeginComp:StrategicObject ---
+ObjectTemplate.createComponent StrategicObject
+ObjectTemplate.StrategicObject.strategicObjectName indbrdg
+ObjectTemplate.StrategicObject.destroyedIcon Ingame\Minimap\Icons\Bridge_broken.tga
+ObjectTemplate.StrategicObject.intactIcon Ingame\Minimap\Icons\Bridge.tga
+ObjectTemplate.StrategicObject.part 1
+ObjectTemplate.StrategicObject.3dMapIcon 0
+rem ---EndComp ---
+ObjectTemplate.geometry dam_bridge_part1
+ObjectTemplate.setCollisionMesh Dam_bridge_part1
+ObjectTemplate.mapMaterial 0 wood_solid 15
+ObjectTemplate.mapMaterial 1 concret 78
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 metal_solid 21
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.aiTemplate dam_bridge_part1
+ObjectTemplate.respawnDelay 60
+ObjectTemplate.usedByAi 1
+ObjectTemplate.initiallyWalkable 1
+ObjectTemplate.minCorner -6/-4/-11
+ObjectTemplate.maxCorner 6/3.5/11
+

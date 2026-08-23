@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/6 0:16]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject cable100m_powerline_end
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser dfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry cable100m_powerline_end
+ObjectTemplate.hasMobilePhysics 0
+

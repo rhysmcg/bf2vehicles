@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh fence_corrugated_6x12m_corner_01
+CollisionManager.createTemplate fence_corrugated_6x12m_corner_01
+
+ObjectTemplate.create SimpleObject fence_corrugated_6x12m_corner_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh fence_corrugated_6x12m_corner_01
+ObjectTemplate.mapMaterial 0 Metal_thin 0
+ObjectTemplate.mapMaterial 1 Metal_Solid 0
+ObjectTemplate.mapMaterial 2 BarbedWire 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fence_corrugated_6x12m_corner_01
+ObjectTemplate.anchor 0/-2.9424/0
+
+include fence_corrugated_6x12m_corner_01.tweak

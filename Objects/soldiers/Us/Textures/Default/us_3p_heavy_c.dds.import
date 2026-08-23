@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://q2mlw1tvcgjr"
+path="res://.godot/imported/us_3p_heavy_c.dds-4fa9f660f212cae83b498e87c6ce010f.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/Default/us_3p_heavy_c.dds"
+dest_files=["res://.godot/imported/us_3p_heavy_c.dds-4fa9f660f212cae83b498e87c6ce010f.res"]
+
+[params]
+
+mipmaps/generate=true

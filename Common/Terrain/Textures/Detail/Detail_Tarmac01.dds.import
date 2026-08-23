@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://7607scmhhmx5"
+path="res://.godot/imported/Detail_Tarmac01.dds-26576031971152a43975c3b7ca77169a.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Tarmac01.dds"
+dest_files=["res://.godot/imported/Detail_Tarmac01.dds-26576031971152a43975c3b7ca77169a.res"]
+
+[params]
+
+mipmaps/generate=true

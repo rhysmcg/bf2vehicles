@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://fs0hvmvinoqt"
+path="res://.godot/imported/Detail_Leaf.dds-60e3f73de3be466834776b27951c012f.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Leaf.dds"
+dest_files=["res://.godot/imported/Detail_Leaf.dds-60e3f73de3be466834776b27951c012f.res"]
+
+[params]
+
+mipmaps/generate=true

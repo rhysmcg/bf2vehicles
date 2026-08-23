@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh parkingmeter_dest
+CollisionManager.createTemplate parkingmeter_dest
+
+ObjectTemplate.create DestroyableObject parkingmeter_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh parkingmeter_dest
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry parkingmeter_dest
+
+include parkingmeter_dest.tweak

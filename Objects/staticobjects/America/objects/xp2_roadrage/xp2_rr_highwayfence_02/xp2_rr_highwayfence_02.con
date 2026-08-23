@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_rr_highwayfence_02
+CollisionManager.createTemplate xp2_rr_highwayfence_02
+
+ObjectTemplate.create SimpleObject xp2_rr_highwayfence_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JULIOC:julioce
+ObjectTemplate.collisionMesh xp2_rr_highwayfence_02
+ObjectTemplate.mapMaterial 0 xp2_highwayfence_01:Metal_solid 0
+ObjectTemplate.mapMaterial 1 xp2_highwayfence_01:Wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_highwayfence_02
+ObjectTemplate.anchor 18.5658/-1.9593/-54.6357
+
+include xp2_rr_highwayfence_02.tweak

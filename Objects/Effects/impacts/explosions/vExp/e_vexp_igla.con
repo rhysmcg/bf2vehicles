@@ -1,0 +1,119 @@
+GeometryTemplate.create BundledMesh e_vexp_igla
+
+ObjectTemplate.create EffectBundle e_vexp_igla
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vExp_Igla_base
+ObjectTemplate.setPosition 0/0.1134/0
+ObjectTemplate.addTemplate em_vExp_Igla_footrest
+ObjectTemplate.setPosition 0.0202/0.2135/0.2190
+ObjectTemplate.addTemplate em_vExp_Igla_frame
+ObjectTemplate.setPosition 0.0127/0.5821/-0.1504
+ObjectTemplate.addTemplate em_vExp_Igla_seat
+ObjectTemplate.setPosition -0.0078/0.6882/-0.1099
+ObjectTemplate.addTemplate em_vExp_Igla_cpu
+ObjectTemplate.setPosition 0.3760/0.6321/0.1683
+ObjectTemplate.addTemplate em_vExp_Igla_bracing
+ObjectTemplate.setPosition -0.0251/1.1788/-0.5877
+ObjectTemplate.addTemplate em_vExp_Igla_launcher1
+ObjectTemplate.setPosition -0.2592/1.0169/-0.2113
+ObjectTemplate.addTemplate em_vExp_Igla_launcher2
+ObjectTemplate.setPosition 0.1598/1.0436/-0.2067
+
+ObjectTemplate.create Emitter em_vExp_Igla_base
+ObjectTemplate.template p_vExp_Igla_base
+
+ObjectTemplate.create Particle p_vExp_Igla_base
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vExp_Igla_footrest
+ObjectTemplate.template p_vExp_Igla_footrest
+
+ObjectTemplate.create Particle p_vExp_Igla_footrest
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vExp_Igla_frame
+ObjectTemplate.template p_vExp_Igla_frame
+
+ObjectTemplate.create Particle p_vExp_Igla_frame
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_vExp_Igla_seat
+ObjectTemplate.template p_vExp_Igla_seat
+
+ObjectTemplate.create Particle p_vExp_Igla_seat
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_vExp_Igla_cpu
+ObjectTemplate.template p_vExp_Igla_cpu
+
+ObjectTemplate.create Particle p_vExp_Igla_cpu
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_vExp_Igla_bracing
+ObjectTemplate.template p_vExp_Igla_bracing
+
+ObjectTemplate.create Particle p_vExp_Igla_bracing
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_vExp_Igla_launcher1
+ObjectTemplate.template p_vExp_Igla_launcher1
+
+ObjectTemplate.create Particle p_vExp_Igla_launcher1
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_vExp_Igla_launcher2
+ObjectTemplate.template p_vExp_Igla_launcher2
+
+ObjectTemplate.create Particle p_vExp_Igla_launcher2
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 igla_wreck 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.geometryPart 7
+
+include e_vexp_igla.tweak

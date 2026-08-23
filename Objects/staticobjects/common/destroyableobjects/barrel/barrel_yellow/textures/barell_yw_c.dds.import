@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://i4gvqi7uwqdy"
+path="res://.godot/imported/barell_yw_c.dds-035e61542ef4c3fb4c9fa6bf1f1c2548.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/barrel/barrel_yellow/textures/barell_yw_c.dds"
+dest_files=["res://.godot/imported/barell_yw_c.dds-035e61542ef4c3fb4c9fa6bf1f1c2548.res"]
+
+[params]
+
+mipmaps/generate=true

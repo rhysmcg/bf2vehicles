@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled tarmac_oman
+ObjectTemplate.create SimpleObject tarmac_oman
+ObjectTemplate.geometry tarmac_oman

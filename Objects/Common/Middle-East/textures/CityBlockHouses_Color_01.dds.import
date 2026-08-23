@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dinq2a4orf8hw"
+path="res://.godot/imported/CityBlockHouses_Color_01.dds-10ef60e47de43718709825fcd3be28a2.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/CityBlockHouses_Color_01.dds"
+dest_files=["res://.godot/imported/CityBlockHouses_Color_01.dds-10ef60e47de43718709825fcd3be28a2.res"]
+
+[params]
+
+mipmaps/generate=true

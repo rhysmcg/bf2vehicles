@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh live_greatwall_templewall
+CollisionManager.createTemplate live_greatwall_templewall
+
+ObjectTemplate.create SimpleObject live_greatwall_templewall
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIEL:Danielab
+ObjectTemplate.collisionMesh live_greatwall_templewall
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry live_greatwall_templewall
+
+include live_greatwall_templewall.tweak

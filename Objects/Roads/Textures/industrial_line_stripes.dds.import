@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cg8q17x0sgnne"
+path="res://.godot/imported/industrial_line_stripes.dds-4a6e81ab89c6bd5a84dcbca1932ed681.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/industrial_line_stripes.dds"
+dest_files=["res://.godot/imported/industrial_line_stripes.dds-4a6e81ab89c6bd5a84dcbca1932ed681.res"]
+
+[params]
+
+mipmaps/generate=true

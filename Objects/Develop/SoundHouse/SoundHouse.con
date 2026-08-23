@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh SoundHouse
+
+ObjectTemplate.create SimpleObject SoundHouse
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh SoundHouse
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.geometry SoundHouse
+
+include SoundHouse.tweak

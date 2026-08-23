@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c6g61r37lsx81"
+path="res://.godot/imported/decal_CeramicTiles_1.dds-4dbdc169aec26fa2b592ae21fb47438c.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_CeramicTiles_1.dds"
+dest_files=["res://.godot/imported/decal_CeramicTiles_1.dds-4dbdc169aec26fa2b592ae21fb47438c.res"]
+
+[params]
+
+mipmaps/generate=true

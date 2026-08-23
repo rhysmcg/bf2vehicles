@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh xp2_birch_cluster_01_lod
+
+ObjectTemplate.create SimpleObject xp2_birch_cluster_01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.geometry xp2_birch_cluster_01_lod
+
+include xp2_birch_cluster_01_lod.tweak

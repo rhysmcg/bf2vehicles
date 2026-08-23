@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ep7i26675v7d"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/waterbasin.dds"
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh refug_edge
+CollisionManager.createTemplate refug_edge
+
+ObjectTemplate.create SimpleObject refug_edge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh refug_edge
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry refug_edge
+ObjectTemplate.anchor -0.0750/-0.0500/-0.9217
+
+include refug_edge.tweak

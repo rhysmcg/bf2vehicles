@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh sign_noentry
+CollisionManager.createTemplate sign_noentry
+
+ObjectTemplate.create SimpleObject sign_noentry
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sign_noentry
+ObjectTemplate.mapMaterial 0 wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_noentry
+
+include sign_noentry.tweak

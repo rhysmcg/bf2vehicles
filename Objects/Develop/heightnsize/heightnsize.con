@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh heightnsize
+
+ObjectTemplate.create SimpleObject heightnsize
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh heightnsize
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 wood 2
+ObjectTemplate.mapMaterial 3 COM01c_INDObj01de_cgfx 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry heightnsize
+
+include heightnsize.tweak

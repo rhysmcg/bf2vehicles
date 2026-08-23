@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/17 16:47]
+ObjectTemplate.activeSafe Particle p_wreck_08
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry p_wreck_08
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh p_wreck_08
+ObjectTemplate.mapMaterial 0 Metal_solid 60
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 20
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/3/4/0
+ObjectTemplate.size CRD_UNIFORM/0.8/1/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

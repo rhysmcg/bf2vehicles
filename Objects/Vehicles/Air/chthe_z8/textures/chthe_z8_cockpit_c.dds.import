@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dfn0ob6478w3c"
+path="res://.godot/imported/chthe_z8_cockpit_c.dds-cfd23d0ba6de5c9866610c210dec9c40.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/textures/chthe_z8_cockpit_c.dds"
+dest_files=["res://.godot/imported/chthe_z8_cockpit_c.dds-cfd23d0ba6de5c9866610c210dec9c40.res"]
+
+[params]
+
+mipmaps/generate=true

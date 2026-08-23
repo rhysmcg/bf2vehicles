@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wallhigh01_32m
+CollisionManager.createTemplate wallhigh01_32m
+
+ObjectTemplate.create SimpleObject wallhigh01_32m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh wallhigh01_32m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wallhigh01_32m
+
+include wallhigh01_32m.tweak

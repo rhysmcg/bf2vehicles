@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh dragon_waterplane
+CollisionManager.createTemplate dragon_waterplane
+
+ObjectTemplate.create SimpleObject dragon_waterplane
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh dragon_waterplane
+ObjectTemplate.mapMaterial 0 water 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dragon_waterplane
+ObjectTemplate.anchor -260.3826/0/-184.4546
+
+include dragon_waterplane.tweak

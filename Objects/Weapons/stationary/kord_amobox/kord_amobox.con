@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh kord_amobox
+
+ObjectTemplate.create SimpleObject kord_amobox
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.geometry kord_amobox
+
+include kord_amobox.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://tdlytpfmyhcu"
+path="res://.godot/imported/aav_type95_hud_b.dds-46775ce6de2ca50b6445d0aa02eb5aac.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_type95/textures/aav_type95_hud_b.dds"
+dest_files=["res://.godot/imported/aav_type95_hud_b.dds-46775ce6de2ca50b6445d0aa02eb5aac.res"]
+
+[params]
+
+mipmaps/generate=true

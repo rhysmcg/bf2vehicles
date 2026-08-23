@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/8 11:53]
+GeometryTemplate.setSubGeometryLodDistance 0 0 45
+GeometryTemplate.setSubGeometryLodDistance 0 1 90
+GeometryTemplate.setSubGeometryLodDistance 0 2 170
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle dam_powerbase
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_powerbase
+ObjectTemplate.setCollisionMesh Dam_powerbase
+ObjectTemplate.mapMaterial 0 solid_metal 21
+ObjectTemplate.mapMaterial 1 solid_wood 15
+ObjectTemplate.mapMaterial 2 thin_metal 20
+ObjectTemplate.mapMaterial 3 thin_wood 14
+ObjectTemplate.mapMaterial 4 concrete 78
+ObjectTemplate.mapMaterial 5 stairs_concrete 34
+ObjectTemplate.mapMaterial 6 stairs_metal 36
+ObjectTemplate.mapMaterial 7 soldier_slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.material 0
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_10m_noholders
+ObjectTemplate.setPosition -0.446538/-5.01427/-8.75743
+ObjectTemplate.setRotation 180/0/0
+rem -------------------------------------
+

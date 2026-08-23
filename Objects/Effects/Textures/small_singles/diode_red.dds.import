@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp6j1wbfrdgfn"
+path="res://.godot/imported/diode_red.dds-0dbaf4e2ea8e170bf827951909e8d0d2.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/diode_red.dds"
+dest_files=["res://.godot/imported/diode_red.dds-0dbaf4e2ea8e170bf827951909e8d0d2.res"]
+
+[params]
+
+mipmaps/generate=true

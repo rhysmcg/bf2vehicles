@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c0mm1jbbhfsxl"
+path="res://.godot/imported/stoneroad_light_xp2.dds-35237de9226726590ac0f1ad20735c81.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/stoneroad_light_xp2.dds"
+dest_files=["res://.godot/imported/stoneroad_light_xp2.dds-35237de9226726590ac0f1ad20735c81.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bmcu05pqiwf64"
+path="res://.godot/imported/detail_darkdirt01.dds-c9b7e0bc611321c2ff0ea56c9535e76f.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/detail_darkdirt01.dds"
+dest_files=["res://.godot/imported/detail_darkdirt01.dds-c9b7e0bc611321c2ff0ea56c9535e76f.res"]
+
+[params]
+
+mipmaps/generate=true

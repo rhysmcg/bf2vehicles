@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.setSubGeometryLodDistance 0 1 60
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject civiliancar1wreck
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.modifiedByUser lma
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry civiliancar1wreck
+ObjectTemplate.setCollisionMesh civiliancar1wreck
+ObjectTemplate.mapMaterial 0 metal 20
+ObjectTemplate.mapMaterial 1 rubber 22
+ObjectTemplate.mapMaterial 2 cloth 10
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

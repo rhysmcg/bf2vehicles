@@ -1,0 +1,43 @@
+GeometryTemplate.create BundledMesh ars_d30
+CollisionManager.createTemplate ars_d30
+
+ObjectTemplate.create PlayerControlObject ars_d30
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh ars_d30
+ObjectTemplate.mapMaterial 0 Lightarmourvehicle 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry ars_d30
+ObjectTemplate.addTemplate ARS_D30_Sadle
+ObjectTemplate.setPosition 0/0.3288/0
+
+ObjectTemplate.create RotationalBundle ARS_D30_Sadle
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate ARS_D30_BarrelBase
+ObjectTemplate.setPosition 0/0.5615/-0.3152
+
+ObjectTemplate.create RotationalBundle ARS_D30_BarrelBase
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate ARS_D30_Barrel
+ObjectTemplate.setPosition 0/-0.0218/-0.0226
+
+ObjectTemplate.create GenericFireArm ARS_D30_Barrel
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+include ars_d30.tweak

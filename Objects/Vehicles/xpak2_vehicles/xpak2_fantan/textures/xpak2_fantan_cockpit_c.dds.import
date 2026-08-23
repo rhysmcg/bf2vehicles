@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d0p220qlmu14v"
+path="res://.godot/imported/xpak2_fantan_cockpit_c.dds-0b1a2a5c755bd2cbe986cfb750f22b29.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_fantan/textures/xpak2_fantan_cockpit_c.dds"
+dest_files=["res://.godot/imported/xpak2_fantan_cockpit_c.dds-0b1a2a5c755bd2cbe986cfb750f22b29.res"]
+
+[params]
+
+mipmaps/generate=true

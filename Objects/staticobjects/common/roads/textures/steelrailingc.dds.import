@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ktpqpuee42et"
+path="res://.godot/imported/steelrailingc.dds-05f0f16b8fa5525e7eb93872f179807d.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/textures/steelrailingc.dds"
+dest_files=["res://.godot/imported/steelrailingc.dds-05f0f16b8fa5525e7eb93872f179807d.res"]
+
+[params]
+
+mipmaps/generate=true

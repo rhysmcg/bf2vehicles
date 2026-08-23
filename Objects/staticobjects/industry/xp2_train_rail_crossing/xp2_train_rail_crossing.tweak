@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/22 6:46]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_train_rail_crossing
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.modifiedByUser "jayev"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_train_rail_crossing
+ObjectTemplate.setCollisionMesh xp2_train_rail_crossing
+ObjectTemplate.mapMaterial 0 Gravel 3
+ObjectTemplate.mapMaterial 1 Metal_solid 21
+ObjectTemplate.mapMaterial 2 concrete 78
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 4 stair_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

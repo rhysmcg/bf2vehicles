@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh nc_birch_cluster01_lod
+
+ObjectTemplate.create SimpleObject nc_birch_cluster01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry nc_birch_cluster01_lod
+
+include nc_birch_cluster01_lod.tweak

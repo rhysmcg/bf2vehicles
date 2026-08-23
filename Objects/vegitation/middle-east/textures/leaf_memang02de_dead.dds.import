@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://78heiqbdeyna"
+path="res://.godot/imported/leaf_memang02de_dead.dds-9bae186ab97087d2d84c66bc8c6cb28a.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_memang02de_dead.dds"
+dest_files=["res://.godot/imported/leaf_memang02de_dead.dds-9bae186ab97087d2d84c66bc8c6cb28a.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cph5n2vifm08e"
+path="res://.godot/imported/hmg_m2hb_ammobox.dds-b6f04dca6d0a42a007c3a1c207b95c12.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/hmg_m2hb_ammobox/textures/hmg_m2hb_ammobox.dds"
+dest_files=["res://.godot/imported/hmg_m2hb_ammobox.dds-b6f04dca6d0a42a007c3a1c207b95c12.res"]
+
+[params]
+
+mipmaps/generate=true

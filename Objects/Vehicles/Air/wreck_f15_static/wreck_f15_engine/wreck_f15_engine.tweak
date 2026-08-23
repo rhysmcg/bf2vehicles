@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/21 9:23]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject wreck_f15_engine
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry wreck_f15_engine
+ObjectTemplate.setCollisionMesh wreck_f15_engine
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh house_low_03
+CollisionManager.createTemplate house_low_03
+
+ObjectTemplate.create Bundle house_low_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh house_low_03
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Metal_Solid 0
+ObjectTemplate.mapMaterial 4 Cloth_carpet 0
+ObjectTemplate.mapMaterial 5 Wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_low_03
+
+include house_low_03.tweak

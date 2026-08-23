@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/13 13:54]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject cone_dest
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.alignLastEffectToHitDirection 1
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_cone 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry cone_dest
+ObjectTemplate.setCollisionMesh cone_dest
+ObjectTemplate.mapMaterial 0 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

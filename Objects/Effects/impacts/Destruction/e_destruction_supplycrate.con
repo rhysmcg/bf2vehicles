@@ -1,0 +1,117 @@
+GeometryTemplate.create BundledMesh e_destruction_supplycrate
+
+ObjectTemplate.create EffectBundle e_destruction_supplycrate
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap1
+ObjectTemplate.setPosition 0.8925/0.35/0.5211
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap1
+ObjectTemplate.setPosition 0.8925/0.34/0.15
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap1
+ObjectTemplate.setPosition 0.8925/0.345/-0.15
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap1
+ObjectTemplate.setPosition 0.8925/0.35/-0.51
+
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap2
+ObjectTemplate.setPosition 0.8918/-0.04/0.5211
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap2
+ObjectTemplate.setPosition 0.8918/-0.045/0.15
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap2
+ObjectTemplate.setPosition 0.8918/-0.038/-0.15
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap2
+ObjectTemplate.setPosition 0.8918/-0.05/-0.51
+
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap3
+ObjectTemplate.setPosition 0.8328/0.1719/0.2793
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap3
+ObjectTemplate.setPosition 0.8328/-0.2/0.2793
+
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap4
+ObjectTemplate.setPosition 0.8652/0.1719/-0.2124
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Strap4
+ObjectTemplate.setPosition 0.8652/-0.2/-0.2124
+
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.setPosition 0.6526/-0.3705/-0.5738
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.setPosition 0.7394/0.4074/-0.6385
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.setPosition 0.8004/-0.2552/-0.2287
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.setPosition 0.7823/-0.1749/0.4691
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.setPosition 0.8020/0.2770/0.4425
+ObjectTemplate.addTemplate em_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.setPosition 0.8095/0.2486/-0.2477
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Strap1
+ObjectTemplate.template p_destruction_SupplyCrate_Strap1
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Strap1
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Strap2
+ObjectTemplate.template p_destruction_SupplyCrate_Strap2
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Strap2
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Strap3
+ObjectTemplate.template p_destruction_SupplyCrate_Strap3
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Strap3
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Strap4
+ObjectTemplate.template p_destruction_SupplyCrate_Strap4
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Strap4
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.template p_destruction_SupplyCrate_CardboardCorner1
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_CardboardCorner1
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.template p_destruction_SupplyCrate_CardboardCorner2
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_CardboardCorner2
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard1
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Cardboard1
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard2
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Cardboard2
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard3
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Cardboard3
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Emitter em_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.template p_destruction_SupplyCrate_Cardboard4
+
+ObjectTemplate.create Particle p_destruction_SupplyCrate_Cardboard4
+ObjectTemplate.geometry e_destruction_supplycrate
+ObjectTemplate.geometryPart 9
+
+include e_destruction_supplycrate.tweak

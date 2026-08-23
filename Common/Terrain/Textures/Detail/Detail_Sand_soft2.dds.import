@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bbpd4o7v285e0"
+path="res://.godot/imported/Detail_Sand_soft2.dds-a21caba61fcf28d35c42452f6e543b99.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Sand_soft2.dds"
+dest_files=["res://.godot/imported/Detail_Sand_soft2.dds-a21caba61fcf28d35c42452f6e543b99.res"]
+
+[params]
+
+mipmaps/generate=true

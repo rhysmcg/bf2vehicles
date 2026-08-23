@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh service_station
+CollisionManager.createTemplate service_station
+
+ObjectTemplate.create Bundle service_station
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh service_station
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Glass_NOT_penetrable 0
+ObjectTemplate.mapMaterial 4 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry service_station
+ObjectTemplate.anchor 2.7804/-3.6540/7.9279
+
+include service_station.tweak

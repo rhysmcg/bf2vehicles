@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://brbtpji35gx1n"
+path="res://.godot/imported/leaf_ncbirch01_le.dds-e6f73cbd12e62c1e1dd9c8ea2cb8264d.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_ncbirch01_le.dds"
+dest_files=["res://.godot/imported/leaf_ncbirch01_le.dds-e6f73cbd12e62c1e1dd9c8ea2cb8264d.res"]
+
+[params]
+
+mipmaps/generate=true

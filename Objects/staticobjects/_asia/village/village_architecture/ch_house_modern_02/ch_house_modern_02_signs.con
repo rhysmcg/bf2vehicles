@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh ch_house_modern_02_signs
+CollisionManager.createTemplate ch_house_modern_02_signs
+
+ObjectTemplate.create SimpleObject ch_house_modern_02_signs
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MNY-1:mny
+ObjectTemplate.collisionMesh ch_house_modern_02_signs
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Penetrable_Cloth 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_02_signs
+ObjectTemplate.anchor 0.7686/-2.7573/-5.9416
+
+include ch_house_modern_02_signs.tweak

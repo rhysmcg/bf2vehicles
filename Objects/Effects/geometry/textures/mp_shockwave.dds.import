@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b4gbeyw7surlm"
+path="res://.godot/imported/mp_shockwave.dds-6752cb33e35bd38081e5764f459a2624.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/mp_shockwave.dds"
+dest_files=["res://.godot/imported/mp_shockwave.dds-6752cb33e35bd38081e5764f459a2624.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/3 13:26]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject ch_stnwalls_innersloope_30m_up
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser mkp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_stnwalls_innersloope_30m_up
+ObjectTemplate.setCollisionMesh ch_stnwalls_innersloope_30m_up
+ObjectTemplate.mapMaterial 0 rock 12
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

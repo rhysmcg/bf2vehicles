@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://caqrqx0jitwys"
+path="res://.godot/imported/soundhouse_c.dds-fd906a3e9004ff8e88ed3d6aae759285.res"
+
+[deps]
+
+source_file="res://Objects/Develop/SoundHouse/Textures/soundhouse_c.dds"
+dest_files=["res://.godot/imported/soundhouse_c.dds-fd906a3e9004ff8e88ed3d6aae759285.res"]
+
+[params]
+
+mipmaps/generate=true

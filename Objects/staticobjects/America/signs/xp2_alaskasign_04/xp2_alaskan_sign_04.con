@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_alaskan_sign_04
+CollisionManager.createTemplate xp2_alaskan_sign_04
+
+ObjectTemplate.create DestroyableObject xp2_alaskan_sign_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_alaskan_sign_04
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_alaskan_sign_04
+ObjectTemplate.anchor 0/-1.1622/0
+
+include xp2_alaskan_sign_04.tweak

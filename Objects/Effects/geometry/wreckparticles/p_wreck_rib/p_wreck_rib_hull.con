@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_rib_hull
+CollisionManager.createTemplate p_wreck_rib_hull
+
+ObjectTemplate.create Particle p_wreck_rib_hull
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_rib_hull
+ObjectTemplate.mapMaterial 0 plupp_Armor_2_light_armored_vehicles 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_rib_hull
+
+include p_wreck_rib_hull.tweak

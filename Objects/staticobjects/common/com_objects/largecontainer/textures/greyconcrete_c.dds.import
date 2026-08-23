@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b6sdcqccrx3cg"
+path="res://.godot/imported/greyconcrete_c.dds-460ee1222e9a6dc5c2ce1229e7313d6c.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/largecontainer/textures/greyconcrete_c.dds"
+dest_files=["res://.godot/imported/greyconcrete_c.dds-460ee1222e9a6dc5c2ce1229e7313d6c.res"]
+
+[params]
+
+mipmaps/generate=true

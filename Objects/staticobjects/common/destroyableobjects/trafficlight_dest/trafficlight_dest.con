@@ -1,0 +1,17 @@
+GeometryTemplate.create BundledMesh trafficlight_dest
+CollisionManager.createTemplate trafficlight_dest
+
+ObjectTemplate.create DestroyableObject trafficlight_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh trafficlight_dest
+ObjectTemplate.mapMaterial 0 colormapgloss 0
+ObjectTemplate.mapMaterial 1 metal_Solid 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry trafficlight_dest
+ObjectTemplate.anchor 0/-1.5894/-0.0798
+
+include trafficlight_dest.tweak

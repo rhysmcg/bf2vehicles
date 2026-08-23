@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b2nqvjf3uyr6h"
+path="res://.godot/imported/greyconcrete_c.dds-0dbc40a96547557ac324f1a4d7996354.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/militarymast/textures/greyconcrete_c.dds"
+dest_files=["res://.godot/imported/greyconcrete_c.dds-0dbc40a96547557ac324f1a4d7996354.res"]
+
+[params]
+
+mipmaps/generate=true

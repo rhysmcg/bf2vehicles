@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cjblucnri28pf"
+path="res://.godot/imported/industry_obj_01_de.dds-e0dbedb710c6fd991ea7074adac94017.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/textures/industry_obj_01_de.dds"
+dest_files=["res://.godot/imported/industry_obj_01_de.dds-e0dbedb710c6fd991ea7074adac94017.res"]
+
+[params]
+
+mipmaps/generate=true

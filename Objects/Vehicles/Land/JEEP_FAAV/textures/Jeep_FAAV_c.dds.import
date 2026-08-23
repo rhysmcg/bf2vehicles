@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bnjn56p4w54ex"
+path="res://.godot/imported/Jeep_FAAV_c.dds-5fbf98e8319b389a6f1ffd33d1ed1382.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/JEEP_FAAV/textures/Jeep_FAAV_c.dds"
+dest_files=["res://.godot/imported/Jeep_FAAV_c.dds-5fbf98e8319b389a6f1ffd33d1ed1382.res"]
+
+[params]
+
+mipmaps/generate=true

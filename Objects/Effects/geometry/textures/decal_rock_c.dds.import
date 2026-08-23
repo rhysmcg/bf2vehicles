@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dyif6r11pkw1v"
+path="res://.godot/imported/decal_rock_c.dds-cc5a8dd1adc7f2ee43e6c3efafa614e7.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/decal_rock_c.dds"
+dest_files=["res://.godot/imported/decal_rock_c.dds-cc5a8dd1adc7f2ee43e6c3efafa614e7.res"]
+
+[params]
+
+mipmaps/generate=true

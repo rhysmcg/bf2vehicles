@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dlg87rgrbjhc3"
+path="res://.godot/imported/Detail_Grassy2.dds-caafdf83a4208162f1f1b64a41001ed1.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Grassy2.dds"
+dest_files=["res://.godot/imported/Detail_Grassy2.dds-caafdf83a4208162f1f1b64a41001ed1.res"]
+
+[params]
+
+mipmaps/generate=true

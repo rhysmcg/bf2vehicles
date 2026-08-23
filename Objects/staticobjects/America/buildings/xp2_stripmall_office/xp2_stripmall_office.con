@@ -1,0 +1,21 @@
+GeometryTemplate.create StaticMesh xp2_stripmall_office
+CollisionManager.createTemplate xp2_stripmall_office
+
+ObjectTemplate.create bundle xp2_stripmall_office
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_stripmall_office
+ObjectTemplate.mapMaterial 0 brick 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 paper 0
+ObjectTemplate.mapMaterial 5 gravel 0
+ObjectTemplate.mapMaterial 6 glass 0
+ObjectTemplate.mapMaterial 7 stairs 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_stripmall_office
+ObjectTemplate.anchor -17.4125/-0.1291/16.0682
+
+include xp2_stripmall_office.tweak

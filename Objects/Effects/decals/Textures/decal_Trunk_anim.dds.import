@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cioqo2esixu82"
+path="res://.godot/imported/decal_Trunk_anim.dds-fcf6039c90983b021eff5318e0c4ef5f.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_Trunk_anim.dds"
+dest_files=["res://.godot/imported/decal_Trunk_anim.dds-fcf6039c90983b021eff5318e0c4ef5f.res"]
+
+[params]
+
+mipmaps/generate=true

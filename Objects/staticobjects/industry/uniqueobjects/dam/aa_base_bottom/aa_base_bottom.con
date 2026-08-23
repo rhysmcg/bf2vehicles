@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh aa_base_bottom
+
+ObjectTemplate.create SimpleObject aa_base_bottom
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator BF2-TEST-1:jcr
+ObjectTemplate.collisionMesh AA_base_bottom
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry aa_base_bottom
+
+include aa_base_bottom.tweak

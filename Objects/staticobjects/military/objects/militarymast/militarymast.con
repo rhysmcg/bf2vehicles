@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh militarymast
+
+ObjectTemplate.create SimpleObject militarymast
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh MilitaryMast
+ObjectTemplate.mapMaterial 0 dummyMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry militarymast
+ObjectTemplate.anchor -0.0538/-15.2210/0
+
+include militarymast.tweak

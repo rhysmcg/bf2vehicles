@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://by7ohhqe8sh8v"
+path="res://.godot/imported/hellfire_c.dds-447d3b6b337d8338cc0218b87336c233.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/hellfire_c.dds"
+dest_files=["res://.godot/imported/hellfire_c.dds-447d3b6b337d8338cc0218b87336c233.res"]
+
+[params]
+
+mipmaps/generate=true

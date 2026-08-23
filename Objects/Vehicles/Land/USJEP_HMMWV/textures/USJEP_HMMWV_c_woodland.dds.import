@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bwqtswrxefcw6"
+path="res://.godot/imported/USJEP_HMMWV_c_woodland.dds-9d40ceebcd01f8b1d8d16d30c2448eb7.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USJEP_HMMWV/textures/USJEP_HMMWV_c_woodland.dds"
+dest_files=["res://.godot/imported/USJEP_HMMWV_c_woodland.dds-9d40ceebcd01f8b1d8d16d30c2448eb7.res"]
+
+[params]
+
+mipmaps/generate=true

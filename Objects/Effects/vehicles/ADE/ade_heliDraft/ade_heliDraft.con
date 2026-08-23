@@ -1,0 +1,4 @@
+ObjectTemplate.create AirDraftEffectBundle ade_heliDraft
+ObjectTemplate.createdInEditor 1
+
+include ade_heliDraft.tweak

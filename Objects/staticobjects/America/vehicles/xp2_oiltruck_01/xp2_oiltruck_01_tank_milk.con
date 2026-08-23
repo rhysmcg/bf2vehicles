@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh xp2_oiltruck_01_tank_milk
+CollisionManager.createTemplate xp2_oiltruck_01_tank_milk
+
+ObjectTemplate.create Bundle xp2_oiltruck_01_tank_milk
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_oiltruck_01_tank_milk
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_oiltruck_01_tank_milk
+
+include xp2_oiltruck_01_tank_milk.tweak

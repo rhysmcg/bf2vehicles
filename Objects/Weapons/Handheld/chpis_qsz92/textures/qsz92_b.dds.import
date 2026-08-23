@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://br44tl0rk3vim"
+path="res://.godot/imported/qsz92_b.dds-102f638dc4f41168a4f350b00e7855bc.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chpis_qsz92/textures/qsz92_b.dds"
+dest_files=["res://.godot/imported/qsz92_b.dds-102f638dc4f41168a4f350b00e7855bc.res"]
+
+[params]
+
+mipmaps/generate=true

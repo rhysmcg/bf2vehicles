@@ -1,0 +1,7 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/30 12:9]
+ObjectTemplate.activeSafe Bundle e_towscope
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.geometry p_towscope
+ObjectTemplate.hasMobilePhysics 0
+

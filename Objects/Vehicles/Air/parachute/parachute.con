@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh parachute
+CollisionManager.createTemplate parachute
+
+ObjectTemplate.create Parachute parachute
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh parachute
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry parachute
+
+include parachute.tweak

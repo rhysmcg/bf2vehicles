@@ -1,0 +1,21 @@
+GeometryTemplate.create StaticMesh tv_house
+CollisionManager.createTemplate tv_house
+
+ObjectTemplate.create Bundle tv_house
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh tv_house
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 1 dirt 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 Metal_Solid 0
+ObjectTemplate.mapMaterial 5 wood_solid 0
+ObjectTemplate.mapMaterial 6 Stairs_concrete 0
+ObjectTemplate.mapMaterial 7 slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry tv_house
+ObjectTemplate.anchor 0/-29.6531/18.1029
+
+include tv_house.tweak

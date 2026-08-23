@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh chsalestable_pot_01
+CollisionManager.createTemplate chsalestable_pot_01
+
+ObjectTemplate.create DestroyableObject chsalestable_pot_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh chsalestable_pot_01
+ObjectTemplate.mapMaterial 0 porslin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chsalestable_pot_01
+
+include chsalestable_pot_01.tweak

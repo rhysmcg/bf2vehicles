@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh vent_pipe_curve90deg
+CollisionManager.createTemplate vent_pipe_curve90deg
+
+ObjectTemplate.create SimpleObject vent_pipe_curve90deg
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh vent_pipe_curve90deg
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry vent_pipe_curve90deg
+
+include vent_pipe_curve90deg.tweak

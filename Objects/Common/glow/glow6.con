@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh glow6
+CollisionManager.createTemplate glow6
+
+ObjectTemplate.create Bundle glow6
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh glow6
+ObjectTemplate.mapMaterial 0 glow 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry glow6
+
+include glow6.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bim6fnusn8mkx"
+path="res://.godot/imported/mec_3p_light_c.dds-f5788c85f36000b943b5787f5f6c8ff1.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/mec/Textures/mec_3p_light_c.dds"
+dest_files=["res://.godot/imported/mec_3p_light_c.dds-f5788c85f36000b943b5787f5f6c8ff1.res"]
+
+[params]
+
+mipmaps/generate=true

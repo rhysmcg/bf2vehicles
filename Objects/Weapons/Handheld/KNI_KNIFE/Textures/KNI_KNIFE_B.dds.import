@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bbnmepqc7giub"
+path="res://.godot/imported/KNI_KNIFE_B.dds-8d9c52e7215e89408161edd610096253.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/KNI_KNIFE/Textures/KNI_KNIFE_B.dds"
+dest_files=["res://.godot/imported/KNI_KNIFE_B.dds-8d9c52e7215e89408161edd610096253.res"]
+
+[params]
+
+mipmaps/generate=true

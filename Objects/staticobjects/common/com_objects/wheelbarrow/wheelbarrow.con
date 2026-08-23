@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh wheelbarrow
+CollisionManager.createTemplate wheelbarrow
+
+ObjectTemplate.create SimpleObject wheelbarrow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh wheelbarrow
+ObjectTemplate.mapMaterial 0 metalplate_thin 0
+ObjectTemplate.mapMaterial 1 tire 0
+ObjectTemplate.mapMaterial 2 wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wheelbarrow
+ObjectTemplate.anchor 0.0012/-0.3405/0.1297
+
+include wheelbarrow.tweak

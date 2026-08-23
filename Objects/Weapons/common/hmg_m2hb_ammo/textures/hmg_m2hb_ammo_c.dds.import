@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bnn5g5ap82r3b"
+path="res://.godot/imported/hmg_m2hb_ammo_c.dds-ba3a49dc1cf17aa61d12b13aa5bcd645.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/hmg_m2hb_ammo/textures/hmg_m2hb_ammo_c.dds"
+dest_files=["res://.godot/imported/hmg_m2hb_ammo_c.dds-ba3a49dc1cf17aa61d12b13aa5bcd645.res"]
+
+[params]
+
+mipmaps/generate=true

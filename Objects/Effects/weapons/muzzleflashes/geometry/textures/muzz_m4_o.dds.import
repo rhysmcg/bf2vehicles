@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cjnpls6nj6wig"
+path="res://.godot/imported/muzz_m4_o.dds-b7f5f062ed0fe7d7a27b998d7bf3e85f.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/textures/muzz_m4_o.dds"
+dest_files=["res://.godot/imported/muzz_m4_o.dds-b7f5f062ed0fe7d7a27b998d7bf3e85f.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,228 @@
+GeometryTemplate.create BundledMesh aav_tunguska
+GeometryTemplate.nrOfAnimatedUVMatrix 6
+CollisionManager.createTemplate aav_tunguska
+
+ObjectTemplate.create PlayerControlObject aav_tunguska
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh aav_tunguska
+ObjectTemplate.mapMaterial 0 Armor_2_light_armored_vehicles 0
+ObjectTemplate.mapMaterial 1 penetrablemetal 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 Metal_solid 0
+ObjectTemplate.mapMaterial 4 penetrable_glass 0
+ObjectTemplate.mapMaterial 5 parts_carpet 0
+ObjectTemplate.mapMaterial 6 tanktracks 0
+ObjectTemplate.mapMaterial 7 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry aav_tunguska
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Turret
+ObjectTemplate.setPosition 0/0.9903/0.6807
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Engine
+ObjectTemplate.setPosition 0/0.3547/0
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_Turret
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Barrel_Base
+ObjectTemplate.setPosition 0/0.8013/-1.2227
+ObjectTemplate.addTemplate AAV_TUNGUSKA_CupolaBase
+ObjectTemplate.setPosition 0.1026/0.3952/-0.6807
+ObjectTemplate.addTemplate AAV_TUNGUSKA_NoseRadar
+ObjectTemplate.setPosition 0/0.7867/1.2107
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Radar
+ObjectTemplate.setPosition 0/1.3655/-2.1789
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Hud_spring
+ObjectTemplate.setPosition 0/1.1079/0.2425
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_Barrel_Base
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Gun
+ObjectTemplate.setPosition 0/0.0218/0.4276
+
+ObjectTemplate.create GenericFireArm AAV_TUNGUSKA_Gun
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate AAV_TUNGUSKA_R_Barrel
+ObjectTemplate.setPosition 0.8293/0/0
+ObjectTemplate.addTemplate AAV_TUNGUSKA_L_Barrel
+ObjectTemplate.setPosition -0.8293/0/-0.0016
+
+ObjectTemplate.create Bundle AAV_TUNGUSKA_R_Barrel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Bundle AAV_TUNGUSKA_L_Barrel
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create PlayerControlObject AAV_TUNGUSKA_CupolaBase
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_NoseRadar
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_Radar
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_Hud_spring
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Hud
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA_Hud
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Engine AAV_TUNGUSKA_Engine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_01
+ObjectTemplate.setPosition 1.4122/-1.3236/-2.3994
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_01
+ObjectTemplate.setPosition -1.4281/-1.3236/-2.3994
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_02
+ObjectTemplate.setPosition 1.4489/-1.3236/-1.4330
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_03
+ObjectTemplate.setPosition 1.4281/-1.3236/-0.4877
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_04
+ObjectTemplate.setPosition 1.4281/-1.3236/0.4388
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_05
+ObjectTemplate.setPosition 1.4281/-1.3236/1.3728
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Rwheel_06
+ObjectTemplate.setPosition 1.4281/-1.3236/2.3652
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_02
+ObjectTemplate.setPosition -1.4281/-1.3236/-1.4330
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_03
+ObjectTemplate.setPosition -1.4281/-1.3236/-0.4877
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_04
+ObjectTemplate.setPosition -1.4281/-1.3236/0.4388
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_05
+ObjectTemplate.setPosition -1.4281/-1.3236/1.3728
+ObjectTemplate.addTemplate AAV_TUNGUSKA_Lwheel_06
+ObjectTemplate.setPosition -1.4281/-1.3236/2.3652
+ObjectTemplate.addTemplate AAV_TUNGUSKA__LDriveWheel
+ObjectTemplate.setPosition -1.3508/-0.4029/-3.1788
+ObjectTemplate.addTemplate AAV_TUNGUSKA__RDriveWheel
+ObjectTemplate.setPosition 1.3508/-0.4029/-3.1788
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_01
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_01
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_02
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_03
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_04
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_05
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Rwheel_06
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_02
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_03
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_04
+ObjectTemplate.collisionPart 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 21
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_05
+ObjectTemplate.collisionPart 22
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 22
+
+ObjectTemplate.create Spring AAV_TUNGUSKA_Lwheel_06
+ObjectTemplate.collisionPart 23
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 23
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA__LDriveWheel
+ObjectTemplate.collisionPart 24
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 24
+
+ObjectTemplate.create RotationalBundle AAV_TUNGUSKA__RDriveWheel
+ObjectTemplate.collisionPart 25
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 25
+
+include aav_tunguska.tweak

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh rock5m
+CollisionManager.createTemplate rock5m
+
+ObjectTemplate.create SimpleObject rock5m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh rock5m
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rock5m
+
+include rock5m.tweak

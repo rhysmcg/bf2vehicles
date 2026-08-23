@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle ambientLights
+ObjectTemplate.createdInEditor 1
+
+include AmbientLights.tweak

@@ -1,0 +1,21 @@
+GeometryTemplate.create StaticMesh house_medium_05
+CollisionManager.createTemplate house_medium_05
+
+ObjectTemplate.create Bundle house_medium_05
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_medium_05
+ObjectTemplate.mapMaterial 0 RochConcrete 0
+ObjectTemplate.mapMaterial 1 Wood 0
+ObjectTemplate.mapMaterial 2 MetalPlatethin 0
+ObjectTemplate.mapMaterial 3 Glasscommon 0
+ObjectTemplate.mapMaterial 4 cloth 0
+ObjectTemplate.mapMaterial 5 Tarmac 0
+ObjectTemplate.mapMaterial 6 metal_solid 0
+ObjectTemplate.mapMaterial 7 concrete_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_medium_05
+ObjectTemplate.anchor 0/-6.5216/0
+
+include house_medium_05.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c00awnjfixbk0"
+path="res://.godot/imported/PIS_Silencer_c.dds-05ab888bb8b7ef07cb994196ec16b88f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USPIS_92FS/Textures/PIS_Silencer_c.dds"
+dest_files=["res://.godot/imported/PIS_Silencer_c.dds-05ab888bb8b7ef07cb994196ec16b88f.res"]
+
+[params]
+
+mipmaps/generate=true

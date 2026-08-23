@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dek24tsxm6gqs"
+path="res://.godot/imported/pilot_kits_us_b.dds-a28772e0556494b4d729242c0f68bcd5.res"
+
+[deps]
+
+source_file="res://Objects/Kits/US/textures/pilot_kits_us_b.dds"
+dest_files=["res://.godot/imported/pilot_kits_us_b.dds-a28772e0556494b4d729242c0f68bcd5.res"]
+
+[params]
+
+mipmaps/generate=true

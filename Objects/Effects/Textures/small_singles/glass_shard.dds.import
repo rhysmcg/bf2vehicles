@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dh2l4dq84ienv"
+path="res://.godot/imported/glass_shard.dds-fae0786438e3bfbe704c33c6c8991203.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/glass_shard.dds"
+dest_files=["res://.godot/imported/glass_shard.dds-fae0786438e3bfbe704c33c6c8991203.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d0e171mnhequg"
+path="res://.godot/imported/OmanTarmac1_Intersection.dds-67b9024b0afd8ea1f07e15203ea25867.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/OmanTarmac1_Intersection.dds"
+dest_files=["res://.godot/imported/OmanTarmac1_Intersection.dds-67b9024b0afd8ea1f07e15203ea25867.res"]
+
+[params]
+
+mipmaps/generate=true

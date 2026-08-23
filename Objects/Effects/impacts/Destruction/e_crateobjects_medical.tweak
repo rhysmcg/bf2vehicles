@@ -1,0 +1,50 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/8 15:15]
+ObjectTemplate.activeSafe EffectBundle e_crateobjects_medical
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_crateobjects_medical_Start
+ObjectTemplate.addTemplate em_crateobjects_medical_emitter
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_crateobjects_medical_Start
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.createdInEditor 1
+
+ObjectTemplate.create Emitter em_crateobjects_medical_emitter
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_medical_bag
+ObjectTemplate.alternateTemplate0 p_medical_box
+ObjectTemplate.alternateTemplate1 p_medical_pillbottle
+ObjectTemplate.alternateTemplate2 p_medical_pouch
+ObjectTemplate.alternateTemplate3 p_medical_scissors
+ObjectTemplate.alternateTemplate4 p_medical_tape
+ObjectTemplate.timeToLive CRD_NONE/0.2/0/0
+ObjectTemplate.intensity CRD_NONE/150/0/0
+ObjectTemplate.relativePositionInDof CRD_UNIFORM/0/0.5/1
+ObjectTemplate.relativePositionInUp CRD_UNIFORM/0/0.5/1
+ObjectTemplate.relativePositionInRight CRD_UNIFORM/0/0.5/1
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/3/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/8/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/3/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/-5/3/0
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/-3/3/0
+ObjectTemplate.startRotation CRD_UNIFORM/360/-360/1
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+

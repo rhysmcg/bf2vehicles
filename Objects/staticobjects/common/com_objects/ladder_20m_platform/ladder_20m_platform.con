@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh ladder_20m_platform
+CollisionManager.createTemplate ladder_20m_platform
+
+ObjectTemplate.create Ladder ladder_20m_platform
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh ladder_20m_platform
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 metal_penetrable 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ladder_20m_platform
+
+include ladder_20m_platform.tweak

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh walllow01
+
+ObjectTemplate.create SimpleObject walllow01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-1:eni
+ObjectTemplate.collisionMesh walllow01
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry walllow01
+ObjectTemplate.anchor 2.5082/-0.5094/0.2500
+
+include walllow01.tweak

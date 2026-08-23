@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_truckstop_01
+CollisionManager.createTemplate xp2_truckstop_01
+
+ObjectTemplate.create SimpleObject xp2_truckstop_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_truckstop_01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal 0
+ObjectTemplate.mapMaterial 2 Glass 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_truckstop_01
+ObjectTemplate.anchor 27.9266/-3.9155/7.3040
+
+include xp2_truckstop_01.tweak

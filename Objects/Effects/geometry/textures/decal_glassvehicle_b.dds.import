@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://i4geaoqkea8i"
+path="res://.godot/imported/decal_glassvehicle_b.dds-4ba532ac03e5939be5516f0414037673.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/decal_glassvehicle_b.dds"
+dest_files=["res://.godot/imported/decal_glassvehicle_b.dds-4ba532ac03e5939be5516f0414037673.res"]
+
+[params]
+
+mipmaps/generate=true

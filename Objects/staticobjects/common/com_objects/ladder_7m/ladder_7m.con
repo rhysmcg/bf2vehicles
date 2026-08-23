@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh ladder_7m
+CollisionManager.createTemplate ladder_7m
+
+ObjectTemplate.create Ladder ladder_7m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh ladder_7m
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ladder_7m
+ObjectTemplate.anchor 0/4.6691/0.2519
+
+include ladder_7m.tweak

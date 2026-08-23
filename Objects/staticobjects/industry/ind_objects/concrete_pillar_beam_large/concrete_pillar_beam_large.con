@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh concrete_pillar_beam_large
+CollisionManager.createTemplate concrete_pillar_beam_large
+
+ObjectTemplate.create SimpleObject concrete_pillar_beam_large
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh concrete_pillar_beam_large
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concrete_pillar_beam_large
+
+include concrete_pillar_beam_large.tweak

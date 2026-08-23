@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://busfs0wbujgl0"
+path="res://.godot/imported/aav_type95_b.dds-6698437baa8fb0d931379b3af2f985df.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_type95/textures/aav_type95_b.dds"
+dest_files=["res://.godot/imported/aav_type95_b.dds-6698437baa8fb0d931379b3af2f985df.res"]
+
+[params]
+
+mipmaps/generate=true

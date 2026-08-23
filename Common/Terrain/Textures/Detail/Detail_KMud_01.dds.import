@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cniiwf76vjr8b"
+path="res://.godot/imported/Detail_KMud_01.dds-3eda2e9796d9101f2a94ef22df4f3ccd.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_KMud_01.dds"
+dest_files=["res://.godot/imported/Detail_KMud_01.dds-3eda2e9796d9101f2a94ef22df4f3ccd.res"]
+
+[params]
+
+mipmaps/generate=true

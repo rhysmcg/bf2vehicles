@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh temple_jetty
+
+ObjectTemplate.create SimpleObject temple_jetty
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh temple_jetty
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry temple_jetty
+ObjectTemplate.anchor 0/-5.4173/0
+
+include temple_jetty.tweak

@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_fantan_fuselage
+CollisionManager.createTemplate p_fantan_fuselage
+
+ObjectTemplate.create Particle p_fantan_fuselage
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_fantan_fuselage
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_fantan_fuselage
+
+include p_fantan_fuselage.tweak

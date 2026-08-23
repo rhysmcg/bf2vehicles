@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://yfb4tqel43ps"
+path="res://.godot/imported/p_simradscope.dds-c295e8db09afbfe34f37f13a91cdb090.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/p_simradscope.dds"
+dest_files=["res://.godot/imported/p_simradscope.dds-c295e8db09afbfe34f37f13a91cdb090.res"]
+
+[params]
+
+mipmaps/generate=true

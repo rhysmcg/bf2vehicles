@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh gasstation_cistern_ladder
+CollisionManager.createTemplate gasstation_cistern_ladder
+
+ObjectTemplate.create Ladder gasstation_cistern_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh gasstation_cistern_ladder
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gasstation_cistern_ladder
+ObjectTemplate.anchor -0.2623/-3.8805/0.0100
+
+include gasstation_cistern_ladder.tweak

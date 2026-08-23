@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh gbrif_benelli_m4
+CollisionManager.createTemplate gbrif_benelli_m4
+
+ObjectTemplate.create GenericFireArm gbrif_benelli_m4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JULIO:julioce
+ObjectTemplate.collisionMesh gbrif_benelli_m4
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gbrif_benelli_m4
+
+include gbrif_benelli_m4.tweak

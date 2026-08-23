@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh xp2_dairyfarm_01
+CollisionManager.createTemplate xp2_dairyfarm_01
+
+ObjectTemplate.create SimpleObject xp2_dairyfarm_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_dairyfarm_01
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 roof 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 bricks 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_dairyfarm_01
+
+include xp2_dairyfarm_01.tweak

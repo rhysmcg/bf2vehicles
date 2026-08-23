@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_deadtree02_lod
+
+ObjectTemplate.create SimpleObject me_deadtree02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_deadtree02_lod
+
+include me_deadtree02_lod.tweak

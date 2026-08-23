@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/3 16:33]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject postbox_01
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry postbox_01
+ObjectTemplate.setCollisionMesh postbox_01
+ObjectTemplate.mapMaterial 0 Metal_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

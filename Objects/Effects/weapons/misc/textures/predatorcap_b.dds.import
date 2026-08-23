@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ds4iy13acu3di"
+path="res://.godot/imported/predatorcap_b.dds-57040c0836bc6ee0caa5eb771375fbd2.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/textures/predatorcap_b.dds"
+dest_files=["res://.godot/imported/predatorcap_b.dds-57040c0836bc6ee0caa5eb771375fbd2.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh toolshed_open
+CollisionManager.createTemplate toolshed_open
+
+ObjectTemplate.create SimpleObject toolshed_open
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh toolshed_open
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 penetrable_wood 0
+ObjectTemplate.mapMaterial 2 soldier_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry toolshed_open
+ObjectTemplate.anchor 0.0946/-1.4794/4.1910
+
+include toolshed_open.tweak

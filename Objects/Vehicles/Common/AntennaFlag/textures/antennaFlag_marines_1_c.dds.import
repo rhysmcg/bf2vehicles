@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c0im0o85e8ul5"
+path="res://.godot/imported/antennaFlag_marines_1_c.dds-4db2e93606005c89afdab90137c82901.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/AntennaFlag/textures/antennaFlag_marines_1_c.dds"
+dest_files=["res://.godot/imported/antennaFlag_marines_1_c.dds-4db2e93606005c89afdab90137c82901.res"]
+
+[params]
+
+mipmaps/generate=true

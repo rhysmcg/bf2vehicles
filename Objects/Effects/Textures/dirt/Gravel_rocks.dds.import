@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b3vcnuuaa8nao"
+path="res://.godot/imported/Gravel_rocks.dds-f29febcab748f0953c0de8e0154cb384.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/Gravel_rocks.dds"
+dest_files=["res://.godot/imported/Gravel_rocks.dds-f29febcab748f0953c0de8e0154cb384.res"]
+
+[params]
+
+mipmaps/generate=true

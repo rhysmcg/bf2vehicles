@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://k8isc2jqbso6"
+path="res://.godot/imported/chsht_protecta_b.dds-c2e96403c74d187f119416500bbba47d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_protecta/textures/chsht_protecta_b.dds"
+dest_files=["res://.godot/imported/chsht_protecta_b.dds-c2e96403c74d187f119416500bbba47d.res"]
+
+[params]
+
+mipmaps/generate=true

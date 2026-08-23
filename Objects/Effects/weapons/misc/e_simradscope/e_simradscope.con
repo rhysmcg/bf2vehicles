@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle e_simradscope
+ObjectTemplate.createdInEditor 1
+
+include e_simradscope.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh mi_guard_tower_us_ladder
+CollisionManager.createTemplate mi_guard_tower_us_ladder
+
+ObjectTemplate.create Ladder mi_guard_tower_us_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh mi_guard_tower_us_ladder
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_guard_tower_us_ladder
+ObjectTemplate.anchor 0/1.3337/0.0167
+
+include mi_guard_tower_us_ladder.tweak

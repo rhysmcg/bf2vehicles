@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dk6vbigtxv82k"
+path="res://.godot/imported/leaf_me_tropicalplant02_lod.dds-9eb5392801a7cab1d6fca7bb15364717.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_me_tropicalplant02_lod.dds"
+dest_files=["res://.godot/imported/leaf_me_tropicalplant02_lod.dds-9eb5392801a7cab1d6fca7bb15364717.res"]
+
+[params]
+
+mipmaps/generate=true

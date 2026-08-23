@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh train_rail_48
+CollisionManager.createTemplate train_rail_48
+
+ObjectTemplate.create SimpleObject train_rail_48
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh train_rail_48
+ObjectTemplate.mapMaterial 0 Gravel 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry train_rail_48
+ObjectTemplate.anchor 0/-0.2576/-24.0000
+
+include train_rail_48.tweak

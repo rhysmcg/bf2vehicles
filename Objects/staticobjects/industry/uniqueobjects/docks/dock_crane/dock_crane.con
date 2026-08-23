@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh dock_crane
+CollisionManager.createTemplate dock_crane
+
+ObjectTemplate.create Bundle dock_crane
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh dock_crane
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 rubber 0
+ObjectTemplate.mapMaterial 3 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dock_crane
+ObjectTemplate.anchor -0.7155/-17.7362/-5.2320
+
+include dock_crane.tweak

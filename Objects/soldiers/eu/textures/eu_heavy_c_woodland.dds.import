@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://tcg5ljdv7p0j"
+path="res://.godot/imported/eu_heavy_c_woodland.dds-9834e2d6bfa8049b6de760949a2051fd.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/textures/eu_heavy_c_woodland.dds"
+dest_files=["res://.godot/imported/eu_heavy_c_woodland.dds-9834e2d6bfa8049b6de760949a2051fd.res"]
+
+[params]
+
+mipmaps/generate=true

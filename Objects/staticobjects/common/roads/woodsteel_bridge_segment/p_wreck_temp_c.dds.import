@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b4u55khtmh50l"
+path="res://.godot/imported/p_wreck_temp_c.dds-5ed76e951c9fa0462c784b9fef43113a.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/woodsteel_bridge_segment/p_wreck_temp_c.dds"
+dest_files=["res://.godot/imported/p_wreck_temp_c.dds-5ed76e951c9fa0462c784b9fef43113a.res"]
+
+[params]
+
+mipmaps/generate=true

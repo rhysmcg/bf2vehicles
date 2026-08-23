@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ctugifv0q6qs5"
+path="res://.godot/imported/Detail_Gravel02.dds-8cc2a5bfdfee2e8905efc49b5fc54fbf.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Gravel02.dds"
+dest_files=["res://.godot/imported/Detail_Gravel02.dds-8cc2a5bfdfee2e8905efc49b5fc54fbf.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh xp2_cactus_03_fixed
+CollisionManager.createTemplate xp2_cactus_03_fixed
+
+ObjectTemplate.create SimpleObject xp2_cactus_03_fixed
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.collisionMesh xp2_cactus_03_fixed
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_cactus_03_fixed
+
+include xp2_cactus_03_fixed.tweak

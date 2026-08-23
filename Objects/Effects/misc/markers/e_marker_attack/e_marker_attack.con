@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_marker_attack
+ObjectTemplate.createdInEditor 1
+
+include e_marker_attack.tweak

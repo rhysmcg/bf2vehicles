@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh sidewalk_8
+CollisionManager.createTemplate sidewalk_8
+
+ObjectTemplate.create SimpleObject sidewalk_8
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sidewalk_8
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sidewalk_8
+
+include sidewalk_8.tweak

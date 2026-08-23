@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://etorwjo20m7x"
+path="res://.godot/imported/decal_grenade_rock_1.dds-358438c4753a4ce7aeee74aac38cdf87.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_grenade_rock_1.dds"
+dest_files=["res://.godot/imported/decal_grenade_rock_1.dds-358438c4753a4ce7aeee74aac38cdf87.res"]
+
+[params]
+
+mipmaps/generate=true

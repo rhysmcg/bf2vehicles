@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_service_station
+CollisionManager.createTemplate xp2_service_station
+
+ObjectTemplate.create Bundle xp2_service_station
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_service_station
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Glass_NOT_penetrable 0
+ObjectTemplate.mapMaterial 4 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_service_station
+ObjectTemplate.anchor 2.7804/-3.6540/7.9279
+
+include xp2_service_station.tweak

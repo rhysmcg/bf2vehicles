@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_motel_01_windows
+CollisionManager.createTemplate xp2_motel_01_windows
+
+ObjectTemplate.create SimpleObject xp2_motel_01_windows
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_motel_01_windows
+ObjectTemplate.mapMaterial 0 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_motel_01_windows
+ObjectTemplate.anchor 0.1917/0/0.3161
+
+include xp2_motel_01_windows.tweak

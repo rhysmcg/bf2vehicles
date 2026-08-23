@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ddpf30dhow1pt"
+path="res://.godot/imported/dirt_bigburst.dds-797576e2729e5725d39e2025bcf2552a.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/dirt_bigburst.dds"
+dest_files=["res://.godot/imported/dirt_bigburst.dds-797576e2729e5725d39e2025bcf2552a.res"]
+
+[params]
+
+mipmaps/generate=true

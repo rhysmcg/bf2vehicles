@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://p3pcrkr2cu3m"
+path="res://.godot/imported/flash.dds-0b4b29471fa717f226b784e15f72ac33.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/flash.dds"
+dest_files=["res://.godot/imported/flash.dds-0b4b29471fa717f226b784e15f72ac33.res"]
+
+[params]
+
+mipmaps/generate=true

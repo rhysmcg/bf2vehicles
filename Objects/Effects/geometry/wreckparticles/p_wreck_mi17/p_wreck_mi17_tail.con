@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_mi17_tail
+CollisionManager.createTemplate p_wreck_mi17_tail
+
+ObjectTemplate.create Particle p_wreck_mi17_tail
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh p_wreck_mi17_tail
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_mi17_tail
+
+include p_wreck_mi17_tail.tweak

@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/10 10:26]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 70
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject dock90degouter
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry dock90degouter
+ObjectTemplate.setCollisionMesh dock90degouter
+ObjectTemplate.mapMaterial 0 MetalSolid 21
+ObjectTemplate.mapMaterial 1 Glass_common 17
+ObjectTemplate.mapMaterial 2 Concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

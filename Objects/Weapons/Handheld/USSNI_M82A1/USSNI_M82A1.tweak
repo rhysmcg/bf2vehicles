@@ -1,0 +1,180 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/7 0:15]
+ObjectTemplate.activeSafe GenericFireArm ussni_m82a1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.setNetworkableInfo HandFireArmsInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.castsDynamicShadow 1
+rem ---BeginComp:WeaponHud ---
+ObjectTemplate.createComponent WeaponHud
+ObjectTemplate.weaponHud.weaponIcon Ingame\Weapons\Icons\Hud\USSNI_M82A1.tga
+ObjectTemplate.weaponHud.altWeaponIcon Ingame\Weapons\Icons\Hud\USSNI_M82A1_mini.tga
+ObjectTemplate.weaponHud.selectIcon Ingame\Weapons\Icons\Hud\Selection\USSNI_M82A1.tga
+ObjectTemplate.weaponHud.hudName "M82A1"
+ObjectTemplate.weaponHud.guiIndex 0
+ObjectTemplate.weaponHud.altGuiIndex 52
+rem ---EndComp ---
+rem ---BeginComp:SingleFireComp ---
+ObjectTemplate.createComponent SingleFireComp
+ObjectTemplate.fire.roundsPerMinute 450
+ObjectTemplate.fire.addFireRate 0
+ObjectTemplate.fire.fireInCameraDof 1
+ObjectTemplate.fire.onlyFireWhenProne 1
+rem ---EndComp ---
+rem ---BeginComp:DefaultAmmoComp ---
+ObjectTemplate.createComponent DefaultAmmoComp
+ObjectTemplate.ammo.ammoType 1
+ObjectTemplate.ammo.magSize 10
+ObjectTemplate.ammo.reloadTime 3
+rem ---EndComp ---
+rem ---BeginComp:SoldierBasedRecoilComp ---
+ObjectTemplate.createComponent SoldierBasedRecoilComp
+ObjectTemplate.recoil.hasRecoilForce 1
+ObjectTemplate.recoil.goBackOnRecoil 0
+ObjectTemplate.recoil.recoilForceUp CRD_UNIFORM/0.55/0.65/0
+ObjectTemplate.recoil.recoilForceLeftRight CRD_UNIFORM/-0.35/0.35/0
+rem ---EndComp ---
+rem ---BeginComp:SoldierDeviationComp ---
+ObjectTemplate.createComponent SoldierDeviationComp
+ObjectTemplate.deviation.setFireDev 3.5 2 0.1
+ObjectTemplate.deviation.minDev 0.1
+ObjectTemplate.deviation.setTurnDev 0 0 0 0
+ObjectTemplate.deviation.setSpeedDev 3 0.2 0.2 0.1
+ObjectTemplate.deviation.setMiscDev 2.5 2.5 0.1
+ObjectTemplate.deviation.devModStand 1.8
+ObjectTemplate.deviation.devModCrouch 1.4
+ObjectTemplate.deviation.devModZoom 0.5
+rem ---EndComp ---
+rem ---BeginComp:DefaultSoundComp ---
+ObjectTemplate.createComponent DefaultSoundComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultAnimationComp ---
+ObjectTemplate.createComponent DefaultAnimationComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultZoomComp ---
+ObjectTemplate.createComponent DefaultZoomComp
+ObjectTemplate.zoom.zoomDelay 0.1
+ObjectTemplate.zoom.zoomLod 1
+ObjectTemplate.zoom.addZoomFactor 0
+ObjectTemplate.zoom.addZoomFactor 0.8
+ObjectTemplate.zoom.zoomOutAfterFire 1
+rem ---EndComp ---
+ObjectTemplate.geometry USSNI_M82A1
+ObjectTemplate.setCollisionMesh ussni_m82a1
+ObjectTemplate.mapMaterial 0 Collision_Material 68
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate S_ussni_m82a1_Fire1P
+ObjectTemplate.setPosition 0/0.0591398/0.0561323
+ObjectTemplate.addTemplate S_ussni_m82a1_Fire1P_Outdoor
+ObjectTemplate.setPosition 0/0.0611646/0.881483
+ObjectTemplate.addTemplate S_ussni_m82a1_Fire3P
+ObjectTemplate.setPosition 0/0.0595212/0.905331
+ObjectTemplate.addTemplate S_ussni_m82a1_BoltClick
+ObjectTemplate.setPosition 0/0.068769/0.825876
+ObjectTemplate.addTemplate S_ussni_m82a1_TriggerClick
+ObjectTemplate.setPosition 0/-0.0138693/-0.0632272
+ObjectTemplate.addTemplate S_ussni_m82a1_SwitchFireRate
+ObjectTemplate.setPosition 0/0.0127717/0.823524
+ObjectTemplate.addTemplate S_ussni_m82a1_Reload1P
+ObjectTemplate.setPosition 0/-0.0474808/0.980874
+ObjectTemplate.addTemplate S_ussni_m82a1_Reload3P
+ObjectTemplate.setPosition 0/0.0458041/0.0216938
+ObjectTemplate.addTemplate S_ussni_m82a1_Deploy1P
+ObjectTemplate.setPosition 0/0.0592946/0.0280282
+ObjectTemplate.addTemplate S_ussni_m82a1_Deploy3P
+ObjectTemplate.setPosition 0/0.0719312/0.0261568
+ObjectTemplate.addTemplate S_ussni_m82a1_Zoom
+ObjectTemplate.setPosition 0/0.14565/0.79722
+ObjectTemplate.addTemplate e_muzz_kord
+ObjectTemplate.setPosition 0/0.0558999/0.968833
+ObjectTemplate.addTemplate e_shellejection_m82a1
+ObjectTemplate.setPosition 0/0.054203/0
+rem -------------------------------------
+ObjectTemplate.animationSystem1P Objects/Weapons/Handheld/USSNI_M82A1/AnimationSystem1p.inc
+ObjectTemplate.animationSystem3P Objects/Weapons/Handheld/USSNI_M82A1/AnimationSystem3p.inc
+ObjectTemplate.projectileTemplate M82a1Projectile
+ObjectTemplate.velocity 1000
+ObjectTemplate.itemIndex 3
+
+ObjectTemplate.create GenericProjectile M82a1Projectile
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createNotInGrid 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.createdInEditor 1
+rem ---BeginComp:DefaultCollisionComp ---
+ObjectTemplate.createComponent DefaultCollisionComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultDetonationComp ---
+ObjectTemplate.createComponent DefaultDetonationComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultProjSoundComp ---
+ObjectTemplate.createComponent DefaultProjSoundComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultRicochetComp ---
+ObjectTemplate.createComponent DefaultRicochetComp
+rem ---EndComp ---
+rem ---BeginComp:DefaultPenetrateComp ---
+ObjectTemplate.createComponent DefaultPenetrateComp
+rem ---EndComp ---
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Point
+ObjectTemplate.material 39
+rem -------------------------------------
+ObjectTemplate.addTemplate S_M82a1Projectile_Looping
+rem -------------------------------------
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.material 39
+ObjectTemplate.minDamage 0.2
+ObjectTemplate.damage 75
+ObjectTemplate.distToStartLoseDamage 300
+ObjectTemplate.distToMinDamage 600
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Fire1P
+ObjectTemplate.modifiedByUser psh
+
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Fire3P
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_BoltClick
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_TriggerClick
+ObjectTemplate.modifiedByUser nfe
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_SwitchFireRate
+ObjectTemplate.modifiedByUser psh
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Reload1P
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Reload3P
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Deploy1P
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Deploy3P
+ObjectTemplate.modifiedByUser psh
+
+
+ObjectTemplate.activeSafe Sound S_ussni_m82a1_Zoom
+ObjectTemplate.modifiedByUser nfe
+
+
+ObjectTemplate.activeSafe Sound S_M82a1Projectile_Looping
+ObjectTemplate.modifiedByUser psh
+

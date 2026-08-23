@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://codilad64avrx"
+path="res://.godot/imported/xp2_oakTree_02_lod.dds-977dd633498e0501fd10fd42ca8b55b6.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/textures/xp2_oakTree_02_lod.dds"
+dest_files=["res://.godot/imported/xp2_oakTree_02_lod.dds-977dd633498e0501fd10fd42ca8b55b6.res"]
+
+[params]
+
+mipmaps/generate=true

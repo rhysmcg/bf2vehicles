@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d23n7puuwnyny"
+path="res://.godot/imported/she_littlebird_mainrotor_blurred_c.dds-8a23ec76d81fcad638ab230ae11e6cba.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/textures/she_littlebird_mainrotor_blurred_c.dds"
+dest_files=["res://.godot/imported/she_littlebird_mainrotor_blurred_c.dds-8a23ec76d81fcad638ab230ae11e6cba.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh nc_weeping01
+CollisionManager.createTemplate nc_weeping01
+
+ObjectTemplate.create SimpleObject nc_weeping01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_weeping01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nc_weeping01
+ObjectTemplate.anchor -0.9228/-4.1378/-0.7137
+
+include nc_weeping01.tweak

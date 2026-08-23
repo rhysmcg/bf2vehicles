@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_plow_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_plow_01
+ObjectTemplate.setCollisionMesh xp2_plow_01
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 Rubber 22
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

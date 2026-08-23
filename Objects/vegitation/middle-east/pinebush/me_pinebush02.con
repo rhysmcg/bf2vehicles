@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh me_pinebush02
+CollisionManager.createTemplate me_pinebush02
+
+ObjectTemplate.create SimpleObject me_pinebush02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_pinebush02
+ObjectTemplate.mapMaterial 0 leaf 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_pinebush02
+ObjectTemplate.anchor -0.1837/-1.3903/0.1027
+
+include me_pinebush02.tweak

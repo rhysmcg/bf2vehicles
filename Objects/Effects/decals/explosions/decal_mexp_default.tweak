@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/10 8:53]
+ObjectTemplate.activeSafe Decal decal_mexp_default
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.isStatic 0
+ObjectTemplate.randomSize 0.1
+ObjectTemplate.size 1.9
+ObjectTemplate.color 1/1/1
+ObjectTemplate.decalTextureName objects\effects\decals\textures\decal_mexp_default
+ObjectTemplate.randomRotation 180
+ObjectTemplate.rotation 0
+ObjectTemplate.randomColorIntensity 0
+ObjectTemplate.animationEnable 0
+ObjectTemplate.animationSpeed 1
+ObjectTemplate.setAnimationFrameWidthRelative 0
+ObjectTemplate.setAnimationFrameHeightRelative 0
+ObjectTemplate.animationRandomizedStartFrame 0
+ObjectTemplate.animationFrameCount 0
+ObjectTemplate.animationFrameCountX 0
+

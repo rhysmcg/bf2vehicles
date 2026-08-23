@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bvhx8ewq8houo"
+path="res://.godot/imported/ec635_cockpit_c.dds-aea0b321e635d522a2707151edf308b4.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/textures/ec635_cockpit_c.dds"
+dest_files=["res://.godot/imported/ec635_cockpit_c.dds-aea0b321e635d522a2707151edf308b4.res"]
+
+[params]
+
+mipmaps/generate=true

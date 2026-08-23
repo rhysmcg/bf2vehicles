@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled fall2
+ObjectTemplate.create SimpleObject fall2
+ObjectTemplate.geometry fall2

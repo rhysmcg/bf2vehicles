@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cbceilmw7wlhx"
+path="res://.godot/imported/decal_rock_anim.dds-5a9402cf543b9a3b1f4852a90ca7fab7.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_rock_anim.dds"
+dest_files=["res://.godot/imported/decal_rock_anim.dds-5a9402cf543b9a3b1f4852a90ca7fab7.res"]
+
+[params]
+
+mipmaps/generate=true

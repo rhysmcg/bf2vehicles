@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/20 19:27]
+ObjectTemplate.activeSafe SimpleObject nc_bamboo_cluster02_col
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setCollisionMesh nc_bamboo_cluster02
+ObjectTemplate.mapMaterial 0 wood_col 93
+ObjectTemplate.mapMaterial 1 leafCol 1007
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

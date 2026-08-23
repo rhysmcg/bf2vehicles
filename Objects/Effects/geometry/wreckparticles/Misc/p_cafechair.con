@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_cafechair
+ObjectTemplate.createdInEditor 1
+
+include p_cafechair.tweak

@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled dirt_road_taraba
+ObjectTemplate.create SimpleObject dirt_road_taraba
+ObjectTemplate.geometry dirt_road_taraba

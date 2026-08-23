@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cv0naod6i32rc"
+path="res://.godot/imported/Detail_Rock08.dds-b0232911d2c267dc16097560a5462875.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Rock08.dds"
+dest_files=["res://.godot/imported/Detail_Rock08.dds-b0232911d2c267dc16097560a5462875.res"]
+
+[params]
+
+mipmaps/generate=true

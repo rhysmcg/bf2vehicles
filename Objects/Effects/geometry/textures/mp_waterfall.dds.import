@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b53387gpte6ml"
+path="res://.godot/imported/mp_waterfall.dds-584efea4d18a84f1737255dfd81dac85.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/mp_waterfall.dds"
+dest_files=["res://.godot/imported/mp_waterfall.dds-584efea4d18a84f1737255dfd81dac85.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wpipe_06m
+CollisionManager.createTemplate wpipe_06m
+
+ObjectTemplate.create SimpleObject wpipe_06m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh wpipe_06m
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_06m
+ObjectTemplate.anchor -0.0331/0/0
+
+include wpipe_06m.tweak

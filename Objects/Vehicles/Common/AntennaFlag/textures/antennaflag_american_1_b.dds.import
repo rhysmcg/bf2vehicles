@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bwirn6t22lrot"
+path="res://.godot/imported/antennaflag_american_1_b.dds-faba360e58b24cadadcf43600c736406.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/AntennaFlag/textures/antennaflag_american_1_b.dds"
+dest_files=["res://.godot/imported/antennaflag_american_1_b.dds-faba360e58b24cadadcf43600c736406.res"]
+
+[params]
+
+mipmaps/generate=true

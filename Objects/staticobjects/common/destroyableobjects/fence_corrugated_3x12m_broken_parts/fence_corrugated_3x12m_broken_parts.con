@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh fence_corrugated_3x12m_broken_parts
+CollisionManager.createTemplate fence_corrugated_3x12m_broken_parts
+
+ObjectTemplate.create DestroyableObject fence_corrugated_3x12m_broken_parts
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh fence_corrugated_3x12m_broken_parts
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fence_corrugated_3x12m_broken_parts
+
+include fence_corrugated_3x12m_broken_parts.tweak

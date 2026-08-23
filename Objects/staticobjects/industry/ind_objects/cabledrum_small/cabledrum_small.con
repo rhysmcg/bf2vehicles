@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh cabledrum_small
+CollisionManager.createTemplate cabledrum_small
+
+ObjectTemplate.create SimpleObject cabledrum_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh cabledrum_small
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cabledrum_small
+ObjectTemplate.anchor 0.0438/0.0063/0
+
+include cabledrum_small.tweak

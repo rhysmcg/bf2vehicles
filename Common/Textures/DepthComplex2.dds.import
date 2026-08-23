@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dulw2ahe35gka"
+path="res://.godot/imported/DepthComplex2.dds-dbcbe7ee86839878f2e765572522706f.res"
+
+[deps]
+
+source_file="res://Common/Textures/DepthComplex2.dds"
+dest_files=["res://.godot/imported/DepthComplex2.dds-dbcbe7ee86839878f2e765572522706f.res"]
+
+[params]
+
+mipmaps/generate=true

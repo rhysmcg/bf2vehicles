@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_sAmb_damn_waterfall
+ObjectTemplate.createdInEditor 1
+
+include e_sAmb_damn_waterfall.tweak

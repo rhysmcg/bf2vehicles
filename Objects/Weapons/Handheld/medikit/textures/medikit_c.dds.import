@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dtjotoiday7c7"
+path="res://.godot/imported/medikit_c.dds-6eaf19c544f18a46eccd3603d6b2e632.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/medikit/textures/medikit_c.dds"
+dest_files=["res://.godot/imported/medikit_c.dds-6eaf19c544f18a46eccd3603d6b2e632.res"]
+
+[params]
+
+mipmaps/generate=true

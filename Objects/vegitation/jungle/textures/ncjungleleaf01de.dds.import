@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ckbu863gq8dkv"
+path="res://.godot/imported/ncjungleleaf01de.dds-a697f5ecb4cebb503168647d68e1e544.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/textures/ncjungleleaf01de.dds"
+dest_files=["res://.godot/imported/ncjungleleaf01de.dds-a697f5ecb4cebb503168647d68e1e544.res"]
+
+[params]
+
+mipmaps/generate=true

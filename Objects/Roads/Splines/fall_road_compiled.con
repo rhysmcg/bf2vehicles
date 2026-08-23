@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Fall_road
+ObjectTemplate.create SimpleObject Fall_road
+ObjectTemplate.geometry Fall_road

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh marketstand_2
+CollisionManager.createTemplate marketstand_2
+
+ObjectTemplate.create SimpleObject marketstand_2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh marketstand_2
+ObjectTemplate.mapMaterial 0 metal_plate 0
+ObjectTemplate.mapMaterial 1 solid_metal 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 soldier_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry marketstand_2
+
+include marketstand_2.tweak

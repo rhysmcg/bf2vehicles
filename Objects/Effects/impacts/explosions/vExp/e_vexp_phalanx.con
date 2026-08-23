@@ -1,0 +1,105 @@
+GeometryTemplate.create BundledMesh e_vexp_phalanx
+
+ObjectTemplate.create EffectBundle e_vexp_phalanx
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vexp_phalanx_ammocyl01
+ObjectTemplate.setPosition -0.0383/-0.1150/0.6382
+ObjectTemplate.addTemplate em_vexp_phalanx_ammocyl02
+ObjectTemplate.setPosition -0.0011/0.0082/-0.3240
+ObjectTemplate.addTemplate em_vexp_phalanx_ammocyl03
+ObjectTemplate.setPosition -0.0629/-0.0969/-0.9035
+ObjectTemplate.addTemplate em_vexp_phalanx_muzz
+ObjectTemplate.setPosition 0.0203/0.8396/2.7762
+ObjectTemplate.addTemplate em_vexp_phalanx_dome01
+ObjectTemplate.setPosition 0.1291/2.7933/-0.1456
+ObjectTemplate.addTemplate em_vexp_phalanx_dome02
+ObjectTemplate.setPosition -0.2359/2.1180/-0.0373
+ObjectTemplate.addTemplate em_vexp_phalanx_box
+ObjectTemplate.setPosition -1.2063/0.4190/-0.0187
+
+ObjectTemplate.create Emitter em_vexp_phalanx_ammocyl01
+ObjectTemplate.template p_vexp_phalanx_ammocyl01
+
+ObjectTemplate.create Particle p_vexp_phalanx_ammocyl01
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vexp_phalanx_ammocyl02
+ObjectTemplate.template p_vexp_phalanx_ammocyl02
+
+ObjectTemplate.create Particle p_vexp_phalanx_ammocyl02
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vexp_phalanx_ammocyl03
+ObjectTemplate.template p_vexp_phalanx_ammocyl03
+
+ObjectTemplate.create Particle p_vexp_phalanx_ammocyl03
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_vexp_phalanx_muzz
+ObjectTemplate.template p_vexp_phalanx_muzz
+
+ObjectTemplate.create Particle p_vexp_phalanx_muzz
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_vexp_phalanx_dome01
+ObjectTemplate.template p_vexp_phalanx_dome01
+
+ObjectTemplate.create Particle p_vexp_phalanx_dome01
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_vexp_phalanx_dome02
+ObjectTemplate.template p_vexp_phalanx_dome02
+
+ObjectTemplate.create Particle p_vexp_phalanx_dome02
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_vexp_phalanx_box
+ObjectTemplate.template p_vexp_phalanx_box
+
+ObjectTemplate.create Particle p_vexp_phalanx_box
+ObjectTemplate.collisionMesh e_vexp_phalanx
+ObjectTemplate.mapMaterial 0 wreck_phalanx 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_phalanx
+ObjectTemplate.geometryPart 6
+
+include e_vexp_phalanx.tweak

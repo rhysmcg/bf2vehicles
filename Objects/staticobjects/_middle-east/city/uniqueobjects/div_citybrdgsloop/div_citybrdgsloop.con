@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh div_citybrdgsloop
+CollisionManager.createTemplate div_citybrdgsloop
+
+ObjectTemplate.create Bundle div_citybrdgsloop
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh div_citybrdgsloop
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 Rock 0
+ObjectTemplate.mapMaterial 3 Tarmac 0
+ObjectTemplate.mapMaterial 4 Stairs_concrete 0
+ObjectTemplate.mapMaterial 5 concrete_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry div_citybrdgsloop
+ObjectTemplate.anchor -30.0158/-0.3865/-16.4977
+
+include div_citybrdgsloop.tweak

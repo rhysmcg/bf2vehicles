@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bj77ic7enl7n8"
+path="res://.godot/imported/USLMG_M249SAW_b.dds-91afe154f66e239c49c1a320034098e7.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USLMG_M249SAW/Textures/USLMG_M249SAW_b.dds"
+dest_files=["res://.godot/imported/USLMG_M249SAW_b.dds-91afe154f66e239c49c1a320034098e7.res"]
+
+[params]
+
+mipmaps/generate=true

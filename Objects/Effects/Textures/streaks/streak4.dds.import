@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://drippwo53kw3r"
+path="res://.godot/imported/streak4.dds-f6d35c533a9daa740e351ab3f5a12999.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/streaks/streak4.dds"
+dest_files=["res://.godot/imported/streak4.dds-f6d35c533a9daa740e351ab3f5a12999.res"]
+
+[params]
+
+mipmaps/generate=true

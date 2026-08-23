@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d067lbhmqrv1m"
+path="res://.godot/imported/Road_Desert_2lane_512_2.dds-2a9d7175c6bc7d46bd8d4e811baf9266.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Road_Desert_2lane_512_2.dds"
+dest_files=["res://.godot/imported/Road_Desert_2lane_512_2.dds-2a9d7175c6bc7d46bd8d4e811baf9266.res"]
+
+[params]
+
+mipmaps/generate=true

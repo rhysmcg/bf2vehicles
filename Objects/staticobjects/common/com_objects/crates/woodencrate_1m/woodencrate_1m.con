@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh woodencrate_1m
+CollisionManager.createTemplate woodencrate_1m
+
+ObjectTemplate.create SimpleObject woodencrate_1m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh woodencrate_1m
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry woodencrate_1m
+ObjectTemplate.anchor 0/-0.4963/0
+
+include woodencrate_1m.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wooden_bridge_segment
+CollisionManager.createTemplate wooden_bridge_segment
+
+ObjectTemplate.create DestroyableObject wooden_bridge_segment
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh wooden_bridge_segment
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wooden_bridge_segment
+ObjectTemplate.anchor -2.0000/-1.2140/-14.0000
+
+include wooden_bridge_segment.tweak

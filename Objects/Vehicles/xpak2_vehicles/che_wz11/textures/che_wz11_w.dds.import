@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c7y6ptgjm5kw8"
+path="res://.godot/imported/che_wz11_w.dds-ee04347208a5a92ca93382f424bf8c56.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/textures/che_wz11_w.dds"
+dest_files=["res://.godot/imported/che_wz11_w.dds-ee04347208a5a92ca93382f424bf8c56.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bsqjupyuhei8p"
+path="res://.godot/imported/train_01_deb.dds-04da4ba25fd810f243a68b50cc81f6fb.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/textures/train_01_deb.dds"
+dest_files=["res://.godot/imported/train_01_deb.dds-04da4ba25fd810f243a68b50cc81f6fb.res"]
+
+[params]
+
+mipmaps/generate=true

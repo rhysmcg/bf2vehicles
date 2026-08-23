@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp7vcvlogiikg"
+path="res://.godot/imported/rurif_dragunov_b.dds-244ecf1c19db0eed6dc8c6d366d72a06.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rurif_dragunov/textures/rurif_dragunov_b.dds"
+dest_files=["res://.godot/imported/rurif_dragunov_b.dds-244ecf1c19db0eed6dc8c6d366d72a06.res"]
+
+[params]
+
+mipmaps/generate=true

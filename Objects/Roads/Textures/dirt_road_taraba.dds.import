@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c1bjuw42tocm2"
+path="res://.godot/imported/dirt_road_taraba.dds-4975148dffef2195126e93301790528f.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road_taraba.dds"
+dest_files=["res://.godot/imported/dirt_road_taraba.dds-4975148dffef2195126e93301790528f.res"]
+
+[params]
+
+mipmaps/generate=true

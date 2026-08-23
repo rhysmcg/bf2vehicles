@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh dam_intake
+CollisionManager.createTemplate dam_intake
+
+ObjectTemplate.create SimpleObject dam_intake
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh dam_intake
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 wood_thin 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 thick_metal 0
+ObjectTemplate.mapMaterial 4 penetrable_wood 0
+ObjectTemplate.mapMaterial 5 chicken_wire_fence 0
+ObjectTemplate.mapMaterial 6 slippery_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_intake
+ObjectTemplate.anchor 1.1218/-32.3941/19.5756
+
+include dam_intake.tweak

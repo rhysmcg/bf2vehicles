@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqfkr2km6lrxe"
+path="res://.godot/imported/common_01_de_snow.dds-ea3937dc34f3dbaf166fc7552b4ec821.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_01_de_snow.dds"
+dest_files=["res://.godot/imported/common_01_de_snow.dds-ea3937dc34f3dbaf166fc7552b4ec821.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh xp2_hydrowires_set3
+
+ObjectTemplate.create SimpleObject xp2_hydrowires_set3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.geometry xp2_hydrowires_set3
+ObjectTemplate.anchor 143.3817/4.7326/35.1383
+
+include xp2_hydrowires_set3.tweak

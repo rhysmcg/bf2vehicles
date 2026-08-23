@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh sidewalk_4
+CollisionManager.createTemplate sidewalk_4
+
+ObjectTemplate.create SimpleObject sidewalk_4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sidewalk_4
+ObjectTemplate.mapMaterial 0 Sidewalk_4_rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sidewalk_4
+ObjectTemplate.anchor 10.0000/-0.0500/-9.0000
+
+include sidewalk_4.tweak

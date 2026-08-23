@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bv00d5uuajfjn"
+path="res://.godot/imported/small_bw.dds-38206a6a3b6df3735083fa1a4b386895.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/small_bw.dds"
+dest_files=["res://.godot/imported/small_bw.dds-38206a6a3b6df3735083fa1a4b386895.res"]
+
+[params]
+
+mipmaps/generate=true

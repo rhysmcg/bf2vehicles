@@ -1,0 +1,33 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle concreteblock_helipad
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry concreteblock_helipad
+ObjectTemplate.setCollisionMesh concreteblock_helipad
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate concreteblock_helipad_SupplyObject_helipad
+ObjectTemplate.setPosition 0/5/0
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject concreteblock_helipad_SupplyObject_helipad
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 5
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 8
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+

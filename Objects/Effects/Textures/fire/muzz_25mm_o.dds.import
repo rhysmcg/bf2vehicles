@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b2wy3yunm7yg4"
+path="res://.godot/imported/muzz_25mm_o.dds-c0b962c2182a68066842da9e66dde51a.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/fire/muzz_25mm_o.dds"
+dest_files=["res://.godot/imported/muzz_25mm_o.dds-c0b962c2182a68066842da9e66dde51a.res"]
+
+[params]
+
+mipmaps/generate=true

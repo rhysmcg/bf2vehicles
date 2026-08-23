@@ -1,0 +1,10 @@
+ObjectTemplate.active cube
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry cube
+ObjectTemplate.collisionMesh cube
+ObjectTemplate.mapMaterial 0 cgfxShader1 0
+ObjectTemplate.mass 10
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1

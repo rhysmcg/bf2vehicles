@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bn887t81aomqx"
+path="res://.godot/imported/chthe_z8_b.dds-3017db0b6cbdb94366bf6f832d4b6ea6.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/textures/chthe_z8_b.dds"
+dest_files=["res://.godot/imported/chthe_z8_b.dds-3017db0b6cbdb94366bf6f832d4b6ea6.res"]
+
+[params]
+
+mipmaps/generate=true

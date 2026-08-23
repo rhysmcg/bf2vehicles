@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_medical_bag
+CollisionManager.createTemplate p_medical_bag
+
+ObjectTemplate.create Particle p_medical_bag
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh p_medical_bag
+ObjectTemplate.mapMaterial 0 paper 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_medical_bag
+
+include p_medical_bag.tweak

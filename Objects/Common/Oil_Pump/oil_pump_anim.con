@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh oil_pump_anim
+
+ObjectTemplate.create AnimatedBundle oil_pump_anim
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry oil_pump_anim
+
+include oil_pump_anim.tweak

@@ -1,0 +1,14 @@
+rem *** Plugins ***
+aiTemplatePlugIn.create Physical dam_bridge_part1_Physical
+aiTemplatePlugIn.setStrType HeavyArmour
+
+rem *** AITemplate ***
+aiTemplate.create dam_bridge_part1
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 50
+aiTemplate.allowedTimeDiff 2
+aiTemplate.basicTemp 5
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn dam_bridge_part1_Physical
+
+

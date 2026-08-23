@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh canopy_tree_02_lod
+
+ObjectTemplate.create SimpleObject canopy_tree_02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.geometry canopy_tree_02_lod
+
+include canopy_tree_02_lod.tweak

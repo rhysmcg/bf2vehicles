@@ -1,0 +1,10 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/17 14:0]
+ObjectTemplate.activeSafe SimpleObject distancetool25m
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry distancetool25m
+ObjectTemplate.setCollisionMesh distancetool25m
+ObjectTemplate.mapMaterial 0 Matal 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

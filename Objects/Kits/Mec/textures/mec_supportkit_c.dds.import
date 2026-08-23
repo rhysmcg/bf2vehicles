@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dm4ktul7oj2fo"
+path="res://.godot/imported/mec_supportkit_c.dds-9ead08fde244246822647f49b5c21f80.res"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/textures/mec_supportkit_c.dds"
+dest_files=["res://.godot/imported/mec_supportkit_c.dds-9ead08fde244246822647f49b5c21f80.res"]
+
+[params]
+
+mipmaps/generate=true

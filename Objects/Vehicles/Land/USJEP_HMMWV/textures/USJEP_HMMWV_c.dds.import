@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://576of4rmdbe6"
+path="res://.godot/imported/USJEP_HMMWV_c.dds-5c20681899bb0b69ef5e6445b34f0985.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USJEP_HMMWV/textures/USJEP_HMMWV_c.dds"
+dest_files=["res://.godot/imported/USJEP_HMMWV_c.dds-5c20681899bb0b69ef5e6445b34f0985.res"]
+
+[params]
+
+mipmaps/generate=true

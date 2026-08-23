@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled tarmac_Daqing
+ObjectTemplate.create SimpleObject tarmac_Daqing
+ObjectTemplate.geometry tarmac_Daqing

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh refug_border_end
+CollisionManager.createTemplate refug_border_end
+
+ObjectTemplate.create SimpleObject refug_border_end
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh refug_border_end
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry refug_border_end
+ObjectTemplate.anchor 0.9900/-0.0500/2.0000
+
+include refug_border_end.tweak

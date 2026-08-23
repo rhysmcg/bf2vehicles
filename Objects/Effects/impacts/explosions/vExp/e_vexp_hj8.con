@@ -1,0 +1,63 @@
+GeometryTemplate.create BundledMesh e_vexp_hj8
+
+ObjectTemplate.create EffectBundle e_vexp_hj8
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vExp_hj8_barrel
+ObjectTemplate.setPosition 0.0340/1.0645/0.1007
+ObjectTemplate.addTemplate em_vExp_hj8_mount
+ObjectTemplate.setPosition -0.0973/0.9723/0.0251
+ObjectTemplate.addTemplate em_vExp_hj8_leg
+ObjectTemplate.setPosition 0.1176/0.2887/-0.4178
+ObjectTemplate.addTemplate em_vExp_hj8_tripod
+ObjectTemplate.setPosition -0.0032/0.4324/-0.0332
+
+ObjectTemplate.create Emitter em_vExp_hj8_barrel
+ObjectTemplate.template p_vExp_hj8_barrel
+
+ObjectTemplate.create Particle p_vExp_hj8_barrel
+ObjectTemplate.collisionMesh e_vexp_hj8
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_hj8
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vExp_hj8_mount
+ObjectTemplate.template p_vExp_hj8_mount
+
+ObjectTemplate.create Particle p_vExp_hj8_mount
+ObjectTemplate.collisionMesh e_vexp_hj8
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_hj8
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vExp_hj8_leg
+ObjectTemplate.template p_vExp_hj8_leg
+
+ObjectTemplate.create Particle p_vExp_hj8_leg
+ObjectTemplate.collisionMesh e_vexp_hj8
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_hj8
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_vExp_hj8_tripod
+ObjectTemplate.template p_vExp_hj8_tripod
+
+ObjectTemplate.create Particle p_vExp_hj8_tripod
+ObjectTemplate.collisionMesh e_vexp_hj8
+ObjectTemplate.mapMaterial 0 metal_plating 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_hj8
+ObjectTemplate.geometryPart 3
+
+include e_vexp_hj8.tweak

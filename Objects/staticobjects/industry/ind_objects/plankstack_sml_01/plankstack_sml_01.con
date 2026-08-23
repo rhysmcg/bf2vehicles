@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh plankstack_sml_01
+CollisionManager.createTemplate plankstack_sml_01
+
+ObjectTemplate.create SimpleObject plankstack_sml_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh plankstack_sml_01
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry plankstack_sml_01
+ObjectTemplate.anchor -0.1323/-0.2274/0
+
+include plankstack_sml_01.tweak

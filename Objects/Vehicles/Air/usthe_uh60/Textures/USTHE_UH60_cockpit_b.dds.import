@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cddbsnr3sfd8"
+path="res://.godot/imported/USTHE_UH60_cockpit_b.dds-0260140d8054f3195e6d1b04a107866b.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/Textures/USTHE_UH60_cockpit_b.dds"
+dest_files=["res://.godot/imported/USTHE_UH60_cockpit_b.dds-0260140d8054f3195e6d1b04a107866b.res"]
+
+[params]
+
+mipmaps/generate=true

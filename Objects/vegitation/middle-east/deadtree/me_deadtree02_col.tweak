@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/11 15:13]
+ObjectTemplate.activeSafe SimpleObject me_deadtree02_col
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.modifiedByUser jlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setCollisionMesh me_deadtree02
+ObjectTemplate.mapMaterial 0 wood_col 93
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

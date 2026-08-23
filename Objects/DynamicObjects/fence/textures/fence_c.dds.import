@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b0yod4iv8tv0y"
+path="res://.godot/imported/fence_c.dds-146302d7ff5b83b7c3731614818dd329.res"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/fence/textures/fence_c.dds"
+dest_files=["res://.godot/imported/fence_c.dds-146302d7ff5b83b7c3731614818dd329.res"]
+
+[params]
+
+mipmaps/generate=true

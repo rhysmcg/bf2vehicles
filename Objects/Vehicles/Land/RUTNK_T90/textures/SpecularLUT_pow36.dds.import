@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cavvfouutor3k"
+path="res://.godot/imported/SpecularLUT_pow36.dds-445eaf91ecc318f6b5080ce26a89de09.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/RUTNK_T90/textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-445eaf91ecc318f6b5080ce26a89de09.res"]
+
+[params]
+
+mipmaps/generate=true

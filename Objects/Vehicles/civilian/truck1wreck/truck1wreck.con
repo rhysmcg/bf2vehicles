@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh truck1wreck
+CollisionManager.createTemplate truck1wreck
+
+ObjectTemplate.create SimpleObject truck1wreck
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh truck1wreck
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Rubber 0
+ObjectTemplate.mapMaterial 2 cloth 0
+ObjectTemplate.mapMaterial 3 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry truck1wreck
+
+include truck1wreck.tweak

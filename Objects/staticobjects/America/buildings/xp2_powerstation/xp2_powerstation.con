@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh xp2_powerstation
+CollisionManager.createTemplate xp2_powerstation
+
+ObjectTemplate.create SimpleObject xp2_powerstation
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_powerstation
+ObjectTemplate.mapMaterial 0 concret 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 cable 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_powerstation
+ObjectTemplate.anchor 0.0111/-10.0131/-1.4367
+
+include xp2_powerstation.tweak

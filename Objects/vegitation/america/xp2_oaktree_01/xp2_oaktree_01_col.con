@@ -1,0 +1,13 @@
+CollisionManager.createTemplate xp2_oaktree_01
+
+ObjectTemplate.create SimpleObject xp2_oaktree_01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_oaktree_01
+ObjectTemplate.mapMaterial 0 trunkCol 0
+ObjectTemplate.mapMaterial 1 leafCol 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-9.2184/0
+
+include xp2_oaktree_01_col.tweak

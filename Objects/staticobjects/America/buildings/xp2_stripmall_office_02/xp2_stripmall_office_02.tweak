@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/4/10 7:10]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 150
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_stripmall_office_02
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_stripmall_office_02
+ObjectTemplate.setCollisionMesh xp2_stripmall_office_02
+ObjectTemplate.mapMaterial 0 brick 78
+ObjectTemplate.mapMaterial 1 metal 21
+ObjectTemplate.mapMaterial 2 wood 15
+ObjectTemplate.mapMaterial 3 plastic 11
+ObjectTemplate.mapMaterial 4 paper 1011
+ObjectTemplate.mapMaterial 5 gravel 3
+ObjectTemplate.mapMaterial 6 glass 17
+ObjectTemplate.mapMaterial 7 stairs 34
+ObjectTemplate.mapMaterial 8 ai_office_02_brick 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_stripmall_office_02_glass
+rem -------------------------------------
+

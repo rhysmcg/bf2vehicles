@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b1tt11epxi62t"
+path="res://.godot/imported/roads_01_de.dds-0937074c23e8980211d2a932becfaa3d.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/textures/roads_01_de.dds"
+dest_files=["res://.godot/imported/roads_01_de.dds-0937074c23e8980211d2a932becfaa3d.res"]
+
+[params]
+
+mipmaps/generate=true

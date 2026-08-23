@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/2/13 9:54]
+ObjectTemplate.active gate
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.isDestructable 1
+ObjectTemplate.castsDynamicShadow 1
+ObjectTemplate.geometry gate
+ObjectTemplate.collisionMesh gate
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+
+

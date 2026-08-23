@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/14 17:40]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle ch_gasstation_cistern
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_gasstation_cistern
+ObjectTemplate.setCollisionMesh ch_gasstation_cistern
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ch_gasstation_cistern_ladder
+ObjectTemplate.setPosition 0/-0.384632/-2.05843
+rem -------------------------------------
+

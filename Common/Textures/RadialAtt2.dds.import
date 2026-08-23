@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://qrslaaadaun2"
+path="res://.godot/imported/RadialAtt2.dds-e33b0dd2ced10e5d4e61692886ca064c.res"
+
+[deps]
+
+source_file="res://Common/Textures/RadialAtt2.dds"
+dest_files=["res://.godot/imported/RadialAtt2.dds-e33b0dd2ced10e5d4e61692886ca064c.res"]
+
+[params]
+
+mipmaps/generate=true

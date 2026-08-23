@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh dock90deginner
+CollisionManager.createTemplate dock90deginner
+
+ObjectTemplate.create SimpleObject dock90deginner
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh dock90deginner
+ObjectTemplate.mapMaterial 0 RockOrConcrete 0
+ObjectTemplate.mapMaterial 1 MetalSolid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dock90deginner
+ObjectTemplate.anchor 6.5000/2.2858/6.5000
+
+include dock90deginner.tweak

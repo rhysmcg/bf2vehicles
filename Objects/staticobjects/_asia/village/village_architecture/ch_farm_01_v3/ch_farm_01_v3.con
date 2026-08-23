@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh ch_farm_01_v3
+CollisionManager.createTemplate ch_farm_01_v3
+
+ObjectTemplate.create SimpleObject ch_farm_01_v3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh ch_farm_01_v3
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.mapMaterial 1 Stone 0
+ObjectTemplate.mapMaterial 2 ceramic_tiles 0
+ObjectTemplate.mapMaterial 3 thinMetal 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_farm_01_v3
+
+include ch_farm_01_v3.tweak

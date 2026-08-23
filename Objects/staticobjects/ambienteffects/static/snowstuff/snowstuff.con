@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle snowstuff
+ObjectTemplate.createdInEditor 1
+
+include snowstuff.tweak

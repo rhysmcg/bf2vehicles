@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh sign_yieldright_dest
+CollisionManager.createTemplate sign_yieldright_dest
+
+ObjectTemplate.create DestroyableObject sign_yieldright_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh sign_yieldright_dest
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_yieldright_dest
+ObjectTemplate.anchor 0/-1.3754/0
+
+include sign_yieldright_dest.tweak

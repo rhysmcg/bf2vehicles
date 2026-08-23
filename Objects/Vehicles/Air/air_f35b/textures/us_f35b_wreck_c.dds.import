@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cnrys2lc8nfr8"
+path="res://.godot/imported/us_f35b_wreck_c.dds-1cf508998435a58b56e2d7c5d6fe3c11.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_f35b/textures/us_f35b_wreck_c.dds"
+dest_files=["res://.godot/imported/us_f35b_wreck_c.dds-1cf508998435a58b56e2d7c5d6fe3c11.res"]
+
+[params]
+
+mipmaps/generate=true

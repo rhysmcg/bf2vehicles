@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_ref_bundle
+ObjectTemplate.createdInEditor 1
+
+include e_ref_bundle.tweak

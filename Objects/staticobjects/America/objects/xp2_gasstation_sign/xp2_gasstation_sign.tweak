@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_gasstation_sign
+ObjectTemplate.creator RON:ronda
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_gasstation_sign
+ObjectTemplate.setCollisionMesh xp2_gasstation_sign
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

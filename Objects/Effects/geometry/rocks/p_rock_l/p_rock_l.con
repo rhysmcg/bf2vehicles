@@ -1,0 +1,12 @@
+GeometryTemplate.create BundledMesh p_rock_l
+
+ObjectTemplate.create Particle p_rock_l
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-3:dsu
+rem ObjectTemplate.collisionMesh p_rock_L
+ObjectTemplate.mapMaterial 0 rock_or_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_rock_l
+
+include p_rock_l.tweak

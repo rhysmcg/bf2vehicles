@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://clo23f3871w7s"
+path="res://.godot/imported/p_plank_b.dds-4af86c9e7a05b7545b967a5b6bd8b685.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_plank_b.dds"
+dest_files=["res://.godot/imported/p_plank_b.dds-4af86c9e7a05b7545b967a5b6bd8b685.res"]
+
+[params]
+
+mipmaps/generate=true

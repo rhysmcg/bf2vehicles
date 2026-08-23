@@ -1,0 +1,69 @@
+GeometryTemplate.create BundledMesh wasp_defence_back
+CollisionManager.createTemplate wasp_defence_back
+
+ObjectTemplate.create PlayerControlObject wasp_defence_back
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh wasp_defence_back
+ObjectTemplate.mapMaterial 0 armor_metal_plate 0
+ObjectTemplate.mapMaterial 1 sold_slip 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry wasp_defence_back
+ObjectTemplate.addTemplate Wasp_Defence_Back_Phalanx_Sadle
+ObjectTemplate.setPosition -0.2016/2.5093/-4.9969
+ObjectTemplate.setRotation -65.0000/0/0
+ObjectTemplate.addTemplate Wasp_Defence_Back_SeaSparrow_Sadle
+ObjectTemplate.setPosition 1.0529/1.7301/2.9228
+ObjectTemplate.setRotation -65.0000/0/0
+
+ObjectTemplate.create RotationalBundle Wasp_Defence_Back_Phalanx_Sadle
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate Wasp_Defence_Back_Phalanx_BarrelBase
+ObjectTemplate.setPosition 0.0020/1.1943/0.0392
+ObjectTemplate.setRotation 0/-25.0000/0
+
+ObjectTemplate.create RotationalBundle Wasp_Defence_Back_Phalanx_BarrelBase
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate Wasp_Defence_Back_Hud
+ObjectTemplate.setPosition 0.1996/-3.7036/4.9578
+ObjectTemplate.addTemplate Wasp_Defence_Back_Phalanx_Barrel
+ObjectTemplate.setPosition 0.0066/-0.3615/1.7441
+
+ObjectTemplate.create SimpleObject Wasp_Defence_Back_Hud
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create RotationalBundle Wasp_Defence_Back_Phalanx_Barrel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create RotationalBundle Wasp_Defence_Back_SeaSparrow_Sadle
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate Wasp_Defence_Back_SeaSparrow_barrel
+ObjectTemplate.setRotation 0/-25.0000/0
+
+ObjectTemplate.create RotationalBundle Wasp_Defence_Back_SeaSparrow_barrel
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+include wasp_defence_back.tweak

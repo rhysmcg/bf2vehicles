@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/13 5:17]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject xp2_stripmall_steakhouse_glass
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_stripmall_steakhouse_glass
+ObjectTemplate.setCollisionMesh xp2_stripmall_steakhouse_glass
+ObjectTemplate.mapMaterial 0 glass 17
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

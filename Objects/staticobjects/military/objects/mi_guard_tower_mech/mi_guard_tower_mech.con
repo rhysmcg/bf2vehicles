@@ -1,0 +1,24 @@
+GeometryTemplate.create StaticMesh mi_guard_tower_mech
+CollisionManager.createTemplate mi_guard_tower_mech
+
+ObjectTemplate.create Bundle mi_guard_tower_mech
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh mi_guard_tower_mech
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Wood_solid 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Plastic 0
+ObjectTemplate.mapMaterial 4 Sandbags 0
+ObjectTemplate.mapMaterial 5 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 6 Rubber 0
+ObjectTemplate.mapMaterial 7 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 8 glass 0
+ObjectTemplate.mapMaterial 9 stair_stone 0
+ObjectTemplate.mapMaterial 10 Slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_guard_tower_mech
+ObjectTemplate.anchor 0/-2.6769/0
+
+include mi_guard_tower_mech.tweak

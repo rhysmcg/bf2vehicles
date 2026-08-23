@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2_staticmesh_importer"
+type="PackedScene"
+uid="uid://jxxy4cbqr7a5"
+path="res://.godot/imported/gas_station.staticmesh-e69d6c7ab4943e10d6706d8ce5d0b4b3.tscn"
+
+[deps]
+
+source_file="res://meshes/gas_station/meshes/gas_station.staticmesh"
+dest_files=["res://.godot/imported/gas_station.staticmesh-e69d6c7ab4943e10d6706d8ce5d0b4b3.tscn"]
+
+[params]
+

@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh sasgr_fn2000
+
+ObjectTemplate.create GenericFireArm sasgr_fn2000
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RICK:rickgi
+ObjectTemplate.geometry sasgr_fn2000
+
+include sasgr_fn2000.tweak

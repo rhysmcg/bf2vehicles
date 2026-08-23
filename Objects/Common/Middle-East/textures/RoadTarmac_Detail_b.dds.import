@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b1eh7yaub4xu8"
+path="res://.godot/imported/RoadTarmac_Detail_b.dds-4c16a71e61f71562133a63d2ccab27b9.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/RoadTarmac_Detail_b.dds"
+dest_files=["res://.godot/imported/RoadTarmac_Detail_b.dds-4c16a71e61f71562133a63d2ccab27b9.res"]
+
+[params]
+
+mipmaps/generate=true

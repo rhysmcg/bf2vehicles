@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/28 8:19]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject pedestrian_railing_end
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry pedestrian_railing_end
+ObjectTemplate.setCollisionMesh pedestrian_railing_end
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

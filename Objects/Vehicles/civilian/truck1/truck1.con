@@ -1,0 +1,135 @@
+GeometryTemplate.create BundledMesh truck1
+
+ObjectTemplate.create PlayerControlObject truck1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh truck1
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Glass_vehicle 0
+ObjectTemplate.mapMaterial 2 Metal_solid 2
+ObjectTemplate.mapMaterial 3 Gravel 3
+ObjectTemplate.mapMaterial 4 Rubber 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry truck1
+ObjectTemplate.addTemplate Truck1_Steeringwheel
+ObjectTemplate.setPosition -0.6011/1.4013/3.0058
+ObjectTemplate.addTemplate Truck1_Shaft
+ObjectTemplate.setPosition 0/-0.1511/0
+ObjectTemplate.addTemplate Truck1_Engine
+ObjectTemplate.setPosition 0/0.3489/0
+ObjectTemplate.addTemplate Truck1_Drivetrain_RF
+ObjectTemplate.setPosition 0.7105/-0.1789/2.2334
+ObjectTemplate.addTemplate Truck1_Drivetrain_LF
+ObjectTemplate.setPosition -0.7105/-0.1789/2.2334
+
+ObjectTemplate.create RotationalBundle Truck1_Steeringwheel
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create RotationalBundle Truck1_Shaft
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Engine Truck1_Engine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate Truck1_Wheel_nav_RF
+ObjectTemplate.setPosition 0.9166/-0.8374/2.2657
+ObjectTemplate.addTemplate Truck1_Wheel_nav_LF
+ObjectTemplate.setPosition -0.9134/-0.8370/2.2657
+ObjectTemplate.addTemplate Truck1_Wheel_LR1
+ObjectTemplate.setPosition -0.9134/-0.7521/-1.4815
+ObjectTemplate.addTemplate Truck1_Wheel_LR2
+ObjectTemplate.setPosition -0.9134/-0.7521/-2.7038
+ObjectTemplate.addTemplate Truck1_Wheel_RR1
+ObjectTemplate.setPosition 0.9166/-0.7521/-1.4815
+ObjectTemplate.addTemplate Truck1_Wheel_RR2
+ObjectTemplate.setPosition 0.9166/-0.7521/-2.7038
+
+ObjectTemplate.create RotationalBundle Truck1_Wheel_nav_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+ObjectTemplate.addTemplate Truck1_Wheel_RF
+
+ObjectTemplate.create Spring Truck1_Wheel_RF
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create RotationalBundle Truck1_Wheel_nav_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+ObjectTemplate.addTemplate Truck1_Wheel_LF
+
+ObjectTemplate.create Spring Truck1_Wheel_LF
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Spring Truck1_Wheel_LR1
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Spring Truck1_Wheel_LR2
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create Spring Truck1_Wheel_RR1
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Spring Truck1_Wheel_RR2
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create Bundle Truck1_Drivetrain_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+ObjectTemplate.addTemplate Truck1_Spring_RF
+ObjectTemplate.setPosition -0.0615/-0.0538/-0.0306
+ObjectTemplate.addTemplate Truck1_Hub_RF
+ObjectTemplate.setPosition 0.0243/0.0232/-0.0055
+
+ObjectTemplate.create SimpleObject Truck1_Spring_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create SimpleObject Truck1_Hub_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Bundle Truck1_Drivetrain_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+ObjectTemplate.addTemplate Truck1_Spring_LF
+ObjectTemplate.setPosition 0.0615/-0.0538/-0.0306
+ObjectTemplate.addTemplate Truck1_Hub_LF
+ObjectTemplate.setPosition -0.0243/0.0232/-0.0055
+
+ObjectTemplate.create SimpleObject Truck1_Spring_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create SimpleObject Truck1_Hub_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+include truck1.tweak

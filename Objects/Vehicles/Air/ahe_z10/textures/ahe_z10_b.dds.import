@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bns70xlcfscv2"
+path="res://.godot/imported/ahe_z10_b.dds-94b5a1c756dad17a4eb33c2919ac5dea.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/textures/ahe_z10_b.dds"
+dest_files=["res://.godot/imported/ahe_z10_b.dds-94b5a1c756dad17a4eb33c2919ac5dea.res"]
+
+[params]
+
+mipmaps/generate=true

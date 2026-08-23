@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh usrif_mp5_a3
+
+ObjectTemplate.create GenericFireArm usrif_mp5_a3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry usrif_mp5_a3
+
+include usrif_mp5_a3.tweak

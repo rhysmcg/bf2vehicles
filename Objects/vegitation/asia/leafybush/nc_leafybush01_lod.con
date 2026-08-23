@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh nc_leafybush01_lod
+
+ObjectTemplate.create SimpleObject nc_leafybush01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry nc_leafybush01_lod
+
+include nc_leafybush01_lod.tweak

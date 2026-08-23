@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh wpipe_support
+CollisionManager.createTemplate wpipe_support
+
+ObjectTemplate.create SimpleObject wpipe_support
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wpipe_support
+ObjectTemplate.mapMaterial 0 rock_or_concrete1 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_support
+ObjectTemplate.anchor 0/-0.0795/0
+
+include wpipe_support.tweak

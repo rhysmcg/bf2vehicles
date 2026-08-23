@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dkcvcnekrg8j0"
+path="res://.godot/imported/wasp_defence_seasparrow_c.dds-77f34b105fbe3c146cddc99c64666358.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/wasp_defence_front/textures/wasp_defence_seasparrow_c.dds"
+dest_files=["res://.godot/imported/wasp_defence_seasparrow_c.dds-77f34b105fbe3c146cddc99c64666358.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp1ntqvwkufoo"
+path="res://.godot/imported/eu_light_b_os.dds-09a70e6deda5a17b03a9ecba05382fa8.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/textures/eu_light_b_os.dds"
+dest_files=["res://.godot/imported/eu_light_b_os.dds-09a70e6deda5a17b03a9ecba05382fa8.res"]
+
+[params]
+
+mipmaps/generate=true

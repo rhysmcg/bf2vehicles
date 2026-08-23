@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_ms_farmfence
+CollisionManager.createTemplate xp2_ms_farmfence
+
+ObjectTemplate.create SimpleObject xp2_ms_farmfence
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_ms_farmfence
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_ms_farmfence
+ObjectTemplate.anchor 14.9944/-1.0486/-18.0519
+
+include xp2_ms_farmfence.tweak

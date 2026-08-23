@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh wirefence_end
+CollisionManager.createTemplate wirefence_end
+
+ObjectTemplate.create SimpleObject wirefence_end
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh wirefence_end
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Chicken_Wire_Thin 0
+ObjectTemplate.mapMaterial 4 Barbed_Wire 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wirefence_end
+ObjectTemplate.anchor 0/-1.2500/0
+
+include wirefence_end.tweak

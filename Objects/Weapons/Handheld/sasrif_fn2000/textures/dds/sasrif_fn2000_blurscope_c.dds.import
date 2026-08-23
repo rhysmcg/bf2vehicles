@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://tw3uytf64ax4"
+path="res://.godot/imported/sasrif_fn2000_blurscope_c.dds-2f8cf1ea35ad78456f2e7c20261b17b3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_fn2000/textures/dds/sasrif_fn2000_blurscope_c.dds"
+dest_files=["res://.godot/imported/sasrif_fn2000_blurscope_c.dds-2f8cf1ea35ad78456f2e7c20261b17b3.res"]
+
+[params]
+
+mipmaps/generate=true

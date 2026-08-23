@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://xcsb2clbgia2"
+path="res://.godot/imported/Detail_Stonetiles1.dds-329c59af306402fa0db22bd7e616dfc5.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Stonetiles1.dds"
+dest_files=["res://.godot/imported/Detail_Stonetiles1.dds-329c59af306402fa0db22bd7e616dfc5.res"]
+
+[params]
+
+mipmaps/generate=true

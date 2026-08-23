@@ -1,0 +1,21 @@
+GeometryTemplate.create StaticMesh xp2_house_highway_01
+CollisionManager.createTemplate xp2_house_highway_01
+
+ObjectTemplate.create bundle xp2_house_highway_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.collisionMesh xp2_house_highway_01
+ObjectTemplate.mapMaterial 0 glass 0
+ObjectTemplate.mapMaterial 1 plastic 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.mapMaterial 3 Usa01c_Usa01de 0
+ObjectTemplate.mapMaterial 4 bricks 0
+ObjectTemplate.mapMaterial 5 wood 0
+ObjectTemplate.mapMaterial 6 metal_thin 0
+ObjectTemplate.mapMaterial 7 ladder 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_house_highway_01
+ObjectTemplate.anchor 0/3.1955/17.9292
+
+include xp2_house_highway_01.tweak

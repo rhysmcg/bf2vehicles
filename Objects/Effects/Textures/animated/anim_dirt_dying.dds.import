@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://rp0gua5yd3kk"
+path="res://.godot/imported/anim_dirt_dying.dds-1c3ccd41c608b5ad5f70f6e10152c97b.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_dirt_dying.dds"
+dest_files=["res://.godot/imported/anim_dirt_dying.dds-1c3ccd41c608b5ad5f70f6e10152c97b.res"]
+
+[params]
+
+mipmaps/generate=true

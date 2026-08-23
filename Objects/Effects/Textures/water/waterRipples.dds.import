@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwxayatgvm1ij"
+path="res://.godot/imported/waterRipples.dds-080dcbdc8c432027eedd63e57654b5d0.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/waterRipples.dds"
+dest_files=["res://.godot/imported/waterRipples.dds-080dcbdc8c432027eedd63e57654b5d0.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,260 @@
+GeometryTemplate.create BundledMesh air_f35b
+CollisionManager.createTemplate air_f35b
+
+ObjectTemplate.create PlayerControlObject air_f35b
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh air_f35b
+ObjectTemplate.mapMaterial 0 Airplane 0
+ObjectTemplate.mapMaterial 1 Glass_bulletproof 0
+ObjectTemplate.mapMaterial 2 wreck 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry air_f35b
+ObjectTemplate.addTemplate AIR_F35B_RGear
+ObjectTemplate.setPosition 1.4380/-0.2768/-1.2814
+ObjectTemplate.addTemplate AIR_F35B_LGear
+ObjectTemplate.setPosition -1.4290/-0.2765/-1.2832
+ObjectTemplate.addTemplate AIR_F35B_FGear
+ObjectTemplate.setPosition 0/-0.5406/4.8967
+ObjectTemplate.addTemplate AIR_F35B_FlapL
+ObjectTemplate.setPosition -3.3532/0.2039/-2.3299
+ObjectTemplate.setRotation 12.8119/-0.1108/0.4873
+ObjectTemplate.addTemplate AIR_F35B_FlapR
+ObjectTemplate.setPosition 3.3532/0.2039/-2.3176
+ObjectTemplate.setRotation -12.9853/-0.0311/-0.1350
+ObjectTemplate.addTemplate AIR_F35B_right_bottom_fuselage_door
+ObjectTemplate.setPosition 0.5920/-0.6137/3.2816
+ObjectTemplate.setRotation 85.4102/-0.0440/-0.5481
+ObjectTemplate.addTemplate AIR_F35B_left_bottom_fuselage_door
+ObjectTemplate.setPosition -0.5920/-0.6137/3.2816
+ObjectTemplate.setRotation 95.3556/0.0840/-0.8957
+ObjectTemplate.addTemplate AIR_F35B_right_top_fuselage_door
+ObjectTemplate.setPosition 0.7211/0.9550/3.4607
+ObjectTemplate.setRotation 0/-4.9940/0
+ObjectTemplate.addTemplate AIR_F35B_left_top_fuselage_door
+ObjectTemplate.setPosition -0.7122/0.9545/3.4590
+ObjectTemplate.setRotation 0/-4.4863/0
+ObjectTemplate.addTemplate AIR_F35B_left_engine_door
+ObjectTemplate.setPosition -0.9034/-0.2279/-3.6787
+ObjectTemplate.setRotation 81.5313/1.9087/12.6091
+ObjectTemplate.addTemplate AIR_F35B_right_engine_door
+ObjectTemplate.setPosition 0.9014/-0.2272/-3.6787
+ObjectTemplate.setRotation 100.1187/-1.9362/10.7205
+ObjectTemplate.addTemplate AIR_F35B_engine
+ObjectTemplate.setPosition 0/0.0821/-3.9016
+ObjectTemplate.setRotation 90.0000/0/0
+ObjectTemplate.addTemplate AIR_F35B_ElevatorR
+ObjectTemplate.setPosition 1.1955/0.2189/-5.3116
+ObjectTemplate.setRotation -0.0920/0/0
+ObjectTemplate.addTemplate AIR_F35B_ElevatorL
+ObjectTemplate.setPosition -1.1661/0.2189/-5.3116
+ObjectTemplate.setRotation -0.1088/0/0
+ObjectTemplate.addTemplate AIR_F35B_RudderR
+ObjectTemplate.setPosition 1.9279/1.5212/-5.0565
+ObjectTemplate.setRotation 12.2685/-25.0425/62.8088
+ObjectTemplate.addTemplate AIR_F35B_RudderL
+ObjectTemplate.setPosition -1.9276/1.5212/-5.0597
+ObjectTemplate.setRotation -11.2931/-23.2698/116.8157
+ObjectTemplate.addTemplate AIR_F35B_RgearHatch
+ObjectTemplate.setPosition 1.6745/-0.2026/-0.4426
+ObjectTemplate.setRotation 89.4477/-24.2242/0
+ObjectTemplate.addTemplate AIR_F35B_LgearHatch
+ObjectTemplate.setPosition -1.6861/-0.2026/-0.4426
+ObjectTemplate.setRotation 90.4961/82.9953/0
+ObjectTemplate.addTemplate AIR_F35B_FgearHatch
+ObjectTemplate.setPosition 0.2011/-0.4761/6.3798
+ObjectTemplate.setRotation -140.3684/-85.9890/-131.5234
+ObjectTemplate.addTemplate AIR_F35B_Geararm
+ObjectTemplate.setPosition 0/-1.8152/0.4679
+
+ObjectTemplate.create LandingGear AIR_F35B_RGear
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate AIR_F35B_RWheel
+ObjectTemplate.setPosition 0.3536/-1.3529/-0.1117
+
+ObjectTemplate.create Spring AIR_F35B_RWheel
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create LandingGear AIR_F35B_LGear
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate AIR_F35B_LWheel
+ObjectTemplate.setPosition -0.3651/-1.3532/-0.1100
+
+ObjectTemplate.create Spring AIR_F35B_LWheel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create LandingGear AIR_F35B_FGear
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate AIR_F35B_FWheel
+ObjectTemplate.setPosition -0.0074/-1.2211/0.1598
+
+ObjectTemplate.create Spring AIR_F35B_FWheel
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Wing AIR_F35B_FlapL
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Wing AIR_F35B_FlapR
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create RotationalBundle AIR_F35B_right_bottom_fuselage_door
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create RotationalBundle AIR_F35B_left_bottom_fuselage_door
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create RotationalBundle AIR_F35B_right_top_fuselage_door
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+ObjectTemplate.addTemplate AIR_F35B_right_fold_over_door
+ObjectTemplate.setPosition -0.3771/0.2138/0.0681
+ObjectTemplate.setRotation 0/-0.9693/0
+
+ObjectTemplate.create RotationalBundle AIR_F35B_right_fold_over_door
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create RotationalBundle AIR_F35B_left_top_fuselage_door
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+ObjectTemplate.addTemplate AIR_F35B_left_fold_over_door
+ObjectTemplate.setPosition 0.3676/0.2159/0.0678
+ObjectTemplate.setRotation 0.8715/-0.2322/-0.0925
+
+ObjectTemplate.create RotationalBundle AIR_F35B_left_fold_over_door
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create RotationalBundle AIR_F35B_left_engine_door
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create RotationalBundle AIR_F35B_right_engine_door
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create RotationalBundle AIR_F35B_engine
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create Wing AIR_F35B_ElevatorR
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create Wing AIR_F35B_ElevatorL
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create Wing AIR_F35B_RudderR
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+ObjectTemplate.create Wing AIR_F35B_RudderL
+ObjectTemplate.collisionPart 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 21
+
+ObjectTemplate.create LandingGear AIR_F35B_RgearHatch
+ObjectTemplate.collisionPart 22
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 22
+
+ObjectTemplate.create LandingGear AIR_F35B_LgearHatch
+ObjectTemplate.collisionPart 23
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 23
+
+ObjectTemplate.create LandingGear AIR_F35B_FgearHatch
+ObjectTemplate.collisionPart 24
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 24
+
+ObjectTemplate.create LandingGear AIR_F35B_Geararm
+ObjectTemplate.collisionPart 25
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 25
+
+include air_f35b.tweak

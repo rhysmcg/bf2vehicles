@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cfskjsnvnegcc"
+path="res://.godot/imported/flags_b.dds-9ee47f5a928b52c0ea16caa3252bdf77.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/flags_b.dds"
+dest_files=["res://.godot/imported/flags_b.dds-9ee47f5a928b52c0ea16caa3252bdf77.res"]
+
+[params]
+
+mipmaps/generate=true

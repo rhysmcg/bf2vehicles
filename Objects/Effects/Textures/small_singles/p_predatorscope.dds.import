@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://detcc7g5gsv2b"
+path="res://.godot/imported/p_predatorscope.dds-38b8f46aa32ecc4da9fefd4a2dcf72bd.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/p_predatorscope.dds"
+dest_files=["res://.godot/imported/p_predatorscope.dds-38b8f46aa32ecc4da9fefd4a2dcf72bd.res"]
+
+[params]
+
+mipmaps/generate=true

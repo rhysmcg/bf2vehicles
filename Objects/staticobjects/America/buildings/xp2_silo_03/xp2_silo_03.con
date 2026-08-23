@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh xp2_silo_03
+CollisionManager.createTemplate xp2_silo_03
+
+ObjectTemplate.create SimpleObject xp2_silo_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_silo_03
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 rubber 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_silo_03
+ObjectTemplate.anchor 0/-2.5082/0
+
+include xp2_silo_03.tweak

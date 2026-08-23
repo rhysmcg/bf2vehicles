@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh urm_dam_lower
+CollisionManager.createTemplate urm_dam_lower
+
+ObjectTemplate.create SimpleObject urm_dam_lower
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh urm_dam_lower
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry urm_dam_lower
+ObjectTemplate.anchor -36.5296/-21.5591/2.1599
+
+include urm_dam_lower.tweak

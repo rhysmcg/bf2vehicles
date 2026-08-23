@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh steelrailing_4m
+CollisionManager.createTemplate steelrailing_4m
+
+ObjectTemplate.create SimpleObject steelrailing_4m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh steelrailing_4m
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry steelrailing_4m
+ObjectTemplate.anchor 0.0671/0.3227/2.0000
+
+include steelrailing_4m.tweak

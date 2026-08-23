@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled RR_6_Lane_Highway
+ObjectTemplate.create SimpleObject RR_6_Lane_Highway
+ObjectTemplate.geometry RR_6_Lane_Highway

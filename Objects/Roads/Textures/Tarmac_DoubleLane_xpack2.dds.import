@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bjhd881jc1yb0"
+path="res://.godot/imported/Tarmac_DoubleLane_xpack2.dds-abb93e1220d009dcf763e261451adeba.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_DoubleLane_xpack2.dds"
+dest_files=["res://.godot/imported/Tarmac_DoubleLane_xpack2.dds-abb93e1220d009dcf763e261451adeba.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh powerline
+CollisionManager.createTemplate powerline
+
+ObjectTemplate.create SimpleObject powerline
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh powerline
+ObjectTemplate.mapMaterial 0 metalsolid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry powerline
+ObjectTemplate.anchor 0/-10.8775/0
+
+include powerline.tweak

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh us_carrier_wasp_mid
+CollisionManager.createTemplate us_carrier_wasp_mid
+
+ObjectTemplate.create Bundle us_carrier_wasp_mid
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-2:ful
+ObjectTemplate.collisionMesh us_carrier_wasp_mid
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry us_carrier_wasp_mid
+ObjectTemplate.anchor 123.3930/-0.6096/16.3679
+
+include us_carrier_wasp_mid.tweak

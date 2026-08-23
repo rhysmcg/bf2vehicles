@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bkafpjom6x06e"
+path="res://.godot/imported/eurif_famas_blurscope_c.dds-19005d7f865eb37241fe97ccc9487b69.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_famas/textures/dds/eurif_famas_blurscope_c.dds"
+dest_files=["res://.godot/imported/eurif_famas_blurscope_c.dds-19005d7f865eb37241fe97ccc9487b69.res"]
+
+[params]
+
+mipmaps/generate=true

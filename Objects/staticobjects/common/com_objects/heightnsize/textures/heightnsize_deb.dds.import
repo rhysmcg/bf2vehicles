@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d03b0hb4k2wfb"
+path="res://.godot/imported/heightnsize_deb.dds-7d86f17874b7b0b1e2321697d253dcba.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/heightnsize/textures/heightnsize_deb.dds"
+dest_files=["res://.godot/imported/heightnsize_deb.dds-7d86f17874b7b0b1e2321697d253dcba.res"]
+
+[params]
+
+mipmaps/generate=true

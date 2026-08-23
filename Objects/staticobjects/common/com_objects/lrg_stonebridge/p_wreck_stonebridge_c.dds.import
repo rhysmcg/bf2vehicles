@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://e8qunat1u107"
+path="res://.godot/imported/p_wreck_stonebridge_c.dds-8ebd33b5fe3d141ae391add985401ad8.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lrg_stonebridge/p_wreck_stonebridge_c.dds"
+dest_files=["res://.godot/imported/p_wreck_stonebridge_c.dds-8ebd33b5fe3d141ae391add985401ad8.res"]
+
+[params]
+
+mipmaps/generate=true

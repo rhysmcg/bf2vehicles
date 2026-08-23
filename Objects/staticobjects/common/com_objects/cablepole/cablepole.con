@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh cablepole
+CollisionManager.createTemplate cablepole
+
+ObjectTemplate.create SimpleObject cablepole
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh cablepole
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cablepole
+ObjectTemplate.anchor -0.4377/-4.8352/0
+
+include cablepole.tweak

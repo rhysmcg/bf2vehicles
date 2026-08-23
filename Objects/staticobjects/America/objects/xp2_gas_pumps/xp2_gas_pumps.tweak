@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/22 7:17]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_gas_pumps
+ObjectTemplate.creator RYAN_XP:RyanLo
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_gas_pumps
+ObjectTemplate.setCollisionMesh xp2_gas_pumps
+ObjectTemplate.mapMaterial 0 rubber 22
+ObjectTemplate.mapMaterial 1 metal_thin 20
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

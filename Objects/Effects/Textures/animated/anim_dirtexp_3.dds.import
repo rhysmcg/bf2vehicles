@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://lp103mvrdlj5"
+path="res://.godot/imported/anim_dirtexp_3.dds-b865a8bb1c6e7f2034f82fc98d1dfb85.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_dirtexp_3.dds"
+dest_files=["res://.godot/imported/anim_dirtexp_3.dds-b865a8bb1c6e7f2034f82fc98d1dfb85.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,10 @@
+ObjectTemplate.create Bundle ordermarker_attack
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh hgr_smoke
+ObjectTemplate.mapMaterial 0 metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.geometry hgr_smoke
+
+include ordermarker_attack.tweak

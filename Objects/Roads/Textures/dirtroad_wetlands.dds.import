@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://hbpkbiptgqsd"
+path="res://.godot/imported/dirtroad_wetlands.dds-93422c068869593059ba99ba9d954336.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirtroad_wetlands.dds"
+dest_files=["res://.godot/imported/dirtroad_wetlands.dds-93422c068869593059ba99ba9d954336.res"]
+
+[params]
+
+mipmaps/generate=true

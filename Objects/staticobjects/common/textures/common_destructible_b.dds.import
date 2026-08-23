@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://mhjdkovxv6ee"
+path="res://.godot/imported/common_destructible_b.dds-06afd742293a560570ab5b897093f33a.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_destructible_b.dds"
+dest_files=["res://.godot/imported/common_destructible_b.dds-06afd742293a560570ab5b897093f33a.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh c4_explosives
+CollisionManager.createTemplate c4_explosives
+
+ObjectTemplate.create GenericFireArm c4_explosives
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.collisionMesh c4_explosives
+ObjectTemplate.mapMaterial 0 collisionmaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry c4_explosives
+
+include c4_explosives.tweak

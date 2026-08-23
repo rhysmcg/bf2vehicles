@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/31 12:3]
+GeometryTemplate.setSubGeometryLodDistance 0 0 80
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject watertower_02
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry watertower_02
+ObjectTemplate.setCollisionMesh watertower_02
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 1 Metal_Solid 21
+ObjectTemplate.mapMaterial 2 Metal_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wooden_bridge_support2
+CollisionManager.createTemplate wooden_bridge_support2
+
+ObjectTemplate.create SimpleObject wooden_bridge_support2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh wooden_bridge_support2
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wooden_bridge_support2
+ObjectTemplate.anchor 0/2.0000/-0.0080
+
+include wooden_bridge_support2.tweak

@@ -1,0 +1,63 @@
+GeometryTemplate.create BundledMesh e_destruction_woodencrate1m
+
+ObjectTemplate.create EffectBundle e_destruction_woodencrate1m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_destruction_woodcrate1m_01
+ObjectTemplate.setPosition -0.4429/-0.2475/0.2190
+ObjectTemplate.addTemplate em_destruction_woodcrate1m_02
+ObjectTemplate.setPosition 0.4171/-0.3674/-0.0516
+ObjectTemplate.addTemplate em_destruction_woodcrate1m_03
+ObjectTemplate.setPosition 0.4489/0.1853/0.3137
+ObjectTemplate.addTemplate em_destruction_woodcrate1m_04
+ObjectTemplate.setPosition -0.4210/0.2715/-0.1975
+
+ObjectTemplate.create Emitter em_destruction_woodcrate1m_01
+ObjectTemplate.template p_destruction_woodcrate1m_01
+
+ObjectTemplate.create Particle p_destruction_woodcrate1m_01
+ObjectTemplate.collisionMesh e_destruction_woodencrate1m
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodencrate1m
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_woodcrate1m_02
+ObjectTemplate.template p_destruction_woodcrate1m_02
+
+ObjectTemplate.create Particle p_destruction_woodcrate1m_02
+ObjectTemplate.collisionMesh e_destruction_woodencrate1m
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodencrate1m
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_woodcrate1m_03
+ObjectTemplate.template p_destruction_woodcrate1m_03
+
+ObjectTemplate.create Particle p_destruction_woodcrate1m_03
+ObjectTemplate.collisionMesh e_destruction_woodencrate1m
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodencrate1m
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_woodcrate1m_04
+ObjectTemplate.template p_destruction_woodcrate1m_04
+
+ObjectTemplate.create Particle p_destruction_woodcrate1m_04
+ObjectTemplate.collisionMesh e_destruction_woodencrate1m
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_woodencrate1m
+ObjectTemplate.geometryPart 3
+
+include e_destruction_woodencrate1m.tweak

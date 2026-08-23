@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://rswo406d2c3n"
+path="res://.godot/imported/xp2_musclecar_b.dds-6c652ff6c7d98a99cbf034c25caa1159.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_musclecar/textures/xp2_musclecar_b.dds"
+dest_files=["res://.godot/imported/xp2_musclecar_b.dds-6c652ff6c7d98a99cbf034c25caa1159.res"]
+
+[params]
+
+mipmaps/generate=true

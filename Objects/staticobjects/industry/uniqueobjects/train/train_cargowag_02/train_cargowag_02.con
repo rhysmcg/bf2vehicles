@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh train_cargowag_02
+CollisionManager.createTemplate train_cargowag_02
+
+ObjectTemplate.create Bundle train_cargowag_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh train_cargowag_02
+ObjectTemplate.mapMaterial 0 metall_plate_thin 0
+ObjectTemplate.mapMaterial 1 Wood 0
+ObjectTemplate.mapMaterial 2 metall_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry train_cargowag_02
+ObjectTemplate.anchor 0/-2.3820/5.6059
+
+include train_cargowag_02.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cc1wyccgex5ka"
+path="res://.godot/imported/halo.dds-d353a588705c9a03ae2cf87867467b77.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/halo.dds"
+dest_files=["res://.godot/imported/halo.dds-d353a588705c9a03ae2cf87867467b77.res"]
+
+[params]
+
+mipmaps/generate=true

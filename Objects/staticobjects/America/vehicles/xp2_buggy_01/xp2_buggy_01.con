@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_buggy_01
+CollisionManager.createTemplate xp2_buggy_01
+
+ObjectTemplate.create SimpleObject xp2_buggy_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.collisionMesh xp2_buggy_01
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 Cloth 0
+ObjectTemplate.mapMaterial 3 glass_solid 0
+ObjectTemplate.mapMaterial 4 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_buggy_01
+ObjectTemplate.anchor -0.0117/-1.3339/-0.0051
+
+include xp2_buggy_01.tweak

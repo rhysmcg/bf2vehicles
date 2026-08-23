@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/22 6:46]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject xp2_ruralhouse_glass_01
+ObjectTemplate.creator DANIELA:danielab
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_ruralhouse_glass_01
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+

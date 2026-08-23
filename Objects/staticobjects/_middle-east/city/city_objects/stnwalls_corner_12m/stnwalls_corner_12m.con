@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stnwalls_corner_12m
+CollisionManager.createTemplate stnwalls_corner_12m
+
+ObjectTemplate.create SimpleObject stnwalls_corner_12m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh stnwalls_corner_12m
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_corner_12m
+ObjectTemplate.anchor -5.0500/-3.5500/0.9500
+
+include stnwalls_corner_12m.tweak

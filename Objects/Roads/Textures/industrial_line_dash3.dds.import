@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://jeo11brdmqbk"
+path="res://.godot/imported/industrial_line_dash3.dds-09c787da0d0e83428f2db3ebe6b6d25a.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/industrial_line_dash3.dds"
+dest_files=["res://.godot/imported/industrial_line_dash3.dds-09c787da0d0e83428f2db3ebe6b6d25a.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh xp2_checkvalve_tee
+CollisionManager.createTemplate xp2_checkvalve_tee
+
+ObjectTemplate.create SimpleObject xp2_checkvalve_tee
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_checkvalve_tee
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_checkvalve_tee
+ObjectTemplate.anchor 1.3228/3.5336/-0.0535
+
+include xp2_checkvalve_tee.tweak

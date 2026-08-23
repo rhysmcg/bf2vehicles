@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh mec_tunnelbunker2
+
+ObjectTemplate.create SimpleObject mec_tunnelbunker2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator XPS-3:Iggy
+ObjectTemplate.collisionMesh mec_tunnelbunker2
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mec_tunnelbunker2
+ObjectTemplate.anchor 0/-12.2616/0
+
+include mec_tunnelbunker2.tweak

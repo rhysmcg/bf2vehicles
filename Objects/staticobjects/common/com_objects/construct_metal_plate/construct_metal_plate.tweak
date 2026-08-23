@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/31 12:3]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject construct_metal_plate
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry construct_metal_plate
+ObjectTemplate.setCollisionMesh construct_metal_plate
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

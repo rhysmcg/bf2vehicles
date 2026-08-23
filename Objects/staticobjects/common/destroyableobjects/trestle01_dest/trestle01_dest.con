@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh trestle01_dest
+CollisionManager.createTemplate trestle01_dest
+
+ObjectTemplate.create DestroyableObject trestle01_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh trestle01_dest
+ObjectTemplate.mapMaterial 0 metalSolid 0
+ObjectTemplate.mapMaterial 1 metalThin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry trestle01_dest
+ObjectTemplate.anchor 0/-0.5273/0
+
+include trestle01_dest.tweak

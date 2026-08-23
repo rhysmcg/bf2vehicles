@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b0gfcg425ym3d"
+path="res://.godot/imported/air_su39_b.dds-03527833238d0c8a78f0df27e7a4579f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_su39/textures/air_su39_b.dds"
+dest_files=["res://.godot/imported/air_su39_b.dds-03527833238d0c8a78f0df27e7a4579f.res"]
+
+[params]
+
+mipmaps/generate=true

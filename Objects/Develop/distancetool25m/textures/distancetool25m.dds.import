@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c1ntyn6wdej7a"
+path="res://.godot/imported/distancetool25m.dds-88591dda2294fd855445a26fda71be39.res"
+
+[deps]
+
+source_file="res://Objects/Develop/distancetool25m/textures/distancetool25m.dds"
+dest_files=["res://.godot/imported/distancetool25m.dds-88591dda2294fd855445a26fda71be39.res"]
+
+[params]
+
+mipmaps/generate=true

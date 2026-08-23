@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dqj5tbiyl4w6"
+path="res://.godot/imported/uskit_desert_c.dds-5e1837ac89ee06b85d74045c8e272537.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/kitparts/uskit/textures/uskit_desert_c.dds"
+dest_files=["res://.godot/imported/uskit_desert_c.dds-5e1837ac89ee06b85d74045c8e272537.res"]
+
+[params]
+
+mipmaps/generate=true

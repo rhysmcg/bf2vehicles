@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh house_detached_03
+CollisionManager.createTemplate house_detached_03
+
+ObjectTemplate.create SimpleObject house_detached_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_detached_03
+ObjectTemplate.mapMaterial 0 stonewall 0
+ObjectTemplate.mapMaterial 1 woodSolid 0
+ObjectTemplate.mapMaterial 2 MetalSolid 0
+ObjectTemplate.mapMaterial 3 fabric 0
+ObjectTemplate.mapMaterial 4 Rubber 0
+ObjectTemplate.mapMaterial 5 Slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_detached_03
+ObjectTemplate.anchor -1.2897/-6.5780/-2.5588
+
+include house_detached_03.tweak

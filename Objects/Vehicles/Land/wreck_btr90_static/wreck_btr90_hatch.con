@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wreck_btr90_hatch
+CollisionManager.createTemplate wreck_btr90_hatch
+
+ObjectTemplate.create SimpleObject wreck_btr90_hatch
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh wreck_btr90_hatch
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_btr90_hatch
+
+include wreck_btr90_hatch.tweak

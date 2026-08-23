@@ -1,0 +1,308 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/9 0:18]
+ObjectTemplate.activeSafe EffectBundle e_vexp_igla
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_vexp_igla_Start
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_vexp_igla_Start
+ObjectTemplate.modifiedByUser dsu
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_base
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_base
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_base
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 30
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_footrest
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_footrest
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_footrest
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 5
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_frame
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_frame
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_frame
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 55
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_seat
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_seat
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_seat
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 18
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_cpu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_cpu
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_cpu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_bracing
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_bracing
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_bracing
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.5
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_launcher1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_launcher1
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_launcher1
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 12
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_vExp_Igla_launcher2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_vExp_Igla_launcher2
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/2/4/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/6/10/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/6/10/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/2/4/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_vExp_Igla_launcher2
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_vexp_igla
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_vexp_igla
+ObjectTemplate.mapMaterial 0 metal_plating 60
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.mapMaterial 2 Metal 0
+ObjectTemplate.mapMaterial 3 igla_wreck 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 12
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2.5/3/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

@@ -1,0 +1,66 @@
+GeometryTemplate.create BundledMesh e_vexp_su30
+
+ObjectTemplate.create EffectBundle e_vexp_su30
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vExp_Su30_Wingtip
+ObjectTemplate.setPosition -6.0461/0/-2.1178
+ObjectTemplate.addTemplate em_vExp_Su30_Fin
+ObjectTemplate.setPosition 2.3417/1.5828/-4.3614
+ObjectTemplate.addTemplate em_vExp_Su30_Wing
+ObjectTemplate.setPosition 2.4635/-0.2340/-1.5325
+rem ObjectTemplate.addTemplate em_vExp_Su30_Fuselage
+rem ObjectTemplate.setPosition -0.1016/0.7821/1.9213
+
+ObjectTemplate.create Emitter em_vExp_Su30_Wingtip
+ObjectTemplate.template p_vExp_Su30_Wingtip
+
+ObjectTemplate.create Particle p_vExp_Su30_Wingtip
+ObjectTemplate.collisionMesh e_vexp_su30
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_su30
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vExp_Su30_Fin
+ObjectTemplate.template p_vExp_Su30_Fin
+
+ObjectTemplate.create Particle p_vExp_Su30_Fin
+ObjectTemplate.collisionMesh e_vexp_su30
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_su30
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vExp_Su30_Wing
+ObjectTemplate.template p_vExp_Su30_Wing
+
+ObjectTemplate.create Particle p_vExp_Su30_Wing
+ObjectTemplate.collisionMesh e_vexp_su30
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_su30
+ObjectTemplate.geometryPart 2
+
+beginrem
+ObjectTemplate.create Emitter em_vExp_Su30_Fuselage
+ObjectTemplate.template p_vExp_Su30_Fuselage
+
+ObjectTemplate.create Particle p_vExp_Su30_Fuselage
+ObjectTemplate.collisionMesh e_vexp_su30
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_su30
+ObjectTemplate.geometryPart 3
+endrem
+
+
+include e_vexp_su30.tweak

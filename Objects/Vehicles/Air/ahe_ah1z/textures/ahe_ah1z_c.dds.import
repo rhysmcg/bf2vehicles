@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cuah21g63vnqn"
+path="res://.godot/imported/ahe_ah1z_c.dds-1f0934a8627ab949d6e370c6e90e9aff.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/textures/ahe_ah1z_c.dds"
+dest_files=["res://.godot/imported/ahe_ah1z_c.dds-1f0934a8627ab949d6e370c6e90e9aff.res"]
+
+[params]
+
+mipmaps/generate=true

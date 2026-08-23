@@ -1,0 +1,34 @@
+GeometryTemplate.create BundledMesh e_shardshatter
+
+ObjectTemplate.create EffectBundle e_shardshatter
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_shardshatter_shard_01
+ObjectTemplate.setPosition 0/0.0060/0.0309
+ObjectTemplate.addTemplate em_shardshatter_shard_02
+ObjectTemplate.setPosition 0/0.0234/0.0204
+ObjectTemplate.addTemplate em_shardshatter_shard_03
+ObjectTemplate.setPosition 0/0.0072/-0.0173
+
+ObjectTemplate.create Emitter em_shardshatter_shard_01
+ObjectTemplate.template p_shardshatter_shard_01
+
+ObjectTemplate.create Particle p_shardshatter_shard_01
+ObjectTemplate.geometry e_shardshatter
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_shardshatter_shard_02
+ObjectTemplate.template p_shardshatter_shard_02
+
+ObjectTemplate.create Particle p_shardshatter_shard_02
+ObjectTemplate.geometry e_shardshatter
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_shardshatter_shard_03
+ObjectTemplate.template p_shardshatter_shard_03
+
+ObjectTemplate.create Particle p_shardshatter_shard_03
+ObjectTemplate.geometry e_shardshatter
+ObjectTemplate.geometryPart 2
+
+include e_shardshatter.tweak

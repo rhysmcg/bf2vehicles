@@ -1,0 +1,20 @@
+GeometryTemplate.create BundledMesh e_destruction_chsalestable_box_02
+
+ObjectTemplate.create EffectBundle e_destruction_chsalestable_box_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_destruction_ChSalesTable_Box_02
+
+ObjectTemplate.create Emitter em_destruction_ChSalesTable_Box_02
+ObjectTemplate.template p_destruction_ChSalesTable_Box_02
+
+ObjectTemplate.create Particle p_destruction_ChSalesTable_Box_02
+ObjectTemplate.collisionMesh e_destruction_chsalestable_box_02
+ObjectTemplate.mapMaterial 0 paper 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_chsalestable_box_02
+ObjectTemplate.geometryPart 0
+
+include e_destruction_chsalestable_box_02.tweak

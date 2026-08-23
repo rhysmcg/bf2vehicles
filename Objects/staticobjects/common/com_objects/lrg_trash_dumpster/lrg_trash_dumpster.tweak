@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/24 14:57]
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject lrg_trash_dumpster
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry lrg_trash_dumpster
+ObjectTemplate.setCollisionMesh lrg_trash_dumpster
+ObjectTemplate.mapMaterial 0 metal_thin 20
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,13 @@
+CollisionManager.createTemplate me_olive03
+
+ObjectTemplate.create SimpleObject me_olive03_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_olive03
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0.2732/-2.9039/0.6205
+
+include me_olive03_col.tweak

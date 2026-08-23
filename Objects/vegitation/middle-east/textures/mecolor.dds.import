@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b6c76bydutafo"
+path="res://.godot/imported/mecolor.dds-882960345e03c18bf2c9249a8b280801.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/mecolor.dds"
+dest_files=["res://.godot/imported/mecolor.dds-882960345e03c18bf2c9249a8b280801.res"]
+
+[params]
+
+mipmaps/generate=true

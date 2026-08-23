@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh wpipe_construct
+CollisionManager.createTemplate wpipe_construct
+
+ObjectTemplate.create SimpleObject wpipe_construct
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wpipe_construct
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_construct
+ObjectTemplate.anchor -0.2197/0.5850/-4.7986
+
+include wpipe_construct.tweak

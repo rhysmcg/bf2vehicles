@@ -1,0 +1,7 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/2/17 13:52]
+ObjectTemplate.active geb_tank
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.material 66
+ObjectTemplate.maxTriggerDistance 3
+

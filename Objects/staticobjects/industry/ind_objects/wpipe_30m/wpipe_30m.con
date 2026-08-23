@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wpipe_30m
+CollisionManager.createTemplate wpipe_30m
+
+ObjectTemplate.create SimpleObject wpipe_30m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh wpipe_30m
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_30m
+
+include wpipe_30m.tweak

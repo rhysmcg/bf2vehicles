@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cq42g0mc0s7gh"
+path="res://.godot/imported/dirt_road_Daqing.dds-1f97209a2426104c2ec17c79415453c1.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road_Daqing.dds"
+dest_files=["res://.godot/imported/dirt_road_Daqing.dds-1f97209a2426104c2ec17c79415453c1.res"]
+
+[params]
+
+mipmaps/generate=true

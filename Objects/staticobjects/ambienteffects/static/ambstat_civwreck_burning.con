@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle ambStat_CivWreck_burning
+ObjectTemplate.createdInEditor 1
+
+include ambStat_CivWreck_burning.tweak

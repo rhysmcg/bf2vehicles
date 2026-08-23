@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/4 12:10]
+GeometryTemplate.setSubGeometryLodDistance 0 0 25
+GeometryTemplate.setSubGeometryLodDistance 0 1 80
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject cabledrum_small
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry cabledrum_small
+ObjectTemplate.setCollisionMesh Cabledrum_small
+ObjectTemplate.mapMaterial 0 Wood_solid 15
+ObjectTemplate.mapMaterial 1 Metal_solid 21
+ObjectTemplate.mapMaterial 2 Rubber 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

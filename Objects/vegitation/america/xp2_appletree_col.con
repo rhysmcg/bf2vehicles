@@ -1,0 +1,12 @@
+CollisionManager.createTemplate xp2_appletree
+
+ObjectTemplate.create SimpleObject xp2_appletree_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.collisionMesh xp2_appletree
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 tree_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+
+include xp2_appletree_col.tweak

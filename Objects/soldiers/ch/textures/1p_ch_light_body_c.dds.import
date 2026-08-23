@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp2uak18m7qbj"
+path="res://.godot/imported/1p_ch_light_body_c.dds-a43b87993eaff366647a155086962cbf.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/ch/textures/1p_ch_light_body_c.dds"
+dest_files=["res://.godot/imported/1p_ch_light_body_c.dds-a43b87993eaff366647a155086962cbf.res"]
+
+[params]
+
+mipmaps/generate=true

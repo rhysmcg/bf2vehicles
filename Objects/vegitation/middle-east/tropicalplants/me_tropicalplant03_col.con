@@ -1,0 +1,12 @@
+CollisionManager.createTemplate me_tropicalplant03
+
+ObjectTemplate.create SimpleObject me_tropicalplant03_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_tropicalplant03
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0.0516/-1.0963/-0.0868
+
+include me_tropicalplant03_col.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c5jxlj3j53ycy"
+path="res://.godot/imported/rulmg_rpk74_b.dds-36e929712672ca4ab55a018301b1064f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rulmg_rpk74/textures/rulmg_rpk74_b.dds"
+dest_files=["res://.godot/imported/rulmg_rpk74_b.dds-36e929712672ca4ab55a018301b1064f.res"]
+
+[params]
+
+mipmaps/generate=true

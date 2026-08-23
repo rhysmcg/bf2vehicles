@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/24 7:15]
+GeometryTemplate.setSubGeometryLodDistance 0 0 1000
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_oaktree_02
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_oaktree_02
+ObjectTemplate.setCollisionMesh xp2_oaktree_02
+ObjectTemplate.mapMaterial 0 trunkCol 93
+ObjectTemplate.mapMaterial 1 leafCol 1007
+ObjectTemplate.mapMaterial 2 lambert1 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

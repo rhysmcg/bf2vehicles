@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://lsin2dmaxr27"
+path="res://.godot/imported/Waterbump_04.dds-8eb7a7c88954f793a01493520232bfcf.res"
+
+[deps]
+
+source_file="res://Common/Textures/waterbump/Waterbump_04.dds"
+dest_files=["res://.godot/imported/Waterbump_04.dds-8eb7a7c88954f793a01493520232bfcf.res"]
+
+[params]
+
+mipmaps/generate=true

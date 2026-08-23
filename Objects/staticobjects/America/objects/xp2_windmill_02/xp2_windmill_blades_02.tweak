@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/1/18 10:59]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe RotationalBundle xp2_windmill_blades_02
+ObjectTemplate.creator RON:ronda
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_windmill_blades_02
+ObjectTemplate.setCollisionMesh xp2_windmill_blades_02
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate S_xp2_windmill_blades_02_RotationRpm
+rem -------------------------------------
+ObjectTemplate.setMaxSpeed 0/0/50
+ObjectTemplate.setContinousRotationSpeed 0/0/20
+ObjectTemplate.startAutoRotateOnEnter 1
+
+ObjectTemplate.activeSafe Sound S_xp2_windmill_blades_02_RotationRpm
+ObjectTemplate.modifiedByUser "RyanLo"
+

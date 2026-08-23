@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh sandbags_8m
+
+ObjectTemplate.create SimpleObject sandbags_8m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh Sandbags_8m
+ObjectTemplate.mapMaterial 0 sandbag 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sandbags_8m
+
+include sandbags_8m.tweak

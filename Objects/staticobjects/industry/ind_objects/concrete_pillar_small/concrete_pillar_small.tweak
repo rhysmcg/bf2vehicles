@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 15:6]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject concrete_pillar_small
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry concrete_pillar_small
+ObjectTemplate.setCollisionMesh concrete_pillar_small
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 1 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

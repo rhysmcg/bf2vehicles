@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://600nwevk0jgo"
+path="res://.godot/imported/air_su30mkk_cockpit_c.dds-c51a8229d5e95a19568513d9a38d50dd.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_su30mkk/textures/air_su30mkk_cockpit_c.dds"
+dest_files=["res://.godot/imported/air_su30mkk_cockpit_c.dds-c51a8229d5e95a19568513d9a38d50dd.res"]
+
+[params]
+
+mipmaps/generate=true

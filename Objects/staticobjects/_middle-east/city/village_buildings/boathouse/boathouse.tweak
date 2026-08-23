@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/18 17:41]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 51
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject boathouse
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry boathouse
+ObjectTemplate.setCollisionMesh boathouse
+ObjectTemplate.mapMaterial 0 wood_solid 15
+ObjectTemplate.mapMaterial 1 rubber 11
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 Pentrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 4 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 5 glass_common 17
+ObjectTemplate.mapMaterial 6 metal_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh school_house
+
+ObjectTemplate.create SimpleObject school_house
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh school_house
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry school_house
+ObjectTemplate.anchor -4.3208/-5.7000/-21.6110
+
+include school_house.tweak

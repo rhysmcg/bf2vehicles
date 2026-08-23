@@ -1,0 +1,327 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/15 9:42]
+ObjectTemplate.activeSafe EffectBundle e_destruction_chsalestable_pot_02
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_destruction_chsalestable_pot_02_Start
+ObjectTemplate.addTemplate em_destruction_ChSalesTable_Pot2_dust
+ObjectTemplate.setPosition 0/0.411658/0
+ObjectTemplate.addTemplate em_destruction_ChSalesTable_Pot2_shards
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_destruction_chsalestable_pot_02_Start
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.soundFilename "common/material/impact/glass/glass_01.wav,common/material/impact/glass/glass_04.wav,common/material/impact/glass/glass_05.wav,common/material/impact/glass/glass_06.wav,common/material/impact/glass/glass_07.wav,common/material/impact/glass/glass_09.wav,common/material/impact/glass/glass_10.wav"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 1
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.7
+ObjectTemplate.pitch 0.9
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.pitchEnvelope 0/1/0.9/1.1/1/1/0/0.9/1.1/
+ObjectTemplate.volumeEnvelope 0/1/0/1/1/1/0/0.8/1/
+ObjectTemplate.minDistance 3
+ObjectTemplate.halfVolumeDistance 6
+
+ObjectTemplate.activeSafe Emitter em_destruction_ChSalesTable_Pot_02_01
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_ChSalesTable_Pot_02_01
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/1/5/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_ChSalesTable_Pot_02_01
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_chsalestable_pot_02
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_destruction_chsalestable_pot_02
+ObjectTemplate.mapMaterial 0 porslin 82
+ObjectTemplate.mapMaterial 1 porslin 82
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_ChSalesTable_Pot_02_02
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_ChSalesTable_Pot_02_02
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/1/5/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_ChSalesTable_Pot_02_02
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_chsalestable_pot_02
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_destruction_chsalestable_pot_02
+ObjectTemplate.mapMaterial 0 porslin 82
+ObjectTemplate.mapMaterial 1 porslin 82
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_ChSalesTable_Pot_02_03
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_ChSalesTable_Pot_02_03
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/1/5/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_ChSalesTable_Pot_02_03
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_chsalestable_pot_02
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_destruction_chsalestable_pot_02
+ObjectTemplate.mapMaterial 0 porslin 82
+ObjectTemplate.mapMaterial 1 porslin 82
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_ChSalesTable_Pot_02_04
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_ChSalesTable_Pot_02_04
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/1/5/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_ChSalesTable_Pot_02_04
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_chsalestable_pot_02
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_destruction_chsalestable_pot_02
+ObjectTemplate.mapMaterial 0 porslin 82
+ObjectTemplate.mapMaterial 1 porslin 82
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_destruction_ChSalesTable_Pot_02_05
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_destruction_ChSalesTable_Pot_02_05
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/2/4/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0.5/1.2/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/1/5/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/1/5/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_destruction_ChSalesTable_Pot_02_05
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.geometry e_destruction_chsalestable_pot_02
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionMesh e_destruction_chsalestable_pot_02
+ObjectTemplate.mapMaterial 0 porslin 82
+ObjectTemplate.mapMaterial 1 porslin 82
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.2
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.create SpriteParticleSystem em_destruction_ChSalesTable_Pot2_dust
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.showInFirstPerson 1
+ObjectTemplate.showInThirdPerson 1
+ObjectTemplate.emitPrio High
+ObjectTemplate.lodDistance High
+ObjectTemplate.qualityLevel Medium
+ObjectTemplate.emitterType Standard
+ObjectTemplate.isLocalSystem 0
+ObjectTemplate.emitRadius 0.2/0.2/0.2
+ObjectTemplate.emitRangeX CRD_NONE/0/0/0
+ObjectTemplate.emitRangeY CRD_NONE/0/0/0
+ObjectTemplate.emitRangeZ CRD_NONE/0/0/0
+ObjectTemplate.randomRadialDirection 360
+ObjectTemplate.radialDirection 0
+ObjectTemplate.emitFrequency 33
+ObjectTemplate.preWarmTime 0
+ObjectTemplate.emitTime 0.1
+ObjectTemplate.emitDelay 0
+ObjectTemplate.isLooping 0
+ObjectTemplate.emitSpeed 0.3
+ObjectTemplate.emitDirection 0/1/0
+ObjectTemplate.timeToLive 0.3
+ObjectTemplate.randomTimeToLive 0.2
+ObjectTemplate.windAffectionFactor 0
+ObjectTemplate.forceToWaterSurface 0
+ObjectTemplate.waterSurfaceOffset 0.03
+ObjectTemplate.rotationGraph 0/0/0/1
+ObjectTemplate.alignRotationToSpeed 0
+ObjectTemplate.transparencyGraph 0/-0.54/-0.21/0.76
+ObjectTemplate.gravity -0.2
+ObjectTemplate.gravityGraph 0/0/0/1
+ObjectTemplate.airResistanceGraph 0/0/0/1
+ObjectTemplate.emitSpeedGraph 0/0/0/1
+ObjectTemplate.randomSpeed 0.2
+ObjectTemplate.randomDirectionAngle 45/90/45
+ObjectTemplate.airResistance 0.35
+ObjectTemplate.collisionEnable 0
+ObjectTemplate.collisionSpeedAlongNormal 0.7
+ObjectTemplate.collisionSpeedAlongPlane 0.8
+ObjectTemplate.randomSize 0.02
+ObjectTemplate.particleMaxSize 0.3
+ObjectTemplate.sizeGraph 0/-0.17/1/0.14
+ObjectTemplate.randomIntensity 0
+ObjectTemplate.lightMapIntensityOffset 0.7
+ObjectTemplate.color1 0.8/0.796078/0.792157
+ObjectTemplate.color2 0.788235/0.788235/0.788235
+ObjectTemplate.colorBlendGraph 0/0/1/0
+ObjectTemplate.alphaCull 0.2
+ObjectTemplate.particleType Sorted
+ObjectTemplate.drawOrder Back
+ObjectTemplate.randomRotation 1
+ObjectTemplate.randomRotationSpeed 0.1
+ObjectTemplate.rotationSpeed 0.2
+ObjectTemplate.pivotOffset 0/0
+ObjectTemplate.selfShadowIntensity 0.75
+ObjectTemplate.textureName objects\effects\textures\smoke\smoke128_4w
+ObjectTemplate.animationEnable 0
+ObjectTemplate.animationSpeed 1
+ObjectTemplate.animationPlayOnce 0
+ObjectTemplate.setAnimationFrameWidthRelative 0
+ObjectTemplate.setAnimationFrameHeightRelative 0
+ObjectTemplate.animationRandomizedStartFrame 0
+ObjectTemplate.animationFrameCount 0
+ObjectTemplate.animationFrameCountX 0
+
+ObjectTemplate.create SpriteParticleSystem em_destruction_ChSalesTable_Pot2_shards
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.showInFirstPerson 1
+ObjectTemplate.showInThirdPerson 1
+ObjectTemplate.emitPrio High
+ObjectTemplate.lodDistance High
+ObjectTemplate.qualityLevel Medium
+ObjectTemplate.emitterType Standard
+ObjectTemplate.isLocalSystem 0
+ObjectTemplate.emitRadius 0/0/0
+ObjectTemplate.emitRangeX CRD_NONE/0/0/0
+ObjectTemplate.emitRangeY CRD_NONE/0/0/0
+ObjectTemplate.emitRangeZ CRD_NONE/0/0/0
+ObjectTemplate.randomRadialDirection 360
+ObjectTemplate.radialDirection 0
+ObjectTemplate.emitFrequency 135
+ObjectTemplate.preWarmTime 0.08
+ObjectTemplate.emitTime 0.1
+ObjectTemplate.emitDelay 0
+ObjectTemplate.isLooping 0
+ObjectTemplate.emitSpeed 5
+ObjectTemplate.emitDirection 0/1/0
+ObjectTemplate.timeToLive 0.4
+ObjectTemplate.randomTimeToLive 0.1
+ObjectTemplate.windAffectionFactor 0
+ObjectTemplate.forceToWaterSurface 0
+ObjectTemplate.waterSurfaceOffset 0.03
+ObjectTemplate.rotationGraph 0/0/-0.8/1
+ObjectTemplate.alignRotationToSpeed 0
+ObjectTemplate.transparencyGraph -4.03/-2.44/0.64/5.64
+ObjectTemplate.gravity -8
+ObjectTemplate.gravityGraph 0/0/0/1
+ObjectTemplate.airResistanceGraph 0/-0.48/1/0.55
+ObjectTemplate.emitSpeedGraph 0.3/-0.71/-0.43/1
+ObjectTemplate.randomSpeed 0.3
+ObjectTemplate.randomDirectionAngle 50/0/50
+ObjectTemplate.airResistance 0.2
+ObjectTemplate.collisionEnable 1
+ObjectTemplate.collisionSpeedAlongNormal 0.3
+ObjectTemplate.collisionSpeedAlongPlane 0.8
+ObjectTemplate.randomSize 0.02
+ObjectTemplate.particleMaxSize 0.03
+ObjectTemplate.sizeGraph 0/0/-0.38/1
+ObjectTemplate.randomIntensity 0.05
+ObjectTemplate.lightMapIntensityOffset 1
+ObjectTemplate.color1 0.752941/0.752941/0.752941
+ObjectTemplate.color2 0.752941/0.752941/0.752941
+ObjectTemplate.colorBlendGraph 0/0/1/0
+ObjectTemplate.alphaCull 0.2
+ObjectTemplate.particleType Sorted
+ObjectTemplate.drawOrder Back
+ObjectTemplate.randomRotation 90
+ObjectTemplate.randomRotationSpeed 0.1
+ObjectTemplate.rotationSpeed 0.25
+ObjectTemplate.pivotOffset 0/0
+ObjectTemplate.selfShadowIntensity 0.9
+ObjectTemplate.textureName objects\effects\textures\animated\anim_debris
+ObjectTemplate.animationEnable 1
+ObjectTemplate.animationSpeed 30
+ObjectTemplate.animationPlayOnce 0
+ObjectTemplate.setAnimationFrameWidthRelative 0.25
+ObjectTemplate.setAnimationFrameHeightRelative 0.25
+ObjectTemplate.animationRandomizedStartFrame 1
+ObjectTemplate.animationFrameCount 8
+ObjectTemplate.animationFrameCountX 4
+

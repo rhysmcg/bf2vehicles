@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh stnwalls_10m_stairs
+CollisionManager.createTemplate stnwalls_10m_stairs
+
+ObjectTemplate.create SimpleObject stnwalls_10m_stairs
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh stnwalls_10m_stairs
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 stairs_Concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_10m_stairs
+ObjectTemplate.anchor 5.0000/-3.5500/1.0000
+
+include stnwalls_10m_stairs.tweak

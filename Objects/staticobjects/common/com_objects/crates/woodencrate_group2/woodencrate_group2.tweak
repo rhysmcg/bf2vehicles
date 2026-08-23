@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/20 19:27]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 40
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject woodencrate_group2
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry woodencrate_group2
+ObjectTemplate.setCollisionMesh woodencrate_group2
+ObjectTemplate.mapMaterial 0 Wood_solid 14
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

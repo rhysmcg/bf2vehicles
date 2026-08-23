@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Ladder ch_gasstation_cistern_ladder
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_gasstation_cistern_ladder
+ObjectTemplate.setCollisionMesh ch_gasstation_cistern_ladder
+ObjectTemplate.mapMaterial 0 metal_solid 6600
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

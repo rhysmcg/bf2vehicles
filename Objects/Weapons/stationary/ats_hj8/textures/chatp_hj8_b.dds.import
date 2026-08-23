@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cvwpaoywq67c2"
+path="res://.godot/imported/chatp_hj8_b.dds-7918678a748056d7c375e8121a4fffa4.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ats_hj8/textures/chatp_hj8_b.dds"
+dest_files=["res://.godot/imported/chatp_hj8_b.dds-7918678a748056d7c375e8121a4fffa4.res"]
+
+[params]
+
+mipmaps/generate=true

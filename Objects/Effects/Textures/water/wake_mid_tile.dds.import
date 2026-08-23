@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dx5babplot5mw"
+path="res://.godot/imported/wake_mid_tile.dds-c269241f79b338792bc8be433ae099a4.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/wake_mid_tile.dds"
+dest_files=["res://.godot/imported/wake_mid_tile.dds-c269241f79b338792bc8be433ae099a4.res"]
+
+[params]
+
+mipmaps/generate=true

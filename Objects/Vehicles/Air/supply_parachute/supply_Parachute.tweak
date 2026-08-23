@@ -1,0 +1,48 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/1 14:40]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle supply_parachute
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser dfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry supply_parachute
+ObjectTemplate.setCollisionMesh supply_parachute
+ObjectTemplate.mapMaterial 0 Collision_Material 1002
+ObjectTemplate.drag 1
+ObjectTemplate.mass 200
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate supply_ParachuteForceDown
+ObjectTemplate.setPosition 0/-20/0
+ObjectTemplate.setRotation 0/90/0
+ObjectTemplate.addTemplate supply_parachuteWingMiddle
+ObjectTemplate.setPosition 0/3/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.addTemplate supply_animatedparachute
+rem -------------------------------------
+
+ObjectTemplate.create Wing supply_parachuteWingMiddle
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.setWingLift 200
+ObjectTemplate.setFlapLift 200
+ObjectTemplate.setMinRotation 0/-18/0
+ObjectTemplate.setMaxRotation 0/28/0
+ObjectTemplate.setMaxSpeed 0/300/0
+ObjectTemplate.setAcceleration 0/300/0
+ObjectTemplate.setInputToPitch PIThrottle
+ObjectTemplate.setAutomaticReset 1
+ObjectTemplate.startDelay 1
+
+ObjectTemplate.create ForceObject supply_ParachuteForceDown
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.modifiedByUser jab
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.constantForce 5
+ObjectTemplate.useAbsoluteDirection 1
+ObjectTemplate.startDelay 1
+ObjectTemplate.onlyWhenOccupied 0
+

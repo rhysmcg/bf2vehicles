@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b47fwbla84w7y"
+path="res://.godot/imported/chkit_b.dds-4c80e9dbf553327bf0b68897cada3e95.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/kitparts/chkit/chkit_b.dds"
+dest_files=["res://.godot/imported/chkit_b.dds-4c80e9dbf553327bf0b68897cada3e95.res"]
+
+[params]
+
+mipmaps/generate=true

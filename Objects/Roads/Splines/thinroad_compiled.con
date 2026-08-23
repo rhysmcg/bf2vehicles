@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled thinroad
+ObjectTemplate.create SimpleObject thinroad
+ObjectTemplate.geometry thinroad

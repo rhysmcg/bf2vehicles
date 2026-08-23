@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh ch_phone_booth
+CollisionManager.createTemplate ch_phone_booth
+
+ObjectTemplate.create SimpleObject ch_phone_booth
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh ch_phone_booth
+ObjectTemplate.mapMaterial 0 metalsolid 0
+ObjectTemplate.mapMaterial 1 plastic 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 soldier_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_phone_booth
+ObjectTemplate.anchor 0.3616/-1.0280/-0.6162
+
+include ch_phone_booth.tweak

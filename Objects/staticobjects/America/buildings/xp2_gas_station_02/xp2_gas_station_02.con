@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_gas_station_02
+CollisionManager.createTemplate xp2_gas_station_02
+
+ObjectTemplate.create SimpleObject xp2_gas_station_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_gas_station_02
+ObjectTemplate.mapMaterial 0 metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gas_station_02
+ObjectTemplate.anchor 0/-5.9957/0
+
+include xp2_gas_station_02.tweak

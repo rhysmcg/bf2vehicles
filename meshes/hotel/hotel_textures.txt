@@ -1,0 +1,45 @@
+"1||BaseDetailCrackNDetailNCrack
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/common/textures/common_02_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_cr.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+2||BaseDetailNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_03_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_03_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+3||BaseDetailNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_obj_01_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_obj_01_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+4||BaseDetailNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_02_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_02_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+5||BaseDetailDirtNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_02_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_di.dds", "objects/staticobjects/_middle-east/city/textures/mecity_02_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+6||BaseDetailNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/common/textures/common_02_de.dds", "objects/staticobjects/common/textures/common_02_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+7||BaseDetailNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+8||BaseDetailDirtNDetail
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/_middle-east/city/textures/mecity_03_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_di.dds", "objects/staticobjects/_middle-east/city/textures/mecity_03_deb.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+9||BaseDetailCrackNDetailNCrack
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/common/textures/common_02_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_cr.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+10||BaseDetailCrackNDetailNCrack
+{
+["objects/staticobjects/common/textures/common_01_c.dds", "objects/staticobjects/common/textures/common_02_de.dds", "objects/staticobjects/_middle-east/city/textures/mecity_01_cr.dds", "Common\Textures\SpecularLUT_pow36.dds"]
+}
+UNDEFINED
+{
+[]
+}
+"

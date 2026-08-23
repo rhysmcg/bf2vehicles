@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_pylon
+ObjectTemplate.createdInEditor 1
+
+include p_pylon.tweak

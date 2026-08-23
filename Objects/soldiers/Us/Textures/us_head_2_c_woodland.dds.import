@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://q1fa41eemfu6"
+path="res://.godot/imported/us_head_2_c_woodland.dds-71bea8dcf817323fc59997761a0c79ef.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/us_head_2_c_woodland.dds"
+dest_files=["res://.godot/imported/us_head_2_c_woodland.dds-71bea8dcf817323fc59997761a0c79ef.res"]
+
+[params]
+
+mipmaps/generate=true

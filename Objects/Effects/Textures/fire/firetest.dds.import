@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://0c7cmtobl8b7"
+path="res://.godot/imported/firetest.dds-35788e8728f1c0008f753bf5d2fd8a55.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/fire/firetest.dds"
+dest_files=["res://.godot/imported/firetest.dds-35788e8728f1c0008f753bf5d2fd8a55.res"]
+
+[params]
+
+mipmaps/generate=true

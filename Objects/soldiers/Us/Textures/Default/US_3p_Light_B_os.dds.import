@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cp3o2durbfont"
+path="res://.godot/imported/US_3p_Light_B_os.dds-b8cb550bfc59e0a49d50e5e6c438c154.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/Default/US_3p_Light_B_os.dds"
+dest_files=["res://.godot/imported/US_3p_Light_B_os.dds-b8cb550bfc59e0a49d50e5e6c438c154.res"]
+
+[params]
+
+mipmaps/generate=true

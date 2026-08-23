@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://if368d10us6c"
+path="res://.godot/imported/3p_sasrif_g36.dds-48d725d00475e45894c9db146c21a543.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_g36e/textures/dds/3p_sasrif_g36.dds"
+dest_files=["res://.godot/imported/3p_sasrif_g36.dds-48d725d00475e45894c9db146c21a543.res"]
+
+[params]
+
+mipmaps/generate=true

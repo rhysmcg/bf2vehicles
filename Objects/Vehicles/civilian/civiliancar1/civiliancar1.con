@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh civiliancar1
+
+ObjectTemplate.create SimpleObject civiliancar1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh CivilianCar1
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 rubber 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry civiliancar1
+
+include civiliancar1.tweak

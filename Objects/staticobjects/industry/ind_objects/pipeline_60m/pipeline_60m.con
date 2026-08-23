@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh pipeline_60m
+CollisionManager.createTemplate pipeline_60m
+
+ObjectTemplate.create SimpleObject pipeline_60m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh pipeline_60m
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pipeline_60m
+ObjectTemplate.anchor 29.9671/0/0
+
+include pipeline_60m.tweak

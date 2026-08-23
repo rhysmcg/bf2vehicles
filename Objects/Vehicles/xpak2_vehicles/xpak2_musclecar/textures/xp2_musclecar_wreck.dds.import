@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://558y181ootm7"
+path="res://.godot/imported/xp2_musclecar_wreck.dds-08e06910f16be31ab2feb3fa0bfc50b6.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_musclecar/textures/xp2_musclecar_wreck.dds"
+dest_files=["res://.godot/imported/xp2_musclecar_wreck.dds-08e06910f16be31ab2feb3fa0bfc50b6.res"]
+
+[params]
+
+mipmaps/generate=true

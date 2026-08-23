@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://8fkyvgxbre6s"
+path="res://.godot/imported/tile_mebark01de.dds-37f8374349f99be126c442e36e0dad36.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/tile_mebark01de.dds"
+dest_files=["res://.godot/imported/tile_mebark01de.dds-37f8374349f99be126c442e36e0dad36.res"]
+
+[params]
+
+mipmaps/generate=true

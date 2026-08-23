@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dcyj0mexu71x8"
+path="res://.godot/imported/apc_wz551_wreck_c.dds-ce994ad9d303b6930f74696ab7dfd282.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_wz551/textures/apc_wz551_wreck_c.dds"
+dest_files=["res://.godot/imported/apc_wz551_wreck_c.dds-ce994ad9d303b6930f74696ab7dfd282.res"]
+
+[params]
+
+mipmaps/generate=true

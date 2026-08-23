@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_railroadgate_02
+CollisionManager.createTemplate xp2_railroadgate_02
+
+ObjectTemplate.create SimpleObject xp2_railroadgate_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_railroadgate_02
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_railroadgate_02
+ObjectTemplate.anchor 0.5226/-2.4237/-0.2593
+
+include xp2_railroadgate_02.tweak

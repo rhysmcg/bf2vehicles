@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh chimney_02_ladder
+CollisionManager.createTemplate chimney_02_ladder
+
+ObjectTemplate.create Ladder chimney_02_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh chimney_02_ladder
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chimney_02_ladder
+ObjectTemplate.anchor 0/-36.4537/-0.3791
+
+include chimney_02_ladder.tweak

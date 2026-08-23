@@ -1,0 +1,21 @@
+GeometryTemplate.create BundledMesh bipod
+
+ObjectTemplate.create PlayerControlObject bipod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry bipod
+ObjectTemplate.addTemplate Bipod_Top
+ObjectTemplate.setPosition 0/0.0295/0
+ObjectTemplate.addTemplate Bipod_Down
+ObjectTemplate.setPosition 0/-0.2118/0
+
+ObjectTemplate.create RotationalBundle Bipod_Top
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create RotationalBundle Bipod_Down
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+include bipod.tweak

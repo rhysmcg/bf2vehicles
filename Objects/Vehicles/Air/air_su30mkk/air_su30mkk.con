@@ -1,0 +1,214 @@
+GeometryTemplate.create BundledMesh air_su30mkk
+CollisionManager.createTemplate air_su30mkk
+
+ObjectTemplate.create PlayerControlObject air_su30mkk
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh air_su30mkk
+ObjectTemplate.mapMaterial 0 vehicleglass 0
+ObjectTemplate.mapMaterial 1 airplane 0
+ObjectTemplate.mapMaterial 2 wreck 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry air_su30mkk
+ObjectTemplate.addTemplate AIR_SU30MKK_FGear
+ObjectTemplate.setPosition 0.0030/-0.0654/4.7029
+ObjectTemplate.addTemplate AIR_SU30MKK_RGear
+ObjectTemplate.setPosition 1.8719/-0.0656/-1.3470
+ObjectTemplate.setRotation -6.0549/0/0
+ObjectTemplate.addTemplate AIR_SU30MKK_LGear
+ObjectTemplate.setPosition -1.8719/-0.0656/-1.3470
+ObjectTemplate.setRotation 6.0803/0/0
+ObjectTemplate.addTemplate AIR_SU30MKK_Elevator
+ObjectTemplate.setPosition -0.0088/-0.4124/-6.2347
+ObjectTemplate.addTemplate AIR_SU30MKK_FlapL
+ObjectTemplate.setPosition -3.9246/0.2883/-2.8526
+ObjectTemplate.setRotation -20.1127/0/0
+ObjectTemplate.addTemplate AIR_SU30MKK_FlapR
+ObjectTemplate.setPosition 3.9225/0.2932/-2.8526
+ObjectTemplate.setRotation 20.1412/0/0
+ObjectTemplate.addTemplate AIR_SU30MKK_RudderL
+ObjectTemplate.setPosition -2.2836/0.8680/-5.1355
+ObjectTemplate.setRotation 0/-15.6539/-90.0000
+ObjectTemplate.addTemplate AIR_SU30MKK_RudderR
+ObjectTemplate.setPosition 2.2754/0.8680/-5.1350
+ObjectTemplate.setRotation 0/-15.7136/-90.0000
+ObjectTemplate.addTemplate AIR_SU30MKK_LgearHatch1
+ObjectTemplate.setPosition -2.0939/-0.0957/0.7489
+ObjectTemplate.setRotation 0/0/-69.4282
+ObjectTemplate.addTemplate AIR_SU30MKK_LgearHatch2
+ObjectTemplate.setPosition -2.1494/-0.0895/-0.9090
+ObjectTemplate.setRotation 0/0/-89.1742
+ObjectTemplate.addTemplate AIR_SU30MKK_RgearHatch1
+ObjectTemplate.setPosition 2.0630/-0.0851/0.8298
+ObjectTemplate.setRotation 0/0/66.3885
+ObjectTemplate.addTemplate AIR_SU30MKK_RgearHatch2
+ObjectTemplate.setPosition 2.1289/-0.0757/-0.9755
+ObjectTemplate.setRotation 0/0/67.7923
+ObjectTemplate.addTemplate AIR_SU30MKK_Airbrake
+ObjectTemplate.setPosition 0/1.4140/3.1789
+ObjectTemplate.addTemplate AIR_SU30MKK_FgearHatch
+ObjectTemplate.setPosition 0.2871/-0.3154/6.0303
+ObjectTemplate.setRotation 0.5328/1.8776/-0.7960
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_FGear
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate AIR_SU30MKK_FGear_Hydraulicarm
+ObjectTemplate.setPosition 0.0176/-0.6776/-0.1649
+ObjectTemplate.setRotation 0/15.0000/0
+ObjectTemplate.addTemplate AIR_SU30MKK_FGear_Rot
+ObjectTemplate.setPosition 0/-1.6165/0.1361
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_FGear_Hydraulicarm
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create RotationalBundle AIR_SU30MKK_FGear_Rot
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate AIR_SU30MKK_Fwheel
+ObjectTemplate.setPosition 0.0013/-0.5520/-0.1651
+
+ObjectTemplate.create Spring AIR_SU30MKK_Fwheel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_RGear
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate AIR_SU30MKK_RGearRot
+ObjectTemplate.setPosition -0.0045/-1.3819/0.0090
+ObjectTemplate.setRotation 6.0549/0/0
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_RGearRot
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+ObjectTemplate.addTemplate AIR_SU30MKK__RRearwheel
+ObjectTemplate.setPosition 0.1206/-0.6446/-0.0017
+
+ObjectTemplate.create Spring AIR_SU30MKK__RRearwheel
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_LGear
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+ObjectTemplate.addTemplate AIR_SU30MKK_LGearRot
+ObjectTemplate.setPosition 0.0045/-1.3819/0.0090
+ObjectTemplate.setRotation 173.9196/0/0
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_LGearRot
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+ObjectTemplate.addTemplate AIR_SU30MKK__LRearwheel
+ObjectTemplate.setPosition 0.1206/-0.6446/0.0017
+
+ObjectTemplate.create Spring AIR_SU30MKK__LRearwheel
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Wing AIR_SU30MKK_Elevator
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create Wing AIR_SU30MKK_FlapL
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Wing AIR_SU30MKK_FlapR
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Wing AIR_SU30MKK_RudderL
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Wing AIR_SU30MKK_RudderR
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_LgearHatch1
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_LgearHatch2
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_RgearHatch1
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_RgearHatch2
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create RotationalBundle AIR_SU30MKK_Airbrake
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+ObjectTemplate.create LandingGear AIR_SU30MKK_FgearHatch
+ObjectTemplate.collisionPart 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 21
+
+include air_su30mkk.tweak

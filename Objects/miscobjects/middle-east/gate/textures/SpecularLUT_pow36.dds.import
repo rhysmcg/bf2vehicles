@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b2qwpsc66geir"
+path="res://.godot/imported/SpecularLUT_pow36.dds-a935a80b2182b602f722d2065f38b532.res"
+
+[deps]
+
+source_file="res://Objects/miscobjects/middle-east/gate/textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-a935a80b2182b602f722d2065f38b532.res"]
+
+[params]
+
+mipmaps/generate=true

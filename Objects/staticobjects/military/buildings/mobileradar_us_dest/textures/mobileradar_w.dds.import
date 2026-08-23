@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bua33riqvkuuo"
+path="res://.godot/imported/mobileradar_w.dds-fd5ec221086c60f5d01e0525fce12e5c.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mobileradar_us_dest/textures/mobileradar_w.dds"
+dest_files=["res://.godot/imported/mobileradar_w.dds-fd5ec221086c60f5d01e0525fce12e5c.res"]
+
+[params]
+
+mipmaps/generate=true

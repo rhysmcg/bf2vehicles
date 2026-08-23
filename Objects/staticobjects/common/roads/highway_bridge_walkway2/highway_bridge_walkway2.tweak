@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/28 8:19]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject highway_bridge_walkway2
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser mkp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry highway_bridge_walkway2
+ObjectTemplate.setCollisionMesh highway_bridge_walkway2
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.mapMaterial 1 Chicken_Wire_Thin 33
+ObjectTemplate.mapMaterial 2 Pentrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 3 Stairs_metal 36
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

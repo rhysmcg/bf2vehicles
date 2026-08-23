@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh nc_weeping02_lod
+
+ObjectTemplate.create SimpleObject nc_weeping02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry nc_weeping02_lod
+
+include nc_weeping02_lod.tweak

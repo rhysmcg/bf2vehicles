@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cccrikf8y42de"
+path="res://.godot/imported/USAAV_M6_c_woodland.dds-3febda2c89d0d4b139cdd3c80004516b.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/usaav_m6/textures/USAAV_M6_c_woodland.dds"
+dest_files=["res://.godot/imported/USAAV_M6_c_woodland.dds-3febda2c89d0d4b139cdd3c80004516b.res"]
+
+[params]
+
+mipmaps/generate=true

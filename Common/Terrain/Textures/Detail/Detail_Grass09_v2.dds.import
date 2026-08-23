@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://wblvpebjeh1p"
+path="res://.godot/imported/Detail_Grass09_v2.dds-17af110d75682ce3427a7de3355d21da.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Grass09_v2.dds"
+dest_files=["res://.godot/imported/Detail_Grass09_v2.dds-17af110d75682ce3427a7de3355d21da.res"]
+
+[params]
+
+mipmaps/generate=true

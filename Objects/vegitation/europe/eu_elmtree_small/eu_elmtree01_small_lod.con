@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh eu_elmtree01_small_lod
+
+ObjectTemplate.create SimpleObject eu_elmtree01_small_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator AHA-3:aha
+ObjectTemplate.geometry eu_elmtree01_small_lod
+
+include eu_elmtree01_small_lod.tweak

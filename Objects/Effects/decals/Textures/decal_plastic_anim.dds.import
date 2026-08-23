@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d3jw062e1yufa"
+path="res://.godot/imported/decal_plastic_anim.dds-b36692eab380af3f2543b4f49ed67d24.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_plastic_anim.dds"
+dest_files=["res://.godot/imported/decal_plastic_anim.dds-b36692eab380af3f2543b4f49ed67d24.res"]
+
+[params]
+
+mipmaps/generate=true

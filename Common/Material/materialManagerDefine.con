@@ -1,0 +1,1162 @@
+Material.active 0
+Material.name "Default"
+Material.type 4
+Material.friction 0.75
+Material.elasticity 0
+Material.resistance 0.02
+
+Material.active 1
+Material.name "Water_deep"
+Material.type 0
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.02
+Material.damageLoss 25
+Material.minDamageLoss 10
+Material.penetrationDeviation 0.2
+Material.hasWaterPhysics 1
+
+Material.active 2
+Material.name "Sand"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.06
+Material.penetrationDeviation -1
+
+Material.active 3
+Material.name "Gravel"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.08
+Material.penetrationDeviation 0.2
+
+Material.active 4
+Material.name "Tarmac"
+Material.type 0
+Material.friction 1.2
+Material.elasticity 0
+Material.resistance 0.04
+Material.penetrationDeviation -1
+
+Material.active 5
+Material.name "Grass"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.06
+Material.penetrationDeviation -1
+
+Material.active 6
+Material.name "Grass_tall"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.1
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+
+Material.active 7
+Material.name "Reserved (Outside map)"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.08
+
+Material.active 8
+Material.name "Dirt"
+Material.type 0
+Material.friction 0.9
+Material.elasticity 0
+Material.resistance 0.1
+Material.penetrationDeviation -1
+
+Material.active 9
+Material.name "Water_puddle"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.05
+Material.penetrationDeviation -1
+
+Material.active 10
+Material.name "Cloth_carpet"
+Material.type 1
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.05
+Material.penetrationDeviation -1
+
+Material.active 11
+Material.name "Plastic"
+Material.type 1
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.04
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation -1
+
+Material.active 12
+Material.name "rock"
+Material.type 0
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+Material.penetrationDeviation 0.2
+
+Material.active 13
+Material.name "Trash_light_objects"
+Material.type 0
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.02
+
+Material.active 14
+Material.name "Wood_thin"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.02
+
+Material.active 15
+Material.name "Wood_solid"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0.2
+
+Material.active 16
+Material.name "Bushes_leaves"
+Material.type 0
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isSeeThrough 1
+
+Material.active 17
+Material.name "Glass_common"
+Material.type 1
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation -1
+
+Material.active 18
+Material.name "Glass_vehicle"
+Material.type 3
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation -1
+
+Material.active 19
+Material.name "Glass_bulletproof"
+Material.type 1
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+Material.penetrationDeviation 0.2
+
+Material.active 20
+Material.name "Metal_plate_thin"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.1
+Material.penetrationDeviation 0.2
+
+Material.active 21
+Material.name "Metal_solid"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 22
+Material.name "Rubber"
+Material.type 3
+Material.friction 0.6
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0
+
+Material.active 23
+Material.name "Human_bodyarmour"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 24
+Material.name "Human_body"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 25
+Material.name "Human_head"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 26
+Material.name "Armor_1_metal_plating"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 27
+Material.name "Armor_2_light_armored_vehicles"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 28
+Material.name "Armor_3_tank_rear_top"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 29
+Material.name "Armor_4_tank_sides"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 30
+Material.name "Armor_5_tank_front"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 31
+Material.name "Armor_6_helicopter"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation -1
+
+Material.active 32
+Material.name "Airplane"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation -1
+
+Material.active 33
+Material.name "Chicken_Wire_Thin"
+Material.type 1
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.penetrationDeviation 0
+Material.isSeeThrough 1
+
+Material.active 34
+Material.name "Stairs_concrete"
+Material.type 0
+Material.friction 5
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0.2
+
+Material.active 35
+Material.name "Stairs_wood"
+Material.type 0
+Material.friction 5
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0.2
+
+Material.active 36
+Material.name "Stairs_metal"
+Material.type 0
+Material.friction 5
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 37
+Material.name "webMat_lcac"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 38
+Material.name "Bullet_small_arms"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.5
+
+Material.active 39
+Material.name "Bullet_50caliber"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.5
+
+Material.active 40
+Material.name "Bullet_minigun"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+
+Material.active 41
+Material.name "Bullet_shotgun"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.5
+
+Material.active 42
+Material.name "Shell_25mm"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 43
+Material.name "Shell_tank"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.4
+
+Material.active 44
+Material.name "Shell_artillery"
+Material.type 2
+Material.friction 1.5
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 45
+Material.name "Grenade_rifle"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 46
+Material.name "Grenade_hand"
+Material.type 2
+Material.friction 0.25
+Material.elasticity 0.5
+Material.resistance 0.01
+Material.projectileCollisionHardness 1
+
+Material.active 47
+Material.name "Flare"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 48
+Material.name "Knife"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 49
+Material.name "Mine_antitank"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 50
+Material.name "Detonation_claymore"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 51
+Material.name "Armor_7_stationary_object_metal"
+Material.type 4
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 52
+Material.name "Missile_antitank"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 53
+Material.name "Missile_antiair_light"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 54
+Material.name "webMat_lcac_rear"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 55
+Material.name "Missile_airtoground_light"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 56
+Material.name "Missile_airtoground_heavy"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 57
+Material.name "Shell_20mm_AAA"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 58
+Material.name "Mud_wet"
+Material.type 0
+Material.friction 0.7
+Material.elasticity 0
+Material.resistance 0.1
+Material.penetrationDeviation -1
+
+Material.active 59
+Material.name "wood_destructible"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 5
+Material.minDamageLoss 10
+
+Material.active 60
+Material.name "wreck"
+Material.type 3
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.penetrationDeviation 0.2
+
+Material.active 61
+Material.name "webMat_Tracked"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 62
+Material.name "adeMat_HeliDraft"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 63
+Material.name "EmptyShell_small_arms"
+Material.type 2
+Material.friction 1
+Material.elasticity 0.5
+Material.resistance 0.01
+Material.projectileCollisionHardness 1
+
+Material.active 64
+Material.name "Cardboard_box"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation -1
+
+Material.active 65
+Material.name "EmptyShell_50cal"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 1
+
+Material.active 66
+Material.name "gebMat_groundEffect"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 67
+Material.name "webMat_wheelBig"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 68
+Material.name "Soldier_weapon"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.8
+
+Material.active 69
+Material.name "Detonation_grenade"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 70
+Material.name "Explosion_blastwave"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 71
+Material.name "Blast_sensitivity_softobject"
+Material.type 3
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 72
+Material.name "Blast_sensitivity_hardobject"
+Material.type 3
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 73
+Material.name "Soldier_healing"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 74
+Material.name "Medikit"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 75
+Material.name "Ammokit"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 76
+Material.name "Sandbags"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0
+
+Material.active 77
+Material.name "Human_limbs"
+Material.type 4
+Material.friction 0.6
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 78
+Material.name "concrete"
+Material.type 1
+Material.friction 0.7
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.1
+Material.penetrationDeviation 0.2
+
+Material.active 79
+Material.name "Soldier_weapon_light"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.8
+
+Material.active 80
+Material.name "Detonation_C4"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 81
+Material.name "C4_pack"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 82
+Material.name "Ceramic_tiles"
+Material.type 1
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0.2
+
+Material.active 83
+Material.name "obj_impact_large"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 84
+Material.name "Engineer_repair"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 85
+Material.name "Mud_Grass_tall"
+Material.type 0
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 86
+Material.name "Tank_tracks"
+Material.type 3
+Material.friction 0.9
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 87
+Material.name "Shell_20mm"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 88
+Material.name "Shell_25mm_AAA"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 89
+Material.name "Soldier_resurrection"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 90
+Material.name "Mine_object"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 91
+Material.name "Ammo_replenish"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 92
+Material.name "Vehicle_explosion_blastwave"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 93
+Material.name "Tree_trunk"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0.2
+
+Material.active 94
+Material.name "Water_deep_muddy"
+Material.type 0
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.02
+Material.damageLoss 25
+Material.minDamageLoss 10
+Material.penetrationDeviation 0.2
+
+Material.active 95
+Material.name "Dry_leaves_on_ground"
+Material.type 0
+Material.friction 0.7
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 96
+Material.name "Barbed_Wire"
+Material.type 1
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.penetrationDeviation 0
+Material.isSeeThrough 1
+
+Material.active 97
+Material.name "Destroyable_obj_small"
+Material.type 4
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 98
+Material.name "Destroyable_obj_large"
+Material.type 4
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 99
+Material.name "Vehicle_exp_large"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 100
+Material.name "Vehicle_exp_medium"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 101
+Material.name "Vehicle_exp_small"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 102
+Material.name "Rubber_heavy"
+Material.type 3
+Material.friction 0.6
+Material.elasticity 0
+Material.resistance 0.01
+Material.penetrationDeviation 0
+
+Material.active 103
+Material.name "adeMat_jetDraft"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 104
+Material.name "EmptyShell_shotgun"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 1
+
+Material.active 105
+Material.name "Helicopter_rotorblades"
+Material.type 3
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 106
+Material.name "Helicopter_landing_rails"
+Material.type 3
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 107
+Material.name "webMat_TrackedSmoke"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 108
+Material.name "webMat_wheelBigSmoke"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 109
+Material.name "Explosion_AA_blastwave"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 110
+Material.name "Blast_sensitivity_light_vehicle"
+Material.type 3
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 111
+Material.name "Armor_0_thin_metal"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 112
+Material.name "Destroyable_object_huge"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 113
+Material.name "Shell_30mm"
+Material.type 2
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 666
+Material.name "Death_material"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 667
+Material.name "XpackInvisible_material"
+Material.type 4
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.overrideNeverPenetrate 1
+Material.isSeeThrough 1
+
+Material.active 1000
+Material.name "Pentrable_Metal_thin"
+Material.type 3
+Material.friction 0.2
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.1
+Material.damageLoss 50
+Material.minDamageLoss 5
+Material.penetrationDeviation 0.2
+
+Material.active 1001
+Material.name "Penetrable_plaster_wall"
+Material.type 1
+Material.friction 0.6
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.minDamageLoss 20
+Material.penetrationDeviation 0.2
+Material.isOneSided 1
+
+Material.active 1002
+Material.name "Penetrable_Cloth"
+Material.type 3
+Material.friction 0.8
+Material.elasticity 0
+Material.resistance 0.05
+Material.damageLoss 0
+Material.isOneSided 1
+
+Material.active 1003
+Material.name "Penetrable_Wood"
+Material.type 1
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.minDamageLoss 10
+Material.penetrationDeviation 0.2
+Material.isOneSided 1
+
+Material.active 1004
+Material.name "Penetrable_Glass_common"
+Material.type 1
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.minDamageLoss 10
+Material.isOneSided 1
+
+Material.active 1005
+Material.name "Penetrable_Glass_vehicle"
+Material.type 3
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.minDamageLoss 10
+Material.isOneSided 1
+
+Material.active 1006
+Material.name "Penetrable_Glass_bulletproof"
+Material.type 3
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+Material.damageLoss 0
+Material.minDamageLoss 100
+Material.penetrationDeviation 0
+Material.isOneSided 1
+
+Material.active 1007
+Material.name "Penetrable_Bushes_leaves"
+Material.type 0
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.penetrationDeviation 0
+
+Material.active 1008
+Material.name "Penetrable_Grass"
+Material.type 0
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.06
+Material.penetrationDeviation -1
+
+Material.active 1009
+Material.name "Penetrable_Grass_tall"
+Material.type 0
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.1
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+
+Material.active 1010
+Material.name "Penetrable_Helmet"
+Material.type 4
+Material.friction 1.1
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.3
+Material.damageLoss 50
+Material.minDamageLoss 50
+
+Material.active 1011
+Material.name "Penetrable_Cardboardbox"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.06
+Material.damageLoss 0
+Material.minDamageLoss 5
+Material.penetrationDeviation -1
+Material.isOneSided 1
+
+Material.active 1012
+Material.name "Concrete_slippery"
+Material.type 1
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.1
+Material.penetrationDeviation 0.2
+
+Material.active 1013
+Material.name "Pentrable_Metal_plating"
+Material.type 3
+Material.friction 0.2
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+Material.damageLoss 0
+Material.minDamageLoss 75
+Material.penetrationDeviation 5
+Material.isOneSided 1
+
+Material.active 1014
+Material.name "Armor_Pentrable_Metal_plating"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.projectileCollisionHardness 0.2
+Material.damageLoss 0
+Material.minDamageLoss 75
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 1015
+Material.name "Armor_Penetrable_Cardboardbox"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.06
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 1016
+Material.name "Armor_Penetrable_Cloth"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.05
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 1017
+Material.name "Armor_Penetrable_Wood"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 1018
+Material.name "Armor_Penetrable_Glass_vehicle"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 1019
+Material.name "Armor_Pentrable_Metal_thin"
+Material.type 3
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 0
+Material.maxDamageLoss 0
+Material.penetrationDeviation 0
+Material.overrideNeverPenetrate 1
+Material.isOneSided 1
+
+Material.active 2000
+Material.name "Air"
+Material.type 0
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 5500
+Material.name "Soldier_FootSteps"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+Material.damageLoss 100
+Material.minDamageLoss 25
+Material.maxDamageLoss 100
+
+Material.active 5501
+Material.name "Bullet_Flyby"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 6600
+Material.name "ladder_front"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 6601
+Material.name "ladder_backside"
+Material.type 4
+Material.friction 1
+Material.elasticity 0
+Material.resistance 0.01
+
+Material.active 7000
+Material.name "Hard_Collision_vs_Water"
+Material.type 4
+Material.friction 0.1
+Material.elasticity 0
+Material.resistance 0
+
+Material.active 7001
+Material.name "Slippery_For_Soldier"
+Material.type 4
+Material.friction 0
+Material.elasticity 0
+Material.resistance 0
+

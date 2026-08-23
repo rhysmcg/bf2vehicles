@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rusht_saiga12
+CollisionManager.createTemplate rusht_saiga12
+
+ObjectTemplate.create GenericFireArm rusht_saiga12
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh rusht_saiga12
+ObjectTemplate.mapMaterial 0 collision_material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rusht_saiga12
+
+include rusht_saiga12.tweak

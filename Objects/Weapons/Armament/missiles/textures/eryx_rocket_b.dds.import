@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://lmqud2meyekq"
+path="res://.godot/imported/eryx_rocket_b.dds-5869b40f06a2c3b68147a540685dcc6d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/eryx_rocket_b.dds"
+dest_files=["res://.godot/imported/eryx_rocket_b.dds-5869b40f06a2c3b68147a540685dcc6d.res"]
+
+[params]
+
+mipmaps/generate=true

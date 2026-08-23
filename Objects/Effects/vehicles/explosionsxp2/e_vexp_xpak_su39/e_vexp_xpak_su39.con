@@ -1,0 +1,51 @@
+GeometryTemplate.create BundledMesh e_vexp_xpak_su39
+
+ObjectTemplate.create Emitter Air_Su39_wreckp1
+ObjectTemplate.template p_Air_Su39_wreckp1
+
+ObjectTemplate.create Particle p_Air_Su39_wreckp1
+ObjectTemplate.collisionMesh e_vexp_xpak_su39
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_su39
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter Air_Su39_wreckp2
+ObjectTemplate.template p_Air_Su39_wreckp2
+
+ObjectTemplate.create Particle p_Air_Su39_wreckp2
+ObjectTemplate.collisionMesh e_vexp_xpak_su39
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_su39
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter Air_Su39_wreckp4
+ObjectTemplate.template p_Air_Su39_wreckp4
+
+ObjectTemplate.create Particle p_Air_Su39_wreckp4
+ObjectTemplate.collisionMesh e_vexp_xpak_su39
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_su39
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter Air_Su39_wreckp5
+ObjectTemplate.template p_Air_Su39_wreckp5
+
+ObjectTemplate.create Particle p_Air_Su39_wreckp5
+ObjectTemplate.collisionMesh e_vexp_xpak_su39
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_su39
+ObjectTemplate.geometryPart 3
+
+include e_vexp_xpak_su39.tweak

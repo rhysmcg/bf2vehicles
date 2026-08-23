@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_rr_brickwall
+CollisionManager.createTemplate xp2_rr_brickwall
+
+ObjectTemplate.create SimpleObject xp2_rr_brickwall
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_rr_brickwall
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_brickwall
+ObjectTemplate.anchor -0.1000/0/0
+
+include xp2_rr_brickwall.tweak

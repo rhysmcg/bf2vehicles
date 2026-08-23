@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dbe7so1h1uxnv"
+path="res://.godot/imported/Fall_road_GreatWall.dds-7323c26186e603cf3d044269b49fdbea.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Fall_road_GreatWall.dds"
+dest_files=["res://.godot/imported/Fall_road_GreatWall.dds-7323c26186e603cf3d044269b49fdbea.res"]
+
+[params]
+
+mipmaps/generate=true

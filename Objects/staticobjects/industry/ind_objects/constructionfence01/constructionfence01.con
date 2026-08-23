@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh constructionfence01
+CollisionManager.createTemplate constructionfence01
+
+ObjectTemplate.create SimpleObject constructionfence01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh constructionfence01
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry constructionfence01
+ObjectTemplate.anchor 0.9387/-1.1045/0
+
+include constructionfence01.tweak

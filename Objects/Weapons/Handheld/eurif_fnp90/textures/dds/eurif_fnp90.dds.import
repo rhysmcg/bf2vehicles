@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://k3b1pf1yjjju"
+path="res://.godot/imported/eurif_fnp90.dds-f688e344b746120cd3767ea5b3b3946b.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_fnp90/textures/dds/eurif_fnp90.dds"
+dest_files=["res://.godot/imported/eurif_fnp90.dds-f688e344b746120cd3767ea5b3b3946b.res"]
+
+[params]
+
+mipmaps/generate=true

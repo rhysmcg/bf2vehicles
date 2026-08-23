@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://m6wku0oxdj5r"
+path="res://.godot/imported/ParkingLots_Dark.dds-2c3dcba31a448e4c15a3144f9611bbd5.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/ParkingLots_Dark.dds"
+dest_files=["res://.godot/imported/ParkingLots_Dark.dds-2c3dcba31a448e4c15a3144f9611bbd5.res"]
+
+[params]
+
+mipmaps/generate=true

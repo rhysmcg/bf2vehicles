@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/12 0:16]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject plant_box
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry plant_box
+ObjectTemplate.setCollisionMesh plant_box
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 Dirt 8
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

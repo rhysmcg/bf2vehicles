@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh cloth_line
+
+ObjectTemplate.create AnimatedBundle cloth_line
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TDA-1:tda
+ObjectTemplate.geometry cloth_line
+
+include cloth_line.tweak

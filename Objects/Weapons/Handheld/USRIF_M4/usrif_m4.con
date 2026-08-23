@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh usrif_m4
+
+ObjectTemplate.create GenericFireArm usrif_m4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.geometry usrif_m4
+
+include usrif_m4.tweak

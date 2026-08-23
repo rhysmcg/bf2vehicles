@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject sidewalk_1_34m
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser tho
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sidewalk_1_34m
+ObjectTemplate.setCollisionMesh sidewalk_1_34m
+ObjectTemplate.mapMaterial 0 rock 12
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

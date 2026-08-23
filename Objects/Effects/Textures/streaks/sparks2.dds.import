@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmnhh60m55nhj"
+path="res://.godot/imported/sparks2.dds-56cd79483c2aaa96c63d7c93fac2a768.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/streaks/sparks2.dds"
+dest_files=["res://.godot/imported/sparks2.dds-56cd79483c2aaa96c63d7c93fac2a768.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh xp2_rr_dividers_04
+CollisionManager.createTemplate xp2_rr_dividers_04
+
+ObjectTemplate.create SimpleObject xp2_rr_dividers_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_rr_dividers_04
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_dividers_04
+
+include xp2_rr_dividers_04.tweak

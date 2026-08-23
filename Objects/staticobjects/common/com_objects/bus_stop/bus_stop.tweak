@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/28 8:19]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject bus_stop
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser dfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry bus_stop
+ObjectTemplate.setCollisionMesh bus_stop
+ObjectTemplate.mapMaterial 0 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 1 Metal_solid 21
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 3 concrete 78
+ObjectTemplate.mapMaterial 4 Wood_thin 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

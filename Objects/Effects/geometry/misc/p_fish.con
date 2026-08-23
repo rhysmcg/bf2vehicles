@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_fish
+CollisionManager.createTemplate p_fish
+
+ObjectTemplate.create Particle p_fish
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_fish
+ObjectTemplate.mapMaterial 0 fish 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_fish
+
+include p_fish.tweak

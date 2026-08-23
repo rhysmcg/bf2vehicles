@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_xp2_alaskan_sign_04
+ObjectTemplate.createdInEditor 1
+
+include p_xp2_alaskan_sign_04.tweak

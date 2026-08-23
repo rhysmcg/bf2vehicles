@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://drpv51gb2rpur"
+path="res://.godot/imported/anim_bees2.dds-23af284655b276cff372245cff4e8022.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_bees2.dds"
+dest_files=["res://.godot/imported/anim_bees2.dds-23af284655b276cff372245cff4e8022.res"]
+
+[params]
+
+mipmaps/generate=true

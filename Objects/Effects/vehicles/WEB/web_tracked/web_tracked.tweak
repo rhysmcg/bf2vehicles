@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/14 15:10]
+ObjectTemplate.activeSafe WheelEffectBundle web_tracked
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.material 61
+rem begin Auto-generated effectProperties-part.
+ObjectTemplate.AlphaIntensityRange 0/1
+ObjectTemplate.AlphaIntensityUsed 0
+ObjectTemplate.AlphaIntensityFromSpeed 2/8
+ObjectTemplate.EmitScaleFactorRange 0/1
+ObjectTemplate.EmitScaleFactorUsed 0
+ObjectTemplate.EmitScaleFactorFromSpeed 4/8
+ObjectTemplate.EmitSpeedScaleRange 0/1
+ObjectTemplate.EmitSpeedScaleUsed 0
+ObjectTemplate.EmitSpeedScaleFromSpeed 5/10
+ObjectTemplate.AgeScaleFactorRange 1/1
+ObjectTemplate.AgeScaleFactorUsed 0
+ObjectTemplate.StartAgeRange 0/0
+ObjectTemplate.StartAgeUsed 0
+rem end Auto-generated effectProperties-part.
+ObjectTemplate.emitDirectionZFromSpeedDof 1
+

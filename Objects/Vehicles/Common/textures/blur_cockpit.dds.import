@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2ndtm3uhv0em"
+path="res://.godot/imported/blur_cockpit.dds-d572b8d4f20bf04922dc7b10aa5e567f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/textures/blur_cockpit.dds"
+dest_files=["res://.godot/imported/blur_cockpit.dds-d572b8d4f20bf04922dc7b10aa5e567f.res"]
+
+[params]
+
+mipmaps/generate=true

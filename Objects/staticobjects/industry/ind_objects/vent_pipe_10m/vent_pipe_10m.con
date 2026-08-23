@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh vent_pipe_10m
+CollisionManager.createTemplate vent_pipe_10m
+
+ObjectTemplate.create SimpleObject vent_pipe_10m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh vent_pipe_10m
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry vent_pipe_10m
+
+include vent_pipe_10m.tweak

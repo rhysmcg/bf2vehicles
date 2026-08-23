@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_barn_02
+CollisionManager.createTemplate xp2_barn_02
+
+ObjectTemplate.create SimpleObject xp2_barn_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_barn_02
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 bricks 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_barn_02
+ObjectTemplate.anchor -8.6467/-7.1738/4.9733
+
+include xp2_barn_02.tweak

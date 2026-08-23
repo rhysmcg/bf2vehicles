@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/8/20 16:26]
+ObjectTemplate.activeSafe SimpleObject mec_tunnelbunker1
+ObjectTemplate.creator XPS-3:Iggy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry mec_tunnelbunker1
+ObjectTemplate.setCollisionMesh mec_tunnelbunker1
+ObjectTemplate.mapMaterial 0 concrete 1012
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

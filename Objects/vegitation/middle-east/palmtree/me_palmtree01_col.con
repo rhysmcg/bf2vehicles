@@ -1,0 +1,13 @@
+CollisionManager.createTemplate me_palmtree01
+
+ObjectTemplate.create SimpleObject me_palmtree01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_palmtree01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0.5507/-5.1417/-0.0125
+
+include me_palmtree01_col.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wreck_uh60_chair
+CollisionManager.createTemplate wreck_uh60_chair
+
+ObjectTemplate.create SimpleObject wreck_uh60_chair
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh wreck_uh60_chair
+ObjectTemplate.mapMaterial 0 cloth_carpet 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_uh60_chair
+
+include wreck_uh60_chair.tweak

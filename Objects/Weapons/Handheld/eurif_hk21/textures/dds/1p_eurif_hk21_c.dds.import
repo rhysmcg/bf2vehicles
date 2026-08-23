@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cadvbvnt16kpr"
+path="res://.godot/imported/1p_eurif_hk21_c.dds-31414fc7fcaa82354465cada5caa8aca.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_hk21/textures/dds/1p_eurif_hk21_c.dds"
+dest_files=["res://.godot/imported/1p_eurif_hk21_c.dds-31414fc7fcaa82354465cada5caa8aca.res"]
+
+[params]
+
+mipmaps/generate=true

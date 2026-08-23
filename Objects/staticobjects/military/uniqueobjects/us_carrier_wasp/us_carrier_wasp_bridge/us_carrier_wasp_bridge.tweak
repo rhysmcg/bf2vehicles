@@ -1,0 +1,51 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/1 15:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.setSubGeometryLodDistance 0 1 125
+GeometryTemplate.setSubGeometryLodDistance 0 2 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle us_carrier_wasp_bridge
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.hasRelativeOffset 1
+ObjectTemplate.geometry us_carrier_wasp_bridge
+ObjectTemplate.setCollisionMesh us_carrier_wasp_bridge
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.mapMaterial 1 Tarmac 4
+ObjectTemplate.mapMaterial 2 Glass_common 17
+ObjectTemplate.mapMaterial 3 concrete_slippery 1012
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder02
+ObjectTemplate.setPosition 23.9629/0.707047/1.75154
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder02
+ObjectTemplate.setPosition -8.66911/0.702314/1.75247
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder02
+ObjectTemplate.setPosition 5.29279/0.698775/13.362
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder03
+ObjectTemplate.setPosition -46.332/-1.90044/12.109
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder06
+ObjectTemplate.setPosition 24.5768/16.1374/11.7517
+ObjectTemplate.setRotation -180/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder07
+ObjectTemplate.setPosition -3.50383/6.45388/6.81029
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder08
+ObjectTemplate.setPosition 23.4815/6.40769/7.67099
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder09
+ObjectTemplate.setPosition -1.43023/9.6174/11.4461
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder01
+ObjectTemplate.setPosition 37.9367/-1.0777/1.77511
+ObjectTemplate.addTemplate us_carrier_wasp_bridge_ladder05
+ObjectTemplate.setPosition 26.0071/10.5779/13.0844
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

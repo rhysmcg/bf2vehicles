@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bw4yautflf7yb"
+path="res://.godot/imported/mepalm01c.dds-b722bd92a81081a84aad97bcc3ed8c44.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/mepalm01c.dds"
+dest_files=["res://.godot/imported/mepalm01c.dds-b722bd92a81081a84aad97bcc3ed8c44.res"]
+
+[params]
+
+mipmaps/generate=true

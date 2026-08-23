@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh ladder_30m
+CollisionManager.createTemplate ladder_30m
+
+ObjectTemplate.create Ladder ladder_30m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh ladder_30m
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ladder_30m
+
+include ladder_30m.tweak

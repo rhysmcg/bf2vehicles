@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://doqbjk2cu5dmr"
+path="res://.godot/imported/Detail_Daliandirt.dds-10c1d54bb88718dc22d6e1d0e2cedda8.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Daliandirt.dds"
+dest_files=["res://.godot/imported/Detail_Daliandirt.dds-10c1d54bb88718dc22d6e1d0e2cedda8.res"]
+
+[params]
+
+mipmaps/generate=true

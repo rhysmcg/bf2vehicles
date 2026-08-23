@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b7qpgjhrb05lu"
+path="res://.godot/imported/xp2_windmill_blade_c.dds-ec8691dfbb340cf78e61fd0392899cba.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/textures/xp2_windmill_blade_c.dds"
+dest_files=["res://.godot/imported/xp2_windmill_blade_c.dds-ec8691dfbb340cf78e61fd0392899cba.res"]
+
+[params]
+
+mipmaps/generate=true

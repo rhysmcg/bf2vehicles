@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled industrial_arrow_left
+ObjectTemplate.create SimpleObject industrial_arrow_left
+ObjectTemplate.geometry industrial_arrow_left

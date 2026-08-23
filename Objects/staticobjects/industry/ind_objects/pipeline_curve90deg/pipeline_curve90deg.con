@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh pipeline_curve90deg
+CollisionManager.createTemplate pipeline_curve90deg
+
+ObjectTemplate.create SimpleObject pipeline_curve90deg
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh pipeline_curve90deg
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pipeline_curve90deg
+ObjectTemplate.anchor -8.7851/0/8.8854
+
+include pipeline_curve90deg.tweak

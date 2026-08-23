@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_sign_amish_01
+CollisionManager.createTemplate xp2_sign_amish_01
+
+ObjectTemplate.create DestroyableObject xp2_sign_amish_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_sign_amish_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_sign_amish_01
+ObjectTemplate.anchor 0/-1.2455/0
+
+include xp2_sign_amish_01.tweak

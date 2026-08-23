@@ -1,0 +1,37 @@
+ObjectTemplate.activeSafe EffectBundle e_amphib_wake_sound
+
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_amphib_wake_sound_Start
+rem -------------------------------------
+rem begin Auto-generated effectProperties-part.
+ObjectTemplate.SoundIntensityRange 0/1
+ObjectTemplate.SoundIntensityUsed 0
+ObjectTemplate.SoundIntensityFromSpeed 0/5
+rem end Auto-generated effectProperties-part.
+ObjectTemplate.minDistanceUnderwaterSurface 0
+ObjectTemplate.maxDistanceUnderwaterSurface 5
+ObjectTemplate.setStartOnEffects 32
+ObjectTemplate.setStopOnEffects 64
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_amphib_wake_sound_Start
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.soundFilename "objects/effects/sounds/vehicle_bow_wash.wav"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 1
+ObjectTemplate.stopType 2
+ObjectTemplate.volume 0.82
+ObjectTemplate.pitch 0.9
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.minDistance 4
+ObjectTemplate.halfVolumeDistance 7
+ObjectTemplate.soundRadius 0.5
+ObjectTemplate.volumeEnvelope 0/1/0/1/0/2/0/0/0/0.7/1/0/
+

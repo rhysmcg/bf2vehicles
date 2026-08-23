@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://deyf4engxdgfj"
+path="res://.godot/imported/HMG_M134_c.dds-ac85cb00ce2a34a766c808573a324b04.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/HMG_M134/Textures/HMG_M134_c.dds"
+dest_files=["res://.godot/imported/HMG_M134_c.dds-ac85cb00ce2a34a766c808573a324b04.res"]
+
+[params]
+
+mipmaps/generate=true

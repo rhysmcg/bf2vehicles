@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh sign_noparking
+
+ObjectTemplate.create SimpleObject sign_noparking
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh sign_noparking
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_noparking
+ObjectTemplate.anchor 0/-1.2106/0
+
+include sign_noparking.tweak

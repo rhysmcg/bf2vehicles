@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://wujkx7v2pkyh"
+path="res://.godot/imported/eu_ghilliesuit_b.dds-228ee977ee9509665d26f4e57bdda9c8.res"
+
+[deps]
+
+source_file="res://Objects/Kits/EU/textures/eu_ghilliesuit_b.dds"
+dest_files=["res://.godot/imported/eu_ghilliesuit_b.dds-228ee977ee9509665d26f4e57bdda9c8.res"]
+
+[params]
+
+mipmaps/generate=true

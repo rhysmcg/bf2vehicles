@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c28j8juky3kjg"
+path="res://.godot/imported/ncpineleaf02de_le_snow.dds-bfeb2c2e03c9f8c1102c76ce8d7d129b.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/ncpineleaf02de_le_snow.dds"
+dest_files=["res://.godot/imported/ncpineleaf02de_le_snow.dds-bfeb2c2e03c9f8c1102c76ce8d7d129b.res"]
+
+[params]
+
+mipmaps/generate=true

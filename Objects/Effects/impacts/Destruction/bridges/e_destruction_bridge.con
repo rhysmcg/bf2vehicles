@@ -1,0 +1,77 @@
+GeometryTemplate.create BundledMesh e_destruction_bridge
+
+ObjectTemplate.create EffectBundle e_destruction_bridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_bridge_01
+ObjectTemplate.setPosition -2.0287/2.0930/2.6646
+ObjectTemplate.addTemplate em_destruction_bridge_02
+ObjectTemplate.setPosition 2.1755/1.9643/5.8151
+ObjectTemplate.addTemplate em_destruction_bridge_03
+ObjectTemplate.setPosition -1.7452/2.0380/-3.0543
+ObjectTemplate.addTemplate em_destruction_bridge_04
+ObjectTemplate.setPosition 1.9459/2.0315/-4.0470
+ObjectTemplate.addTemplate em_destruction_bridge_05
+ObjectTemplate.setPosition 1.6509/1.9534/-7.9250
+
+ObjectTemplate.create Emitter em_destruction_bridge_01
+ObjectTemplate.template p_destruction_bridge_01
+
+ObjectTemplate.create Particle p_destruction_bridge_01
+ObjectTemplate.collisionMesh e_destruction_bridge
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_bridge
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_bridge_02
+ObjectTemplate.template p_destruction_bridge_02
+
+ObjectTemplate.create Particle p_destruction_bridge_02
+ObjectTemplate.collisionMesh e_destruction_bridge
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_bridge
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_bridge_03
+ObjectTemplate.template p_destruction_bridge_03
+
+ObjectTemplate.create Particle p_destruction_bridge_03
+ObjectTemplate.collisionMesh e_destruction_bridge
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_bridge
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_bridge_04
+ObjectTemplate.template p_destruction_bridge_04
+
+ObjectTemplate.create Particle p_destruction_bridge_04
+ObjectTemplate.collisionMesh e_destruction_bridge
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_bridge
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_bridge_05
+ObjectTemplate.template p_destruction_bridge_05
+
+ObjectTemplate.create Particle p_destruction_bridge_05
+ObjectTemplate.collisionMesh e_destruction_bridge
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_bridge
+ObjectTemplate.geometryPart 4
+
+include e_destruction_bridge.tweak

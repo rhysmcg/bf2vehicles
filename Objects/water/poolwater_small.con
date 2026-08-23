@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh poolwater_small
+CollisionManager.createTemplate poolwater_small
+
+ObjectTemplate.create SimpleObject poolwater_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh poolwater_small
+ObjectTemplate.mapMaterial 0 Water 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry poolwater_small
+ObjectTemplate.anchor -5.3297/0.0015/8.3591
+
+include poolwater_small.tweak

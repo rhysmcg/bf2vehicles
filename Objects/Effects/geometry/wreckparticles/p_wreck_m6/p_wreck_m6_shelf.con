@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_m6_shelf
+CollisionManager.createTemplate p_wreck_m6_shelf
+
+ObjectTemplate.create Particle p_wreck_m6_shelf
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_m6_shelf
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_m6_shelf
+
+include p_wreck_m6_shelf.tweak

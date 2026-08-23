@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/1/16 10:33]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe RotationalBundle xp2_fanblade_support
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_fanblade_support
+ObjectTemplate.setCollisionMesh xp2_fanblade_support
+ObjectTemplate.mapMaterial 0 metal_thin 20
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate S_xp2_fanblade_support_RotationRpm
+rem -------------------------------------
+ObjectTemplate.setMaxSpeed 0/0/500
+ObjectTemplate.setContinousRotationSpeed 0/0/500
+
+ObjectTemplate.activeSafe Sound S_xp2_fanblade_support_RotationRpm
+ObjectTemplate.modifiedByUser "RyanLo"
+

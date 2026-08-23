@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2011/9/13 20:31]
+ObjectTemplate.activeSafe SimpleObject xp2_cactus_03_fixed_col
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.modifiedByUser "Mike"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setCollisionMesh xp2_cactus_03_fixed
+ObjectTemplate.mapMaterial 0 wood_col 15
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

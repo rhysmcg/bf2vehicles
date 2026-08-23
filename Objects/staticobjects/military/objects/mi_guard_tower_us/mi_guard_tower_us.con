@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh mi_guard_tower_us
+CollisionManager.createTemplate mi_guard_tower_us
+
+ObjectTemplate.create Bundle mi_guard_tower_us
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh mi_guard_tower_us
+ObjectTemplate.mapMaterial 0 Sandbags 0
+ObjectTemplate.mapMaterial 1 Gravel 0
+ObjectTemplate.mapMaterial 2 Wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_guard_tower_us
+ObjectTemplate.anchor 0/-2.4343/0
+
+include mi_guard_tower_us.tweak

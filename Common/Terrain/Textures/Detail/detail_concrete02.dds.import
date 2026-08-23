@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cgapepl5dqaxk"
+path="res://.godot/imported/detail_concrete02.dds-b72d2e8e196acb705c0c910609214fa3.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/detail_concrete02.dds"
+dest_files=["res://.godot/imported/detail_concrete02.dds-b72d2e8e196acb705c0c910609214fa3.res"]
+
+[params]
+
+mipmaps/generate=true

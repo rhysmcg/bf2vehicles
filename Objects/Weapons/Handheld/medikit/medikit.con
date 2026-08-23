@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh medikit
+CollisionManager.createTemplate medikit
+
+ObjectTemplate.create GenericFireArm medikit
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh medikit
+ObjectTemplate.mapMaterial 0 medikit_colormapgloss 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry medikit
+
+include medikit.tweak

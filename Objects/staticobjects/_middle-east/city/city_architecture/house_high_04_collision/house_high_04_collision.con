@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh house_high_04_collision
+CollisionManager.createTemplate house_high_04_collision
+
+ObjectTemplate.create SimpleObject house_high_04_collision
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:danielab
+ObjectTemplate.collisionMesh house_high_04_collision
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 1 Ninja_Spikes 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_high_04_collision
+ObjectTemplate.anchor -19.0439/-12.4303/10.7594
+
+include house_high_04_collision.tweak

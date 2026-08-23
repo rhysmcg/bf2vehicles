@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 130
+GeometryTemplate.setSubGeometryLodDistance 0 2 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject urm_dam_upper
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry urm_dam_upper
+ObjectTemplate.setCollisionMesh urm_dam_upper
+ObjectTemplate.mapMaterial 0 col_concrete 78
+ObjectTemplate.mapMaterial 1 col_metal 21
+ObjectTemplate.mapMaterial 2 col_glass 17
+ObjectTemplate.mapMaterial 3 col_stairs_concrete 34
+ObjectTemplate.mapMaterial 4 col_concrete 78
+ObjectTemplate.mapMaterial 5 stairs_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

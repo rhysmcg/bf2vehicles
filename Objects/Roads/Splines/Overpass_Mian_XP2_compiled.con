@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Overpass_Mian_XP2
+ObjectTemplate.create SimpleObject Overpass_Mian_XP2
+ObjectTemplate.geometry Overpass_Mian_XP2

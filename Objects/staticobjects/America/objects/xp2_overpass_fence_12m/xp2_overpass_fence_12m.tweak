@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/13 5:17]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_overpass_fence_12m
+ObjectTemplate.creator RON:ronda
+ObjectTemplate.modifiedByUser "ronda"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_overpass_fence_12m
+ObjectTemplate.setCollisionMesh xp2_overpass_fence_12m
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

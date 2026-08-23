@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh pricklypearflowers_s_01_lod
+
+ObjectTemplate.create SimpleObject pricklypearflowers_s_01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.geometry pricklypearflowers_s_01_lod
+
+include pricklypearflowers_s_01_lod.tweak

@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/4/12 7:10]
+GeometryTemplate.setSubGeometryLodDistance 0 0 100
+GeometryTemplate.setSubGeometryLodDistance 0 1 150
+GeometryTemplate.setSubGeometryLodDistance 0 2 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_dairyfarm_01
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_dairyfarm_01
+ObjectTemplate.setCollisionMesh xp2_dairyfarm_01
+ObjectTemplate.mapMaterial 0 wood 15
+ObjectTemplate.mapMaterial 1 roof 14
+ObjectTemplate.mapMaterial 2 metal_thin 20
+ObjectTemplate.mapMaterial 3 bricks 78
+ObjectTemplate.mapMaterial 4 glass 17
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

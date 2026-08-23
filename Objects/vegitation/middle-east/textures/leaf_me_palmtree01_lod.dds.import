@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://g2dcne2r0rde"
+path="res://.godot/imported/leaf_me_palmtree01_lod.dds-37eb8a1ddc9a6815b2a981472181943d.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_me_palmtree01_lod.dds"
+dest_files=["res://.godot/imported/leaf_me_palmtree01_lod.dds-37eb8a1ddc9a6815b2a981472181943d.res"]
+
+[params]
+
+mipmaps/generate=true

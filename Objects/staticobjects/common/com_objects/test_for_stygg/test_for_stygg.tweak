@@ -1,0 +1,13 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/26 17:18]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject test_for_stygg
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser dfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry test_for_stygg
+ObjectTemplate.setCollisionMesh test_for_stygg
+ObjectTemplate.mapMaterial 0 stone 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

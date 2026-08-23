@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/11/11 6:9]
+GeometryTemplate.setSubGeometryLodDistance 0 0 1000
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_appletree
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_appletree
+ObjectTemplate.setCollisionMesh xp2_appletree
+ObjectTemplate.mapMaterial 0 leaf_col 1007
+ObjectTemplate.mapMaterial 1 tree_col 93
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_muzz_g3a3_3p
+ObjectTemplate.createdInEditor 1
+
+include p_muzz_g3a3_3p.tweak

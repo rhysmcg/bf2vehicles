@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh sasrif_mp7
+
+ObjectTemplate.create GenericFireArm sasrif_mp7
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANR_XP:danri
+ObjectTemplate.geometry sasrif_mp7
+
+include sasrif_mp7.tweak

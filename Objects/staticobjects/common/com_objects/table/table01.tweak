@@ -1,0 +1,13 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/29 8:54]
+ObjectTemplate.activeSafe SimpleObject table01
+ObjectTemplate.creator MKP-1:mkp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry table01
+ObjectTemplate.setCollisionMesh table01
+ObjectTemplate.mapMaterial 0 metallegs 20
+ObjectTemplate.mapMaterial 1 tabletop 11
+ObjectTemplate.mass 25
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

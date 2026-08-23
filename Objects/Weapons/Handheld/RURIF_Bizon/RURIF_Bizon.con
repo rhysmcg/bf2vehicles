@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rurif_bizon
+CollisionManager.createTemplate rurif_bizon
+
+ObjectTemplate.create GenericFireArm rurif_bizon
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh rurif_bizon
+ObjectTemplate.mapMaterial 0 Collision_material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rurif_bizon
+
+include rurif_bizon.tweak

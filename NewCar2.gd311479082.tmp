@@ -1,0 +1,109 @@
+extends VehicleBody3D
+
+class_name BF2Vehicle
+
+# ==========================================
+# c_ETNewCar2 Engine Parameters
+# ==========================================
+@export_group("Engine & Torque")
+@export var engine_max_torque: float = 300.0
+@export var max_rpm: float = 3750.0
+@export var min_rpm: float = 1000.0
+
+@export_group("Transmission (Automatic)")
+@export var gear_ratios: Array[float] = [2.66, 1.78, 1.30, 1.00, 0.80]
+@export var shift_up_rpm_ratio: float = 0.85   # Shifts up at 3187.5 RPM
+@export var shift_down_rpm_ratio: float = 0.50 # Shifts down at 1875.0 RPM
+# Used to bridge BF2's abstract wheel speed to Godot's true metric scale
+@export var final_drive_ratio: float = 3.5 
+
+@export_group("Friction & Drag")
+@export var aero_drag: float = 3.0
+@export var engine_brake_torque: float = 750.0
+@export var mechanical_friction: float = 100.0
+@export var max_brake_torque: float = 2000.0
+
+# ==========================================
+# Internal State
+# ==========================================
+var current_gear: int = 0 # 0-indexed (0 = 1st Gear)
+var current_engine_rpm: float = 0.0
+
+# Assign your driven wheels in the inspector or hardcode the paths
+@export var rear_left_wheel: VehicleWheel3D
+@export var rear_right_wheel: VehicleWheel3D
+
+func _physics_process(delta: float) -> void:
+	if not rear_left_wheel or not rear_right_wheel:
+		return
+
+	# Standard Godot Input mapping (set these up in Project Settings -> Input Map)
+	var throttle = Input.get_axis("brake", "accelerate")
+	
+	# Simple logic to determine if the player is trying to stop vs reversing
+	var forward_speed = linear_velocity.dot(transform.basis.z)
+	var is_braking = Input.is_action_pressed("brake") and forward_speed > 1.0
+
+	_update_rpm()
+	_process_transmission()
+	_apply_forces(throttle, is_braking)
+	_apply_drag()
+
+func _update_rpm() -> void:
+	# 1. Average the RPM of the driven wheels
+	var wheel_rpm = (abs(rear_left_wheel.get_rpm()) + abs(rear_right_wheel.get_rpm())) / 2.0
+	
+	# 2. Calculate engine RPM backward through the drivetrain
+	current_engine_rpm = wheel_rpm * gear_ratios[current_gear] * final_drive_ratio
+	
+	# 3. Simulate idle
+	if current_engine_rpm < min_rpm:
+		current_engine_rpm = min_rpm
+
+func _process_transmission() -> void:
+	var shift_up_threshold = max_rpm * shift_up_rpm_ratio
+	var shift_down_threshold = max_rpm * shift_down_rpm_ratio
+
+	# Automatic Up-shift
+	if current_engine_rpm > shift_up_threshold and current_gear < gear_ratios.size() - 1:
+		current_gear += 1
+		# Optional: Trigger gear_shift_01.wav here
+		
+	# Automatic Down-shift
+	elif current_engine_rpm < shift_down_threshold and current_gear > 0:
+		current_gear -= 1
+
+func _apply_forces(throttle: float, is_braking: bool) -> void:
+	var drive_force = 0.0
+	var total_brake = 0.0
+
+	# Accelerating
+	if throttle > 0:
+		if current_engine_rpm < max_rpm:
+			# Deliver torque multiplied by the current gear, exactly like BF2
+			drive_force = engine_max_torque * throttle * gear_ratios[current_gear] * final_drive_ratio
+			
+	# Coasting (No throttle input)
+	elif throttle == 0 and linear_velocity.length() > 0.5:
+		# Apply BF2's aggressive engine braking scaled by the current gear
+		total_brake += engine_brake_torque * gear_ratios[current_gear]
+		total_brake += mechanical_friction
+
+	# Active Braking
+	if is_braking:
+		total_brake += max_brake_torque
+
+	# Distribute drive and brake forces evenly to the rear wheels
+	rear_left_wheel.engine_force = drive_force / 2.0
+	rear_right_wheel.engine_force = drive_force / 2.0
+	
+	rear_left_wheel.brake = total_brake / 2.0
+	rear_right_wheel.brake = total_brake / 2.0
+
+func _apply_drag() -> void:
+	# Air resistance scales quadratically with speed
+	var speed_sq = linear_velocity.length_squared()
+	if speed_sq > 0.1:
+		# The 0.01 scale factor maps BF2's abstract 'drag 3' to metric newtons
+		var drag_force = -linear_velocity.normalized() * (speed_sq * aero_drag * 0.01) 
+		apply_central_force(drag_force)

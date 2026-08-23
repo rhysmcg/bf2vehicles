@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://clq54snh8vml7"
+path="res://.godot/imported/ConicalAtt.dds-695de29dd20fa946e90c0e2014347947.res"
+
+[deps]
+
+source_file="res://Common/Textures/ConicalAtt.dds"
+dest_files=["res://.godot/imported/ConicalAtt.dds-695de29dd20fa946e90c0e2014347947.res"]
+
+[params]
+
+mipmaps/generate=true

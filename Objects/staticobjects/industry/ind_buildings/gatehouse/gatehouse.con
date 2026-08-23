@@ -1,0 +1,21 @@
+GeometryTemplate.create StaticMesh gatehouse
+CollisionManager.createTemplate gatehouse
+
+ObjectTemplate.create SimpleObject gatehouse
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh gatehouse
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 woodThin 0
+ObjectTemplate.mapMaterial 2 metalThin 0
+ObjectTemplate.mapMaterial 3 woodSolid 0
+ObjectTemplate.mapMaterial 4 plastic 0
+ObjectTemplate.mapMaterial 5 metalSolid 0
+ObjectTemplate.mapMaterial 6 glass 0
+ObjectTemplate.mapMaterial 7 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gatehouse
+ObjectTemplate.anchor 0.1461/-1.6901/-0.0148
+
+include gatehouse.tweak

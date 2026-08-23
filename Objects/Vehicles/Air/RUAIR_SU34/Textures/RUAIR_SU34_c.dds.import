@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c474nvyfb0xoc"
+path="res://.godot/imported/RUAIR_SU34_c.dds-1bbe29e822321a11ffec48db44b103c1.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/RUAIR_SU34/Textures/RUAIR_SU34_c.dds"
+dest_files=["res://.godot/imported/RUAIR_SU34_c.dds-1bbe29e822321a11ffec48db44b103c1.res"]
+
+[params]
+
+mipmaps/generate=true

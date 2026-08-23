@@ -1,0 +1,92 @@
+[gd_scene load_steps=3 format=3 uid="uid://btn7pkf7103gd"]
+
+[ext_resource type="Script" uid="uid://b4lhb6cn30p6r" path="res://car.gd" id="1_7822p"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7822p"]
+size = Vector3(1.84, 1.2117579, 4.92)
+
+[node name="CharacterBody3D" type="VehicleBody3D" node_paths=PackedStringArray("RL_wheel", "RR_wheel")]
+collision_layer = 13
+collision_mask = 2
+mass = 240.0
+center_of_mass_mode = 1
+center_of_mass = Vector3(0, -0.5, 0.2)
+script = ExtResource("1_7822p")
+RL_wheel = NodePath("VehicleWheel3D_RL")
+RR_wheel = NodePath("VehicleWheel3D_RR")
+
+[node name="Horizontal_Pivot" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9044194, 0)
+
+[node name="Vertical_Pivot" type="Node3D" parent="Horizontal_Pivot"]
+
+[node name="ff" type="Camera3D" parent="Horizontal_Pivot/Vertical_Pivot"]
+transform = Transform3D(-1, 0, 8.742277e-08, 3.584635e-08, 0.91207004, 0.41003448, -7.973569e-08, 0.41003448, -0.91207004, 0, 1.8470511, -4.9147825)
+current = true
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.37767023, 0)
+use_collision = true
+collision_layer = 2
+collision_mask = 13
+size = Vector3(1.84, 1.236172, 4.92)
+
+[node name="VehicleWheel3D_RL" type="VehicleWheel3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.1175193, -0.64251, -1.7)
+use_as_traction = true
+wheel_radius = 0.37
+wheel_rest_length = 0.095
+suspension_travel = 0.357
+suspension_stiffness = 40.0
+damping_compression = 1.9
+damping_relaxation = 2.0
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="VehicleWheel3D_RL"]
+transform = Transform3D(-2.1855694e-08, 0.5, 0, -0.5, -2.1855694e-08, 0, 0, 0, 0.5, 0, 0, 0)
+collision_layer = 2
+collision_mask = 13
+
+[node name="VehicleWheel3D_RR" type="VehicleWheel3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0890298, -0.64251, -1.7)
+use_as_traction = true
+wheel_radius = 0.37
+wheel_rest_length = 0.095
+suspension_travel = 0.357
+suspension_stiffness = 40.0
+damping_compression = 1.9
+damping_relaxation = 2.0
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="VehicleWheel3D_RR"]
+transform = Transform3D(-2.1855694e-08, 0.5, 0, -0.5, -2.1855694e-08, 0, 0, 0, 0.5, 0, 0, 0)
+
+[node name="VehicleWheel3D_FL" type="VehicleWheel3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.1175193, -0.64251, 1.8558242)
+use_as_traction = true
+use_as_steering = true
+wheel_radius = 0.37
+wheel_rest_length = 0.095
+suspension_travel = 10.0
+suspension_stiffness = 40.0
+damping_compression = 1.9
+damping_relaxation = 2.0
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="VehicleWheel3D_FL"]
+transform = Transform3D(-2.1855694e-08, 0.5, 0, -0.5, -2.1855694e-08, 0, 0, 0, 0.5, 0, 0, 0)
+
+[node name="VehicleWheel3D_FR" type="VehicleWheel3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0890298, -0.64251, 1.8558242)
+use_as_traction = true
+use_as_steering = true
+wheel_radius = 0.37
+wheel_rest_length = 0.095
+suspension_travel = 0.357
+suspension_stiffness = 40.0
+damping_compression = 1.9
+damping_relaxation = 2.0
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="VehicleWheel3D_FR"]
+transform = Transform3D(-2.1855694e-08, 0.5, 0, -0.5, -2.1855694e-08, 0, 0, 0, 0.5, 0, 0, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.38987726, 0.061340332)
+shape = SubResource("BoxShape3D_7822p")

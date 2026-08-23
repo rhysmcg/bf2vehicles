@@ -1,0 +1,86 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/5 9:34]
+ObjectTemplate.activeSafe EffectBundle e_dAmb_treeleafs_brown
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_dAmb_treeleafs_brown_Start
+ObjectTemplate.addTemplate e_dAmb_treeleafs_brown_leafs
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/3/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_dAmb_treeleafs_brown_Start
+ObjectTemplate.modifiedByUser dsu
+
+ObjectTemplate.create SpriteParticleSystem e_dAmb_treeleafs_brown_leafs
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.showInFirstPerson 1
+ObjectTemplate.showInThirdPerson 1
+ObjectTemplate.emitPrio Low
+ObjectTemplate.lodDistance Medium
+ObjectTemplate.emitterType Standard
+ObjectTemplate.isLocalSystem 0
+ObjectTemplate.emitRadius 5/5/5
+ObjectTemplate.emitRangeX CRD_NONE/0/0/0
+ObjectTemplate.emitRangeY CRD_NONE/0/0/0
+ObjectTemplate.emitRangeZ CRD_NONE/0/0/0
+ObjectTemplate.randomRadialDirection 360
+ObjectTemplate.radialDirection 0
+ObjectTemplate.emitFrequency 5
+ObjectTemplate.preWarmTime 0
+ObjectTemplate.emitTime 3
+ObjectTemplate.emitDelay 0
+ObjectTemplate.isLooping 0
+ObjectTemplate.emitSpeed 6
+ObjectTemplate.emitDirection 0/0/1
+ObjectTemplate.timeToLive 4
+ObjectTemplate.randomTimeToLive 0
+ObjectTemplate.windAffectionFactor 0
+ObjectTemplate.forceToWaterSurface 0
+ObjectTemplate.waterSurfaceOffset 0.03
+ObjectTemplate.rotationGraph -1/0/0/1
+ObjectTemplate.alignRotationToSpeed 0
+ObjectTemplate.transparencyGraph 0/-7.9/6.9/1
+ObjectTemplate.gravity -4
+ObjectTemplate.gravityGraph 0/0/0/1
+ObjectTemplate.airResistanceGraph 0/0/0/1
+ObjectTemplate.emitSpeedGraph 0/-0.61/0/1
+ObjectTemplate.randomSpeed 3
+ObjectTemplate.randomDirectionAngle 45/0/45
+ObjectTemplate.airResistance 0
+ObjectTemplate.collisionEnable 0
+ObjectTemplate.collisionSpeedAlongNormal 0.1
+ObjectTemplate.collisionSpeedAlongPlane 0.5
+ObjectTemplate.randomSize 0.02
+ObjectTemplate.particleMaxSize 0.13
+ObjectTemplate.sizeGraph 0/0/0/1
+ObjectTemplate.randomIntensity 0.1
+ObjectTemplate.lightMapIntensityOffset 1
+ObjectTemplate.color1 0.572549/0.447059/0.188235
+ObjectTemplate.color2 0.615686/0.447059/0.290196
+ObjectTemplate.colorBlendGraph 0/0/1/0
+ObjectTemplate.alphaCull 0.2
+ObjectTemplate.particleType Sorted
+ObjectTemplate.drawOrder Back
+ObjectTemplate.randomRotation 180
+ObjectTemplate.randomRotationSpeed 0.1
+ObjectTemplate.rotationSpeed 5
+ObjectTemplate.pivotOffset 0/0
+ObjectTemplate.selfShadowIntensity 0.75
+ObjectTemplate.textureName objects\effects\textures\animated\anim_leafs
+ObjectTemplate.animationEnable 1
+ObjectTemplate.animationSpeed 8
+ObjectTemplate.animationPlayOnce 0
+ObjectTemplate.setAnimationFrameWidthRelative 0.25
+ObjectTemplate.setAnimationFrameHeightRelative 0.25
+ObjectTemplate.animationRandomizedStartFrame 1
+ObjectTemplate.animationFrameCount 16
+ObjectTemplate.animationFrameCountX 4
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c4v7ibfd3lxsv"
+path="res://.godot/imported/air_a10_c_wreck.dds-6e8756ff13462a26cdd9ac0334e80321.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_a10/textures/air_a10_c_wreck.dds"
+dest_files=["res://.godot/imported/air_a10_c_wreck.dds-6e8756ff13462a26cdd9ac0334e80321.res"]
+
+[params]
+
+mipmaps/generate=true

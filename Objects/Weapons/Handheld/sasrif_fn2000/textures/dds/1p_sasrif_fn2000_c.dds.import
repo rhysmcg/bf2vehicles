@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b0k2r3nmfepmi"
+path="res://.godot/imported/1p_sasrif_fn2000_c.dds-c9ae1cd65bdbe441f3816c92e0879c8d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_fn2000/textures/dds/1p_sasrif_fn2000_c.dds"
+dest_files=["res://.godot/imported/1p_sasrif_fn2000_c.dds-c9ae1cd65bdbe441f3816c92e0879c8d.res"]
+
+[params]
+
+mipmaps/generate=true

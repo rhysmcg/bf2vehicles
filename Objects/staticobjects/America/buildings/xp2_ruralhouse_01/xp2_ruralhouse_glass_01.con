@@ -1,0 +1,9 @@
+GeometryTemplate.create BundledMesh xp2_ruralhouse_glass_01
+
+ObjectTemplate.create SimpleObject xp2_ruralhouse_glass_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.geometry xp2_ruralhouse_glass_01
+ObjectTemplate.anchor 8.3055/-6.7180/5.0554
+
+include xp2_ruralhouse_glass_01.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://btbm2rs3clmbc"
+path="res://.godot/imported/SpecularLUT_pow36.dds-f83957f192c9c3e78bce8731026352d8.res"
+
+[deps]
+
+source_file="res://Objects/Develop/SoundHouse/Textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-f83957f192c9c3e78bce8731026352d8.res"]
+
+[params]
+
+mipmaps/generate=true

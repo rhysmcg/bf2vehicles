@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh mi_barrack_mech
+CollisionManager.createTemplate mi_barrack_mech
+
+ObjectTemplate.create SimpleObject mi_barrack_mech
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh mi_barrack_mech
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Plastic 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.mapMaterial 4 Stair_stone 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_barrack_mech
+ObjectTemplate.anchor 0/-2.2152/3.6686
+
+include mi_barrack_mech.tweak

@@ -1,0 +1,37 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/2/17 13:52]
+ObjectTemplate.active lightobject2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+rem -------------------------------------
+ObjectTemplate.addTemplate lightobject2_LightSource
+ObjectTemplate.setRotation 0/90/0
+rem -------------------------------------
+
+ObjectTemplate.create LightSource lightobject2_LightSource
+ObjectTemplate.createNotInGrid 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.lightType Spot
+ObjectTemplate.isDynamic 1
+ObjectTemplate.castsStaticShadow 1
+ObjectTemplate.castsDynamicShadow 0
+ObjectTemplate.selfLights 1
+ObjectTemplate.selfShadows 1
+ObjectTemplate.supportsPerVertex 1
+ObjectTemplate.supportsPerPixel 1
+ObjectTemplate.affectingType 0
+ObjectTemplate.direction 0/0/1
+ObjectTemplate.attenuationRange1 2
+ObjectTemplate.attenuationRange2 10
+ObjectTemplate.color 1/1/0.776471
+ObjectTemplate.HDRIntensity 1
+ObjectTemplate.coneAngle1 22.5
+ObjectTemplate.coneAngle2 22.5
+ObjectTemplate.enabled 1
+ObjectTemplate.fov 1
+ObjectTemplate.objectShadows 1
+ObjectTemplate.shadowIntensity 1
+ObjectTemplate.softness 4
+ObjectTemplate.intensity 0.9
+ObjectTemplate.flicker 0
+ObjectTemplate.scale 1/1/1
+

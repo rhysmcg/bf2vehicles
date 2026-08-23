@@ -1,0 +1,24 @@
+GeometryTemplate.create StaticMesh dam_left
+CollisionManager.createTemplate dam_left
+
+ObjectTemplate.create Bundle dam_left
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh dam_left
+ObjectTemplate.mapMaterial 0 Chicken_Wire_Thin 0
+ObjectTemplate.mapMaterial 1 Concrete 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 4 Wood_thin 0
+ObjectTemplate.mapMaterial 5 Wood_solid 0
+ObjectTemplate.mapMaterial 6 Penetrable_Wood 0
+ObjectTemplate.mapMaterial 7 Stairs_metal 0
+ObjectTemplate.mapMaterial 8 Stairs_wood 0
+ObjectTemplate.mapMaterial 9 Stairs_concrete 0
+ObjectTemplate.mapMaterial 10 soldier_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_left
+ObjectTemplate.anchor -42.6601/-45.3004/56.4187
+
+include dam_left.tweak

@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh antennaflag
+
+ObjectTemplate.create AntennaObject antennaflag
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.geometry antennaflag
+
+include antennaflag.tweak

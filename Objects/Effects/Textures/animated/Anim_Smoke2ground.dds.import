@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b05sxtjarfwq5"
+path="res://.godot/imported/Anim_Smoke2ground.dds-87ab18514cc39ecfee7f606eea30e176.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/Anim_Smoke2ground.dds"
+dest_files=["res://.godot/imported/Anim_Smoke2ground.dds-87ab18514cc39ecfee7f606eea30e176.res"]
+
+[params]
+
+mipmaps/generate=true

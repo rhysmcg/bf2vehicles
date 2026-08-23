@@ -1,0 +1,13 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/1/30 13:20]
+ObjectTemplate.active p_plank_03
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry p_plank_03
+ObjectTemplate.collisionMesh p_plank_03
+ObjectTemplate.mapMaterial 0 Wood_thin 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 5
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_NONE/1.8/2.2/0
+

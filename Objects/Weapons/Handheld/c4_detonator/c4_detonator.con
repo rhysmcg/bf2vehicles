@@ -1,0 +1,28 @@
+GeometryTemplate.create BundledMesh c4_detonator
+CollisionManager.createTemplate c4_detonator
+
+ObjectTemplate.create AnimatedBundle c4_detonator
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh c4_detonator
+ObjectTemplate.mapMaterial 0 CollisionMaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry c4_detonator
+
+ObjectTemplate.create AnimatedBundle mesh2_Tp
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create AnimatedBundle mesh3_Tp
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create AnimatedBundle mesh4_Tp
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create AnimatedBundle mesh5_Tp
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create AnimatedBundle mesh6_Tp
+ObjectTemplate.geometryPart 5
+
+include c4_detonator.tweak

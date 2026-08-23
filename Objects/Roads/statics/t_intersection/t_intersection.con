@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh t_intersection
+
+ObjectTemplate.create SimpleObject t_intersection
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry t_intersection
+ObjectTemplate.anchor -5.0000/0/10.0000
+
+include t_intersection.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://o4s33hmdc1rx"
+path="res://.godot/imported/flare_star1.dds-c8fcc37391799392b6e2d55b4d7d763a.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/flare_star1.dds"
+dest_files=["res://.godot/imported/flare_star1.dds-c8fcc37391799392b6e2d55b4d7d763a.res"]
+
+[params]
+
+mipmaps/generate=true

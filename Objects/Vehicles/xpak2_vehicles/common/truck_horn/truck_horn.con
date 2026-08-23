@@ -1,0 +1,4 @@
+ObjectTemplate.create GenericFireArm truck_horn
+
+include truck_horn.tweak
+

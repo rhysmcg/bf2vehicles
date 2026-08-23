@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bmnjj6nomm0os"
+path="res://.godot/imported/rurif_gp25_c.dds-b1b02a06d93656bd9827492736938917.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP25/textures/rurif_gp25_c.dds"
+dest_files=["res://.godot/imported/rurif_gp25_c.dds-b1b02a06d93656bd9827492736938917.res"]
+
+[params]
+
+mipmaps/generate=true

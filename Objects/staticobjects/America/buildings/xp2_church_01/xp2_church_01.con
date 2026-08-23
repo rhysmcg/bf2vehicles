@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_church_01
+CollisionManager.createTemplate xp2_church_01
+
+ObjectTemplate.create SimpleObject xp2_church_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_church_01
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Glass_commoon 0
+ObjectTemplate.mapMaterial 4 Stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_church_01
+ObjectTemplate.anchor 4.8525/-9.6062/4.0238
+
+include xp2_church_01.tweak

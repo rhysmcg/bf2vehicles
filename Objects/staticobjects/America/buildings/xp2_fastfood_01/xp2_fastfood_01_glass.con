@@ -1,0 +1,9 @@
+GeometryTemplate.create BundledMesh xp2_fastfood_01_glass
+
+ObjectTemplate.create SimpleObject xp2_fastfood_01_glass
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.geometry xp2_fastfood_01_glass
+ObjectTemplate.anchor -8.2378/-4.1032/3.1930
+
+include xp2_fastfood_01_glass.tweak

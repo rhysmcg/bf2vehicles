@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wreck_f15_tailfin
+CollisionManager.createTemplate wreck_f15_tailfin
+
+ObjectTemplate.create SimpleObject wreck_f15_tailfin
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh wreck_f15_tailfin
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_f15_tailfin
+
+include wreck_f15_tailfin.tweak

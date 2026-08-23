@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dyxvek6dri8cc"
+path="res://.godot/imported/mecity_03_de.dds-4ceb10d264f2a411fe3148e590fcf3e1.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/textures/mecity_03_de.dds"
+dest_files=["res://.godot/imported/mecity_03_de.dds-4ceb10d264f2a411fe3148e590fcf3e1.res"]
+
+[params]
+
+mipmaps/generate=true

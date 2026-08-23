@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b384f6mtx3b64"
+path="res://.godot/imported/wasp_c.dds-0e9ba903d84425965fe1cbd160217259.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/textures/wasp_c.dds"
+dest_files=["res://.godot/imported/wasp_c.dds-0e9ba903d84425965fe1cbd160217259.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://f1bfnp2p31rn"
+path="res://.godot/imported/chrif_type85_b.dds-8b42c4bd95b0afb58093c03e59c96ac1.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/CHRIF_Type85/textures/chrif_type85_b.dds"
+dest_files=["res://.godot/imported/chrif_type85_b.dds-8b42c4bd95b0afb58093c03e59c96ac1.res"]
+
+[params]
+
+mipmaps/generate=true

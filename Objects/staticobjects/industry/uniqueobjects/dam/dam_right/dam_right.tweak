@@ -1,0 +1,50 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/14 17:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.setSubGeometryLodDistance 0 1 125
+GeometryTemplate.setSubGeometryLodDistance 0 2 320
+GeometryTemplate.setMaterialParallaxHeightScale 0 1 7 15
+GeometryTemplate.setMaterialParallaxHeightScale 0 3 1 15
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle dam_right
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_right
+ObjectTemplate.setCollisionMesh Dam_Right
+ObjectTemplate.mapMaterial 0 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 1 plastic 11
+ObjectTemplate.mapMaterial 2 glass_common 17
+ObjectTemplate.mapMaterial 3 Concrete 78
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 5 Metal_solid 21
+ObjectTemplate.mapMaterial 6 Wood_solid 15
+ObjectTemplate.mapMaterial 7 Wood_thin 14
+ObjectTemplate.mapMaterial 8 concret_slippery 1012
+ObjectTemplate.mapMaterial 9 Stairs_metal 36
+ObjectTemplate.mapMaterial 10 concret_slippery 1012
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_20m_noholders
+ObjectTemplate.setPosition 30.6399/-17.1257/18.1249
+ObjectTemplate.setRotation 96/0/0
+ObjectTemplate.addTemplate ladder_8m_noholders
+ObjectTemplate.setPosition 50.8385/36.462/-14.4056
+ObjectTemplate.setRotation -84/0/0
+ObjectTemplate.addTemplate ladder_8m_noholders
+ObjectTemplate.setPosition -6.62681/35.3115/1.47905
+ObjectTemplate.setRotation 115/0/0
+ObjectTemplate.addTemplate ladder_3m
+ObjectTemplate.setPosition 55.3028/31.8944/-27.1051
+ObjectTemplate.setRotation -85/0/0
+ObjectTemplate.addTemplate ladder_28m
+ObjectTemplate.setPosition 56.2047/15.6382/-27.9971
+ObjectTemplate.addTemplate ladder_5m_noholders
+ObjectTemplate.setPosition 65.7352/-0.0267067/4.59104
+ObjectTemplate.setRotation 180/0/0
+rem -------------------------------------
+

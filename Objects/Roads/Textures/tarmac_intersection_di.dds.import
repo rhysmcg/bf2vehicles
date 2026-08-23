@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bgvx0cw4uhx6t"
+path="res://.godot/imported/tarmac_intersection_di.dds-88b58a1a92f0cfed1cc376f15f4cd0d6.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/tarmac_intersection_di.dds"
+dest_files=["res://.godot/imported/tarmac_intersection_di.dds-88b58a1a92f0cfed1cc376f15f4cd0d6.res"]
+
+[params]
+
+mipmaps/generate=true

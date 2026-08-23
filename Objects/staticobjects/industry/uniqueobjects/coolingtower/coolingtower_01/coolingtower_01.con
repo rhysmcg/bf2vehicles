@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh coolingtower_01
+CollisionManager.createTemplate coolingtower_01
+
+ObjectTemplate.create SimpleObject coolingtower_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh coolingtower_01
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 glass 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 Concrete 0
+ObjectTemplate.mapMaterial 5 DeathMaterial 0
+ObjectTemplate.mapMaterial 6 Slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry coolingtower_01
+
+include coolingtower_01.tweak

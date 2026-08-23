@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://clhf4ts8tlxp7"
+path="res://.godot/imported/chthe_z8_tailrotor_c.dds-a85f55361b04f716b1c77b6fd3eb38f8.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/textures/chthe_z8_tailrotor_c.dds"
+dest_files=["res://.godot/imported/chthe_z8_tailrotor_c.dds-a85f55361b04f716b1c77b6fd3eb38f8.res"]
+
+[params]
+
+mipmaps/generate=true

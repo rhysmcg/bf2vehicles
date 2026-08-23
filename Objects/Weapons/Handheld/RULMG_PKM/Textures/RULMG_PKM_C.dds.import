@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://k7qlrwt78byn"
+path="res://.godot/imported/RULMG_PKM_C.dds-8ccc22e478cb9d60805de3ae708d912c.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RULMG_PKM/Textures/RULMG_PKM_C.dds"
+dest_files=["res://.godot/imported/RULMG_PKM_C.dds-8ccc22e478cb9d60805de3ae708d912c.res"]
+
+[params]
+
+mipmaps/generate=true

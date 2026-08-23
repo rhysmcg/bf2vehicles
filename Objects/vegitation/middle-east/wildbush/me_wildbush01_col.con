@@ -1,0 +1,12 @@
+CollisionManager.createTemplate me_wildbush01
+
+ObjectTemplate.create SimpleObject me_wildbush01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh me_wildbush01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-0.6718/-0.0734
+
+include me_wildbush01_col.tweak

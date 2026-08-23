@@ -1,0 +1,59 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/14 17:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 51
+GeometryTemplate.setSubGeometryLodDistance 0 1 151
+GeometryTemplate.setSubGeometryLodDistance 0 2 401
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 8 15
+GeometryTemplate.setMaterialParallaxHeightScale 0 1 8 15
+GeometryTemplate.setMaterialParallaxHeightScale 0 2 3 15
+GeometryTemplate.setMaterialParallaxHeightScale 0 3 1 15
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle dam_left
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_left
+ObjectTemplate.setCollisionMesh Dam_Left
+ObjectTemplate.mapMaterial 0 Chicken_Wire_Thin 33
+ObjectTemplate.mapMaterial 1 Concrete 78
+ObjectTemplate.mapMaterial 2 Metal_solid 21
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 4 Wood_thin 14
+ObjectTemplate.mapMaterial 5 Wood_solid 15
+ObjectTemplate.mapMaterial 6 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 7 Stairs_metal 36
+ObjectTemplate.mapMaterial 8 Stairs_wood 35
+ObjectTemplate.mapMaterial 9 Stairs_concrete 34
+ObjectTemplate.mapMaterial 10 soldier_slippery 1012
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate dam_left_ladder_8m
+ObjectTemplate.setPosition 14.4193/33.4327/12.8615
+ObjectTemplate.setRotation 65/0/0
+ObjectTemplate.addTemplate dam_left_ladder_15m
+ObjectTemplate.setPosition -19.5889/22.7277/-2.2751
+ObjectTemplate.setRotation 79/0/0
+ObjectTemplate.addTemplate dam_left_ladder_15m
+ObjectTemplate.setPosition -49.4978/7.52078/-5.45629
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate dam_left_SupplyObject_helipad
+ObjectTemplate.setPosition -39.7817/19.7674/-28.4455
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject dam_left_SupplyObject_helipad
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 5
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 8
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+

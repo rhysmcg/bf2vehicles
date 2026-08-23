@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 15:6]
+GeometryTemplate.setSubGeometryLodDistance 0 0 35
+GeometryTemplate.setSubGeometryLodDistance 0 1 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 0
+GeometryTemplate.setLightmapSizeAll 0 1 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject pipeline_curve90deg
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry pipeline_curve90deg
+ObjectTemplate.setCollisionMesh pipeline_curve90deg
+ObjectTemplate.mapMaterial 0 Metal_Solid 21
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 2 Stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

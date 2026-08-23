@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bijwjslim015l"
+path="res://.godot/imported/default.dds-000d5bac3370c70ceebd22fc4b00300c.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRGL_M203/Textures/default.dds"
+dest_files=["res://.godot/imported/default.dds-000d5bac3370c70ceebd22fc4b00300c.res"]
+
+[params]
+
+mipmaps/generate=true

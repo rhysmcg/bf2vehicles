@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://vusrpvaup85x"
+path="res://.godot/imported/chat_eryx_mini.dds-e92fa637c1db184fc8d11db5a2f1a1be.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/CHAT_ERYX/Textures/chat_eryx_mini.dds"
+dest_files=["res://.godot/imported/chat_eryx_mini.dds-e92fa637c1db184fc8d11db5a2f1a1be.res"]
+
+[params]
+
+mipmaps/generate=true

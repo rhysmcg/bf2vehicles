@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/6 14:18]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject steelrailing_12m
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry steelrailing_12m
+ObjectTemplate.setCollisionMesh steelrailing_12m
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,50 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 15:6]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle oil_pump_foundation
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 3
+ObjectTemplate.geometry oil_pump_foundation
+ObjectTemplate.setCollisionMesh oil_pump_foundation
+ObjectTemplate.mapMaterial 0 Concrete 78
+ObjectTemplate.mapMaterial 1 Metal_Solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate oil_pump_anim
+ObjectTemplate.addTemplate oil_pump_SfxBundle
+rem -------------------------------------
+
+ObjectTemplate.create EffectBundle oil_pump_SfxBundle
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_oil_pump_SfxBundle_Start
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 1
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_oil_pump_SfxBundle_Start
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.soundFilename "objects/effects/sounds/oilpump.wav"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 1
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.95
+ObjectTemplate.pitch 0.7
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.minDistance 12
+ObjectTemplate.halfVolumeDistance 20
+

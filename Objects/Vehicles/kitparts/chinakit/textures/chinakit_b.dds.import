@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b5pvc4p04xya7"
+path="res://.godot/imported/chinakit_b.dds-b8c313a8df52ff17b729c32e5354931f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/kitparts/chinakit/textures/chinakit_b.dds"
+dest_files=["res://.godot/imported/chinakit_b.dds-b8c313a8df52ff17b729c32e5354931f.res"]
+
+[params]
+
+mipmaps/generate=true

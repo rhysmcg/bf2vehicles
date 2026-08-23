@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cdv7vlsfyti6"
+path="res://.godot/imported/3p_usrif_fnscar_c.dds-90733117f0059f72f4faa4e8d5af55d4.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_fnscarl/textures/dds/3p_usrif_fnscar_c.dds"
+dest_files=["res://.godot/imported/3p_usrif_fnscar_c.dds-90733117f0059f72f4faa4e8d5af55d4.res"]
+
+[params]
+
+mipmaps/generate=true

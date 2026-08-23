@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh sign_green
+
+ObjectTemplate.create SimpleObject sign_green
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh sign_green
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_green
+ObjectTemplate.anchor 0/-1.5602/0
+
+include sign_green.tweak

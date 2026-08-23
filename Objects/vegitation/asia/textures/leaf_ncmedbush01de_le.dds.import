@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://k35aei8dcj2u"
+path="res://.godot/imported/leaf_ncmedbush01de_le.dds-8c75a4f3d96bd09a4aebd70b3a3c693e.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_ncmedbush01de_le.dds"
+dest_files=["res://.godot/imported/leaf_ncmedbush01de_le.dds-8c75a4f3d96bd09a4aebd70b3a3c693e.res"]
+
+[params]
+
+mipmaps/generate=true

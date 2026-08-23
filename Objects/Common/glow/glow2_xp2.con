@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh glow2_xp2
+CollisionManager.createTemplate glow2_xp2
+
+ObjectTemplate.create Bundle glow2_xp2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator THO-1:tho
+rem ObjectTemplate.collisionMesh glow2_xp2
+ObjectTemplate.mapMaterial 0 glow 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry glow2_xp2
+
+include glow2_xp2.tweak

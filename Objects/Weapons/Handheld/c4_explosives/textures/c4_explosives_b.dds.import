@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://chjka5bri4jxq"
+path="res://.godot/imported/c4_explosives_b.dds-41fcc9ea24966968454a157b72fa565b.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/c4_explosives/textures/c4_explosives_b.dds"
+dest_files=["res://.godot/imported/c4_explosives_b.dds-41fcc9ea24966968454a157b72fa565b.res"]
+
+[params]
+
+mipmaps/generate=true

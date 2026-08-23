@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/1/18 10:59]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_windmill_02
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_windmill_02
+ObjectTemplate.setCollisionMesh xp2_windmill_02
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_windmill_blades_02
+ObjectTemplate.setPosition -0.00561639/5.13541/1.96835
+ObjectTemplate.setRotation -0.745828/0/0
+rem -------------------------------------
+

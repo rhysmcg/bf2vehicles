@@ -1,0 +1,10 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/20 13:23]
+ObjectTemplate.activeSafe AnimatedBundle oil_pump_anim
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry oil_pump_anim
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.skeleton Objects\Common\Oil_Pump\Oil_Pump_Setup.ske
+ObjectTemplate.animationSystem1P Objects\Common\Oil_Pump\AnimationSystem.inc

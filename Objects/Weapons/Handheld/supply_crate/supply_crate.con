@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh supply_crate
+CollisionManager.createTemplate supply_crate
+
+ObjectTemplate.create SupplyObject supply_crate
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh supply_crate
+ObjectTemplate.mapMaterial 0 cardboard 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry supply_crate
+
+include supply_crate.tweak

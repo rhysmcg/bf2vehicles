@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh daqing_t_intersection
+
+ObjectTemplate.create SimpleObject daqing_t_intersection
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry daqing_t_intersection
+ObjectTemplate.anchor -5.0000/0/10.0000
+
+include daqing_t_intersection.tweak

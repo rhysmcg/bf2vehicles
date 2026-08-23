@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://byi8dyw5aqb6k"
+path="res://.godot/imported/supply_crate_de.dds-69847e8bf404b17e084a83464e6ba041.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/supply_crate/textures/supply_crate_de.dds"
+dest_files=["res://.godot/imported/supply_crate_de.dds-69847e8bf404b17e084a83464e6ba041.res"]
+
+[params]
+
+mipmaps/generate=true

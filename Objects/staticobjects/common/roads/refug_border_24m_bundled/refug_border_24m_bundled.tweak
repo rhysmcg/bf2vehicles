@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/4 17:21]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject refug_border_24m_bundled
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser game-1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry refug_border_24m_bundled
+ObjectTemplate.setCollisionMesh refug_border_24m_bundled
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

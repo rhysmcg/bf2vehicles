@@ -1,0 +1,60 @@
+GeometryTemplate.create BundledMesh ch_house_modern_01_window
+CollisionManager.createTemplate ch_house_modern_01_window
+
+ObjectTemplate.create DestroyableWindowsBundle ch_house_modern_01_window
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_house_modern_01_window
+ObjectTemplate.mapMaterial 0 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_01_window
+ObjectTemplate.setNumWindows 8
+ObjectTemplate.addTemplate Ch_House_Modern_01_window01
+ObjectTemplate.addTemplate Ch_House_Modern_01_window02
+ObjectTemplate.addTemplate Ch_House_Modern_01_window03
+ObjectTemplate.addTemplate Ch_House_Modern_01_window04
+ObjectTemplate.addTemplate Ch_House_Modern_01_window05
+ObjectTemplate.addTemplate Ch_House_Modern_01_window06
+ObjectTemplate.addTemplate Ch_House_Modern_01_windowdummy
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window01
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window02
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window03
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window04
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window05
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create DestroyableWindow Ch_House_Modern_01_window06
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create SimpleObject Ch_House_Modern_01_windowdummy
+ObjectTemplate.geometryPart 7
+
+include ch_house_modern_01_window.tweak

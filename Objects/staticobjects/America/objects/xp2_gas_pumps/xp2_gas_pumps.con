@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh xp2_gas_pumps
+CollisionManager.createTemplate xp2_gas_pumps
+
+ObjectTemplate.create SimpleObject xp2_gas_pumps
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_gas_pumps
+ObjectTemplate.mapMaterial 0 rubber 0
+ObjectTemplate.mapMaterial 1 metal_thin 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.mapMaterial 3 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gas_pumps
+ObjectTemplate.anchor 0/-0.9620/0
+
+include xp2_gas_pumps.tweak

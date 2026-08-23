@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://clqghtekrwdot"
+path="res://.godot/imported/dummy_texture_grey_c.dds-5d8f1839f2e5450b9b150b3e1c977edd.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/dummy_texture_grey_c.dds"
+dest_files=["res://.godot/imported/dummy_texture_grey_c.dds-5d8f1839f2e5450b9b150b3e1c977edd.res"]
+
+[params]
+
+mipmaps/generate=true

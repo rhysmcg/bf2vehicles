@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/1 15:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 0
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle us_carrier_wasp_interior
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry us_carrier_wasp_interior
+ObjectTemplate.setCollisionMesh us_carrier_wasp_interior
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.mapMaterial 1 stairs_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate us_carrier_wasp_interior_ladder01
+ObjectTemplate.setPosition 12.7022/-3.23005/-11.5914
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_interior_ladder01
+ObjectTemplate.setPosition 12.6989/-3.22874/11.6007
+ObjectTemplate.setRotation -90/0/0
+rem -------------------------------------
+

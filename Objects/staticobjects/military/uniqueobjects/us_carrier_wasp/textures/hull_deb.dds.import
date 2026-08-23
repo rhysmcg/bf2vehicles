@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bgoplv2cwav83"
+path="res://.godot/imported/hull_deb.dds-2ebb9bc1d98b0a860856ef0cf6a40d2b.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/textures/hull_deb.dds"
+dest_files=["res://.godot/imported/hull_deb.dds-2ebb9bc1d98b0a860856ef0cf6a40d2b.res"]
+
+[params]
+
+mipmaps/generate=true

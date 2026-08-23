@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh traffic_oversign_beam_1
+
+ObjectTemplate.create SimpleObject traffic_oversign_beam_1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh traffic_oversign_beam_1
+ObjectTemplate.mapMaterial 0 lambert7 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry traffic_oversign_beam_1
+ObjectTemplate.anchor 6.0000/-7.9630/0
+
+include traffic_oversign_beam_1.tweak

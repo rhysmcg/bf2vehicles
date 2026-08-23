@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cpg44vg10owif"
+path="res://.godot/imported/Tarmac_Daqing.dds-6fd535c7729d74faf404658ed42bcf25.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Daqing.dds"
+dest_files=["res://.godot/imported/Tarmac_Daqing.dds-6fd535c7729d74faf404658ed42bcf25.res"]
+
+[params]
+
+mipmaps/generate=true

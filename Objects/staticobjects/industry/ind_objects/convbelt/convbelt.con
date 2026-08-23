@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh convbelt
+CollisionManager.createTemplate convbelt
+
+ObjectTemplate.create SimpleObject convbelt
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh convbelt
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry convbelt
+ObjectTemplate.anchor -0.8434/-4.1668/-0.1287
+
+include convbelt.tweak

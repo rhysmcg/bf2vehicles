@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh stnwalls_corner_10m_down
+CollisionManager.createTemplate stnwalls_corner_10m_down
+
+ObjectTemplate.create SimpleObject stnwalls_corner_10m_down
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh stnwalls_corner_10m_down
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_corner_10m_down
+ObjectTemplate.anchor -5.0500/-3.5500/0.9500
+
+include stnwalls_corner_10m_down.tweak

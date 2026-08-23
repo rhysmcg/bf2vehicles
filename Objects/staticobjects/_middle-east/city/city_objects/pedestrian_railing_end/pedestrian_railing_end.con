@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh pedestrian_railing_end
+CollisionManager.createTemplate pedestrian_railing_end
+
+ObjectTemplate.create SimpleObject pedestrian_railing_end
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh pedestrian_railing_end
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pedestrian_railing_end
+ObjectTemplate.anchor 0.3000/-0.4000/0
+
+include pedestrian_railing_end.tweak

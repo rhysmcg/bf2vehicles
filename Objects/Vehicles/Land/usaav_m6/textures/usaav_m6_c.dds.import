@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bvalwxljial73"
+path="res://.godot/imported/usaav_m6_c.dds-062c074a9454db5e092a4aba09d9b524.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/usaav_m6/textures/usaav_m6_c.dds"
+dest_files=["res://.godot/imported/usaav_m6_c.dds-062c074a9454db5e092a4aba09d9b524.res"]
+
+[params]
+
+mipmaps/generate=true

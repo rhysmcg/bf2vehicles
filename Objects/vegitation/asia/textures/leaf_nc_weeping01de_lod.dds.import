@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://gxsng67od5b2"
+path="res://.godot/imported/leaf_nc_weeping01de_lod.dds-ef40dbd59006abf497ab46f327f425a9.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_nc_weeping01de_lod.dds"
+dest_files=["res://.godot/imported/leaf_nc_weeping01de_lod.dds-ef40dbd59006abf497ab46f327f425a9.res"]
+
+[params]
+
+mipmaps/generate=true

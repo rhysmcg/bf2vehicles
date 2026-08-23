@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle SnowEffect
+ObjectTemplate.createdInEditor 1
+
+include SnowEffect.tweak

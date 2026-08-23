@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh train_rail_bar_des
+CollisionManager.createTemplate train_rail_bar_des
+
+ObjectTemplate.create DestroyableObject train_rail_bar_des
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh train_rail_bar_des
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry train_rail_bar_des
+
+include train_rail_bar_des.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c4aixfkr813sg"
+path="res://.godot/imported/muzz_minigun_o.dds-2380f0409d64923683bfa74e5a00600f.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/textures/muzz_minigun_o.dds"
+dest_files=["res://.godot/imported/muzz_minigun_o.dds-2380f0409d64923683bfa74e5a00600f.res"]
+
+[params]
+
+mipmaps/generate=true

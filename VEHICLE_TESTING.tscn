@@ -1,0 +1,65 @@
+[gd_scene format=3 uid="uid://doersks56pjif"]
+
+[ext_resource type="Texture2D" uid="uid://bess8d83r8xbd" path="res://Content/DebugPrimitives/Grid.dds" id="1_fcig6"]
+[ext_resource type="PackedScene" uid="uid://euvuqmm1yhn0" path="res://jep_mec_paratrooper.tscn" id="2_fcig6"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_fcig6"]
+ground_bottom_color = Color(0.66225904, 0.65832514, 0.64762074, 1)
+ground_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
+
+[sub_resource type="Sky" id="Sky_rv11n"]
+sky_material = SubResource("ProceduralSkyMaterial_fcig6")
+
+[sub_resource type="Environment" id="Environment_eb5xl"]
+background_mode = 2
+sky = SubResource("Sky_rv11n")
+tonemap_mode = 2
+glow_enabled = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_eb5xl"]
+transparency = 1
+blend_mode = 3
+albedo_texture = ExtResource("1_fcig6")
+uv1_scale = Vector3(0.5, 0.5, 0.5)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[sub_resource type="WorldBoundaryShape3D" id="WorldBoundaryShape3D_oo62b"]
+
+[node name="Node3D" type="Node3D" unique_id=241264707]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1463385056]
+environment = SubResource("Environment_eb5xl")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1682243069]
+transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545, -0.50000006, 0.75, -0.43301266, 0, 0, 0)
+shadow_enabled = true
+
+[node name="CSGBox3D" type="CSGBox3D" parent="." unique_id=1975077303]
+material_override = SubResource("StandardMaterial3D_eb5xl")
+collision_layer = 15
+size = Vector3(100, 0.1, 100)
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="." unique_id=1334479114]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.825676, -0.49255562, -0.44380856)
+material_override = SubResource("StandardMaterial3D_eb5xl")
+use_collision = true
+collision_layer = 15
+size = Vector3(10.834473, 1, 19.865234)
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="CSGBox3D2" unique_id=1558568783]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.0892782, 0.54037404, -0.44380856)
+material_override = SubResource("StandardMaterial3D_eb5xl")
+use_collision = true
+collision_layer = 15
+size = Vector3(10.834473, 1, 19.865234)
+
+[node name="jep_mec_paratrooper" parent="." unique_id=699465521 instance=ExtResource("2_fcig6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9452426, 0)
+
+[node name="Node3D" type="Node3D" parent="." unique_id=198616739]
+
+[node name="WorldPlane" type="StaticBody3D" parent="." unique_id=423177130]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="WorldPlane" unique_id=1205576915]
+shape = SubResource("WorldBoundaryShape3D_oo62b")

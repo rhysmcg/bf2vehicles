@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh chlmg_type95
+CollisionManager.createTemplate chlmg_type95
+
+ObjectTemplate.create GenericFireArm chlmg_type95
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh chlmg_type95
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chlmg_type95
+
+include chlmg_type95.tweak

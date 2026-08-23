@@ -1,0 +1,23 @@
+GeometryTemplate.create StaticMesh house_detached_02
+CollisionManager.createTemplate house_detached_02
+
+ObjectTemplate.create SimpleObject house_detached_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_detached_02
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.mapMaterial 2 Wood_thin 0
+ObjectTemplate.mapMaterial 3 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 4 plastic 0
+ObjectTemplate.mapMaterial 5 metal_plate_thin 0
+ObjectTemplate.mapMaterial 6 Wood_solid 0
+ObjectTemplate.mapMaterial 7 Tarmac 0
+ObjectTemplate.mapMaterial 8 Glass_common 0
+ObjectTemplate.mapMaterial 9 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_detached_02
+ObjectTemplate.anchor 9.8882/-4.4079/-6.2257
+
+include house_detached_02.tweak

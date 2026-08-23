@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh gbrif_l96a1
+CollisionManager.createTemplate gbrif_l96a1
+
+ObjectTemplate.create GenericFireArm gbrif_l96a1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JULIO:julioce
+ObjectTemplate.collisionMesh gbrif_l96a1
+ObjectTemplate.mapMaterial 0 gbrif_L96A1_colormapgloss_envMap 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gbrif_l96a1
+
+include gbrif_l96a1.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://br1abtqug8ooe"
+path="res://.godot/imported/leaf_EU_ElmTree_de_alphatest.dds-ae72624c8b797d78f77b3c805d0c44f0.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/europe/textures/leaf_EU_ElmTree_de_alphatest.dds"
+dest_files=["res://.godot/imported/leaf_EU_ElmTree_de_alphatest.dds-ae72624c8b797d78f77b3c805d0c44f0.res"]
+
+[params]
+
+mipmaps/generate=true

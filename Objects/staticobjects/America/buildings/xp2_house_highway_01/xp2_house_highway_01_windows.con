@@ -1,0 +1,9 @@
+GeometryTemplate.create BundledMesh xp2_house_highway_01_windows
+
+ObjectTemplate.create SimpleObject xp2_house_highway_01_windows
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CHRISE:chrisel
+ObjectTemplate.geometry xp2_house_highway_01_windows
+ObjectTemplate.anchor 0/3.1955/17.9292
+
+include xp2_house_highway_01_windows.tweak

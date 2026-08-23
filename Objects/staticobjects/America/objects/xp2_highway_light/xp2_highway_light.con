@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_highway_light
+CollisionManager.createTemplate xp2_highway_light
+
+ObjectTemplate.create SimpleObject xp2_highway_light
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_highway_light
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_highway_light
+ObjectTemplate.anchor -0.0486/-7.6885/0.1533
+
+include xp2_highway_light.tweak

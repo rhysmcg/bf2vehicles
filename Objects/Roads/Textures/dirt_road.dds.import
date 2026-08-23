@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dr58ga4b5dos4"
+path="res://.godot/imported/dirt_road.dds-f68cba9fbcd02ede2fef27e52b3e8c1b.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road.dds"
+dest_files=["res://.godot/imported/dirt_road.dds-f68cba9fbcd02ede2fef27e52b3e8c1b.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,12 @@
+CollisionManager.createTemplate cactus_large_01
+
+ObjectTemplate.create SimpleObject cactus_large_01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.collisionMesh cactus_large_01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/0/0
+include cactus_large_01_col.tweak
+

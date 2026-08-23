@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/24 20:1]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.setSubGeometryLodDistance 0 1 40
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject rock5m
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser mkp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry rock5m
+ObjectTemplate.setCollisionMesh rock5m
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

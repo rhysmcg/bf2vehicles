@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wpipe_tinter
+CollisionManager.createTemplate wpipe_tinter
+
+ObjectTemplate.create SimpleObject wpipe_tinter
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wpipe_tinter
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_tinter
+ObjectTemplate.anchor 0.1640/0/0
+
+include wpipe_tinter.tweak

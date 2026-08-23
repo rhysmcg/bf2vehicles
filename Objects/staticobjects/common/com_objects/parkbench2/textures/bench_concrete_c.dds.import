@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://crocqvlxoma1m"
+path="res://.godot/imported/bench_concrete_c.dds-66a3ba1877df9b07d4584b4685f3ef7e.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/parkbench2/textures/bench_concrete_c.dds"
+dest_files=["res://.godot/imported/bench_concrete_c.dds-66a3ba1877df9b07d4584b4685f3ef7e.res"]
+
+[params]
+
+mipmaps/generate=true

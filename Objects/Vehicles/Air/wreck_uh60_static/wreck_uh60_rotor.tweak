@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/1 14:34]
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 0 15
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject wreck_uh60_rotor
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser eni
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry wreck_uh60_rotor
+ObjectTemplate.setCollisionMesh wreck_uh60_rotor
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

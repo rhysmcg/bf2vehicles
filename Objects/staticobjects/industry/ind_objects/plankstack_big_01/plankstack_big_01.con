@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh plankstack_big_01
+CollisionManager.createTemplate plankstack_big_01
+
+ObjectTemplate.create SimpleObject plankstack_big_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh plankstack_big_01
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry plankstack_big_01
+ObjectTemplate.anchor -0.0950/-0.5742/0
+
+include plankstack_big_01.tweak

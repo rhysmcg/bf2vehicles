@@ -1,0 +1,10 @@
+objectTemplate.create LightSource streetlight
+objectTemplate.saveInSeparateFile 1
+rem objectTemplate.lightType Point
+objectTemplate.lightType Spot
+objectTemplate.direction 0/-1/0
+objectTemplate.coneAngle1 35
+objectTemplate.coneAngle2 35
+objectTemplate.color 1/1/0.7
+objectTemplate.attenuationRange1 8
+objectTemplate.attenuationRange2 8

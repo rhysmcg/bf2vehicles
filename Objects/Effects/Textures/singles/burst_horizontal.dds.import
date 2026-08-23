@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bayn0ih2qm5m5"
+path="res://.godot/imported/burst_horizontal.dds-06106eeb78d102ebfa5df47d4cc4c657.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/singles/burst_horizontal.dds"
+dest_files=["res://.godot/imported/burst_horizontal.dds-06106eeb78d102ebfa5df47d4cc4c657.res"]
+
+[params]
+
+mipmaps/generate=true

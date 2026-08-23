@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmvxmmeaw8iee"
+path="res://.godot/imported/mw_de.dds-1b12f7be1e3bb34d70e9b6ee8e44566c.res"
+
+[deps]
+
+source_file="res://meshes/cardbox_cod/textures/mw_de.dds"
+dest_files=["res://.godot/imported/mw_de.dds-1b12f7be1e3bb34d70e9b6ee8e44566c.res"]
+
+[params]
+
+mipmaps/generate=true

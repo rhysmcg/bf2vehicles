@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled dirtroad_Daqing
+ObjectTemplate.create SimpleObject dirtroad_Daqing
+ObjectTemplate.geometry dirtroad_Daqing

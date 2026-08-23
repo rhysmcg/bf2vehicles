@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_rr_junkyardfence
+CollisionManager.createTemplate xp2_rr_junkyardfence
+
+ObjectTemplate.create SimpleObject xp2_rr_junkyardfence
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.collisionMesh xp2_rr_junkyardfence
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_junkyardfence
+ObjectTemplate.anchor 32.8760/-1.4582/26.8656
+
+include xp2_rr_junkyardfence.tweak

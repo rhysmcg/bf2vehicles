@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cvlx7g21u7g2k"
+path="res://.godot/imported/tankscope.dds-036846dbaf66764510f8af5453fff184.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/tnk_type98/textures/tankscope.dds"
+dest_files=["res://.godot/imported/tankscope.dds-036846dbaf66764510f8af5453fff184.res"]
+
+[params]
+
+mipmaps/generate=true

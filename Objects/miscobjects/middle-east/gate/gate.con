@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh gate
+
+ObjectTemplate.create SimpleObject gate
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.collisionMesh gate
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.geometry gate
+
+include gate.tweak

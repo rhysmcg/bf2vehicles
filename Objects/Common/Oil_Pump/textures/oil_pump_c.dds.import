@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://l0bcq5btv5vn"
+path="res://.godot/imported/oil_pump_c.dds-8ad8287ef0e04f40d6689e4b4872b6c4.res"
+
+[deps]
+
+source_file="res://Objects/Common/Oil_Pump/textures/oil_pump_c.dds"
+dest_files=["res://.godot/imported/oil_pump_c.dds-8ad8287ef0e04f40d6689e4b4872b6c4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled ParkingLots
+ObjectTemplate.create SimpleObject ParkingLots
+ObjectTemplate.geometry ParkingLots

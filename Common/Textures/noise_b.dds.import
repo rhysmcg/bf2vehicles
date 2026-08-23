@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://i6er4hbqycn4"
+path="res://.godot/imported/noise_b.dds-9ebda4cf290903af6c3747e1061c5d02.res"
+
+[deps]
+
+source_file="res://Common/Textures/noise_b.dds"
+dest_files=["res://.godot/imported/noise_b.dds-9ebda4cf290903af6c3747e1061c5d02.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/24 20:1]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject rockpile_small
+ObjectTemplate.creator MNY-1:mny
+ObjectTemplate.modifiedByUser mkp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry rockpile_small
+ObjectTemplate.setCollisionMesh rockpile_small
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

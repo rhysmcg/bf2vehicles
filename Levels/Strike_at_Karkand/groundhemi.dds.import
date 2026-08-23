@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ci07hf84hkeke"
+path="res://.godot/imported/groundhemi.dds-16c2f20d5870a3fe92f6f264f7c36183.res"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/groundhemi.dds"
+dest_files=["res://.godot/imported/groundhemi.dds-16c2f20d5870a3fe92f6f264f7c36183.res"]
+
+[params]
+
+mipmaps/generate=true

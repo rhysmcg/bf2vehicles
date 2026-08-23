@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bvn4q8yywjb2i"
+path="res://.godot/imported/common_02_de.dds-fb1ef5a10ae999c8cd74ac6894ec1481.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_02_de.dds"
+dest_files=["res://.godot/imported/common_02_de.dds-fb1ef5a10ae999c8cd74ac6894ec1481.res"]
+
+[params]
+
+mipmaps/generate=true

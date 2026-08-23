@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh us_carrier_wasp_bridge_ladder09
+CollisionManager.createTemplate us_carrier_wasp_bridge_ladder09
+
+ObjectTemplate.create Ladder us_carrier_wasp_bridge_ladder09
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh us_carrier_wasp_bridge_ladder09
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry us_carrier_wasp_bridge_ladder09
+
+include us_carrier_wasp_bridge_ladder09.tweak

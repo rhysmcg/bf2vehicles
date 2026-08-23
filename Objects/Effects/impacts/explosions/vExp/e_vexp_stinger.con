@@ -1,0 +1,147 @@
+GeometryTemplate.create BundledMesh e_vexp_stinger
+
+ObjectTemplate.create EffectBundle e_vexp_stinger
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vExp_Stinger_launchertube1
+ObjectTemplate.setPosition -0.0519/1.5732/-0.1642
+ObjectTemplate.addTemplate em_vExp_Stinger_launchertube2
+ObjectTemplate.setPosition 0.0911/1.5732/-0.1642
+ObjectTemplate.addTemplate em_vExp_Stinger_sights
+ObjectTemplate.setPosition -0.3324/1.4843/0.2417
+ObjectTemplate.addTemplate em_vExp_Stinger_mount
+ObjectTemplate.setPosition -0.1624/1.3447/-0.0015
+ObjectTemplate.addTemplate em_vExp_Stinger_seat
+ObjectTemplate.setPosition -0.3610/0.5873/0.2032
+ObjectTemplate.addTemplate em_vExp_Stinger_cpu
+ObjectTemplate.setPosition 0.0068/0.8343/0.2939
+ObjectTemplate.addTemplate em_vExp_Stinger_stand
+ObjectTemplate.setPosition -0.0091/0.8546/0.0124
+ObjectTemplate.addTemplate em_vExp_Stinger_base
+ObjectTemplate.setPosition -0.0746/0.1860/-0.1465
+ObjectTemplate.addTemplate em_vExp_Stinger_leg1
+ObjectTemplate.setPosition -0.3298/0.1386/0.5536
+ObjectTemplate.addTemplate em_vExp_Stinger_leg2
+ObjectTemplate.setPosition 0.6080/0.1686/0
+
+ObjectTemplate.create Emitter em_vExp_Stinger_launchertube1
+ObjectTemplate.template p_vExp_Stinger_launchertube1
+
+ObjectTemplate.create Particle p_vExp_Stinger_launchertube1
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vExp_Stinger_launchertube2
+ObjectTemplate.template p_vExp_Stinger_launchertube2
+
+ObjectTemplate.create Particle p_vExp_Stinger_launchertube2
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vExp_Stinger_sights
+ObjectTemplate.template p_vExp_Stinger_sights
+
+ObjectTemplate.create Particle p_vExp_Stinger_sights
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_vExp_Stinger_mount
+ObjectTemplate.template p_vExp_Stinger_mount
+
+ObjectTemplate.create Particle p_vExp_Stinger_mount
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_vExp_Stinger_seat
+ObjectTemplate.template p_vExp_Stinger_seat
+
+ObjectTemplate.create Particle p_vExp_Stinger_seat
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_vExp_Stinger_cpu
+ObjectTemplate.template p_vExp_Stinger_cpu
+
+ObjectTemplate.create Particle p_vExp_Stinger_cpu
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_vExp_Stinger_stand
+ObjectTemplate.template p_vExp_Stinger_stand
+
+ObjectTemplate.create Particle p_vExp_Stinger_stand
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_vExp_Stinger_base
+ObjectTemplate.template p_vExp_Stinger_base
+
+ObjectTemplate.create Particle p_vExp_Stinger_base
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_vExp_Stinger_leg1
+ObjectTemplate.template p_vExp_Stinger_leg1
+
+ObjectTemplate.create Particle p_vExp_Stinger_leg1
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Emitter em_vExp_Stinger_leg2
+ObjectTemplate.template p_vExp_Stinger_leg2
+
+ObjectTemplate.create Particle p_vExp_Stinger_leg2
+ObjectTemplate.collisionMesh e_vexp_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_stinger
+ObjectTemplate.geometryPart 9
+
+include e_vexp_stinger.tweak

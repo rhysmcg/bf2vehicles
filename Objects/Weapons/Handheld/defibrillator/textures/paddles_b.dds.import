@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://do18qy1qursok"
+path="res://.godot/imported/paddles_b.dds-82a07ddc5019573e93876255d3cacb57.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/defibrillator/textures/paddles_b.dds"
+dest_files=["res://.godot/imported/paddles_b.dds-82a07ddc5019573e93876255d3cacb57.res"]
+
+[params]
+
+mipmaps/generate=true

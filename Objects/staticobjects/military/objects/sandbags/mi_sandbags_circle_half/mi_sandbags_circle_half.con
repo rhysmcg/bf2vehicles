@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh mi_sandbags_circle_half
+CollisionManager.createTemplate mi_sandbags_circle_half
+
+ObjectTemplate.create SimpleObject mi_sandbags_circle_half
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh mi_sandbags_circle_half
+ObjectTemplate.mapMaterial 0 Sand 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_sandbags_circle_half
+ObjectTemplate.anchor 0/-0.5576/0
+
+include mi_sandbags_circle_half.tweak

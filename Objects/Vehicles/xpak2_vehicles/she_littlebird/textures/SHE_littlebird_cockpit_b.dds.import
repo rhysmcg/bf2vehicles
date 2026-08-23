@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://wmj356s6xivn"
+path="res://.godot/imported/SHE_littlebird_cockpit_b.dds-f3f9e1df1e6e0d9a520b67e60d6f86a3.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/textures/SHE_littlebird_cockpit_b.dds"
+dest_files=["res://.godot/imported/SHE_littlebird_cockpit_b.dds-f3f9e1df1e6e0d9a520b67e60d6f86a3.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh rockpile_medium
+CollisionManager.createTemplate rockpile_medium
+
+ObjectTemplate.create SimpleObject rockpile_medium
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh rockpile_medium
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rockpile_medium
+
+include rockpile_medium.tweak

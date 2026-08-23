@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh pagoda
+
+ObjectTemplate.create SimpleObject pagoda
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh pagoda
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pagoda
+ObjectTemplate.anchor -0.9099/-6.4393/7.4243
+
+include pagoda.tweak

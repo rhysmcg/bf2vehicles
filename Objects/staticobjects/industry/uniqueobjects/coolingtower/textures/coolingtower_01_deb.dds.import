@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://py7bvbi6t4x0"
+path="res://.godot/imported/coolingtower_01_deb.dds-37bed8145ab1e229f89cf660a621ee64.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/coolingtower/textures/coolingtower_01_deb.dds"
+dest_files=["res://.godot/imported/coolingtower_01_deb.dds-37bed8145ab1e229f89cf660a621ee64.res"]
+
+[params]
+
+mipmaps/generate=true

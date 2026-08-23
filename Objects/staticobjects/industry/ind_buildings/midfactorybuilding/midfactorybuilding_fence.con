@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh midfactorybuilding_fence
+CollisionManager.createTemplate midfactorybuilding_fence
+
+ObjectTemplate.create SimpleObject midfactorybuilding_fence
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh midfactorybuilding_fence
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 Chicken_Wire_Thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry midfactorybuilding_fence
+ObjectTemplate.anchor 11.0000/-1.2724/-10.0000
+
+include midfactorybuilding_fence.tweak

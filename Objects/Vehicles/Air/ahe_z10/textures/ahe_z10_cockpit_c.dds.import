@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c3alkp4lxx1r1"
+path="res://.godot/imported/ahe_z10_cockpit_c.dds-a8a7d3012cdaec089447ff760feecba9.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/textures/ahe_z10_cockpit_c.dds"
+dest_files=["res://.godot/imported/ahe_z10_cockpit_c.dds-a8a7d3012cdaec089447ff760feecba9.res"]
+
+[params]
+
+mipmaps/generate=true

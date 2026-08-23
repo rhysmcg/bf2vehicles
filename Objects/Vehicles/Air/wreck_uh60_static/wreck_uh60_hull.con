@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh wreck_uh60_hull
+CollisionManager.createTemplate wreck_uh60_hull
+
+ObjectTemplate.create SimpleObject wreck_uh60_hull
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh wreck_uh60_hull
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 cloth 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_uh60_hull
+
+include wreck_uh60_hull.tweak

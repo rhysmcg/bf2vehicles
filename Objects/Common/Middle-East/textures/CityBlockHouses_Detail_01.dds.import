@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://blagdr64jtl1t"
+path="res://.godot/imported/CityBlockHouses_Detail_01.dds-9f14eebf3e8ecf6c830597762be9a486.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/CityBlockHouses_Detail_01.dds"
+dest_files=["res://.godot/imported/CityBlockHouses_Detail_01.dds-9f14eebf3e8ecf6c830597762be9a486.res"]
+
+[params]
+
+mipmaps/generate=true

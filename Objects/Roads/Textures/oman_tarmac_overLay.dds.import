@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bwmbfx1bij8f1"
+path="res://.godot/imported/oman_tarmac_overLay.dds-196d6e8bd37927ec5777472c3cf3070a.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/oman_tarmac_overLay.dds"
+dest_files=["res://.godot/imported/oman_tarmac_overLay.dds-196d6e8bd37927ec5777472c3cf3070a.res"]
+
+[params]
+
+mipmaps/generate=true

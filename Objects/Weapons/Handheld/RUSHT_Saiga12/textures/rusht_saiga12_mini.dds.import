@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ycywkbp6ibg6"
+path="res://.godot/imported/rusht_saiga12_mini.dds-47b7f44dc89f62c365fae433e0c7a82e.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RUSHT_Saiga12/textures/rusht_saiga12_mini.dds"
+dest_files=["res://.godot/imported/rusht_saiga12_mini.dds-47b7f44dc89f62c365fae433e0c7a82e.res"]
+
+[params]
+
+mipmaps/generate=true

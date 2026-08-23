@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bkpd5cqyhuguc"
+path="res://.godot/imported/bushesMisc.dds-207099b22ffdc293f81c55ce8517f330.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/bushesMisc.dds"
+dest_files=["res://.godot/imported/bushesMisc.dds-207099b22ffdc293f81c55ce8517f330.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c46cv0k4gkctc"
+path="res://.godot/imported/tile_eu_de.dds-4ca1eb3ed259ec8ce0eaece990351169.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/europe/textures/tile_eu_de.dds"
+dest_files=["res://.godot/imported/tile_eu_de.dds-4ca1eb3ed259ec8ce0eaece990351169.res"]
+
+[params]
+
+mipmaps/generate=true

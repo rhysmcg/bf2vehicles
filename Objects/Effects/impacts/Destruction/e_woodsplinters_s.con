@@ -1,0 +1,91 @@
+GeometryTemplate.create BundledMesh e_woodsplinters_s
+
+ObjectTemplate.create EffectBundle e_woodsplinters_s
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_woodsplinter_s_01
+ObjectTemplate.setPosition -0.1417/-0.1068/0.1727
+ObjectTemplate.addTemplate em_woodsplinter_s_02
+ObjectTemplate.setPosition 0.0778/0/-0.1595
+ObjectTemplate.addTemplate em_woodsplinter_s_03
+ObjectTemplate.setPosition 0.3929/-0.0122/-0.2278
+ObjectTemplate.addTemplate em_woodsplinter_s_04
+ObjectTemplate.setPosition 0.2678/0.3696/-0.0733
+ObjectTemplate.addTemplate em_woodsplinter_s_05
+ObjectTemplate.setPosition -0.1838/0.2469/0.0692
+ObjectTemplate.addTemplate em_woodsplinter_s_06
+ObjectTemplate.setPosition 0.0838/0.0015/0.1725
+
+ObjectTemplate.create Emitter em_woodsplinter_s_01
+ObjectTemplate.template p_woodsplinter_s_01
+
+ObjectTemplate.create Particle p_woodsplinter_s_01
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_woodsplinter_s_02
+ObjectTemplate.template p_woodsplinter_s_02
+
+ObjectTemplate.create Particle p_woodsplinter_s_02
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_woodsplinter_s_03
+ObjectTemplate.template p_woodsplinter_s_03
+
+ObjectTemplate.create Particle p_woodsplinter_s_03
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_woodsplinter_s_04
+ObjectTemplate.template p_woodsplinter_s_04
+
+ObjectTemplate.create Particle p_woodsplinter_s_04
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_woodsplinter_s_05
+ObjectTemplate.template p_woodsplinter_s_05
+
+ObjectTemplate.create Particle p_woodsplinter_s_05
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_woodsplinter_s_06
+ObjectTemplate.template p_woodsplinter_s_06
+
+ObjectTemplate.create Particle p_woodsplinter_s_06
+ObjectTemplate.collisionMesh e_woodsplinters_s
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_woodsplinters_s
+ObjectTemplate.geometryPart 5
+
+include e_woodsplinters_s.tweak

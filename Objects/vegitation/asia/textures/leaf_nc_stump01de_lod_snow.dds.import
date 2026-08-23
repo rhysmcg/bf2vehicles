@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://faeawc8po2yx"
+path="res://.godot/imported/leaf_nc_stump01de_lod_snow.dds-d564a349d9f2777bc3f7b26827141cc7.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_nc_stump01de_lod_snow.dds"
+dest_files=["res://.godot/imported/leaf_nc_stump01de_lod_snow.dds-d564a349d9f2777bc3f7b26827141cc7.res"]
+
+[params]
+
+mipmaps/generate=true

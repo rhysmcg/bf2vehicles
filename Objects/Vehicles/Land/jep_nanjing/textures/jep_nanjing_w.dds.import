@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c6dawayh54fed"
+path="res://.godot/imported/jep_nanjing_w.dds-db39975070c231e0153f54c7abad6e72.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_nanjing/textures/jep_nanjing_w.dds"
+dest_files=["res://.godot/imported/jep_nanjing_w.dds-db39975070c231e0153f54c7abad6e72.res"]
+
+[params]
+
+mipmaps/generate=true

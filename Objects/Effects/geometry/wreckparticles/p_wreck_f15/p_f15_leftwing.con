@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_f15_leftwing
+CollisionManager.createTemplate p_f15_leftwing
+
+ObjectTemplate.create Particle p_f15_leftwing
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_f15_leftwing
+ObjectTemplate.mapMaterial 0 F15_wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_f15_leftwing
+
+include p_f15_leftwing.tweak

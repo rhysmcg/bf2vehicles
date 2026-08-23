@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_alaskasign02
+CollisionManager.createTemplate xp2_alaskasign02
+
+ObjectTemplate.create DestroyableObject xp2_alaskasign02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh xp2_alaskasign02
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_alaskasign02
+ObjectTemplate.anchor 0/-1.3008/0
+
+include xp2_alaskasign02.tweak

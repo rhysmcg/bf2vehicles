@@ -1,0 +1,6 @@
+ObjectTemplate.activeSafe AnimatedBundle air_repairstation_cone
+ObjectTemplate.creator TDA-1:tda
+ObjectTemplate.geometry air_repairstation_cone
+ObjectTemplate.skeleton Objects\staticobjects\military\objects\air_repairstation\wind_cone.ske
+ObjectTemplate.animationSystem1P Objects\staticobjects\military\objects\air_repairstation\AnimationSystem.inc
+

@@ -1,0 +1,129 @@
+GeometryTemplate.create BundledMesh jep_mec_paratrooper
+CollisionManager.createTemplate jep_mec_paratrooper
+
+ObjectTemplate.create PlayerControlObject jep_mec_paratrooper
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh jep_mec_paratrooper
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 glass 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.mapMaterial 4 cloth 0
+ObjectTemplate.mapMaterial 5 wreck 0
+ObjectTemplate.mapMaterial 6 amobox_metal 0
+ObjectTemplate.mapMaterial 7 colormapgloss 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry jep_mec_paratrooper
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Steeringwheel
+ObjectTemplate.setPosition -0.3134/0.2990/0.3430
+ObjectTemplate.setRotation 0/18.6220/0
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_gunbase
+ObjectTemplate.setPosition -0.0014/-0.1078/-0.9465
+ObjectTemplate.addTemplate JEP_mec_front_gunpos
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Engine
+ObjectTemplate.setPosition 0.1636/-0.7280/-0.1232
+
+ObjectTemplate.create RotationalBundle JEP_mec_Paratrooper_Steeringwheel
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create PlayerControlObject JEP_mec_Paratrooper_gunbase
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_cupolabase
+ObjectTemplate.setPosition 0.0014/1.0485/-0.0416
+
+ObjectTemplate.create RotationalBundle JEP_mec_Paratrooper_cupolabase
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_gunmount
+ObjectTemplate.setPosition -0.0041/0.3018/0.6314
+
+ObjectTemplate.create RotationalBundle JEP_mec_Paratrooper_gunmount
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create PlayerControlObject JEP_mec_front_gunpos
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate JEP_mec_front_gunbase
+ObjectTemplate.setPosition 0.3137/0.4290/0.6350
+
+ObjectTemplate.create RotationalBundle JEP_mec_front_gunbase
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+ObjectTemplate.addTemplate JEP_mec_front_gunmount
+ObjectTemplate.setPosition 0/0.0342/0
+ObjectTemplate.setRotation 0/-25.0000/0
+
+ObjectTemplate.create RotationalBundle JEP_mec_front_gunmount
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Engine JEP_mec_Paratrooper_Engine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_nav_RF
+ObjectTemplate.setPosition 0.7853/0.0538/1.4808
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_nav_LF
+ObjectTemplate.setPosition -1.1076/0.2499/1.4749
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Wheel_RR
+ObjectTemplate.setPosition 0.7830/0.2499/-1.5258
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Wheel_LR
+ObjectTemplate.setPosition -1.1076/0.2499/-1.5258
+
+ObjectTemplate.create RotationalBundle JEP_mec_Paratrooper_nav_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Wheel_RF
+ObjectTemplate.setPosition -0.0023/0.1961/-0.0059
+
+ObjectTemplate.create Spring JEP_mec_Paratrooper_Wheel_RF
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create RotationalBundle JEP_mec_Paratrooper_nav_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+ObjectTemplate.addTemplate JEP_mec_Paratrooper_Wheel_LF
+
+ObjectTemplate.create Spring JEP_mec_Paratrooper_Wheel_LF
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Spring JEP_mec_Paratrooper_Wheel_RR
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Spring JEP_mec_Paratrooper_Wheel_LR
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+include jep_mec_paratrooper.tweak

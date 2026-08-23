@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdbgqjvepw7q8"
+path="res://.godot/imported/p_rocks_b.dds-c2b3680f39ac93cf7d9acb677ee45385.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_rocks_b.dds"
+dest_files=["res://.godot/imported/p_rocks_b.dds-c2b3680f39ac93cf7d9acb677ee45385.res"]
+
+[params]
+
+mipmaps/generate=true

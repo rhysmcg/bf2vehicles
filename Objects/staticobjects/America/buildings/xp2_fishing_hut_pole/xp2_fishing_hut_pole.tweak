@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/10/21 3:15]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_fishing_hut_pole
+ObjectTemplate.creator RYAN_XP:RyanLo
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_fishing_hut_pole
+ObjectTemplate.setCollisionMesh xp2_fishing_hut_pole
+ObjectTemplate.mapMaterial 0 wood 15
+ObjectTemplate.mapMaterial 1 Pentrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 2 Plastic 11
+ObjectTemplate.mapMaterial 3 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 4 metal_thin 20
+ObjectTemplate.mapMaterial 5 rubber 22
+ObjectTemplate.mapMaterial 6 stairs_wood 35
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cmi8datl85d0n"
+path="res://.godot/imported/anim_gravel_01.dds-0908bf06cd0c8de9e9e2da2daf33ffbd.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_gravel_01.dds"
+dest_files=["res://.godot/imported/anim_gravel_01.dds-0908bf06cd0c8de9e9e2da2daf33ffbd.res"]
+
+[params]
+
+mipmaps/generate=true

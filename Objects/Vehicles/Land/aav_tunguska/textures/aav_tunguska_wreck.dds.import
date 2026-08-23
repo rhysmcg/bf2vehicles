@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://shrlio5d3r63"
+path="res://.godot/imported/aav_tunguska_wreck.dds-acbd00dfc717e90637170cb238a0a954.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_tunguska/textures/aav_tunguska_wreck.dds"
+dest_files=["res://.godot/imported/aav_tunguska_wreck.dds-acbd00dfc717e90637170cb238a0a954.res"]
+
+[params]
+
+mipmaps/generate=true

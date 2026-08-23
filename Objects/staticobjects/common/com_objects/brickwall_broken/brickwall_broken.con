@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh brickwall_broken
+CollisionManager.createTemplate brickwall_broken
+
+ObjectTemplate.create SimpleObject brickwall_broken
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh brickwall_broken
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry brickwall_broken
+ObjectTemplate.anchor -0.1386/-1.2366/2.4997
+
+include brickwall_broken.tweak

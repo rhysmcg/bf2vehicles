@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bn017pkmoq2ph"
+path="res://.godot/imported/HorizonStreak.dds-366bd8402601c1003c91c150a9566ccb.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/small_singles/HorizonStreak.dds"
+dest_files=["res://.godot/imported/HorizonStreak.dds-366bd8402601c1003c91c150a9566ccb.res"]
+
+[params]
+
+mipmaps/generate=true

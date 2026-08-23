@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh barrels_stacked_dummy
+
+ObjectTemplate.create Bundle barrels_stacked_dummy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.collisionMesh barrels_stacked_dummy
+ObjectTemplate.mapMaterial 0 dummyMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barrels_stacked_dummy
+ObjectTemplate.anchor -0.6740/-1.4695/2.4317
+
+include barrels_stacked_dummy.tweak

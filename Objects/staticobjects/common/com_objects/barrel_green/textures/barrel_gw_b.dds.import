@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bojyit63hl4m"
+path="res://.godot/imported/barrel_gw_b.dds-fac554376be9b7d3e404855f0bdad1fc.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/barrel_green/textures/barrel_gw_b.dds"
+dest_files=["res://.godot/imported/barrel_gw_b.dds-fac554376be9b7d3e404855f0bdad1fc.res"]
+
+[params]
+
+mipmaps/generate=true

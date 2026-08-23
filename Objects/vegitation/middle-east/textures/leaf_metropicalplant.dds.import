@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmq1cwrptpotr"
+path="res://.godot/imported/leaf_metropicalplant.dds-4e2fdb32755ff79e2de008001011d270.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/leaf_metropicalplant.dds"
+dest_files=["res://.godot/imported/leaf_metropicalplant.dds-4e2fdb32755ff79e2de008001011d270.res"]
+
+[params]
+
+mipmaps/generate=true

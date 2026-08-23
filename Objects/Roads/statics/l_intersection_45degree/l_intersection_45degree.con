@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh l_intersection_45degree
+
+ObjectTemplate.create SimpleObject l_intersection_45degree
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry l_intersection_45degree
+ObjectTemplate.anchor -5.0000/0/12.4832
+
+include l_intersection_45degree.tweak

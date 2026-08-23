@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cln7inj26jvfa"
+path="res://.godot/imported/1p_US_body_heavy_C_woodland.dds-08aafe9e2d2483dc31bce6c7c332c969.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/Default/1p_US_body_heavy_C_woodland.dds"
+dest_files=["res://.godot/imported/1p_US_body_heavy_C_woodland.dds-08aafe9e2d2483dc31bce6c7c332c969.res"]
+
+[params]
+
+mipmaps/generate=true

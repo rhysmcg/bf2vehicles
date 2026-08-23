@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c26ihyd878hin"
+path="res://.godot/imported/shell_smallarms_c.dds-403f32bc5fd8acad53c1e96c20639994.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/textures/shell_smallarms_c.dds"
+dest_files=["res://.godot/imported/shell_smallarms_c.dds-403f32bc5fd8acad53c1e96c20639994.res"]
+
+[params]
+
+mipmaps/generate=true

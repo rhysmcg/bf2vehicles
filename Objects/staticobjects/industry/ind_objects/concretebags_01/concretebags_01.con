@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh concretebags_01
+CollisionManager.createTemplate concretebags_01
+
+ObjectTemplate.create SimpleObject concretebags_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh concretebags_01
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 bagsMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concretebags_01
+ObjectTemplate.anchor 0.0079/-0.7480/0.0240
+
+include concretebags_01.tweak

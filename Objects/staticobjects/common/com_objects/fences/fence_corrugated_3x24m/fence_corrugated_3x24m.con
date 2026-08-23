@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh fence_corrugated_3x24m
+CollisionManager.createTemplate fence_corrugated_3x24m
+
+ObjectTemplate.create SimpleObject fence_corrugated_3x24m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh fence_corrugated_3x24m
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fence_corrugated_3x24m
+ObjectTemplate.anchor -11.9911/-1.4054/0.1681
+
+include fence_corrugated_3x24m.tweak

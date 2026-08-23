@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cn17ktxyv5n8t"
+path="res://.godot/imported/fireball_single3.dds-0765898a10fd88a28792f25eb9e24991.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/fire/fireball_single3.dds"
+dest_files=["res://.godot/imported/fireball_single3.dds-0765898a10fd88a28792f25eb9e24991.res"]
+
+[params]
+
+mipmaps/generate=true

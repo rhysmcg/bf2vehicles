@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh phonebooth
+CollisionManager.createTemplate phonebooth
+
+ObjectTemplate.create SimpleObject phonebooth
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh phonebooth
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry phonebooth
+ObjectTemplate.anchor 0/-1.0818/0.3041
+
+include phonebooth.tweak

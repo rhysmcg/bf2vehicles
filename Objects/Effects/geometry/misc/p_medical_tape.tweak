@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/8 15:15]
+ObjectTemplate.activeSafe Particle p_medical_tape
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry p_medical_tape
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.mapMaterial 0 paper 10
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/1.5/2/0
+ObjectTemplate.floaterMod 0.5
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh plankstack_big_version_03
+CollisionManager.createTemplate plankstack_big_version_03
+
+ObjectTemplate.create SimpleObject plankstack_big_version_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh plankstack_big_version_03
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry plankstack_big_version_03
+ObjectTemplate.anchor 0/-1.1430/0
+
+include plankstack_big_version_03.tweak

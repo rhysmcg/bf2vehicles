@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqatu65tijb3b"
+path="res://.godot/imported/dam_bridge_dirt.dds-4232d122b104a40bb3174dc86568a811.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/textures/dam_bridge_dirt.dds"
+dest_files=["res://.godot/imported/dam_bridge_dirt.dds-4232d122b104a40bb3174dc86568a811.res"]
+
+[params]
+
+mipmaps/generate=true

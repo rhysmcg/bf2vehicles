@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/1 14:40]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject brick_pillar
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser dfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry brick_pillar
+ObjectTemplate.setCollisionMesh brick_pillar
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.treeCollisionDiameter 0.6
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

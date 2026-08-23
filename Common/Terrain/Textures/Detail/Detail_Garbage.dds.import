@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://btntemol75ylc"
+path="res://.godot/imported/Detail_Garbage.dds-6df5562598a7df2b469c4a1d5e83398e.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Garbage.dds"
+dest_files=["res://.godot/imported/Detail_Garbage.dds-6df5562598a7df2b469c4a1d5e83398e.res"]
+
+[params]
+
+mipmaps/generate=true

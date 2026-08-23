@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_rockpile_1
+CollisionManager.createTemplate xp2_rockpile_1
+
+ObjectTemplate.create SimpleObject xp2_rockpile_1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICK:nickwh
+ObjectTemplate.collisionMesh xp2_rockpile_1
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 slippery_for_soldier 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rockpile_1
+
+include xp2_rockpile_1.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh pedestrian_railing_24m_ends
+CollisionManager.createTemplate pedestrian_railing_24m_ends
+
+ObjectTemplate.create SimpleObject pedestrian_railing_24m_ends
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh pedestrian_railing_24m_ends
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pedestrian_railing_24m_ends
+ObjectTemplate.anchor -12.6000/-0.4000/-0.0098
+
+include pedestrian_railing_24m_ends.tweak

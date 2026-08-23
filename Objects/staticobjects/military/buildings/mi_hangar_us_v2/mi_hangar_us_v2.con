@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh mi_hangar_us_v2
+CollisionManager.createTemplate mi_hangar_us_v2
+
+ObjectTemplate.create SimpleObject mi_hangar_us_v2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh mi_hangar_us_v2
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 metal_penetrateble 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 metal_thin 0
+ObjectTemplate.mapMaterial 4 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mi_hangar_us_v2
+ObjectTemplate.anchor 0/-4.9892/0
+
+include mi_hangar_us_v2.tweak

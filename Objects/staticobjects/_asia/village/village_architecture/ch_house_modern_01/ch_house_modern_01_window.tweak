@@ -1,0 +1,66 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/14 0:16]
+ObjectTemplate.activeSafe DestroyableWindowsBundle ch_house_modern_01_window
+ObjectTemplate.creator MEI-1:mei
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.setNetworkableInfo DestroyableObjectInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_house_modern_01_window
+ObjectTemplate.setCollisionMesh ch_house_modern_01_window
+ObjectTemplate.mapMaterial 0 Glass_common 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+rem -------------------------------------
+ObjectTemplate.respawnDelay -1
+ObjectTemplate.clientHitDetection 1
+ObjectTemplate.setNumWindows 8
+ObjectTemplate.effectTemplateBaseName e_destroyableWindow_
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window01
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window02
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window03
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window04
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window05
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe DestroyableWindow Ch_House_Modern_01_window06
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+ObjectTemplate.activeSafe SimpleObject Ch_House_Modern_01_windowdummy
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+

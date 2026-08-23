@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh xp2_harvestclutster01_lod
+
+ObjectTemplate.create SimpleObject xp2_harvestclutster01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.geometry xp2_harvestclutster01_lod
+
+include xp2_harvestclutster01_lod.tweak

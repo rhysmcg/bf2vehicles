@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cyeh4umsbubb0"
+path="res://.godot/imported/cone.dds-5d3276dbedeb8f024771464397b5a496.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/textures/cone.dds"
+dest_files=["res://.godot/imported/cone.dds-5d3276dbedeb8f024771464397b5a496.res"]
+
+[params]
+
+mipmaps/generate=true

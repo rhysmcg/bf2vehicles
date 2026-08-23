@@ -1,0 +1,5 @@
+ObjectTemplate.activeSafe AnimatedBundle cloth_line
+ObjectTemplate.skeleton Objects\Common\Cloth_line\cloth_line_setup.ske
+ObjectTemplate.animationSystem1P Objects\Common\cloth_line\AnimationSystem.inc
+
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cr5xq4xmha14u"
+path="res://.godot/imported/ruair_mig29_cockpit_c.dds-54b5985d3e59da1339baa84c0f429b42.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ruair_mig29/ruair_mig29_cockpit_c.dds"
+dest_files=["res://.godot/imported/ruair_mig29_cockpit_c.dds-54b5985d3e59da1339baa84c0f429b42.res"]
+
+[params]
+
+mipmaps/generate=true

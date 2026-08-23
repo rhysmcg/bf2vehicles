@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh lrg_trash_dumpster
+CollisionManager.createTemplate lrg_trash_dumpster
+
+ObjectTemplate.create SimpleObject lrg_trash_dumpster
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh lrg_trash_dumpster
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry lrg_trash_dumpster
+ObjectTemplate.anchor 0/-1.0362/0
+
+include lrg_trash_dumpster.tweak

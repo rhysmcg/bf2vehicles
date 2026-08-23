@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://7nfwaq2461tk"
+path="res://.godot/imported/Tarmac_Layer1_Lowtiling.dds-d777d926214da5ca3c269ebe68656b2f.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmac_Layer1_Lowtiling.dds"
+dest_files=["res://.godot/imported/Tarmac_Layer1_Lowtiling.dds-d777d926214da5ca3c269ebe68656b2f.res"]
+
+[params]
+
+mipmaps/generate=true

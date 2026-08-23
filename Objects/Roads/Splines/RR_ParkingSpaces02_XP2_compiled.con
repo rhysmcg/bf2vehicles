@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled RR_ParkingSpaces02_XP2
+ObjectTemplate.create SimpleObject RR_ParkingSpaces02_XP2
+ObjectTemplate.geometry RR_ParkingSpaces02_XP2

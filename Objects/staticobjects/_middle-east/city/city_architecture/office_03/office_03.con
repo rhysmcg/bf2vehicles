@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh office_03
+CollisionManager.createTemplate office_03
+
+ObjectTemplate.create Bundle office_03
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh office_03
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 1 Metal_Solid 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 Tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry office_03
+ObjectTemplate.anchor 0/-8.0632/-16.5904
+
+include office_03.tweak

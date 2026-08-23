@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvojyfnmrso7n"
+path="res://.godot/imported/chvillage_02_deb_snow.dds-35f220b408bdbd96297cc4a302465ae0.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/textures/chvillage_02_deb_snow.dds"
+dest_files=["res://.godot/imported/chvillage_02_deb_snow.dds-35f220b408bdbd96297cc4a302465ae0.res"]
+
+[params]
+
+mipmaps/generate=true

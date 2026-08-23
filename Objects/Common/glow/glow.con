@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh glow
+CollisionManager.createTemplate glow
+
+ObjectTemplate.create SimpleObject glow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.collisionMesh glow
+ObjectTemplate.mapMaterial 0 glow 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry glow
+
+include glow.tweak

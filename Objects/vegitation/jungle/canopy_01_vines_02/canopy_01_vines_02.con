@@ -1,0 +1,10 @@
+GeometryTemplate.create StaticMesh canopy_01_vines_02
+
+ObjectTemplate.create SimpleObject canopy_01_vines_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.geometry canopy_01_vines_02
+ObjectTemplate.anchor 0/-26.7361/0
+
+include canopy_01_vines_02.tweak
+

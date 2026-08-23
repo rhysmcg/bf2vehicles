@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh hmg_m2hb_ammo
+
+ObjectTemplate.create GenericFireArm hmg_m2hb_ammo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.geometry hmg_m2hb_ammo
+
+include hmg_m2hb_ammo.tweak

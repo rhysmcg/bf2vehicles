@@ -1,0 +1,23 @@
+GeometryTemplate.create StaticMesh dam_right
+CollisionManager.createTemplate dam_right
+
+ObjectTemplate.create Bundle dam_right
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh dam_right
+ObjectTemplate.mapMaterial 0 Penetrable_Wood 0
+ObjectTemplate.mapMaterial 1 plastic 0
+ObjectTemplate.mapMaterial 2 glass_common 0
+ObjectTemplate.mapMaterial 3 Concrete 0
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 5 Metal_solid 0
+ObjectTemplate.mapMaterial 6 Wood_solid 0
+ObjectTemplate.mapMaterial 7 Wood_thin 0
+ObjectTemplate.mapMaterial 8 concret_slippery 0
+ObjectTemplate.mapMaterial 9 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_right
+ObjectTemplate.anchor 78.2192/-42.9748/47.1375
+
+include dam_right.tweak

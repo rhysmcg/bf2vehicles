@@ -1,0 +1,91 @@
+GeometryTemplate.create BundledMesh e_destruction_stonebridge
+
+ObjectTemplate.create EffectBundle e_destruction_stonebridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_stonebridge_01
+ObjectTemplate.setPosition 4.0301/0/-1.7110
+ObjectTemplate.addTemplate em_destruction_stonebridge_02
+ObjectTemplate.setPosition 5.4515/0/1.4739
+ObjectTemplate.addTemplate em_destruction_stonebridge_03
+ObjectTemplate.setPosition 2.0729/-0.6181/3.8908
+ObjectTemplate.addTemplate em_destruction_stonebridge_04
+ObjectTemplate.setPosition -0.6585/-0.5874/-3.0167
+ObjectTemplate.addTemplate em_destruction_stonebridge_05
+ObjectTemplate.setPosition -3.0468/0/2.4443
+ObjectTemplate.addTemplate em_destruction_stonebridge_06
+ObjectTemplate.setPosition -5.4425/0/-1.0948
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_01
+ObjectTemplate.template p_destruction_stonebridge_01
+
+ObjectTemplate.create Particle p_destruction_stonebridge_01
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_02
+ObjectTemplate.template p_destruction_stonebridge_02
+
+ObjectTemplate.create Particle p_destruction_stonebridge_02
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_03
+ObjectTemplate.template p_destruction_stonebridge_03
+
+ObjectTemplate.create Particle p_destruction_stonebridge_03
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_04
+ObjectTemplate.template p_destruction_stonebridge_04
+
+ObjectTemplate.create Particle p_destruction_stonebridge_04
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_05
+ObjectTemplate.template p_destruction_stonebridge_05
+
+ObjectTemplate.create Particle p_destruction_stonebridge_05
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_06
+ObjectTemplate.template p_destruction_stonebridge_06
+
+ObjectTemplate.create Particle p_destruction_stonebridge_06
+ObjectTemplate.collisionMesh e_destruction_stonebridge
+ObjectTemplate.mapMaterial 0 wreck_stonebridge 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge
+ObjectTemplate.geometryPart 5
+
+include e_destruction_stonebridge.tweak

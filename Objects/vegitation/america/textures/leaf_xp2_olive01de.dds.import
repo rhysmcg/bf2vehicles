@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://clce38niqaxt6"
+path="res://.godot/imported/leaf_xp2_olive01de.dds-c589e4a2093a353bf9781204d212fa22.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/textures/leaf_xp2_olive01de.dds"
+dest_files=["res://.godot/imported/leaf_xp2_olive01de.dds-c589e4a2093a353bf9781204d212fa22.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cf70fj7cajq0e"
+path="res://.godot/imported/headlights.dds-ccc9389bc6f2948d31122b910be6b924.res"
+
+[deps]
+
+source_file="res://Common/Textures/headlights.dds"
+dest_files=["res://.godot/imported/headlights.dds-ccc9389bc6f2948d31122b910be6b924.res"]
+
+[params]
+
+mipmaps/generate=true

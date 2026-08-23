@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh pier
+CollisionManager.createTemplate pier
+
+ObjectTemplate.create SimpleObject pier
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh pier
+ObjectTemplate.mapMaterial 0 wood_Solid 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pier
+ObjectTemplate.anchor 0/-4.2545/0
+
+include pier.tweak

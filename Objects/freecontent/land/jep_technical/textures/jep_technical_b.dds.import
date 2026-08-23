@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ctn3vdvbcw7ui"
+path="res://.godot/imported/jep_technical_b.dds-7a593be1826492aa7d74a9914cecdadb.res"
+
+[deps]
+
+source_file="res://Objects/freecontent/land/jep_technical/textures/jep_technical_b.dds"
+dest_files=["res://.godot/imported/jep_technical_b.dds-7a593be1826492aa7d74a9914cecdadb.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,35 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/18 17:43]
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.setSubGeometryLodDistance 0 1 60
+GeometryTemplate.setSubGeometryLodDistance 0 2 85
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle gaspumptow
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry gaspumptow
+ObjectTemplate.setCollisionMesh gaspumptow
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 1 Plastic 11
+ObjectTemplate.mapMaterial 2 Metal_Solid 21
+ObjectTemplate.mapMaterial 3 glass 17
+ObjectTemplate.mapMaterial 4 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 5 Stairs_concrete 34
+ObjectTemplate.mapMaterial 6 soldier_slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate gaspumptow_ladder_4m
+ObjectTemplate.setPosition -1.19215/-5.52682/-0.380207
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.addTemplate gaspumptow_ladder_8m
+ObjectTemplate.setPosition 0.833455/0.289957/-1.55563
+ObjectTemplate.addTemplate gaspumptow_ladder_4_5m
+ObjectTemplate.setPosition -0.919781/-9.45421/-2.4215
+ObjectTemplate.setRotation 90/0/0
+rem -------------------------------------
+

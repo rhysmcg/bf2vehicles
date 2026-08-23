@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqlbj6hlpnc6t"
+path="res://.godot/imported/wake_tile.dds-be591eeffc33cbbbc7be5fdb15d18a60.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/wake_tile.dds"
+dest_files=["res://.godot/imported/wake_tile.dds-be591eeffc33cbbbc7be5fdb15d18a60.res"]
+
+[params]
+
+mipmaps/generate=true

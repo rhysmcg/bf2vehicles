@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh temple_02
+
+ObjectTemplate.create SimpleObject temple_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MNY-1:mny
+ObjectTemplate.geometry temple_02
+ObjectTemplate.anchor -35.6163/-8.2925/19.4603
+
+include temple_02.tweak

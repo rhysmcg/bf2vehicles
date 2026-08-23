@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh basket_coart
+
+ObjectTemplate.create SimpleObject basket_coart
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh basket_coart
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry basket_coart
+ObjectTemplate.anchor 9.5000/0/-7.0000
+
+include basket_coart.tweak

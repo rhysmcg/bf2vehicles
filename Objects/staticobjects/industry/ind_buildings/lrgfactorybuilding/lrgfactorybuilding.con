@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh lrgfactorybuilding
+CollisionManager.createTemplate lrgfactorybuilding
+
+ObjectTemplate.create SimpleObject lrgfactorybuilding
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh lrgfactorybuilding
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.mapMaterial 3 Stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry lrgfactorybuilding
+ObjectTemplate.anchor -13.4925/-23.0334/22.4388
+
+include lrgfactorybuilding.tweak

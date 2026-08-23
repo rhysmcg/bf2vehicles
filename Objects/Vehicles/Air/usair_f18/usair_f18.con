@@ -1,0 +1,219 @@
+GeometryTemplate.create BundledMesh usair_f18
+CollisionManager.createTemplate usair_f18
+
+ObjectTemplate.create PlayerControlObject usair_f18
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh usair_f18
+ObjectTemplate.mapMaterial 0 Airplane 0
+ObjectTemplate.mapMaterial 1 glass1 0
+ObjectTemplate.mapMaterial 2 lambert1 0
+ObjectTemplate.mapMaterial 3 wreck1 0
+ObjectTemplate.mapMaterial 4 Rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry usair_f18
+ObjectTemplate.addTemplate USAIR_F18_Fgear_Middle_Hatch
+ObjectTemplate.setPosition 0/-0.3637/2.9750
+ObjectTemplate.setRotation 0/21.5000/0
+ObjectTemplate.addTemplate USAIR_F18_FGear
+ObjectTemplate.setPosition 0.0016/-0.0852/4.6961
+ObjectTemplate.addTemplate USAIR_F18_RGear
+ObjectTemplate.setPosition 0.4508/0.1574/-0.0277
+ObjectTemplate.addTemplate USAIR_F18_LGear
+ObjectTemplate.setPosition -0.4508/0.1574/-0.0277
+ObjectTemplate.addTemplate USAIR_F18_R_elevator
+ObjectTemplate.setPosition 1.0295/0.2056/-5.1602
+ObjectTemplate.addTemplate USAIR_F18_R_BackFlaps02
+ObjectTemplate.setPosition 4.7275/0.3641/-1.9856
+ObjectTemplate.setRotation 4.4451/0.2898/-3.7222
+ObjectTemplate.addTemplate USAIR_F18_Rgear_R_Hatch
+ObjectTemplate.setPosition 0.9392/-0.4391/-1.6088
+ObjectTemplate.setRotation 0/0/90.0000
+ObjectTemplate.addTemplate USAIR_F18_Rgear_L_Hatch
+ObjectTemplate.setPosition 0.2337/-0.4386/-0.9959
+ObjectTemplate.setRotation 0/0/-90.0000
+ObjectTemplate.addTemplate USAIR_F18_Fgear_L_Hatch
+ObjectTemplate.setPosition -0.2776/-0.2926/5.9329
+ObjectTemplate.setRotation 0/0/-90.0000
+ObjectTemplate.addTemplate USAIR_F18__L_elevator
+ObjectTemplate.setPosition -1.0295/0.2056/-5.1602
+ObjectTemplate.addTemplate USAIR_F18_L_BackFlaps02
+ObjectTemplate.setPosition -4.7275/0.3641/-1.9856
+ObjectTemplate.setRotation -4.3266/0.2591/3.4202
+ObjectTemplate.addTemplate USAIR_F18_L_rudder
+ObjectTemplate.setPosition -1.1295/1.4855/-4.2406
+ObjectTemplate.setRotation -5.1874/-16.2115/-72.0375
+ObjectTemplate.addTemplate USAIR_F18_Lgear_L_Hatch
+ObjectTemplate.setPosition -0.9392/-0.4391/-1.6088
+ObjectTemplate.setRotation 0/0/-90.0000
+ObjectTemplate.addTemplate USAIR_F18_Lgear_R_Hatch
+ObjectTemplate.setPosition -0.2337/-0.4386/-0.9959
+ObjectTemplate.setRotation 0/0/90.0000
+ObjectTemplate.addTemplate USAIR_F18_Fgear_R_Hatch
+ObjectTemplate.setPosition 0.2776/-0.2926/5.9329
+ObjectTemplate.setRotation 0/0/90.0000
+ObjectTemplate.addTemplate USAIR_F18_F_Hatch02
+ObjectTemplate.setPosition 0.1455/-0.3304/4.9499
+ObjectTemplate.setRotation 0/0/90.0000
+ObjectTemplate.addTemplate USAIR_F18_R_rudder
+ObjectTemplate.setPosition 1.1322/1.4895/-4.2406
+ObjectTemplate.setRotation 5.0671/-16.2487/-107.7541
+
+ObjectTemplate.create LandingGear USAIR_F18_Fgear_Middle_Hatch
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create LandingGear USAIR_F18_FGear
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate USAIR_F18_FGear_Rot
+ObjectTemplate.setPosition 0/-0.6280/0.0205
+
+ObjectTemplate.create RotationalBundle USAIR_F18_FGear_Rot
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate USAIR_F18_Fwheel
+ObjectTemplate.setPosition -0.0016/-0.6504/0.0131
+
+ObjectTemplate.create Spring USAIR_F18_Fwheel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create LandingGear USAIR_F18_RGear
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate USAIR_F18_Rwheel
+ObjectTemplate.setPosition 0.4970/-1.5420/-0.8848
+
+ObjectTemplate.create Spring USAIR_F18_Rwheel
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create LandingGear USAIR_F18_LGear
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+ObjectTemplate.addTemplate USAIR_F18_Lwheel
+ObjectTemplate.setPosition -0.4970/-1.5420/-0.8848
+
+ObjectTemplate.create Spring USAIR_F18_Lwheel
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Wing USAIR_F18_R_elevator
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create Wing USAIR_F18_R_BackFlaps02
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create LandingGear USAIR_F18_Rgear_R_Hatch
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create LandingGear USAIR_F18_Rgear_L_Hatch
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create LandingGear USAIR_F18_Fgear_L_Hatch
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Wing USAIR_F18__L_elevator
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Wing USAIR_F18_L_BackFlaps02
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create Wing USAIR_F18_L_rudder
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create LandingGear USAIR_F18_Lgear_L_Hatch
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create LandingGear USAIR_F18_Lgear_R_Hatch
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create LandingGear USAIR_F18_Fgear_R_Hatch
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create LandingGear USAIR_F18_F_Hatch02
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+ObjectTemplate.create Wing USAIR_F18_R_rudder
+ObjectTemplate.collisionPart 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 21
+
+include usair_f18.tweak

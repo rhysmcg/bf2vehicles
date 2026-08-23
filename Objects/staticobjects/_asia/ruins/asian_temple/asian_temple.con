@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh asian_temple
+
+ObjectTemplate.create SimpleObject asian_temple
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh asian_temple
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry asian_temple
+ObjectTemplate.anchor -27.1101/-11.4491/25.8141
+
+include asian_temple.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdykawv6mnedm"
+path="res://.godot/imported/anim_smoketrail2.dds-66e773bebd0911994fddbc8124a4ca28.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_smoketrail2.dds"
+dest_files=["res://.godot/imported/anim_smoketrail2.dds-66e773bebd0911994fddbc8124a4ca28.res"]
+
+[params]
+
+mipmaps/generate=true

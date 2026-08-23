@@ -1,0 +1,95 @@
+GeometryTemplate.create BundledMesh the_mi17
+CollisionManager.createTemplate the_mi17
+
+ObjectTemplate.create PlayerControlObject the_mi17
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh the_mi17
+ObjectTemplate.mapMaterial 0 heliarmour 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 wreck 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 amobox_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry the_mi17
+ObjectTemplate.addTemplate The_mi17_RWheel
+ObjectTemplate.setPosition 2.3561/-2.6258/-0.9409
+ObjectTemplate.addTemplate The_mi17_LWheel
+ObjectTemplate.setPosition -2.3412/-2.6258/-0.9409
+ObjectTemplate.addTemplate The_mi17_FWheel
+ObjectTemplate.setPosition 0.0113/-2.8224/3.3489
+ObjectTemplate.addTemplate The_mi17_LLavett_CupolaBase
+ObjectTemplate.setPosition -1.5500/-1.0983/2.8653
+ObjectTemplate.addTemplate The_mi17_RLavett_CupolaBase
+ObjectTemplate.setPosition 1.5635/-1.0983/2.8952
+
+ObjectTemplate.create Spring The_mi17_RWheel
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Spring The_mi17_LWheel
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Spring The_mi17_FWheel
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create PlayerControlObject The_mi17_LLavett_CupolaBase
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+ObjectTemplate.addTemplate The_mi17_LLavett_Cupola
+ObjectTemplate.setPosition 0/-0.0230/0.0114
+
+ObjectTemplate.create RotationalBundle The_mi17_LLavett_Cupola
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate The_mi17_LLavett_Gunmount
+ObjectTemplate.setPosition 0/0.0360/-0.0535
+ObjectTemplate.setRotation -89.9728/0/0
+
+ObjectTemplate.create RotationalBundle The_mi17_LLavett_Gunmount
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create PlayerControlObject The_mi17_RLavett_CupolaBase
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+ObjectTemplate.addTemplate The_mi17_RLavett_Cupola
+ObjectTemplate.setPosition 0/-0.0230/0.0025
+
+ObjectTemplate.create RotationalBundle The_mi17_RLavett_Cupola
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+ObjectTemplate.addTemplate The_mi17_RLavett_Gunmount
+ObjectTemplate.setPosition 0.0045/0.0353/-0.0569
+ObjectTemplate.setRotation 90.0470/0/0
+
+ObjectTemplate.create RotationalBundle The_mi17_RLavett_Gunmount
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+include the_mi17.tweak

@@ -1,0 +1,13 @@
+CollisionManager.createTemplate nc_pine_cluster02
+
+ObjectTemplate.create SimpleObject nc_pine_cluster02_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_pine_cluster02
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0.7135/-5.3842/0
+
+include nc_pine_cluster02_col.tweak

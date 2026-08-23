@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2_staticmesh_importer"
+type="PackedScene"
+uid="uid://df2lpto6p1lp5"
+path="res://.godot/imported/div_citybrdgsloop_small.staticmesh-042d56127a96e990b152214e5f5a84e9.tscn"
+
+[deps]
+
+source_file="res://meshes/bridge/div_citybrdgsloop_small.staticmesh"
+dest_files=["res://.godot/imported/div_citybrdgsloop_small.staticmesh-042d56127a96e990b152214e5f5a84e9.tscn"]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://sjkeaqy0seta"
+path="res://.godot/imported/air_j10_b.dds-b4273a4000a798fd2b0b81ec513fe843.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_j10/textures/air_j10_b.dds"
+dest_files=["res://.godot/imported/air_j10_b.dds-b4273a4000a798fd2b0b81ec513fe843.res"]
+
+[params]
+
+mipmaps/generate=true

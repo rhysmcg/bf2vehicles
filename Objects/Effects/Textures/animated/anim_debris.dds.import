@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dnu3prygrdyec"
+path="res://.godot/imported/anim_debris.dds-d6fefe1f7bddb2595759b5a5835da3e0.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_debris.dds"
+dest_files=["res://.godot/imported/anim_debris.dds-d6fefe1f7bddb2595759b5a5835da3e0.res"]
+
+[params]
+
+mipmaps/generate=true

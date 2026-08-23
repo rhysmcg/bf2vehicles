@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b32ig75khqnei"
+path="res://.godot/imported/ussni_m95_barret_mini.dds-7aa148ddd3cbd23aeaa3e2dd99572665.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M95_Barret/textures/ussni_m95_barret_mini.dds"
+dest_files=["res://.godot/imported/ussni_m95_barret_mini.dds-7aa148ddd3cbd23aeaa3e2dd99572665.res"]
+
+[params]
+
+mipmaps/generate=true

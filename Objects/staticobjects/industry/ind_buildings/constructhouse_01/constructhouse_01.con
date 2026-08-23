@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh constructhouse_01
+CollisionManager.createTemplate constructhouse_01
+
+ObjectTemplate.create Bundle constructhouse_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh constructhouse_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 glass 0
+ObjectTemplate.mapMaterial 4 penetrable_wood 0
+ObjectTemplate.mapMaterial 5 plastic 0
+ObjectTemplate.mapMaterial 6 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry constructhouse_01
+ObjectTemplate.anchor 0/-6.2214/0
+
+include constructhouse_01.tweak

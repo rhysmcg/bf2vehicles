@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh ch_house_02_signs
+CollisionManager.createTemplate ch_house_02_signs
+
+ObjectTemplate.create SimpleObject ch_house_02_signs
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh ch_house_02_signs
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Cardboard_box 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Cloth_carpet 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_02_signs
+ObjectTemplate.anchor -1.0932/-3.2893/-6.3890
+
+include ch_house_02_signs.tweak

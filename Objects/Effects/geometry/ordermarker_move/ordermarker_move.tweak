@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/3/23 10:21]
+ObjectTemplate.active ordermarker_move
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.castsDynamicShadow 1
+ObjectTemplate.geometry hgr_smoke
+ObjectTemplate.collisionMesh ../../../../weapons/handheld/HGR_Smoke/meshes/hgr_smoke
+ObjectTemplate.mapMaterial 0 metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.collisionGroups 16
+rem -------------------------------------
+ObjectTemplate.addTemplate e_marker_move
+ObjectTemplate.setPosition -0.0303707/0.0773687/0
+rem -------------------------------------
+

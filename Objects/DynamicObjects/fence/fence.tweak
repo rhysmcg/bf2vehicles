@@ -1,0 +1,32 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/13 13:54]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject fence
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 20
+ObjectTemplate.armor.hitPoints 20
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.wreckHitPoints 20
+ObjectTemplate.armor.timeToStayAsWreck 1000
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_fence 0/0/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 0 e_fence_sound 0/1/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry fence
+ObjectTemplate.setCollisionMesh Fence
+ObjectTemplate.mapMaterial 0 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 1 Wood_solid 15
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.respawnDelay 90
+ObjectTemplate.aiTemplate fence
+ObjectTemplate.usedByAi 1
+ObjectTemplate.initiallyWalkable 0
+ObjectTemplate.minCorner -2.8/-1.6/-1
+ObjectTemplate.maxCorner 2.8/1.6/1
+

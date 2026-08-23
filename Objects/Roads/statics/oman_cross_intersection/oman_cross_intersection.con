@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh oman_cross_intersection
+
+ObjectTemplate.create SimpleObject oman_cross_intersection
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry oman_cross_intersection
+ObjectTemplate.anchor -5.0000/0/10.0000
+
+include oman_cross_intersection.tweak

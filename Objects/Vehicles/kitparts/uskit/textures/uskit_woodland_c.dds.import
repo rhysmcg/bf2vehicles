@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ddxuwthpnrarx"
+path="res://.godot/imported/uskit_woodland_c.dds-7406be405289eaa2842ab8115b30ef20.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/kitparts/uskit/textures/uskit_woodland_c.dds"
+dest_files=["res://.godot/imported/uskit_woodland_c.dds-7406be405289eaa2842ab8115b30ef20.res"]
+
+[params]
+
+mipmaps/generate=true

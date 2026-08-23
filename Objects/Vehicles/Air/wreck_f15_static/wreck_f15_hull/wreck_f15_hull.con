@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wreck_f15_hull
+CollisionManager.createTemplate wreck_f15_hull
+
+ObjectTemplate.create SimpleObject wreck_f15_hull
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh wreck_f15_hull
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_f15_hull
+
+include wreck_f15_hull.tweak

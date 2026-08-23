@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_interchange_fence_02
+CollisionManager.createTemplate xp2_interchange_fence_02
+
+ObjectTemplate.create SimpleObject xp2_interchange_fence_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.collisionMesh xp2_interchange_fence_02
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Chicken_wire_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_interchange_fence_02
+ObjectTemplate.anchor -25.1867/-11.5642/8.4833
+
+include xp2_interchange_fence_02.tweak

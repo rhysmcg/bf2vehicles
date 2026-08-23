@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cm2f62jfho2fr"
+path="res://.godot/imported/t90hud_b.dds-49e062b086c00bf84390fef5a7177f87.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/RUTNK_T90/textures/t90hud_b.dds"
+dest_files=["res://.godot/imported/t90hud_b.dds-49e062b086c00bf84390fef5a7177f87.res"]
+
+[params]
+
+mipmaps/generate=true

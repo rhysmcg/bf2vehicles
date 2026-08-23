@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh fence_corrugated_3x12m_corner_01
+CollisionManager.createTemplate fence_corrugated_3x12m_corner_01
+
+ObjectTemplate.create SimpleObject fence_corrugated_3x12m_corner_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh fence_corrugated_3x12m_corner_01
+ObjectTemplate.mapMaterial 0 Metal_thin 0
+ObjectTemplate.mapMaterial 1 Metal_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fence_corrugated_3x12m_corner_01
+ObjectTemplate.anchor 0.0813/-1.4054/0.1681
+
+include fence_corrugated_3x12m_corner_01.tweak

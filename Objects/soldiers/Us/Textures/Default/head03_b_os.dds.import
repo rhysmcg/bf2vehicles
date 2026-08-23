@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://be2lnmrsngp7r"
+path="res://.godot/imported/head03_b_os.dds-7ee9ddef22010d805ea3de110916db18.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Textures/Default/head03_b_os.dds"
+dest_files=["res://.godot/imported/head03_b_os.dds-7ee9ddef22010d805ea3de110916db18.res"]
+
+[params]
+
+mipmaps/generate=true

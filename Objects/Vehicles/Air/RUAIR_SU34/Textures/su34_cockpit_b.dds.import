@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b8clvjly0m48v"
+path="res://.godot/imported/su34_cockpit_b.dds-994518ec3f7a64ff1eada1534d1e5f3e.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/RUAIR_SU34/Textures/su34_cockpit_b.dds"
+dest_files=["res://.godot/imported/su34_cockpit_b.dds-994518ec3f7a64ff1eada1534d1e5f3e.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d1ymwf3u3uv7o"
+path="res://.godot/imported/glow_shit.dds-af209b33f272e9d9ba82b473a66c52dd.res"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glow_shit.dds"
+dest_files=["res://.godot/imported/glow_shit.dds-af209b33f272e9d9ba82b473a66c52dd.res"]
+
+[params]
+
+mipmaps/generate=true

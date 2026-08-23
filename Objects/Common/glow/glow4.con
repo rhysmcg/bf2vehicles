@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh glow4
+CollisionManager.createTemplate glow4
+
+ObjectTemplate.create Bundle glow4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator THO-1:tho
+rem ObjectTemplate.collisionMesh glow4
+ObjectTemplate.mapMaterial 0 glow 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry glow4
+
+include glow4.tweak

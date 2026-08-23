@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_d30_shield
+CollisionManager.createTemplate p_wreck_d30_shield
+
+ObjectTemplate.create Particle p_wreck_d30_shield
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_d30_shield
+ObjectTemplate.mapMaterial 0 Lightarmourvehicle 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_d30_shield
+
+include p_wreck_d30_shield.tweak

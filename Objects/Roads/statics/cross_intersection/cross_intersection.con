@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh cross_intersection
+
+ObjectTemplate.create SimpleObject cross_intersection
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry cross_intersection
+ObjectTemplate.anchor 10.0000/0/5.0000
+
+include cross_intersection.tweak

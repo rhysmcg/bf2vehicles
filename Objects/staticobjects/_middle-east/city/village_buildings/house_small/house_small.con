@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh house_small
+CollisionManager.createTemplate house_small
+
+ObjectTemplate.create SimpleObject house_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh house_small
+ObjectTemplate.mapMaterial 0 stones 0
+ObjectTemplate.mapMaterial 1 wood_Solid 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.mapMaterial 3 Penetrable_Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_small
+ObjectTemplate.anchor 0/-1.9564/0
+
+include house_small.tweak

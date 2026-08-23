@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c5aokiwb3qd61"
+path="res://.godot/imported/mec_sniper_b.dds-42cf1efafb8aaed0cbb5b24c610348fb.res"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/textures/mec_sniper_b.dds"
+dest_files=["res://.godot/imported/mec_sniper_b.dds-42cf1efafb8aaed0cbb5b24c610348fb.res"]
+
+[params]
+
+mipmaps/generate=true

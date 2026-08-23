@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_interchange_01
+CollisionManager.createTemplate xp2_interchange_01
+
+ObjectTemplate.create SimpleObject xp2_interchange_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_interchange_01
+ObjectTemplate.mapMaterial 0 xp2_interchange_01_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_interchange_01
+ObjectTemplate.anchor -115.9600/-2.0030/-116.6220
+
+include xp2_interchange_01.tweak

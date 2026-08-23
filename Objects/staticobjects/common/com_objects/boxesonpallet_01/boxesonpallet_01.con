@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh boxesonpallet_01
+CollisionManager.createTemplate boxesonpallet_01
+
+ObjectTemplate.create SimpleObject boxesonpallet_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh boxesonpallet_01
+ObjectTemplate.mapMaterial 0 cardboard 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry boxesonpallet_01
+ObjectTemplate.anchor 0/-1.2494/0.0221
+
+include boxesonpallet_01.tweak

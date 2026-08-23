@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Fall_Road_GreatWall
+ObjectTemplate.create SimpleObject Fall_Road_GreatWall
+ObjectTemplate.geometry Fall_Road_GreatWall

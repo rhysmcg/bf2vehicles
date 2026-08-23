@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_su39_tailfin
+CollisionManager.createTemplate p_su39_tailfin
+
+ObjectTemplate.create Particle p_su39_tailfin
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_su39_tailfin
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_su39_tailfin
+
+include p_su39_tailfin.tweak

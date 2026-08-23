@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bxxwoyekbsy8p"
+path="res://.godot/imported/xpak2_fantan_c.dds-f2b56fa128f757300c8d644ffd3af1c2.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_fantan/textures/xpak2_fantan_c.dds"
+dest_files=["res://.godot/imported/xpak2_fantan_c.dds-f2b56fa128f757300c8d644ffd3af1c2.res"]
+
+[params]
+
+mipmaps/generate=true

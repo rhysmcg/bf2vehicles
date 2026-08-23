@@ -1,0 +1,4 @@
+ObjectTemplate.active WoodBoard2m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.mass 1
+ObjectTemplate.hasMobilePhysics 1

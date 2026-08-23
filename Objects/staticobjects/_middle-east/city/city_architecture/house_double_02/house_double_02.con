@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh house_double_02
+CollisionManager.createTemplate house_double_02
+
+ObjectTemplate.create Bundle house_double_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_double_02
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.mapMaterial 2 cloth 0
+ObjectTemplate.mapMaterial 3 glass_common_ 0
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 5 Tarmac 0
+ObjectTemplate.mapMaterial 6 penetrable_metal 0
+ObjectTemplate.mapMaterial 7 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_double_02
+
+include house_double_02.tweak

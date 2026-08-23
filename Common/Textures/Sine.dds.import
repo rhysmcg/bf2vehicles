@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cfeda36aus7p7"
+path="res://.godot/imported/Sine.dds-33df03bfa744752b066de0bb59fc5f85.res"
+
+[deps]
+
+source_file="res://Common/Textures/Sine.dds"
+dest_files=["res://.godot/imported/Sine.dds-33df03bfa744752b066de0bb59fc5f85.res"]
+
+[params]
+
+mipmaps/generate=true

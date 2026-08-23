@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ub8q06h3gwk8"
+path="res://.godot/imported/stoneroad.dds-0517da9462620d8dd1715a71e4d62c4e.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/stoneroad.dds"
+dest_files=["res://.godot/imported/stoneroad.dds-0517da9462620d8dd1715a71e4d62c4e.res"]
+
+[params]
+
+mipmaps/generate=true

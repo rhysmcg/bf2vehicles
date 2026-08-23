@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dtji05i5xhofl"
+path="res://.godot/imported/common_damage_01_di.dds-56ad053aae07c015135a74873b84b8ad.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_damage_01_di.dds"
+dest_files=["res://.godot/imported/common_damage_01_di.dds-56ad053aae07c015135a74873b84b8ad.res"]
+
+[params]
+
+mipmaps/generate=true

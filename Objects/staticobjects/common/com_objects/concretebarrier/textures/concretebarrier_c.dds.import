@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dmlwem6gnb7yp"
+path="res://.godot/imported/concretebarrier_c.dds-164523b2e0b736017370c0da8fd508da.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/concretebarrier/textures/concretebarrier_c.dds"
+dest_files=["res://.godot/imported/concretebarrier_c.dds-164523b2e0b736017370c0da8fd508da.res"]
+
+[params]
+
+mipmaps/generate=true

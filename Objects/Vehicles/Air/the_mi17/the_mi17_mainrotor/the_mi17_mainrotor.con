@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh the_mi17_mainrotor
+CollisionManager.createTemplate the_mi17_mainrotor
+
+ObjectTemplate.create Rotor the_mi17_mainrotor
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh the_mi17_mainrotor
+ObjectTemplate.mapMaterial 0 rotor 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry the_mi17_mainrotor
+
+include the_mi17_mainrotor.tweak

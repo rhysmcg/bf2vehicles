@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_roadmarker
+ObjectTemplate.createdInEditor 1
+
+include p_roadmarker.tweak

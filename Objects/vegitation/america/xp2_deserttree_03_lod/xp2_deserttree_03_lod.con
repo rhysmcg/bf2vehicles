@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh xp2_deserttree_03_lod
+
+ObjectTemplate.create SimpleObject xp2_deserttree_03_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.geometry xp2_deserttree_03_lod
+
+include xp2_deserttree_03_lod.tweak

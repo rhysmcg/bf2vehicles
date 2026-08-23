@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cmh7yqyvtcq05"
+path="res://.godot/imported/hydra_c.dds-afecf21890d8679959350854ca6c6826.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/hydra_c.dds"
+dest_files=["res://.godot/imported/hydra_c.dds-afecf21890d8679959350854ca6c6826.res"]
+
+[params]
+
+mipmaps/generate=true

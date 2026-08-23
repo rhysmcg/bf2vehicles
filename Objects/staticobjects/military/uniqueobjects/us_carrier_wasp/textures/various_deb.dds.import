@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dag6qpi4xfcvp"
+path="res://.godot/imported/various_deb.dds-69bafb312c205b9a6fc2651f74501cbe.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/textures/various_deb.dds"
+dest_files=["res://.godot/imported/various_deb.dds-69bafb312c205b9a6fc2651f74501cbe.res"]
+
+[params]
+
+mipmaps/generate=true

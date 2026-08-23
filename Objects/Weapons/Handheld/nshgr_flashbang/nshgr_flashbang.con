@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh nshgr_flashbang
+CollisionManager.createTemplate nshgr_flashbang
+
+ObjectTemplate.create GenericFireArm nshgr_flashbang
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RICK:rickgi
+ObjectTemplate.collisionMesh nshgr_flashbang
+ObjectTemplate.mapMaterial 0 cgfxShader1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry nshgr_flashbang
+
+include nshgr_flashbang.tweak

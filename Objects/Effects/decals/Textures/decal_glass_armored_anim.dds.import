@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b80ldchgdeka0"
+path="res://.godot/imported/decal_glass_armored_anim.dds-0ed60e2ebd35ae163e8c2acd346ffea3.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_glass_armored_anim.dds"
+dest_files=["res://.godot/imported/decal_glass_armored_anim.dds-0ed60e2ebd35ae163e8c2acd346ffea3.res"]
+
+[params]
+
+mipmaps/generate=true

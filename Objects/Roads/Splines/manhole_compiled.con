@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled manhole
+ObjectTemplate.create SimpleObject manhole
+ObjectTemplate.geometry manhole

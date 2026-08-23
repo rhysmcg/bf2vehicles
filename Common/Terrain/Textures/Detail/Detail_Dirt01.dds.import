@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://csmqy526o35n0"
+path="res://.godot/imported/Detail_Dirt01.dds-58da667cc482bae1797933ad5a30cfa5.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Dirt01.dds"
+dest_files=["res://.godot/imported/Detail_Dirt01.dds-58da667cc482bae1797933ad5a30cfa5.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_house_small_ruin
+ObjectTemplate.creator MIKEC:mikeca
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_house_small_ruin
+ObjectTemplate.setCollisionMesh xp2_house_small_ruin
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 wood_Solid 15
+ObjectTemplate.mapMaterial 2 Metal_thin 20
+ObjectTemplate.mapMaterial 3 stair 35
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

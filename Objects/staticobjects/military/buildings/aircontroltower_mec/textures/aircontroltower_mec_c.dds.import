@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://co2evw56l2d2l"
+path="res://.godot/imported/aircontroltower_mec_c.dds-34a6ccaab3533e34ac4434c0ec483fdb.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/aircontroltower_mec/textures/aircontroltower_mec_c.dds"
+dest_files=["res://.godot/imported/aircontroltower_mec_c.dds-34a6ccaab3533e34ac4434c0ec483fdb.res"]
+
+[params]
+
+mipmaps/generate=true

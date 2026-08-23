@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh gaspumptow_ladder_4m
+CollisionManager.createTemplate gaspumptow_ladder_4m
+
+ObjectTemplate.create Ladder gaspumptow_ladder_4m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh gaspumptow_ladder_4m
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gaspumptow_ladder_4m
+ObjectTemplate.anchor 0/1.8703/0.2681
+
+include gaspumptow_ladder_4m.tweak

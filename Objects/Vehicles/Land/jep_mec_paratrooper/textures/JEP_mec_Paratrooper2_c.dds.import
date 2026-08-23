@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d071dutsjbb6j"
+path="res://.godot/imported/JEP_mec_Paratrooper2_c.dds-0e95cebfabd07b3959a3ab6d3f797eae.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_mec_paratrooper/textures/JEP_mec_Paratrooper2_c.dds"
+dest_files=["res://.godot/imported/JEP_mec_Paratrooper2_c.dds-0e95cebfabd07b3959a3ab6d3f797eae.res"]
+
+[params]
+
+mipmaps/generate=true

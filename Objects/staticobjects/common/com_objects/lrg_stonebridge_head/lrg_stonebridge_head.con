@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh lrg_stonebridge_head
+CollisionManager.createTemplate lrg_stonebridge_head
+
+ObjectTemplate.create SimpleObject lrg_stonebridge_head
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh lrg_stonebridge_head
+ObjectTemplate.mapMaterial 0 stone 0
+ObjectTemplate.mapMaterial 1 tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry lrg_stonebridge_head
+ObjectTemplate.anchor -5.0000/4.7666/1.1727
+
+include lrg_stonebridge_head.tweak

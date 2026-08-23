@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject ind_powerstation_02
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ind_powerstation_02
+ObjectTemplate.setCollisionMesh ind_powerstation_02
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.mapMaterial 2 metal_thin 20
+ObjectTemplate.mapMaterial 3 wood_thin 14
+ObjectTemplate.mapMaterial 4 cable 11
+ObjectTemplate.mapMaterial 5 cable 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

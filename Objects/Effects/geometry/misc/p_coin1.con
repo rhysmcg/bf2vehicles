@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_coin1
+CollisionManager.createTemplate p_coin1
+
+ObjectTemplate.create Particle p_coin1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh p_coin1
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_coin1
+
+include p_coin1.tweak

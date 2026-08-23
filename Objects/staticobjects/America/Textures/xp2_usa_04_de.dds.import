@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://brqepsa3gal2j"
+path="res://.godot/imported/xp2_usa_04_de.dds-dc26d6462b478d37bda75e0a1f06aaf7.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/Textures/xp2_usa_04_de.dds"
+dest_files=["res://.godot/imported/xp2_usa_04_de.dds-dc26d6462b478d37bda75e0a1f06aaf7.res"]
+
+[params]
+
+mipmaps/generate=true

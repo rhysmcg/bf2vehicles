@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdddlf68pi25i"
+path="res://.godot/imported/leaf_medrybush01de_lod.dds-bf3b2912bd462f6effe28c405632fb2c.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_medrybush01de_lod.dds"
+dest_files=["res://.godot/imported/leaf_medrybush01de_lod.dds-bf3b2912bd462f6effe28c405632fb2c.res"]
+
+[params]
+
+mipmaps/generate=true

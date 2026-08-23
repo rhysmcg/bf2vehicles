@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh silo_building
+
+ObjectTemplate.create SimpleObject silo_building
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh silo_building
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry silo_building
+ObjectTemplate.anchor 0/-10.4322/0
+
+include silo_building.tweak

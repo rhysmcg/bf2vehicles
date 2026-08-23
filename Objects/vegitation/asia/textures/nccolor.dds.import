@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dg4ifbk3b4bj4"
+path="res://.godot/imported/nccolor.dds-b07e69bdaba2f0a02d46987788d09a69.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/nccolor.dds"
+dest_files=["res://.godot/imported/nccolor.dds-b07e69bdaba2f0a02d46987788d09a69.res"]
+
+[params]
+
+mipmaps/generate=true

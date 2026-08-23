@@ -1,0 +1,13 @@
+[gd_resource type="ShaderMaterial" load_steps=5 format=3 uid="uid://cqq5eudrqnihw"]
+
+[ext_resource type="Shader" uid="uid://d2ocrgnfomheu" path="res://shaders/BaseDetailCrackNDetailNCrack.gdshader" id="1_a2l13"]
+[ext_resource type="Texture2D" uid="uid://dhja21y0bovfp" path="res://objects/staticobjects/common/textures/common_02_c.dds" id="2_stgy2"]
+[ext_resource type="Texture2D" uid="uid://bwfg7a57vfj0y" path="res://objects/staticobjects/_middle-east/city/textures/mecity_01_cr.dds" id="3_b2doh"]
+[ext_resource type="Texture2D" uid="uid://c5v85j6p3hs4v" path="res://objects/staticobjects/_middle-east/city/textures/mecity_01_de.dds" id="4_8y68i"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_a2l13")
+shader_parameter/BaseTexture = ExtResource("2_stgy2")
+shader_parameter/DetailTexture = ExtResource("4_8y68i")
+shader_parameter/CrackTexture = ExtResource("3_b2doh")

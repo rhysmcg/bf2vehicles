@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/20 0:17]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject military_container
+ObjectTemplate.creator DFR-2:dfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry military_container
+ObjectTemplate.setCollisionMesh military_container
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

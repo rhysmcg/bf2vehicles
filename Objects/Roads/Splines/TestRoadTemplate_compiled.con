@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled TestRoadTemplate
+ObjectTemplate.create SimpleObject TestRoadTemplate
+ObjectTemplate.geometry TestRoadTemplate

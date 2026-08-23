@@ -1,0 +1,29 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/18 17:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 75
+GeometryTemplate.setSubGeometryLodDistance 0 2 85
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle train_cargowag_01_closed
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry train_cargowag_01_closed
+ObjectTemplate.setCollisionMesh train_cargowag_01_closed
+ObjectTemplate.mapMaterial 0 metall_plate_thin 20
+ObjectTemplate.mapMaterial 1 metall_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate train_cargowag_01_ladder
+ObjectTemplate.setPosition -1.62319/0.470424/-8.08041
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate train_cargowag_01_ladder
+ObjectTemplate.setPosition 1.62294/0.454938/7.96242
+ObjectTemplate.setRotation -90/0/0
+rem -------------------------------------
+

@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh dam_bottom
+CollisionManager.createTemplate dam_bottom
+
+ObjectTemplate.create SimpleObject dam_bottom
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh dam_bottom
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 stairs_conrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_bottom
+ObjectTemplate.anchor 0/-13.0160/40.7010
+
+include dam_bottom.tweak

@@ -1,0 +1,254 @@
+GeometryTemplate.create BundledMesh ruair_su34
+CollisionManager.createTemplate ruair_su34
+
+ObjectTemplate.create PlayerControlObject ruair_su34
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh ruair_su34
+ObjectTemplate.mapMaterial 0 airplane 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 wreck 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.mapMaterial 4 colormapgloss 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry ruair_su34
+ObjectTemplate.addTemplate RUAIR_SU34_FGear
+ObjectTemplate.setPosition 0/-0.1344/6.0962
+ObjectTemplate.setRotation 0/0.1098/0
+ObjectTemplate.addTemplate RUAIR_SU34_RearWheels
+ObjectTemplate.setPosition 0/0.1054/-1.0655
+ObjectTemplate.addTemplate RUAIR_SU34_FlapL
+ObjectTemplate.setPosition -5.9811/0.6288/-3.5198
+ObjectTemplate.setRotation -22.8007/-0.6334/-1.5063
+ObjectTemplate.addTemplate RUAIR_SU34_FlapR
+ObjectTemplate.setPosition 5.9778/0.6288/-3.5140
+ObjectTemplate.setRotation 22.6431/-0.4320/1.0355
+ObjectTemplate.addTemplate RUAIR_SU34_RudderL
+ObjectTemplate.setPosition -2.0633/1.7127/-4.5430
+ObjectTemplate.setRotation 0/-14.4735/-90.0000
+ObjectTemplate.addTemplate RUAIR_SU34_RudderR
+ObjectTemplate.setPosition 2.0731/1.7567/-4.5526
+ObjectTemplate.setRotation 0/-14.3635/-90.0000
+ObjectTemplate.addTemplate RUAIR_SU34_ForwardElevatorR
+ObjectTemplate.setPosition 1.8909/0.3425/3.5813
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_ForwardElevatorL
+ObjectTemplate.setPosition -1.8938/0.3440/3.5813
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_ElevatorL
+ObjectTemplate.setPosition -2.0832/0.0322/-5.2712
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_ElevatorR
+ObjectTemplate.setPosition 2.0820/0.0602/-5.3059
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_FgearHatchB
+ObjectTemplate.setPosition -0.0014/-0.4541/7.1418
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_FgearHatchL
+ObjectTemplate.setPosition -0.4693/-0.0232/4.5408
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_FgearHatchR
+ObjectTemplate.setPosition 0.4665/-0.0232/4.5403
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_RgearHatchR
+ObjectTemplate.setPosition 2.2818/0.3087/0.0962
+ObjectTemplate.setRotation 0/2.8405/0
+ObjectTemplate.addTemplate RUAIR_SU34_LgearHatchL
+ObjectTemplate.setPosition -2.2835/0.3035/0.0935
+ObjectTemplate.setRotation 0/2.8405/0
+
+ObjectTemplate.create LandingGear RUAIR_SU34_FGear
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate RUAIR_SU34_FGear_Rot
+ObjectTemplate.setPosition 0/-1.2340/0
+
+ObjectTemplate.create RotationalBundle RUAIR_SU34_FGear_Rot
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate RUAIR_SU34_Fwheel
+ObjectTemplate.setPosition 0/-0.7511/-0.2245
+
+ObjectTemplate.create Spring RUAIR_SU34_Fwheel
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create LandingGear RUAIR_SU34_RearWheels
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+ObjectTemplate.addTemplate RUAIR_SU34_LGear
+ObjectTemplate.setPosition -1.9069/0.0040/-0.0050
+ObjectTemplate.addTemplate RUAIR_SU34_RGear
+ObjectTemplate.setPosition 1.9069/0.0040/-0.0050
+
+ObjectTemplate.create LandingGear RUAIR_SU34_LGear
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate RUAIR_SU34_LLowGear
+ObjectTemplate.setPosition 0/-1.6564/0.0186
+
+ObjectTemplate.create LandingGear RUAIR_SU34_LLowGear
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+ObjectTemplate.addTemplate RUAIR_SU34_LFrontwheel
+ObjectTemplate.setPosition -0.3677/-0.4819/0.4257
+ObjectTemplate.addTemplate RUAIR_SU34_LRearwheel
+ObjectTemplate.setPosition -0.3677/-0.4783/-0.4275
+
+ObjectTemplate.create Spring RUAIR_SU34_LFrontwheel
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Spring RUAIR_SU34_LRearwheel
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create LandingGear RUAIR_SU34_RGear
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+ObjectTemplate.addTemplate RUAIR_SU34_RLowGear
+ObjectTemplate.setPosition 0/-1.6564/0.0186
+
+ObjectTemplate.create LandingGear RUAIR_SU34_RLowGear
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+ObjectTemplate.addTemplate RUAIR_SU34_RRearwheel
+ObjectTemplate.setPosition 0.3794/-0.4783/-0.4275
+ObjectTemplate.addTemplate RUAIR_SU34_RFrontwheel
+ObjectTemplate.setPosition 0.3794/-0.4819/0.4257
+
+ObjectTemplate.create Spring RUAIR_SU34_RRearwheel
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create Spring RUAIR_SU34_RFrontwheel
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Wing RUAIR_SU34_FlapL
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Wing RUAIR_SU34_FlapR
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Wing RUAIR_SU34_RudderL
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create Wing RUAIR_SU34_RudderR
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create Wing RUAIR_SU34_ForwardElevatorR
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create Wing RUAIR_SU34_ForwardElevatorL
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create Wing RUAIR_SU34_ElevatorL
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create Wing RUAIR_SU34_ElevatorR
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+ObjectTemplate.create LandingGear RUAIR_SU34_FgearHatchB
+ObjectTemplate.collisionPart 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 21
+
+ObjectTemplate.create LandingGear RUAIR_SU34_FgearHatchL
+ObjectTemplate.collisionPart 22
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 22
+
+ObjectTemplate.create LandingGear RUAIR_SU34_FgearHatchR
+ObjectTemplate.collisionPart 23
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 23
+
+ObjectTemplate.create LandingGear RUAIR_SU34_RgearHatchR
+ObjectTemplate.collisionPart 24
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 24
+
+ObjectTemplate.create LandingGear RUAIR_SU34_LgearHatchL
+ObjectTemplate.collisionPart 25
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 25
+
+include ruair_su34.tweak

@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh ussht_jackhammer
+CollisionManager.createTemplate ussht_jackhammer
+
+ObjectTemplate.create GenericFireArm ussht_jackhammer
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.collisionMesh ussht_jackhammer
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ussht_jackhammer
+
+include ussht_jackhammer.tweak

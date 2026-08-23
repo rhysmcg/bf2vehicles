@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh container_cl_yellow
+CollisionManager.createTemplate container_cl_yellow
+
+ObjectTemplate.create SimpleObject container_cl_yellow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh container_cl_yellow
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry container_cl_yellow
+ObjectTemplate.anchor -0.0843/-0.9495/0.6854
+
+include container_cl_yellow.tweak

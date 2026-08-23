@@ -1,0 +1,6 @@
+
+ObjectTemplate.create SimpleObject vine_01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+
+include vine_01_col.tweak

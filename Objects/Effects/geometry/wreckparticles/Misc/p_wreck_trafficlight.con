@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_wreck_trafficlight
+ObjectTemplate.createdInEditor 1
+
+include p_wreck_trafficlight.tweak

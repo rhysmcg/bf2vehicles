@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://761exqhxlroo"
+path="res://.godot/imported/clothesline_b.dds-d962262bc9fe44e0da142ee3e99e3c04.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/clothesline_b.dds"
+dest_files=["res://.godot/imported/clothesline_b.dds-d962262bc9fe44e0da142ee3e99e3c04.res"]
+
+[params]
+
+mipmaps/generate=true

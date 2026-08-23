@@ -1,0 +1,5 @@
+ObjectTemplate.create TargetObject LaserPainterTarget
+ObjectTemplate.setNetworkableInfo LaserTargetInfo
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.timeToLive 1
+ObjectTemplate.targetType TTLaser

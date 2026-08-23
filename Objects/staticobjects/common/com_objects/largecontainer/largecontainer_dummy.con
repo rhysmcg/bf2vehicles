@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh largecontainer_dummy
+
+ObjectTemplate.create Bundle largecontainer_dummy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.collisionMesh LargeContainer_dummy
+ObjectTemplate.mapMaterial 0 dummyMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry largecontainer_dummy
+ObjectTemplate.anchor 0/-1.0362/0
+
+include largecontainer_dummy.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh postbox_01
+CollisionManager.createTemplate postbox_01
+
+ObjectTemplate.create SimpleObject postbox_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh postbox_01
+ObjectTemplate.mapMaterial 0 Metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry postbox_01
+ObjectTemplate.anchor 0/-0.4056/-0.1501
+
+include postbox_01.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvp1jhy8o1347"
+path="res://.godot/imported/usair_fa18_cockpit_b.dds-8edfef054185a24e7d1dc76876f9219d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f18/textures/usair_fa18_cockpit_b.dds"
+dest_files=["res://.godot/imported/usair_fa18_cockpit_b.dds-8edfef054185a24e7d1dc76876f9219d.res"]
+
+[params]
+
+mipmaps/generate=true

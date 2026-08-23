@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_sign_camel
+ObjectTemplate.createdInEditor 1
+
+include p_sign_camel.tweak

@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/9 15:15]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject wreck_btr90_hatch
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser eni
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry wreck_btr90_hatch
+ObjectTemplate.setCollisionMesh wreck_btr90_hatch
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

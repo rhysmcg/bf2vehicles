@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_amphib_bowspray
+ObjectTemplate.createdInEditor 1
+
+include e_amphib_bowspray.tweak

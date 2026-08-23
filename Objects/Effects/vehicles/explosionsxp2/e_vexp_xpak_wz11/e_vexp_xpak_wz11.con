@@ -1,0 +1,47 @@
+GeometryTemplate.create BundledMesh e_vexp_xpak_wz11
+
+ObjectTemplate.create EffectBundle e_vexp_xpak_wz11
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEFFO:jeffev
+ObjectTemplate.addTemplate xp2_CHE_WZ11_wreck
+ObjectTemplate.setPosition 0/2.6201/0
+ObjectTemplate.addTemplate xp2_CHE_WZ11_wreck2
+ObjectTemplate.addTemplate xp2_CHE_WZ11_wreck3
+
+ObjectTemplate.create Emitter xp2_CHE_WZ11_wreck
+ObjectTemplate.template p_xp2_CHE_WZ11_wreck
+
+ObjectTemplate.create Particle p_xp2_CHE_WZ11_wreck
+ObjectTemplate.collisionMesh e_vexp_xpak_wz11
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_wz11
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter xp2_CHE_WZ11_wreck2
+ObjectTemplate.template p_xp2_CHE_WZ11_wreck2
+
+ObjectTemplate.create Particle p_xp2_CHE_WZ11_wreck2
+ObjectTemplate.collisionMesh e_vexp_xpak_wz11
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_wz11
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter xp2_CHE_WZ11_wreck3
+ObjectTemplate.template p_xp2_CHE_WZ11_wreck3
+
+ObjectTemplate.create Particle p_xp2_CHE_WZ11_wreck3
+ObjectTemplate.collisionMesh e_vexp_xpak_wz11
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_wz11
+ObjectTemplate.geometryPart 2
+
+include e_vexp_xpak_wz11.tweak

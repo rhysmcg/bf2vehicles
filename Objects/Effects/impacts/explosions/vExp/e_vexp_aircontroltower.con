@@ -1,0 +1,91 @@
+GeometryTemplate.create BundledMesh e_vexp_aircontroltower
+
+ObjectTemplate.create EffectBundle e_vexp_aircontroltower
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate e_vExp_AirControlTower_Dish
+ObjectTemplate.setPosition 1.1143/4.7719/-1.7724
+ObjectTemplate.addTemplate e_vExp_AirControlTower_Pod
+ObjectTemplate.setPosition 2.4146/4.1666/-1.1155
+ObjectTemplate.addTemplate e_vExp_AirControlTower_PosLight
+ObjectTemplate.setPosition -0.8585/5.3946/-0.0020
+ObjectTemplate.addTemplate e_vExp_AirControlTower_Pole1
+ObjectTemplate.setPosition 2.4050/3.9059/-1.1170
+ObjectTemplate.addTemplate e_vExp_AirControlTower_Pole2
+ObjectTemplate.setPosition -0.8579/4.4174/-0.0048
+ObjectTemplate.addTemplate e_vExp_AirControlTower_Step
+ObjectTemplate.setPosition -0.0171/0.9589/2.2117
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_Dish
+ObjectTemplate.template p_e_vExp_AirControlTower_Dish
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_Dish
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_Pod
+ObjectTemplate.template p_e_vExp_AirControlTower_Pod
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_Pod
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_PosLight
+ObjectTemplate.template p_e_vExp_AirControlTower_PosLight
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_PosLight
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_Pole1
+ObjectTemplate.template p_e_vExp_AirControlTower_Pole1
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_Pole1
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_Pole2
+ObjectTemplate.template p_e_vExp_AirControlTower_Pole2
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_Pole2
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter e_vExp_AirControlTower_Step
+ObjectTemplate.template p_e_vExp_AirControlTower_Step
+
+ObjectTemplate.create Particle p_e_vExp_AirControlTower_Step
+ObjectTemplate.collisionMesh e_vexp_aircontroltower
+ObjectTemplate.mapMaterial 0 wreck1 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_aircontroltower
+ObjectTemplate.geometryPart 5
+
+include e_vexp_aircontroltower.tweak

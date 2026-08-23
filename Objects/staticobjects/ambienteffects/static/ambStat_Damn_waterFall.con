@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle ambStat_Damn_waterFall
+ObjectTemplate.createdInEditor 1
+
+include ambStat_Damn_waterFall.tweak

@@ -1,0 +1,87 @@
+GeometryTemplate.create BundledMesh usthe_uh60
+CollisionManager.createTemplate usthe_uh60
+
+ObjectTemplate.create PlayerControlObject usthe_uh60
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh usthe_uh60
+ObjectTemplate.mapMaterial 0 Armor_6_helicopter 0
+ObjectTemplate.mapMaterial 1 Glass_vehicle 0
+ObjectTemplate.mapMaterial 2 cloth_carpet 0
+ObjectTemplate.mapMaterial 3 penetrablemetal_thin 0
+ObjectTemplate.mapMaterial 4 cardboard 0
+ObjectTemplate.mapMaterial 5 wreck 0
+ObjectTemplate.mapMaterial 6 Rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry usthe_uh60
+ObjectTemplate.addTemplate USTHE_UH60_FWheelL
+ObjectTemplate.setPosition -1.6397/-1.1256/1.1543
+ObjectTemplate.addTemplate USTHE_UH60_FWheelR
+ObjectTemplate.setPosition 1.6345/-1.1308/1.1525
+ObjectTemplate.addTemplate USTHE_UH60_WheelB
+ObjectTemplate.setPosition 0/-1.1132/-7.7018
+ObjectTemplate.addTemplate USTHE_UH60_TailFlap
+ObjectTemplate.setPosition -0.0515/0.1944/-9.0384
+ObjectTemplate.addTemplate USTHE_UH60_MainEngine
+ObjectTemplate.setRotation 0/-90.0000/0
+ObjectTemplate.addTemplate USTHE_UH60_TailEngine
+ObjectTemplate.setPosition 0/0/-9.9943
+ObjectTemplate.setRotation -90.0000/0/0
+ObjectTemplate.addTemplate USTHE_UH60__LLavett
+ObjectTemplate.setPosition -1.3707/-0.0228/1.6489
+ObjectTemplate.addTemplate USTHE_UH60__RLavett
+ObjectTemplate.setPosition 1.3484/-0.0238/1.6387
+
+ObjectTemplate.create Spring USTHE_UH60_FWheelL
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Spring USTHE_UH60_FWheelR
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Spring USTHE_UH60_WheelB
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create RotationalBundle USTHE_UH60_TailFlap
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Engine USTHE_UH60_MainEngine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Engine USTHE_UH60_TailEngine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create RotationalBundle USTHE_UH60__LLavett
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create RotationalBundle USTHE_UH60__RLavett
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+include usthe_uh60.tweak

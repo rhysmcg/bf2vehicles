@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://durb4ycwiqlxd"
+path="res://.godot/imported/anim_flame2.dds-870880d3b9b1216ec1e24b52456661f0.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_flame2.dds"
+dest_files=["res://.godot/imported/anim_flame2.dds-870880d3b9b1216ec1e24b52456661f0.res"]
+
+[params]
+
+mipmaps/generate=true

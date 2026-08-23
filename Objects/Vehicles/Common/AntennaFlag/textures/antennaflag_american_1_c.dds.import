@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bbwakfmc6niuc"
+path="res://.godot/imported/antennaflag_american_1_c.dds-27443028277e02d346076feba342e738.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/AntennaFlag/textures/antennaflag_american_1_c.dds"
+dest_files=["res://.godot/imported/antennaflag_american_1_c.dds-27443028277e02d346076feba342e738.res"]
+
+[params]
+
+mipmaps/generate=true

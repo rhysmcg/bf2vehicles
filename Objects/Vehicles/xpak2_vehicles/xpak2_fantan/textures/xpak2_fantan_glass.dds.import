@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://nekpb1vaj3q0"
+path="res://.godot/imported/xpak2_fantan_glass.dds-ad01d9cc8aad4452a3568170a4520898.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_fantan/textures/xpak2_fantan_glass.dds"
+dest_files=["res://.godot/imported/xpak2_fantan_glass.dds-ad01d9cc8aad4452a3568170a4520898.res"]
+
+[params]
+
+mipmaps/generate=true

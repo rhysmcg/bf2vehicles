@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://xppmf3t1by64"
+path="res://.godot/imported/1p_eubody_c_woodland.dds-b3fd5f1187d1bc655a14f2566f591f8c.res"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/textures/1p_eubody_c_woodland.dds"
+dest_files=["res://.godot/imported/1p_eubody_c_woodland.dds-b3fd5f1187d1bc655a14f2566f591f8c.res"]
+
+[params]
+
+mipmaps/generate=true

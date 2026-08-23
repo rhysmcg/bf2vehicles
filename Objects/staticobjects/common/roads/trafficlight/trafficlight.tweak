@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/12 17:17]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe Bundle trafficlight
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser kbe
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.isDestructable 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.defaultMaterial 71
+ObjectTemplate.armor.wreckHitPoints 10
+rem ---EndComp ---
+ObjectTemplate.geometry trafficlight
+ObjectTemplate.setCollisionMesh trafficlight
+ObjectTemplate.mapMaterial 0 glass 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.mapMaterial 2 concrete 2
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

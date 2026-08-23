@@ -1,0 +1,59 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 80
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle air_repairstation
+ObjectTemplate.creator DFR-2:dfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry air_repairstation
+ObjectTemplate.setCollisionMesh air_repairstation
+ObjectTemplate.mapMaterial 0 metal_Solid 21
+ObjectTemplate.mapMaterial 1 metal_thin 20
+ObjectTemplate.mapMaterial 2 plastic 11
+ObjectTemplate.mapMaterial 3 cardboard 1011
+ObjectTemplate.mapMaterial 4 wood 15
+ObjectTemplate.mapMaterial 5 glass_Common 17
+ObjectTemplate.mapMaterial 6 stair_metal 36
+ObjectTemplate.mapMaterial 7 stair_metal 36
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate air_repairstation_SupplyObject1
+ObjectTemplate.setPosition 0/-3/-12
+ObjectTemplate.addTemplate air_repairstation_SupplyObject2
+ObjectTemplate.setPosition 0/-3/13
+ObjectTemplate.addTemplate air_repairstation_cone
+ObjectTemplate.setPosition 3.42161/2.98259/2.59323
+ObjectTemplate.setRotation 40/-5.00002/10
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject air_repairstation_SupplyObject1
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 12
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 20
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject air_repairstation_SupplyObject2
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 12
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 20
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+

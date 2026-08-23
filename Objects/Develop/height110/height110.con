@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh height110
+
+ObjectTemplate.create SimpleObject height110
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.geometry height110
+ObjectTemplate.anchor -0.1000/-0.5500/0.1000
+
+include height110.tweak

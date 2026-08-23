@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ci2js3xw2bu0p"
+path="res://.godot/imported/pricklypear_master_de_lod.dds-5ce94c5f847718c5e9a51376666039f3.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/textures/pricklypear_master_de_lod.dds"
+dest_files=["res://.godot/imported/pricklypear_master_de_lod.dds-5ce94c5f847718c5e9a51376666039f3.res"]
+
+[params]
+
+mipmaps/generate=true

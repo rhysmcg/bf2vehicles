@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdhr4r1krk7d4"
+path="res://.godot/imported/decal_wood_anim.dds-0ccce872b4280f888b83b589e6eee2ea.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_wood_anim.dds"
+dest_files=["res://.godot/imported/decal_wood_anim.dds-0ccce872b4280f888b83b589e6eee2ea.res"]
+
+[params]
+
+mipmaps/generate=true

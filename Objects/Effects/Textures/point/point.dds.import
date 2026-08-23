@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dqay81ila82mj"
+path="res://.godot/imported/point.dds-1ebb20623fa1b006a4f588bcd2eb8cbf.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/point/point.dds"
+dest_files=["res://.godot/imported/point.dds-1ebb20623fa1b006a4f588bcd2eb8cbf.res"]
+
+[params]
+
+mipmaps/generate=true

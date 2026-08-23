@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cat44ryrcli6m"
+path="res://.godot/imported/norinco_b.dds-f1be8ab94f44241f90d8ba848e65a878.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_norinco982/texture/norinco_b.dds"
+dest_files=["res://.godot/imported/norinco_b.dds-f1be8ab94f44241f90d8ba848e65a878.res"]
+
+[params]
+
+mipmaps/generate=true

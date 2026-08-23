@@ -1,0 +1,35 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/20 19:27]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 51
+GeometryTemplate.setSubGeometryLodDistance 0 2 100
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 4 20
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle mi_guard_tower_mech
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 3
+ObjectTemplate.geometry mi_guard_tower_mech
+ObjectTemplate.setCollisionMesh mi_guard_tower_mech
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 Wood_solid 15
+ObjectTemplate.mapMaterial 2 Metal_solid 21
+ObjectTemplate.mapMaterial 3 Plastic 11
+ObjectTemplate.mapMaterial 4 Sandbags 76
+ObjectTemplate.mapMaterial 5 Pentrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 6 Rubber 11
+ObjectTemplate.mapMaterial 7 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 8 glass 17
+ObjectTemplate.mapMaterial 9 stair_stone 34
+ObjectTemplate.mapMaterial 10 Slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_4m_office
+ObjectTemplate.setPosition -0.693822/-1.39827/0
+rem -------------------------------------
+

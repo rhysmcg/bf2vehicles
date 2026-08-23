@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dif1yusyxuwcr"
+path="res://.godot/imported/USJEP_HMMWV_cockpit_b.dds-33b81adc2f3bb0d55d79d58a2671d62f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USJEP_HMMWV/textures/USJEP_HMMWV_cockpit_b.dds"
+dest_files=["res://.godot/imported/USJEP_HMMWV_cockpit_b.dds-33b81adc2f3bb0d55d79d58a2671d62f.res"]
+
+[params]
+
+mipmaps/generate=true

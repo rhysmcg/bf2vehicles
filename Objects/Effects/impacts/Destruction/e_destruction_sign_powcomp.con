@@ -1,0 +1,35 @@
+GeometryTemplate.create BundledMesh e_destruction_sign_powcomp
+
+ObjectTemplate.create EffectBundle e_destruction_sign_powcomp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.addTemplate em_destruction_sign_PowComp_board
+ObjectTemplate.setPosition 0/1.7183/0.0390
+ObjectTemplate.addTemplate em_destruction_sign_PowComp_pole
+ObjectTemplate.setPosition 0/1.0592/-0.0174
+
+ObjectTemplate.create Emitter em_destruction_sign_PowComp_board
+ObjectTemplate.template p_destruction_sign_PowComp_board
+
+ObjectTemplate.create Particle p_destruction_sign_PowComp_board
+ObjectTemplate.collisionMesh e_destruction_sign_powcomp
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_sign_powcomp
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_sign_PowComp_pole
+ObjectTemplate.template p_destruction_sign_PowComp_pole
+
+ObjectTemplate.create Particle p_destruction_sign_PowComp_pole
+ObjectTemplate.collisionMesh e_destruction_sign_powcomp
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_sign_powcomp
+ObjectTemplate.geometryPart 1
+
+include e_destruction_sign_powcomp.tweak

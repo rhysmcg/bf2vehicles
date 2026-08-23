@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle xp2_pylon_01
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.modifiedByUser "riccardli"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_pylon_01
+ObjectTemplate.setCollisionMesh xp2_pylon_01
+ObjectTemplate.mapMaterial 0 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ambstat_constructionlight_Warning
+ObjectTemplate.setPosition 0.147524/0.654682/-0.00183988
+ObjectTemplate.addTemplate ambstat_constructionlight_Warning
+ObjectTemplate.setPosition 0.143285/0.654682/0.104845
+rem -------------------------------------
+

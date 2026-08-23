@@ -1,0 +1,20 @@
+GeometryTemplate.create BundledMesh us_bipod
+CollisionManager.createTemplate us_bipod
+
+ObjectTemplate.create PlayerControlObject us_bipod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh us_bipod
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry us_bipod
+ObjectTemplate.anchor 0/-1.1090/0
+ObjectTemplate.addTemplate US_Bipod_Down
+
+ObjectTemplate.create RotationalBundle US_Bipod_Down
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+include us_bipod.tweak

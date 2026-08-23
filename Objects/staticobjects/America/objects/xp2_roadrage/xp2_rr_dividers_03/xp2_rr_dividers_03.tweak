@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/21 7:18]
+GeometryTemplate.setSubGeometryLodDistance 0 1 75
+GeometryTemplate.setSubGeometryLodDistance 0 2 125
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_rr_dividers_03
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.modifiedByUser "Danielab"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_rr_dividers_03
+ObjectTemplate.setCollisionMesh xp2_rr_dividers_03
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

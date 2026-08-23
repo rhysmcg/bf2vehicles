@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://mjplpo8ufw3w"
+path="res://.godot/imported/decal_sheet_c.dds-3f3053c2f5472e0b52b33ef5c8c47af5.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/decal_sheet_c.dds"
+dest_files=["res://.godot/imported/decal_sheet_c.dds-3f3053c2f5472e0b52b33ef5c8c47af5.res"]
+
+[params]
+
+mipmaps/generate=true

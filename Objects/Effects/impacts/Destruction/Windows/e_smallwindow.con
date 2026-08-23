@@ -1,0 +1,88 @@
+GeometryTemplate.create BundledMesh e_smallwindow
+
+ObjectTemplate.create EffectBundle e_smallwindow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_smallwindow_shard_01
+ObjectTemplate.setPosition 0.1501/-0.1753/0
+ObjectTemplate.addTemplate em_smallwindow_shard_02
+ObjectTemplate.setPosition 0.1119/0.1129/0
+ObjectTemplate.addTemplate em_smallwindow_shard_03
+ObjectTemplate.setPosition 0.0892/-0.0559/0
+ObjectTemplate.addTemplate em_smallwindow_shard_04
+ObjectTemplate.setPosition -0.0369/0.1833/0
+ObjectTemplate.addTemplate em_smallwindow_shard_05
+ObjectTemplate.setPosition -0.0354/-0.0443/0
+ObjectTemplate.addTemplate em_smallwindow_shard_06
+ObjectTemplate.setPosition -0.0440/0.0740/0
+ObjectTemplate.addTemplate em_smallwindow_shard_07
+ObjectTemplate.setPosition -0.1387/-0.0775/0
+ObjectTemplate.addTemplate em_smallwindow_shard_08
+ObjectTemplate.setPosition 0.1560/-0.0038/0
+ObjectTemplate.addTemplate em_smallwindow_shard_09
+ObjectTemplate.setPosition -0.2097/-0.0092/0
+
+ObjectTemplate.create Emitter em_smallwindow_shard_01
+ObjectTemplate.template p_smallwindow_shard_01
+
+ObjectTemplate.create Particle p_smallwindow_shard_01
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_smallwindow_shard_02
+ObjectTemplate.template p_smallwindow_shard_02
+
+ObjectTemplate.create Particle p_smallwindow_shard_02
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_smallwindow_shard_03
+ObjectTemplate.template p_smallwindow_shard_03
+
+ObjectTemplate.create Particle p_smallwindow_shard_03
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_smallwindow_shard_04
+ObjectTemplate.template p_smallwindow_shard_04
+
+ObjectTemplate.create Particle p_smallwindow_shard_04
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_smallwindow_shard_05
+ObjectTemplate.template p_smallwindow_shard_05
+
+ObjectTemplate.create Particle p_smallwindow_shard_05
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_smallwindow_shard_06
+ObjectTemplate.template p_smallwindow_shard_06
+
+ObjectTemplate.create Particle p_smallwindow_shard_06
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_smallwindow_shard_07
+ObjectTemplate.template p_smallwindow_shard_07
+
+ObjectTemplate.create Particle p_smallwindow_shard_07
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_smallwindow_shard_08
+ObjectTemplate.template p_smallwindow_shard_08
+
+ObjectTemplate.create Particle p_smallwindow_shard_08
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_smallwindow_shard_09
+ObjectTemplate.template p_smallwindow_shard_09
+
+ObjectTemplate.create Particle p_smallwindow_shard_09
+ObjectTemplate.geometry e_smallwindow
+ObjectTemplate.geometryPart 8
+
+include e_smallwindow.tweak

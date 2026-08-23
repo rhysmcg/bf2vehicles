@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ctjnh35qwdi8c"
+path="res://.godot/imported/manhole3.dds-0d587f852bcb4b6391d1bb9a6e6e9034.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/manhole3.dds"
+dest_files=["res://.godot/imported/manhole3.dds-0d587f852bcb4b6391d1bb9a6e6e9034.res"]
+
+[params]
+
+mipmaps/generate=true

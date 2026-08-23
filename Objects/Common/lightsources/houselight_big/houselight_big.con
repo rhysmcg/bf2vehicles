@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle houselight_big
+ObjectTemplate.createdInEditor 1
+
+include houselight_big.tweak

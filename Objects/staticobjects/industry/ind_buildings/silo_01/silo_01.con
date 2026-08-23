@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh silo_01
+CollisionManager.createTemplate silo_01
+
+ObjectTemplate.create SimpleObject silo_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh silo_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry silo_01
+ObjectTemplate.anchor 0/-31.1582/0
+
+include silo_01.tweak

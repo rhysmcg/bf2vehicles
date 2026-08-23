@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c01bcsw4wyska"
+path="res://.godot/imported/che_wz11_cockpit.dds-51463b921ae5efe069d505de0d42a658.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/textures/che_wz11_cockpit.dds"
+dest_files=["res://.godot/imported/che_wz11_cockpit.dds-51463b921ae5efe069d505de0d42a658.res"]
+
+[params]
+
+mipmaps/generate=true

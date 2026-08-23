@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" load_steps=4 format=3 uid="uid://uygcw3sfkk41"]
+
+[ext_resource type="Shader" uid="uid://cx3tlk4yn6cer" path="res://shaders/BaseDetailNDetail.gdshader" id="1_ghgbq"]
+[ext_resource type="Texture2D" uid="uid://dvf1bd1tsm7jt" path="res://objects/staticobjects/_middle-east/city/textures/mecity_obj_01_de.dds" id="3_egq78"]
+[ext_resource type="Texture2D" uid="uid://b4nbdflndwig3" path="res://objects/staticobjects/_middle-east/city/textures/mecity_obj_01_deb.dds" id="4_le6da"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_ghgbq")
+shader_parameter/DetailTexture = ExtResource("3_egq78")
+shader_parameter/NDetailTexture = ExtResource("4_le6da")

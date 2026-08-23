@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d0oywh8kc4omk"
+path="res://.godot/imported/radar_temp_de.dds-819e669c8445fa658743d77e2e397d16.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/textures/radar_temp_de.dds"
+dest_files=["res://.godot/imported/radar_temp_de.dds-819e669c8445fa658743d77e2e397d16.res"]
+
+[params]
+
+mipmaps/generate=true

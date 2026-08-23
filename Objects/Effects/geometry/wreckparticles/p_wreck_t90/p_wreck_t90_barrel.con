@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_t90_barrel
+CollisionManager.createTemplate p_wreck_t90_barrel
+
+ObjectTemplate.create Particle p_wreck_t90_barrel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_t90_barrel
+ObjectTemplate.mapMaterial 0 Solid_metal_Wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_t90_barrel
+
+include p_wreck_t90_barrel.tweak

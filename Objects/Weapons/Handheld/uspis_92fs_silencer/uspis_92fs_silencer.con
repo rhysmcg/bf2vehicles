@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh uspis_92fs_silencer
+CollisionManager.createTemplate uspis_92fs_silencer
+
+ObjectTemplate.create GenericFireArm uspis_92fs_silencer
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh uspis_92fs_silencer
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry uspis_92fs_silencer
+
+include uspis_92fs_silencer.tweak

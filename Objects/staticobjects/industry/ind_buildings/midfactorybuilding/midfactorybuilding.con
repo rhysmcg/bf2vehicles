@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh midfactorybuilding
+CollisionManager.createTemplate midfactorybuilding
+
+ObjectTemplate.create Bundle midfactorybuilding
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh midfactorybuilding
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.mapMaterial 2 metalplate_thin 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 glass_common 0
+ObjectTemplate.mapMaterial 5 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry midfactorybuilding
+ObjectTemplate.anchor 11.0000/-10.4407/-10.0000
+
+include midfactorybuilding.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cgvfbt15q0l0p"
+path="res://.godot/imported/3p_gbrif_l96a1_c.dds-3d7ebdbd5f5289722320e6500e1c85ec.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_l96a1/texture/dds/3p_gbrif_l96a1_c.dds"
+dest_files=["res://.godot/imported/3p_gbrif_l96a1_c.dds-3d7ebdbd5f5289722320e6500e1c85ec.res"]
+
+[params]
+
+mipmaps/generate=true

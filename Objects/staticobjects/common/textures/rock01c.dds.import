@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://5gt15jc0b0fr"
+path="res://.godot/imported/rock01c.dds-3c84c932dd9f8e730115222df3ceb7ab.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/rock01c.dds"
+dest_files=["res://.godot/imported/rock01c.dds-3c84c932dd9f8e730115222df3ceb7ab.res"]
+
+[params]
+
+mipmaps/generate=true

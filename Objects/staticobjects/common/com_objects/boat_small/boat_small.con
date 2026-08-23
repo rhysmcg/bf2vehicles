@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh boat_small
+
+ObjectTemplate.create SimpleObject boat_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DGO-1:dgo
+ObjectTemplate.collisionMesh Boat_small
+ObjectTemplate.mapMaterial 0 cgfx_shader1_cgfxShader1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry boat_small
+
+include boat_small.tweak

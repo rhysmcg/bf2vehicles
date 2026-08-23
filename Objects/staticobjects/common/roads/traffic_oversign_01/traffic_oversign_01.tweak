@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject traffic_oversign_01
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry traffic_oversign_01
+ObjectTemplate.setCollisionMesh traffic_oversign_01
+ObjectTemplate.mapMaterial 0 lamp 17
+ObjectTemplate.mapMaterial 1 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

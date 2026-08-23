@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dpve0awoshhhr"
+path="res://.godot/imported/parachute_c.dds-d4560ff212543733aba3f823b6816857.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/parachute/textures/parachute_c.dds"
+dest_files=["res://.godot/imported/parachute_c.dds-d4560ff212543733aba3f823b6816857.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/9 10:25]
+GeometryTemplate.setSubGeometryLodDistance 0 0 70
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 8
+ObjectTemplate.activeSafe SimpleObject ch_wall_high_l_12m
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_wall_high_l_12m
+ObjectTemplate.setCollisionMesh ch_wall_high_l_12m
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/3 14:22]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.setSubGeometryLodDistance 0 0 60
+GeometryTemplate.setSubGeometryLodDistance 0 1 180
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 0 15
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject palletstack
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry palletstack
+ObjectTemplate.setCollisionMesh palletStack
+ObjectTemplate.mapMaterial 0 wood 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

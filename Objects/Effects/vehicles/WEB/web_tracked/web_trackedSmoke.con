@@ -1,0 +1,4 @@
+ObjectTemplate.create WheelEffectBundle web_trackedSmoke
+ObjectTemplate.createdInEditor 1
+
+include web_trackedSmoke.tweak

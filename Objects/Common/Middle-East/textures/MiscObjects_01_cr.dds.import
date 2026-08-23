@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c1c66wnkcbaty"
+path="res://.godot/imported/MiscObjects_01_cr.dds-c796bc6d87b3796244b0ecd5d17ff0b0.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/MiscObjects_01_cr.dds"
+dest_files=["res://.godot/imported/MiscObjects_01_cr.dds-c796bc6d87b3796244b0ecd5d17ff0b0.res"]
+
+[params]
+
+mipmaps/generate=true

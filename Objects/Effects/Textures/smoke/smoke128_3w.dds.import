@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2sidj3e4iuh8"
+path="res://.godot/imported/smoke128_3w.dds-6c975fcb8b99528721e5119752c9309e.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/smoke/smoke128_3w.dds"
+dest_files=["res://.godot/imported/smoke128_3w.dds-6c975fcb8b99528721e5119752c9309e.res"]
+
+[params]
+
+mipmaps/generate=true

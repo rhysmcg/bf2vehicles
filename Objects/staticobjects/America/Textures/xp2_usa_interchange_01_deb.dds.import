@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dkhv861tn5q31"
+path="res://.godot/imported/xp2_usa_interchange_01_deb.dds-229725792095bbdd6ea492e59db466a3.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/Textures/xp2_usa_interchange_01_deb.dds"
+dest_files=["res://.godot/imported/xp2_usa_interchange_01_deb.dds-229725792095bbdd6ea492e59db466a3.res"]
+
+[params]
+
+mipmaps/generate=true

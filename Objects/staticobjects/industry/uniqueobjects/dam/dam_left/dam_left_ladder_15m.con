@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh dam_left_ladder_15m
+CollisionManager.createTemplate dam_left_ladder_15m
+
+ObjectTemplate.create Ladder dam_left_ladder_15m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh dam_left_ladder_15m
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_left_ladder_15m
+
+include dam_left_ladder_15m.tweak

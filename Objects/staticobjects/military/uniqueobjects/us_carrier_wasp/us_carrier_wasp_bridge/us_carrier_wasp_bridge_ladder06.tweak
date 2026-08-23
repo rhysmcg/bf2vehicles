@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/1 15:40]
+GeometryTemplate.maxSkip3pLods 0
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Ladder us_carrier_wasp_bridge_ladder06
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry us_carrier_wasp_bridge_ladder06
+ObjectTemplate.setCollisionMesh us_carrier_wasp_bridge_ladder06
+ObjectTemplate.mapMaterial 0 Metal_solid 6600
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_rr_picketfence_04
+CollisionManager.createTemplate xp2_rr_picketfence_04
+
+ObjectTemplate.create SimpleObject xp2_rr_picketfence_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_rr_picketfence_04
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_picketfence_04
+ObjectTemplate.anchor -0.1000/0/0
+
+include xp2_rr_picketfence_04.tweak

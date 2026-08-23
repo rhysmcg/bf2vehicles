@@ -1,0 +1,37 @@
+GeometryTemplate.create BundledMesh usaas_stinger
+CollisionManager.createTemplate usaas_stinger
+
+ObjectTemplate.create PlayerControlObject usaas_stinger
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh usaas_stinger
+ObjectTemplate.mapMaterial 0 Metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry usaas_stinger
+ObjectTemplate.addTemplate USAAS_Stinger_Body
+
+ObjectTemplate.create RotationalBundle USAAS_Stinger_Body
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate USAAS_Stinger_Top
+ObjectTemplate.setPosition 0/1.4207/0
+
+ObjectTemplate.create RotationalBundle USAAS_Stinger_Top
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate USAAS_Stinger_Hud_RotationalBundle
+ObjectTemplate.setPosition 0/-1.4159/-0.0064
+
+ObjectTemplate.create SimpleObject USAAS_Stinger_Hud_RotationalBundle
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+include usaas_stinger.tweak

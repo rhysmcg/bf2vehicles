@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wpipe_bend
+CollisionManager.createTemplate wpipe_bend
+
+ObjectTemplate.create SimpleObject wpipe_bend
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wpipe_bend
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wpipe_bend
+ObjectTemplate.anchor -0.2313/-0.4510/0
+
+include wpipe_bend.tweak

@@ -1,0 +1,19 @@
+if v_arg1 == BF2Editor
+rem ** [RoadTemplate] - dirtroad_Daqing **
+RoadTemplate.CreateInstance
+RoadTemplate.SetName "dirtroad_Daqing"
+RoadTemplate.SetWidth 5
+RoadTemplate.SetMaxTesselatedError 0.01
+RoadTemplate.SetBlendFactor 0.85
+RoadTemplate.SetPrio 0
+RoadTemplate.SetMaterial Gravel
+RoadTemplate.SetIsPrimaryTexture 1
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\dirt_road_daqing"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 1/1
+RoadTemplate.SetIsPrimaryTexture 0
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\dirt_road"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 2/3
+endIf
+

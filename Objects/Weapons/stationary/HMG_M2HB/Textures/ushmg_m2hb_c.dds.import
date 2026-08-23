@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cqu3pfcx2x0sx"
+path="res://.godot/imported/ushmg_m2hb_c.dds-a0526e5bdf8f641d98232e09d444c8c4.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/HMG_M2HB/Textures/ushmg_m2hb_c.dds"
+dest_files=["res://.godot/imported/ushmg_m2hb_c.dds-a0526e5bdf8f641d98232e09d444c8c4.res"]
+
+[params]
+
+mipmaps/generate=true

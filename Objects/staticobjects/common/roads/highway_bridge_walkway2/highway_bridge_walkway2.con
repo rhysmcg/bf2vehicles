@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh highway_bridge_walkway2
+CollisionManager.createTemplate highway_bridge_walkway2
+
+ObjectTemplate.create SimpleObject highway_bridge_walkway2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh highway_bridge_walkway2
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Chicken_Wire_Thin 0
+ObjectTemplate.mapMaterial 2 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 3 Stairs_metal 0
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry highway_bridge_walkway2
+ObjectTemplate.anchor 0.2960/1.6668/7.7486
+
+include highway_bridge_walkway2.tweak

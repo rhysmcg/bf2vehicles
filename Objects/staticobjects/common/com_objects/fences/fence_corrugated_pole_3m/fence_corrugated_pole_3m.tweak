@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/2 17:38]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject fence_corrugated_pole_3m
+ObjectTemplate.creator OCA-1:oca
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry fence_corrugated_pole_3m
+ObjectTemplate.setCollisionMesh Fence_corrugated_Pole_3m
+ObjectTemplate.mapMaterial 0 Metal_Solid 21
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

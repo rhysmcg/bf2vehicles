@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://lfhtuexgoba2"
+path="res://.godot/imported/antenna_b.dds-37e757205b35b3dc85621c564d6f4777.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/antenna_b.dds"
+dest_files=["res://.godot/imported/antenna_b.dds-37e757205b35b3dc85621c564d6f4777.res"]
+
+[params]
+
+mipmaps/generate=true

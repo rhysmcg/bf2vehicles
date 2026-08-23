@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b26xhd20i3t4q"
+path="res://.godot/imported/decal_metalthin_b.dds-b7deffe9e93e1530b6ecb6c1efc18816.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/decal_metalthin_b.dds"
+dest_files=["res://.godot/imported/decal_metalthin_b.dds-b7deffe9e93e1530b6ecb6c1efc18816.res"]
+
+[params]
+
+mipmaps/generate=true

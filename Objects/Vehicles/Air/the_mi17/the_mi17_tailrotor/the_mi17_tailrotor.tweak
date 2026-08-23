@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Rotor the_mi17_tailrotor
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.modifiedByUser lma
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry the_mi17_tailrotor
+ObjectTemplate.setCollisionMesh the_mi17_tailrotor
+ObjectTemplate.mapMaterial 0 rotor 31
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.changeLodAt 0.3
+ObjectTemplate.tolerance 3.05175e-006
+ObjectTemplate.rotationSpeedMod 1
+ObjectTemplate.rotationSpeedModBlur 0.1
+ObjectTemplate.rotationAxle 1
+ObjectTemplate.engineName the_mi17_TailEngine
+

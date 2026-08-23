@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://du3nulc7347pn"
+path="res://.godot/imported/PedeCrossing.dds-aaa3a1ca3c7b5031d5b8a9d9742ec918.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/PedeCrossing.dds"
+dest_files=["res://.godot/imported/PedeCrossing.dds-aaa3a1ca3c7b5031d5b8a9d9742ec918.res"]
+
+[params]
+
+mipmaps/generate=true

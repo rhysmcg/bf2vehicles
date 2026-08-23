@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdtjyywplpg0a"
+path="res://.godot/imported/tnk_type98_hud_c.dds-f14ed8cc1d27c15248d77e95ad1dfc4c.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/tnk_type98/textures/tnk_type98_hud_c.dds"
+dest_files=["res://.godot/imported/tnk_type98_hud_c.dds-f14ed8cc1d27c15248d77e95ad1dfc4c.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://nhx1jromo0va"
+path="res://.godot/imported/she_littlebird_wreck.dds-acf86c0d39de5bd63c0da0b234223e68.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/textures/she_littlebird_wreck.dds"
+dest_files=["res://.godot/imported/she_littlebird_wreck.dds-acf86c0d39de5bd63c0da0b234223e68.res"]
+
+[params]
+
+mipmaps/generate=true

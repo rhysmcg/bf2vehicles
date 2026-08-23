@@ -1,0 +1,13 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/20 0:17]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject sidewalk_6
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sidewalk_6
+ObjectTemplate.setCollisionMesh sidewalk_6
+ObjectTemplate.mapMaterial 0 rock 12
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

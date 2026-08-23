@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bhdft8ptkrtta"
+path="res://.godot/imported/USTHE_UH60_c.dds-f9c2d7425b3bd11a6026d3946c7620d8.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/Textures/USTHE_UH60_c.dds"
+dest_files=["res://.godot/imported/USTHE_UH60_c.dds-f9c2d7425b3bd11a6026d3946c7620d8.res"]
+
+[params]
+
+mipmaps/generate=true

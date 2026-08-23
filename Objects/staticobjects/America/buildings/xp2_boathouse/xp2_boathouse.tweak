@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/8 6:32]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_boathouse
+ObjectTemplate.creator RYAN_XP:RyanLo
+ObjectTemplate.modifiedByUser "jayev"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_boathouse
+ObjectTemplate.setCollisionMesh xp2_boathouse
+ObjectTemplate.mapMaterial 0 wood_solid 15
+ObjectTemplate.mapMaterial 1 rubber 22
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 Pentrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 4 Penetrable_Wood 1003
+ObjectTemplate.mapMaterial 5 glass_common 17
+ObjectTemplate.mapMaterial 6 metal_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

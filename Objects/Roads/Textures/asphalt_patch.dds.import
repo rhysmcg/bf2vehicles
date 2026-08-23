@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cw83w7skt5g58"
+path="res://.godot/imported/asphalt_patch.dds-4b0d33a5de8c6271915b20778bd4f23a.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/asphalt_patch.dds"
+dest_files=["res://.godot/imported/asphalt_patch.dds-4b0d33a5de8c6271915b20778bd4f23a.res"]
+
+[params]
+
+mipmaps/generate=true

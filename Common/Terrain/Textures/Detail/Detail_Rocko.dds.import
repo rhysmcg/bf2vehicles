@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ce6latp4j2y4f"
+path="res://.godot/imported/Detail_Rocko.dds-db99d756fd9dd98a80e583dd90541dde.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Rocko.dds"
+dest_files=["res://.godot/imported/Detail_Rocko.dds-db99d756fd9dd98a80e583dd90541dde.res"]
+
+[params]
+
+mipmaps/generate=true

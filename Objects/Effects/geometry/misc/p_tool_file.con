@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh p_tool_file
+
+ObjectTemplate.create Particle p_tool_file
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.geometry p_tool_file
+
+include p_tool_file.tweak

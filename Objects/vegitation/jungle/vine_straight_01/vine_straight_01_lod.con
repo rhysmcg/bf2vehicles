@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh vine_straight_01_lod
+
+ObjectTemplate.create SimpleObject vine_straight_01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.geometry vine_straight_01_lod
+
+include vine_straight_01_lod.tweak

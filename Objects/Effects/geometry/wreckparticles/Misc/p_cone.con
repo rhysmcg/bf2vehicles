@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_cone
+ObjectTemplate.createdInEditor 1
+
+include p_cone.tweak

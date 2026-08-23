@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/2/22 6:46]
+GeometryTemplate.setSubGeometryLodDistance 0 0 100
+GeometryTemplate.setSubGeometryLodDistance 0 1 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_hydrowires_set3
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_hydrowires_set3
+ObjectTemplate.setCollisionMesh xp2_hydrowires_set3
+ObjectTemplate.mapMaterial 0 metal_solid 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

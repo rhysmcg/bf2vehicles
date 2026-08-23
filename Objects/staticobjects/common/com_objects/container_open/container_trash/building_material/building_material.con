@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh building_material
+CollisionManager.createTemplate building_material
+
+ObjectTemplate.create SimpleObject building_material
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh building_material
+ObjectTemplate.mapMaterial 0 Dirt 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 wood_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry building_material
+ObjectTemplate.anchor -0.0062/-0.6124/0.0097
+
+include building_material.tweak

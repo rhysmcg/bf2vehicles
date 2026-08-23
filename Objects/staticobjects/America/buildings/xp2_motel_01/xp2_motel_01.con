@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh xp2_motel_01
+CollisionManager.createTemplate xp2_motel_01
+
+ObjectTemplate.create Bundle xp2_motel_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_motel_01
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 windowblinds 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 metal_thin 0
+ObjectTemplate.mapMaterial 5 metal 0
+ObjectTemplate.mapMaterial 6 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_motel_01
+ObjectTemplate.anchor 0.1917/0/0.3161
+
+include xp2_motel_01.tweak

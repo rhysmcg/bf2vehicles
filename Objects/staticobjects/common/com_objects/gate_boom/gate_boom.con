@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh gate_boom
+CollisionManager.createTemplate gate_boom
+
+ObjectTemplate.create SimpleObject gate_boom
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh gate_boom
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gate_boom
+ObjectTemplate.anchor 0/-0.4509/-2.9648
+
+include gate_boom.tweak

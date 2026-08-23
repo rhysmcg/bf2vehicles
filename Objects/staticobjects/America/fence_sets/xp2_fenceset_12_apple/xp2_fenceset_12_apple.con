@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_fenceset_12_apple
+CollisionManager.createTemplate xp2_fenceset_12_apple
+
+ObjectTemplate.create SimpleObject xp2_fenceset_12_apple
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_fenceset_12_apple
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_fenceset_12_apple
+ObjectTemplate.anchor -0.1000/0/0
+
+include xp2_fenceset_12_apple.tweak

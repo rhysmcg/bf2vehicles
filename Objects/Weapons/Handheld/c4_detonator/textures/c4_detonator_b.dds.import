@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://fw6b0uoas6vh"
+path="res://.godot/imported/c4_detonator_b.dds-889ef3d45a88770dabb68ffb5c44c960.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/c4_detonator/textures/c4_detonator_b.dds"
+dest_files=["res://.godot/imported/c4_detonator_b.dds-889ef3d45a88770dabb68ffb5c44c960.res"]
+
+[params]
+
+mipmaps/generate=true

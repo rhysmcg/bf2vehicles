@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c4rbaesvo6rlx"
+path="res://.godot/imported/USPIS_92FS_c.dds-d23bc11218da3343542d81997d0b04a8.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USPIS_92FS/Textures/USPIS_92FS_c.dds"
+dest_files=["res://.godot/imported/USPIS_92FS_c.dds-d23bc11218da3343542d81997d0b04a8.res"]
+
+[params]
+
+mipmaps/generate=true

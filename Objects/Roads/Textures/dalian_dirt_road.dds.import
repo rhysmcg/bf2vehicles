@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cbyx1xpugrsrl"
+path="res://.godot/imported/dalian_dirt_road.dds-0c93cec073fa75efcca39a7233de5619.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dalian_dirt_road.dds"
+dest_files=["res://.godot/imported/dalian_dirt_road.dds-0c93cec073fa75efcca39a7233de5619.res"]
+
+[params]
+
+mipmaps/generate=true

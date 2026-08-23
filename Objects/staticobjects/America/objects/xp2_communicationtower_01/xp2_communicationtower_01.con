@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh xp2_communicationtower_01
+CollisionManager.createTemplate xp2_communicationtower_01
+
+ObjectTemplate.create SimpleObject xp2_communicationtower_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_communicationtower_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_communicationtower_01
+ObjectTemplate.anchor 0/-16.7646/0
+
+include xp2_communicationtower_01.tweak

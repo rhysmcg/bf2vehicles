@@ -1,0 +1,4 @@
+ObjectTemplate.create decal decal_l_rock
+ObjectTemplate.createdInEditor 1
+
+include decal_l_rock.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bcu1odjtik2g2"
+path="res://.godot/imported/anim_grenade2.dds-40aad3551476b0c759b3c52ba6aea53e.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_grenade2.dds"
+dest_files=["res://.godot/imported/anim_grenade2.dds-40aad3551476b0c759b3c52ba6aea53e.res"]
+
+[params]
+
+mipmaps/generate=true

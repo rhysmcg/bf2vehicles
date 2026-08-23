@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh cityblock_square_30x30
+CollisionManager.createTemplate cityblock_square_30x30
+
+ObjectTemplate.create SimpleObject cityblock_square_30x30
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh cityblock_square_30x30
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.mapMaterial 1 Dirt 0
+ObjectTemplate.mapMaterial 2 Stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cityblock_square_30x30
+ObjectTemplate.anchor 15.0000/-0.0500/15.0000
+
+include cityblock_square_30x30.tweak

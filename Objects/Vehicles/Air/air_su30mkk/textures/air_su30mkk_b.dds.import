@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ci6yv88dnhb1q"
+path="res://.godot/imported/air_su30mkk_b.dds-7e6b47b77ac4785fd9b105478d3a2a5f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_su30mkk/textures/air_su30mkk_b.dds"
+dest_files=["res://.godot/imported/air_su30mkk_b.dds-7e6b47b77ac4785fd9b105478d3a2a5f.res"]
+
+[params]
+
+mipmaps/generate=true

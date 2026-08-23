@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh chsht_norinco982
+
+ObjectTemplate.create GenericFireArm chsht_norinco982
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JSA-1:jsa
+ObjectTemplate.geometry chsht_norinco982
+
+include chsht_norinco982.tweak

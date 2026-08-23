@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bj1qtf51jw7bl"
+path="res://.godot/imported/SpecularLUT_pow36.dds-ed815883e4120c73713f6baff2986d28.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/HMG_M2HB/Textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-ed815883e4120c73713f6baff2986d28.res"]
+
+[params]
+
+mipmaps/generate=true

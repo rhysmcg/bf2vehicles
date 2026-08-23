@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b7jr6lg51ry41"
+path="res://.godot/imported/Detail_beachgravel.dds-e2c2570a1787f45d184ceec743a9d8fd.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_beachgravel.dds"
+dest_files=["res://.godot/imported/Detail_beachgravel.dds-e2c2570a1787f45d184ceec743a9d8fd.res"]
+
+[params]
+
+mipmaps/generate=true

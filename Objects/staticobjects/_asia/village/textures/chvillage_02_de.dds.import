@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bat4naxdgpbpa"
+path="res://.godot/imported/chvillage_02_de.dds-ca4fc311eef5dcbef6eb79e83d97e2eb.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/textures/chvillage_02_de.dds"
+dest_files=["res://.godot/imported/chvillage_02_de.dds-ca4fc311eef5dcbef6eb79e83d97e2eb.res"]
+
+[params]
+
+mipmaps/generate=true

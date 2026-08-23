@@ -1,0 +1,22 @@
+GeometryTemplate.create StaticMesh xp2_stripmall_steakhouse
+CollisionManager.createTemplate xp2_stripmall_steakhouse
+
+ObjectTemplate.create Bundle xp2_stripmall_steakhouse
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_stripmall_steakhouse
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 stone 0
+ObjectTemplate.mapMaterial 4 canvas 0
+ObjectTemplate.mapMaterial 5 fiberGlass 0
+ObjectTemplate.mapMaterial 6 glass 0
+ObjectTemplate.mapMaterial 7 dirt 0
+ObjectTemplate.mapMaterial 8 icySlope 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_stripmall_steakhouse
+ObjectTemplate.anchor 15.9285/0.0379/15.4878
+
+include xp2_stripmall_steakhouse.tweak

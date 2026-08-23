@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh me_palmtree02
+CollisionManager.createTemplate me_palmtree02
+
+ObjectTemplate.create SimpleObject me_palmtree02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh me_palmtree02
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_palmtree02
+ObjectTemplate.anchor 0.0448/-4.0825/0.1723
+
+include me_palmtree02.tweak

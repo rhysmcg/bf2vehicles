@@ -1,0 +1,24 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/4/25 7:22]
+GeometryTemplate.setSubGeometryLodDistance 0 1 75
+GeometryTemplate.setSubGeometryLodDistance 0 2 125
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_oiltruck_02_tank
+ObjectTemplate.creator JULIOC:julioce
+ObjectTemplate.modifiedByUser "mikeca"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_oiltruck_02_tank
+ObjectTemplate.setCollisionMesh xp2_oiltruck_02_tank
+ObjectTemplate.mapMaterial 0 metal_thin 21
+ObjectTemplate.mapMaterial 1 metal_solid 20
+ObjectTemplate.mapMaterial 2 rubber 22
+ObjectTemplate.mapMaterial 3 plastic 11
+ObjectTemplate.mapMaterial 4 glass 17
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

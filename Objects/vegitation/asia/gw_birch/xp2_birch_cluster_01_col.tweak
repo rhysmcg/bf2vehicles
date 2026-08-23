@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/12/20 7:43]
+ObjectTemplate.activeSafe SimpleObject xp2_birch_cluster_01_col
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setCollisionMesh xp2_birch_cluster_01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

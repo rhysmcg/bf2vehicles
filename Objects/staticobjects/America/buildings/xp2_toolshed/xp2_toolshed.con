@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh xp2_toolshed
+CollisionManager.createTemplate xp2_toolshed
+
+ObjectTemplate.create SimpleObject xp2_toolshed
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_toolshed
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_Thin 0
+ObjectTemplate.mapMaterial 2 wood_penetrable 0
+ObjectTemplate.mapMaterial 3 Wood_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_toolshed
+ObjectTemplate.anchor 2.0167/-2.0590/-3.4432
+
+include xp2_toolshed.tweak

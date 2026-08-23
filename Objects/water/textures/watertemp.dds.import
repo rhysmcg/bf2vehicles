@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://efsluc60g3ho"
+path="res://.godot/imported/watertemp.dds-80fcbb7c381fc2f9b08d5556643d417b.res"
+
+[deps]
+
+source_file="res://Objects/water/textures/watertemp.dds"
+dest_files=["res://.godot/imported/watertemp.dds-80fcbb7c381fc2f9b08d5556643d417b.res"]
+
+[params]
+
+mipmaps/generate=true

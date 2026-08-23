@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh air_repairstation_cone
+
+ObjectTemplate.create AnimatedBundle air_repairstation_cone
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.geometry air_repairstation_cone
+
+include air_repairstation_cone.tweak

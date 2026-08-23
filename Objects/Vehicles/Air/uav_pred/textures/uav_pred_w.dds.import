@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bjubnh2dfejrw"
+path="res://.godot/imported/uav_pred_w.dds-5a100391c3a390332f957f98dba44b4c.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/uav_pred/textures/uav_pred_w.dds"
+dest_files=["res://.godot/imported/uav_pred_w.dds-5a100391c3a390332f957f98dba44b4c.res"]
+
+[params]
+
+mipmaps/generate=true

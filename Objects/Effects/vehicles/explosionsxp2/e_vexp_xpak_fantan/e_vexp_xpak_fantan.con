@@ -1,0 +1,27 @@
+GeometryTemplate.create BundledMesh e_vexp_xpak_fantan
+CollisionManager.createTemplate e_vexp_xpak_fantan
+
+ObjectTemplate.create Emitter e_vexp_xpak_fantan
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEFFO:jeffev
+ObjectTemplate.collisionMesh e_vexp_xpak_fantan
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_fantan
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter wreck_fantan_wingfront
+ObjectTemplate.template p_wreck_fantan_wingfront
+
+ObjectTemplate.create Particle p_wreck_fantan_wingfront
+ObjectTemplate.collisionMesh e_vexp_xpak_fantan
+ObjectTemplate.mapMaterial 0 col_wreck 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_xpak_fantan
+ObjectTemplate.geometryPart 1
+
+include e_vexp_xpak_fantan.tweak

@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/31 12:3]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject flower_pot
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry flower_pot
+ObjectTemplate.setCollisionMesh flower_pot
+ObjectTemplate.mapMaterial 0 Rock_or_concrete 78
+ObjectTemplate.mapMaterial 1 dirt 8
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

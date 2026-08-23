@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://757t4mayyj5k"
+path="res://.godot/imported/us_specopskit_c.dds-94cb84794fadbca05ada596c713b2850.res"
+
+[deps]
+
+source_file="res://Objects/Kits/US/textures/us_specopskit_c.dds"
+dest_files=["res://.godot/imported/us_specopskit_c.dds-94cb84794fadbca05ada596c713b2850.res"]
+
+[params]
+
+mipmaps/generate=true

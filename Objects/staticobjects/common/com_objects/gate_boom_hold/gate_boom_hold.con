@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh gate_boom_hold
+CollisionManager.createTemplate gate_boom_hold
+
+ObjectTemplate.create SimpleObject gate_boom_hold
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh gate_boom_hold
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry gate_boom_hold
+ObjectTemplate.anchor 0/-0.4983/0
+
+include gate_boom_hold.tweak

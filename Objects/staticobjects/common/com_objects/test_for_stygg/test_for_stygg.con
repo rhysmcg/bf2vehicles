@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh test_for_stygg
+CollisionManager.createTemplate test_for_stygg
+
+ObjectTemplate.create SimpleObject test_for_stygg
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh test_for_stygg
+ObjectTemplate.mapMaterial 0 stone 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry test_for_stygg
+ObjectTemplate.anchor 0/-0.0500/0
+
+include test_for_stygg.tweak

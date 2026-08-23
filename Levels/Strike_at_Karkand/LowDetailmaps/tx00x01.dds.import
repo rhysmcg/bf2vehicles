@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dr7a6g1k0rf4e"
+path="res://.godot/imported/tx00x01.dds-4a6f30a5e605c666da7ce1d7475da230.res"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/LowDetailmaps/tx00x01.dds"
+dest_files=["res://.godot/imported/tx00x01.dds-4a6f30a5e605c666da7ce1d7475da230.res"]
+
+[params]
+
+mipmaps/generate=true

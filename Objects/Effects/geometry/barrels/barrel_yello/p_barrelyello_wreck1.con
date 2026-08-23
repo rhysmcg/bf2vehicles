@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_barrelyello_wreck1
+CollisionManager.createTemplate p_barrelyello_wreck1
+
+ObjectTemplate.create Particle p_barrelyello_wreck1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh p_barrelyello_wreck1
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_barrelyello_wreck1
+
+include p_barrelyello_wreck1.tweak

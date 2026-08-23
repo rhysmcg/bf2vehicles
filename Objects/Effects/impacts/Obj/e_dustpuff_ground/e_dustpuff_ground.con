@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_dustpuff_ground
+ObjectTemplate.createdInEditor 1
+
+include e_dustpuff_ground.tweak

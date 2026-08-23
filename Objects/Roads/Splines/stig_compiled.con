@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled stig
+ObjectTemplate.create SimpleObject stig
+ObjectTemplate.geometry stig

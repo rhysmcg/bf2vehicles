@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh sign_author_perso
+CollisionManager.createTemplate sign_author_perso
+
+ObjectTemplate.create DestroyableObject sign_author_perso
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh sign_author_perso
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_author_perso
+ObjectTemplate.anchor 0/-1.1383/0
+
+include sign_author_perso.tweak

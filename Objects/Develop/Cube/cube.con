@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh cube
+
+ObjectTemplate.create SimpleObject cube
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.collisionMesh cube
+ObjectTemplate.mapMaterial 0 cube1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cube
+
+include Cube.tweak

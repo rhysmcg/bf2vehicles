@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://pdd2cr71321t"
+path="res://.godot/imported/MergeLane_RR.dds-20f5fd877d122d7fe5fff3946c8f94d4.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/MergeLane_RR.dds"
+dest_files=["res://.godot/imported/MergeLane_RR.dds-20f5fd877d122d7fe5fff3946c8f94d4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stonefence_slope_5m
+CollisionManager.createTemplate stonefence_slope_5m
+
+ObjectTemplate.create SimpleObject stonefence_slope_5m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh stonefence_slope_5m
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stonefence_slope_5m
+ObjectTemplate.anchor 0.0082/-0.4581/-2.4462
+
+include stonefence_slope_5m.tweak

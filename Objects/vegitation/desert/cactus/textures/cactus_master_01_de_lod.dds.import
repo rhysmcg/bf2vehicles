@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cg71u8g1opyrh"
+path="res://.godot/imported/cactus_master_01_de_lod.dds-7dd3fb8fa03007b28f4763b98c0170b3.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/textures/cactus_master_01_de_lod.dds"
+dest_files=["res://.godot/imported/cactus_master_01_de_lod.dds-7dd3fb8fa03007b28f4763b98c0170b3.res"]
+
+[params]
+
+mipmaps/generate=true

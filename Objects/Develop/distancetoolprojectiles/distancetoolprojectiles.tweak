@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/18 12:90
+ObjectTemplate.activeSafe SimpleObject distancetoolprojectiles
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry distancetoolprojectiles
+ObjectTemplate.setCollisionMesh distancetoolprojectiles
+ObjectTemplate.mapMaterial 0 Matal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor 0.094/-18.773/479.413
+

@@ -1,0 +1,127 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/14 17:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 160
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle us_carrier_wasp_front
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry us_carrier_wasp_front
+ObjectTemplate.setCollisionMesh us_carrier_wasp_front
+ObjectTemplate.mapMaterial 0 Metal_solid 21
+ObjectTemplate.mapMaterial 1 Tarmac 4
+ObjectTemplate.mapMaterial 2 Glass_common 17
+ObjectTemplate.mapMaterial 3 Glass_common 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder01
+ObjectTemplate.setPosition -10.3775/20.6212/-18.9629
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder01
+ObjectTemplate.setPosition 10.9519/20.6212/-18.9581
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder01
+ObjectTemplate.setPosition -12.694/20.6212/19.0107
+ObjectTemplate.setRotation -180/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder01
+ObjectTemplate.setPosition 10.9519/20.6212/19.0093
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder02
+ObjectTemplate.setPosition -21.928/19.1206/-18.9407
+ObjectTemplate.addTemplate us_carrier_wasp_front_ladder02
+ObjectTemplate.setPosition -22.7542/19.1206/18.9485
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_deck1
+ObjectTemplate.setPosition -23.6687/40/-10.0219
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_deck2
+ObjectTemplate.setPosition 20.2462/40/-10.1166
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_helipad_1
+ObjectTemplate.setPosition 12.1759/30/20
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_helipad_2
+ObjectTemplate.setPosition -31.8199/30/20
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_helipad_3
+ObjectTemplate.setPosition 11.9998/30/-20
+ObjectTemplate.addTemplate us_carrier_wasp_front_SupplyObject_helipad_4
+ObjectTemplate.setPosition -31.4711/30/-20
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_deck1
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 20
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_deck2
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 20
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_helipad_1
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 5
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_helipad_2
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 5
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_helipad_3
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 5
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+
+ObjectTemplate.create SupplyObject us_carrier_wasp_front_SupplyObject_helipad_4
+ObjectTemplate.modifiedByUser psh
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 15
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.healSpeed 5
+ObjectTemplate.refillAmmoSpeed 12
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 3
+

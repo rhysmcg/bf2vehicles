@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cc1ss2i6an6u2"
+path="res://.godot/imported/muzz_shotgun.dds-0ff4d72c88fe129e50526939fdc18ce4.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/textures/muzz_shotgun.dds"
+dest_files=["res://.godot/imported/muzz_shotgun.dds-0ff4d72c88fe129e50526939fdc18ce4.res"]
+
+[params]
+
+mipmaps/generate=true

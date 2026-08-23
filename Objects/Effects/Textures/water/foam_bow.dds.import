@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d2ibhyh1hpnee"
+path="res://.godot/imported/foam_bow.dds-bd5e9aca69823a406c69004312c667ca.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/foam_bow.dds"
+dest_files=["res://.godot/imported/foam_bow.dds-bd5e9aca69823a406c69004312c667ca.res"]
+
+[params]
+
+mipmaps/generate=true

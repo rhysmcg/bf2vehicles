@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/8 13:41]
+GeometryTemplate.setSubGeometryLodDistance 0 0 80
+GeometryTemplate.setSubGeometryLodDistance 0 1 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject rockpile_1
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser gti
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry rockpile_1
+ObjectTemplate.setCollisionMesh rockpile_1
+ObjectTemplate.mapMaterial 0 rock 78
+ObjectTemplate.mapMaterial 1 slippery_for_soldier 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2_staticmesh_importer"
+type="PackedScene"
+uid="uid://cnueyyh1k4oe5"
+path="res://.godot/imported/house_double_01.staticmesh-1244fc526ff0eed105d0a5a346ff32ba.tscn"
+
+[deps]
+
+source_file="res://meshes/house_double_01/meshes/house_double_01.staticmesh"
+dest_files=["res://.godot/imported/house_double_01.staticmesh-1244fc526ff0eed105d0a5a346ff32ba.tscn"]
+
+[params]
+

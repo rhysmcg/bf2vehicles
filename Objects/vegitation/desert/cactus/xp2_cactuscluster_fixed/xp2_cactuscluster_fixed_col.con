@@ -1,0 +1,11 @@
+CollisionManager.createTemplate xp2_cactuscluster_fixed
+
+ObjectTemplate.create SimpleObject xp2_cactuscluster_fixed_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.collisionMesh xp2_cactuscluster_fixed
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+
+include xp2_cactuscluster_fixed_col.tweak

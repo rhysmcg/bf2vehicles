@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dagxxw7sjqsi2"
+path="res://.godot/imported/chsni_type88_scope_c.dds-618352fc1467aeb5ad98728a76d08917.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsni_type88/textures/chsni_type88_scope_c.dds"
+dest_files=["res://.godot/imported/chsni_type88_scope_c.dds-618352fc1467aeb5ad98728a76d08917.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,211 @@
+GeometryTemplate.create BundledMesh e_destruction_cart_dest
+
+ObjectTemplate.create EffectBundle e_destruction_cart_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_01
+ObjectTemplate.setPosition 0.0898/0.6795/-0.5335
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_02
+ObjectTemplate.setPosition -0.2468/0.6335/-0.3406
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_03
+ObjectTemplate.setPosition -0.2488/0.5538/-0.4485
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_04
+ObjectTemplate.setPosition 0.0012/0.6670/0.0728
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_05
+ObjectTemplate.setPosition -1.0879/0.5439/0.4653
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_06
+ObjectTemplate.setPosition 0.8411/0.5566/0.4308
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_07
+ObjectTemplate.setPosition 0.8933/0.6798/-0.2714
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_08
+ObjectTemplate.setPosition 1.2085/0.7161/-0.0619
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_09
+ObjectTemplate.setPosition 0.5507/0.3504/-0.0091
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_10
+ObjectTemplate.setPosition 0.5885/0.4367/-0.4957
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_11
+ObjectTemplate.setPosition 0.5840/0.3570/0.6453
+ObjectTemplate.addTemplate em_destruction_Cart_Dest_12
+ObjectTemplate.setPosition 0.5800/0.3671/-0.6416
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_01
+ObjectTemplate.template p_destruction_Cart_Dest_01
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_01
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_02
+ObjectTemplate.template p_destruction_Cart_Dest_02
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_02
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_03
+ObjectTemplate.template p_destruction_Cart_Dest_03
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_03
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_04
+ObjectTemplate.template p_destruction_Cart_Dest_04
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_04
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_05
+ObjectTemplate.template p_destruction_Cart_Dest_05
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_05
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_06
+ObjectTemplate.template p_destruction_Cart_Dest_06
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_06
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_07
+ObjectTemplate.template p_destruction_Cart_Dest_07
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_07
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_08
+ObjectTemplate.template p_destruction_Cart_Dest_08
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_08
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_09
+ObjectTemplate.template p_destruction_Cart_Dest_09
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_09
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_10
+ObjectTemplate.template p_destruction_Cart_Dest_10
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_10
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_11
+ObjectTemplate.template p_destruction_Cart_Dest_11
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_11
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Emitter em_destruction_Cart_Dest_12
+ObjectTemplate.template p_destruction_Cart_Dest_12
+
+ObjectTemplate.create Particle p_destruction_Cart_Dest_12
+ObjectTemplate.collisionMesh e_destruction_cart_dest
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 wreck 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 rubber 0
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_cart_dest
+ObjectTemplate.geometryPart 11
+
+include e_destruction_cart_dest.tweak

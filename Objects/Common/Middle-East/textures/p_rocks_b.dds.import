@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cy2e7n22n1f42"
+path="res://.godot/imported/p_rocks_b.dds-438bd9e6a16af8477e39354b7ef350f6.res"
+
+[deps]
+
+source_file="res://Objects/Common/Middle-East/textures/p_rocks_b.dds"
+dest_files=["res://.godot/imported/p_rocks_b.dds-438bd9e6a16af8477e39354b7ef350f6.res"]
+
+[params]
+
+mipmaps/generate=true

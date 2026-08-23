@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh barrier_blocks_high_64m
+CollisionManager.createTemplate barrier_blocks_high_64m
+
+ObjectTemplate.create SimpleObject barrier_blocks_high_64m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh barrier_blocks_high_64m
+ObjectTemplate.mapMaterial 0 sandbags 0
+ObjectTemplate.mapMaterial 1 gravel 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry barrier_blocks_high_64m
+ObjectTemplate.anchor 0/-1.2560/0
+
+include barrier_blocks_high_64m.tweak

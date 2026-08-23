@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dk5pn1527sdlv"
+path="res://.godot/imported/jep_vodnik_cockpit_c.dds-1c2df8c16b9a0c55db4f182ba07dbe75.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_vodnik/textures/jep_vodnik_cockpit_c.dds"
+dest_files=["res://.godot/imported/jep_vodnik_cockpit_c.dds-1c2df8c16b9a0c55db4f182ba07dbe75.res"]
+
+[params]
+
+mipmaps/generate=true

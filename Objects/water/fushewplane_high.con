@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh fushewplane_high
+CollisionManager.createTemplate fushewplane_high
+
+ObjectTemplate.create SimpleObject fushewplane_high
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh fushewplane_high
+ObjectTemplate.mapMaterial 0 water 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fushewplane_high
+ObjectTemplate.anchor -238.3203/0/-119.2505
+
+include fushewplane_high.tweak

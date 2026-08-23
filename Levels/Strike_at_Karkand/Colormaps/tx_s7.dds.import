@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqc38a242ad7o"
+path="res://.godot/imported/tx_s7.dds-57cee4e5c72ed4eb751b156265bca617.res"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/Colormaps/tx_s7.dds"
+dest_files=["res://.godot/imported/tx_s7.dds-57cee4e5c72ed4eb751b156265bca617.res"]
+
+[params]
+
+mipmaps/generate=true

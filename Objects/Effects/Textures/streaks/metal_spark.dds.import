@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bca1plvk8i45v"
+path="res://.godot/imported/metal_spark.dds-9bd1dc62bab7a02831fe45354bc09f77.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/streaks/metal_spark.dds"
+dest_files=["res://.godot/imported/metal_spark.dds-9bd1dc62bab7a02831fe45354bc09f77.res"]
+
+[params]
+
+mipmaps/generate=true

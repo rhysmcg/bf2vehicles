@@ -1,0 +1,11 @@
+CollisionManager.createTemplate xp2_cactus_01
+
+ObjectTemplate.create SimpleObject xp2_cactus_01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLOR:taylorki
+ObjectTemplate.collisionMesh xp2_cactus_01
+ObjectTemplate.mapMaterial 0 cactusSkin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+
+include xp2_cactus_01_col.tweak

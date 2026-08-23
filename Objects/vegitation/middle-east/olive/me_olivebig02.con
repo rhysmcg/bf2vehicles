@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh me_olivebig02
+CollisionManager.createTemplate me_olivebig02
+
+ObjectTemplate.create SimpleObject me_olivebig02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_olivebig02
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_olivebig02
+ObjectTemplate.anchor 0.2842/-4.7008/0.7080
+
+include me_olivebig02.tweak

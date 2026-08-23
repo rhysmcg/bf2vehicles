@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dxkxs3qnatfss"
+path="res://.godot/imported/US_Ghilliesuit_C_woodland.dds-f9233f464c7fd98a313d8821162595ce.res"
+
+[deps]
+
+source_file="res://Objects/Kits/US/textures/US_Ghilliesuit_C_woodland.dds"
+dest_files=["res://.godot/imported/US_Ghilliesuit_C_woodland.dds-f9233f464c7fd98a313d8821162595ce.res"]
+
+[params]
+
+mipmaps/generate=true

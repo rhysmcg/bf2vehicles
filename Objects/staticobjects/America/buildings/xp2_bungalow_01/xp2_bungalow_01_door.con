@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_bungalow_01_door
+CollisionManager.createTemplate xp2_bungalow_01_door
+
+ObjectTemplate.create SimpleObject xp2_bungalow_01_door
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.collisionMesh xp2_bungalow_01_door
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_bungalow_01_door
+ObjectTemplate.anchor 7.9896/-3.0583/5.5025
+
+include xp2_bungalow_01_door.tweak

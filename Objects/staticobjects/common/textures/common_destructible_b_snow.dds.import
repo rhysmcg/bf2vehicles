@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://djbhulp2jrhjh"
+path="res://.godot/imported/common_destructible_b_snow.dds-86c8e05a358e87612862b4730ef4f4cc.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_destructible_b_snow.dds"
+dest_files=["res://.godot/imported/common_destructible_b_snow.dds-86c8e05a358e87612862b4730ef4f4cc.res"]
+
+[params]
+
+mipmaps/generate=true

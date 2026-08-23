@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh vent_pipe_5m
+CollisionManager.createTemplate vent_pipe_5m
+
+ObjectTemplate.create SimpleObject vent_pipe_5m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh vent_pipe_5m
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry vent_pipe_5m
+
+include vent_pipe_5m.tweak

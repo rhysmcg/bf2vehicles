@@ -1,0 +1,63 @@
+GeometryTemplate.create BundledMesh e_destruction_trainbar
+
+ObjectTemplate.create EffectBundle e_destruction_trainbar
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_TrainBar_01
+ObjectTemplate.setPosition 0.0418/0.0107/2.4953
+ObjectTemplate.addTemplate em_destruction_TrainBar_02
+ObjectTemplate.setPosition 0.0332/0.0302/0.6309
+ObjectTemplate.addTemplate em_destruction_TrainBar_03
+ObjectTemplate.setPosition 0.0244/0.0822/-0.5085
+ObjectTemplate.addTemplate em_destruction_TrainBar_04
+ObjectTemplate.setPosition -0.0030/0/-1.9966
+
+ObjectTemplate.create Emitter em_destruction_TrainBar_01
+ObjectTemplate.template p_destruction_TrainBar_01
+
+ObjectTemplate.create Particle p_destruction_TrainBar_01
+ObjectTemplate.collisionMesh e_destruction_trainbar
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trainbar
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_TrainBar_02
+ObjectTemplate.template p_destruction_TrainBar_02
+
+ObjectTemplate.create Particle p_destruction_TrainBar_02
+ObjectTemplate.collisionMesh e_destruction_trainbar
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trainbar
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_TrainBar_03
+ObjectTemplate.template p_destruction_TrainBar_03
+
+ObjectTemplate.create Particle p_destruction_TrainBar_03
+ObjectTemplate.collisionMesh e_destruction_trainbar
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trainbar
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_TrainBar_04
+ObjectTemplate.template p_destruction_TrainBar_04
+
+ObjectTemplate.create Particle p_destruction_TrainBar_04
+ObjectTemplate.collisionMesh e_destruction_trainbar
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_trainbar
+ObjectTemplate.geometryPart 3
+
+include e_destruction_trainbar.tweak

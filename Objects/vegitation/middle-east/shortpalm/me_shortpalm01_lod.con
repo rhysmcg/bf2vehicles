@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_shortpalm01_lod
+
+ObjectTemplate.create SimpleObject me_shortpalm01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_shortpalm01_lod
+
+include me_shortpalm01_lod.tweak

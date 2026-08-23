@@ -1,0 +1,12 @@
+CollisionManager.createTemplate eu_elmtree01_small
+
+ObjectTemplate.create SimpleObject eu_elmtree01_small_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator AHA-3:aha
+ObjectTemplate.collisionMesh eu_elmtree01
+ObjectTemplate.mapMaterial 0 tree_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-14.1323/-0.3140
+
+include eu_elmtree01_small_col.tweak

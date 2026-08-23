@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh rock2m
+CollisionManager.createTemplate rock2m
+
+ObjectTemplate.create SimpleObject rock2m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh rock2m
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rock2m
+
+include rock2m.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_silo_04
+CollisionManager.createTemplate xp2_silo_04
+
+ObjectTemplate.create SimpleObject xp2_silo_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_silo_04
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 ladder 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_silo_04
+
+include xp2_silo_04.tweak

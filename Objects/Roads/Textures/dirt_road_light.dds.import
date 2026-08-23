@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://wywvgipb7sg1"
+path="res://.godot/imported/dirt_road_light.dds-520dd745f708bf81c66e685ff737e90c.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/dirt_road_light.dds"
+dest_files=["res://.godot/imported/dirt_road_light.dds-520dd745f708bf81c66e685ff737e90c.res"]
+
+[params]
+
+mipmaps/generate=true

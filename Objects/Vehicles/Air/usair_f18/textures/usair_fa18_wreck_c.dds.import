@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dygi8rjswwakh"
+path="res://.godot/imported/usair_fa18_wreck_c.dds-42d5cd27282c1f69b8d5aedabc07c9aa.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f18/textures/usair_fa18_wreck_c.dds"
+dest_files=["res://.godot/imported/usair_fa18_wreck_c.dds-42d5cd27282c1f69b8d5aedabc07c9aa.res"]
+
+[params]
+
+mipmaps/generate=true

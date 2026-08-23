@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://76cr8gpahicp"
+path="res://.godot/imported/maverick_c.dds-0ec23f8f1ad9d0e3d7592aa32846d64d.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/maverick_c.dds"
+dest_files=["res://.godot/imported/maverick_c.dds-0ec23f8f1ad9d0e3d7592aa32846d64d.res"]
+
+[params]
+
+mipmaps/generate=true

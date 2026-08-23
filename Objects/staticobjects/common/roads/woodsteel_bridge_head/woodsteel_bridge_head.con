@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh woodsteel_bridge_head
+CollisionManager.createTemplate woodsteel_bridge_head
+
+ObjectTemplate.create SimpleObject woodsteel_bridge_head
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh woodsteel_bridge_head
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry woodsteel_bridge_head
+ObjectTemplate.anchor 0/4.5000/4.9890
+
+include woodsteel_bridge_head.tweak

@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/7 12:10]
+ObjectTemplate.activeSafe SimpleObject power_station_pt_1
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry power_station_pt_1
+ObjectTemplate.setCollisionMesh power_station_pt_1
+ObjectTemplate.mapMaterial 0 solid_metal 21
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor -0.5396/-3.0991/-0.0193
+

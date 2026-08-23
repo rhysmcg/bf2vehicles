@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 40
+GeometryTemplate.setSubGeometryLodDistance 0 1 90
+GeometryTemplate.setSubGeometryLodDistance 0 2 140
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject house_high_02_v2
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_high_02_v2
+ObjectTemplate.setCollisionMesh house_high_02_v2
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 cloth 10
+ObjectTemplate.mapMaterial 2 glass_common_ 17
+ObjectTemplate.mapMaterial 3 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 4 Tarmac 4
+ObjectTemplate.mapMaterial 5 metalsolid 21
+ObjectTemplate.mapMaterial 6 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh chpowerstation
+CollisionManager.createTemplate chpowerstation
+
+ObjectTemplate.create SimpleObject chpowerstation
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh chpowerstation
+ObjectTemplate.mapMaterial 0 concret 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 cable 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chpowerstation
+ObjectTemplate.anchor 0.0111/-10.0131/-1.4367
+
+include chpowerstation.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh woodencrate_group4
+CollisionManager.createTemplate woodencrate_group4
+
+ObjectTemplate.create SimpleObject woodencrate_group4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh woodencrate_group4
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry woodencrate_group4
+
+include woodencrate_group4.tweak

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh stnwalls_innersloope_30m_invert
+CollisionManager.createTemplate stnwalls_innersloope_30m_invert
+
+ObjectTemplate.create SimpleObject stnwalls_innersloope_30m_invert
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh stnwalls_innersloope_30m_invert
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 stairs_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_innersloope_30m_invert
+ObjectTemplate.anchor -15.0000/-3.5500/-1.0000
+
+include stnwalls_innersloope_30m_invert.tweak

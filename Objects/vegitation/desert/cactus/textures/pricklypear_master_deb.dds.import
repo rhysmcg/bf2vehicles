@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://6c1ivutnhwuj"
+path="res://.godot/imported/pricklypear_master_deb.dds-29809754be025a14485708dc678d04aa.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/textures/pricklypear_master_deb.dds"
+dest_files=["res://.godot/imported/pricklypear_master_deb.dds-29809754be025a14485708dc678d04aa.res"]
+
+[params]
+
+mipmaps/generate=true

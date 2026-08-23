@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled OSS_road_xpack2
+ObjectTemplate.create SimpleObject OSS_road_xpack2
+ObjectTemplate.geometry OSS_road_xpack2

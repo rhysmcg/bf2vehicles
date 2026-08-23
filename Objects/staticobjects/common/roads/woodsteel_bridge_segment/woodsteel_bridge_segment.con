@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh woodsteel_bridge_segment
+CollisionManager.createTemplate woodsteel_bridge_segment
+
+ObjectTemplate.create DestroyableObject woodsteel_bridge_segment
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh woodsteel_bridge_segment
+ObjectTemplate.mapMaterial 0 Wood_solid 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry woodsteel_bridge_segment
+ObjectTemplate.anchor 0/0.5366/5.0000
+
+include woodsteel_bridge_segment.tweak

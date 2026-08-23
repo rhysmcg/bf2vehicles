@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d253pn8ghpeyt"
+path="res://.godot/imported/dam_02_c.dds-44000506a952c3cb2e73e2fd2c7c8d6d.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/textures/dam_02_c.dds"
+dest_files=["res://.godot/imported/dam_02_c.dds-44000506a952c3cb2e73e2fd2c7c8d6d.res"]
+
+[params]
+
+mipmaps/generate=true

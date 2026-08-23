@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh me_flowerpot01
+CollisionManager.createTemplate me_flowerpot01
+
+ObjectTemplate.create SimpleObject me_flowerpot01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_flowerpot01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 concrete_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_flowerpot01
+ObjectTemplate.anchor -0.2131/-1.3987/0.1090
+
+include me_flowerpot01.tweak

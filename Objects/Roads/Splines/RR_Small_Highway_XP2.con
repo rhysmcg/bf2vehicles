@@ -1,0 +1,19 @@
+if v_arg1 == BF2Editor
+rem ** [RoadTemplate] - RR_Small_Highway_XP2 **
+RoadTemplate.CreateInstance
+RoadTemplate.SetName "RR_Small_Highway_XP2"
+RoadTemplate.SetWidth 10
+RoadTemplate.SetMaxTesselatedError 0.01
+RoadTemplate.SetBlendFactor 0.85
+RoadTemplate.SetPrio 0
+RoadTemplate.SetMaterial Default
+RoadTemplate.SetIsPrimaryTexture 1
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\highway_2_lane_rr"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 1/1
+RoadTemplate.SetIsPrimaryTexture 0
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\tarmac_overlay_karkand01"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 1/1
+endIf
+

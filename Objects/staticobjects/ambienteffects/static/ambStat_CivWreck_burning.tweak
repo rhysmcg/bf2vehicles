@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/10 8:53]
+ObjectTemplate.activeSafe Bundle ambStat_CivWreck_burning
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate e_sAmb_wreckfire
+ObjectTemplate.addTemplate ambStat_CivWreck_burning_SupplyObject
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject ambStat_CivWreck_burning_SupplyObject
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 0.8
+ObjectTemplate.damageSpeed 10
+

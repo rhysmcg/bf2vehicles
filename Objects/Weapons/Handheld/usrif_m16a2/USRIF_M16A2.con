@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh usrif_m16a2
+CollisionManager.createTemplate usrif_m16a2
+
+ObjectTemplate.create GenericFireArm usrif_m16a2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FLI-1:fli
+ObjectTemplate.collisionMesh usrif_m16a2
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.mapMaterial 1 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry usrif_m16a2
+
+include usrif_m16a2.tweak

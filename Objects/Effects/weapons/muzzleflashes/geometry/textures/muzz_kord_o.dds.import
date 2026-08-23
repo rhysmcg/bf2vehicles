@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://m6joaum41h41"
+path="res://.godot/imported/muzz_kord_o.dds-f153005998b02c4f85f09719f2aac02d.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/textures/muzz_kord_o.dds"
+dest_files=["res://.godot/imported/muzz_kord_o.dds-f153005998b02c4f85f09719f2aac02d.res"]
+
+[params]
+
+mipmaps/generate=true

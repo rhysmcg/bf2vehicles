@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stnwalls_10m_none
+CollisionManager.createTemplate stnwalls_10m_none
+
+ObjectTemplate.create SimpleObject stnwalls_10m_none
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh stnwalls_10m_none
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_10m_none
+ObjectTemplate.anchor 5.0000/-3.5500/1.0000
+
+include stnwalls_10m_none.tweak

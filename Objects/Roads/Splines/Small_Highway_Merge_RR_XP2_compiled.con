@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Small_Highway_Merge_RR_XP2
+ObjectTemplate.create SimpleObject Small_Highway_Merge_RR_XP2
+ObjectTemplate.geometry Small_Highway_Merge_RR_XP2

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh mangrove_big1
+CollisionManager.createTemplate mangrove_big1
+
+ObjectTemplate.create SimpleObject mangrove_big1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh mangrove_big1
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry mangrove_big1
+ObjectTemplate.anchor -0.9240/-5.9058/-1.0657
+
+include mangrove_big1.tweak

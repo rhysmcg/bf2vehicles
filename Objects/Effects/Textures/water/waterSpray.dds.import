@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c3aupbufl84dn"
+path="res://.godot/imported/waterSpray.dds-dda96fd6c7767aba934dba502f7b566c.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/water/waterSpray.dds"
+dest_files=["res://.godot/imported/waterSpray.dds-dda96fd6c7767aba934dba502f7b566c.res"]
+
+[params]
+
+mipmaps/generate=true

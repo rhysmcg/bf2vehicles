@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://chjkawgxc3le7"
+path="res://.godot/imported/exp_cloud02.dds-73b79e92d6d54580bcbfb4b5e0a44867.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/exp_cloud02.dds"
+dest_files=["res://.godot/imported/exp_cloud02.dds-73b79e92d6d54580bcbfb4b5e0a44867.res"]
+
+[params]
+
+mipmaps/generate=true

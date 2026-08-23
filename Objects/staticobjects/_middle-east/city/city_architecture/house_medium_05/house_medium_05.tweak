@@ -1,0 +1,39 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/21 20:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 60
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle house_medium_05
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_medium_05
+ObjectTemplate.setCollisionMesh house_medium_05
+ObjectTemplate.mapMaterial 0 RochConcrete 78
+ObjectTemplate.mapMaterial 1 Wood 15
+ObjectTemplate.mapMaterial 2 MetalPlatethin 20
+ObjectTemplate.mapMaterial 3 Glasscommon 17
+ObjectTemplate.mapMaterial 4 cloth 10
+ObjectTemplate.mapMaterial 5 Tarmac 4
+ObjectTemplate.mapMaterial 6 metal_solid 21
+ObjectTemplate.mapMaterial 7 concrete_slippery 1012
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_20m
+ObjectTemplate.setPosition 5.18866/-3.27142/9.6499
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate ladder_4m
+ObjectTemplate.setPosition 2.00082/8.92208/-7.1498
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate ladder_2m
+ObjectTemplate.setPosition 3.64713/6.13307/-4.88487
+ObjectTemplate.addTemplate ladder_2m
+ObjectTemplate.setPosition 3.22043/6.1252/3.42762
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

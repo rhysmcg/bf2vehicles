@@ -1,0 +1,26 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/29 17:0]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle dam_bridge_base2
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry dam_bridge_base2
+ObjectTemplate.setCollisionMesh Dam_bridge_base2
+ObjectTemplate.mapMaterial 0 concret 78
+ObjectTemplate.mapMaterial 1 wood_solid 15
+ObjectTemplate.mapMaterial 2 Metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate dam_bridge_base_ladder
+ObjectTemplate.setPosition 7.27385/8.19868/-10.5621
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d22itpy2s56l6"
+path="res://.godot/imported/Detail_Rock04_dark.dds-ec8d5ea560ebdc66b14d647f01dea565.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Rock04_dark.dds"
+dest_files=["res://.godot/imported/Detail_Rock04_dark.dds-ec8d5ea560ebdc66b14d647f01dea565.res"]
+
+[params]
+
+mipmaps/generate=true

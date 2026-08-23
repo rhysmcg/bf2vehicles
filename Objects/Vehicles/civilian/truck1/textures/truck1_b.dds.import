@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c2gpxmmgapqtf"
+path="res://.godot/imported/truck1_b.dds-22ba3fcb2129a1de453d402d70e95f8b.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/truck1/textures/truck1_b.dds"
+dest_files=["res://.godot/imported/truck1_b.dds-22ba3fcb2129a1de453d402d70e95f8b.res"]
+
+[params]
+
+mipmaps/generate=true

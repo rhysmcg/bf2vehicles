@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/1/18 10:59]
+GeometryTemplate.setSubGeometryLodDistance 0 0 1000
+GeometryTemplate.setSubGeometryLodDistance 0 1 1025
+GeometryTemplate.setSubGeometryLodDistance 0 2 1050
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_haybale_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "nickwh"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_haybale_01
+ObjectTemplate.setCollisionMesh xp2_haybale_01
+ObjectTemplate.mapMaterial 0 Grass 5
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

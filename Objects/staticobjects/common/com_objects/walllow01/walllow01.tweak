@@ -1,0 +1,12 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/6/14 18:46]
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 0 15
+ObjectTemplate.activeSafe SimpleObject walllow01
+ObjectTemplate.creator ENI-1:eni
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry walllow01
+ObjectTemplate.setCollisionMesh walllow01
+ObjectTemplate.mapMaterial 0 lambert2 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor 2.5082/-0.5094/0.25
+

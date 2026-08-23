@@ -1,0 +1,28 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/11 17:11]
+GeometryTemplate.setSubGeometryLodDistance 0 0 100
+GeometryTemplate.setSubGeometryLodDistance 0 1 190
+GeometryTemplate.setSubGeometryLodDistance 0 2 240
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject constructhouse_01_v2
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.castsDynamicShadow 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry constructhouse_01_v2
+ObjectTemplate.setCollisionMesh constructhouse_01_v2
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 metal 21
+ObjectTemplate.mapMaterial 2 plastic 11
+ObjectTemplate.mapMaterial 3 wood 15
+ObjectTemplate.mapMaterial 4 glass 17
+ObjectTemplate.mapMaterial 5 penetrable_wood 1003
+ObjectTemplate.mapMaterial 6 Sandbags 76
+ObjectTemplate.mapMaterial 7 stairs_concrete 34
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

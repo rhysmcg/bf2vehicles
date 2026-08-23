@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://or2ogp5gq2sr"
+path="res://.godot/imported/decal_rubber_anim.dds-2c8d52c129a50447a616051582642a69.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_rubber_anim.dds"
+dest_files=["res://.godot/imported/decal_rubber_anim.dds-2c8d52c129a50447a616051582642a69.res"]
+
+[params]
+
+mipmaps/generate=true

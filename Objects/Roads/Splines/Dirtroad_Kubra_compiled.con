@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Dirtroad_Kubra
+ObjectTemplate.create SimpleObject Dirtroad_Kubra
+ObjectTemplate.geometry Dirtroad_Kubra

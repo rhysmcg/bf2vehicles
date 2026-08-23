@@ -1,0 +1,27 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/21 11:11]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle oilscistern_01
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry oilscistern_01
+ObjectTemplate.setCollisionMesh oilscistern_01
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 2 Concrete 78
+ObjectTemplate.mapMaterial 3 Glass 17
+ObjectTemplate.mapMaterial 4 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_30m
+ObjectTemplate.setPosition 7.16485/-1.87309/31.425
+ObjectTemplate.setRotation -170/0/0
+rem -------------------------------------
+

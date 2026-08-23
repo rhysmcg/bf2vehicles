@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh stnwalls_sloope_fillsection_30m
+CollisionManager.createTemplate stnwalls_sloope_fillsection_30m
+
+ObjectTemplate.create Bundle stnwalls_sloope_fillsection_30m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MNY-1:mny
+ObjectTemplate.collisionMesh stnwalls_sloope_fillsection_30m
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_sloope_fillsection_30m
+
+include stnwalls_sloope_fillsection_30m.tweak

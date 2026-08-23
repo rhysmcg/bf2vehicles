@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh antennamast
+CollisionManager.createTemplate antennamast
+
+ObjectTemplate.create SimpleObject antennamast
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh antennamast
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry antennamast
+ObjectTemplate.anchor 1.9588/-17.7535/1.7495
+
+include antennamast.tweak

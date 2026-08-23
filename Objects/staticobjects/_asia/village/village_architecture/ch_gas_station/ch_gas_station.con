@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh ch_gas_station
+CollisionManager.createTemplate ch_gas_station
+
+ObjectTemplate.create Bundle ch_gas_station
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh ch_gas_station
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 metal_solid 0
+ObjectTemplate.mapMaterial 4 concrete 0
+ObjectTemplate.mapMaterial 5 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_gas_station
+ObjectTemplate.anchor -5.1060/-3.2435/0
+
+include ch_gas_station.tweak

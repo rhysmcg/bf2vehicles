@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cv17f0xckdpc2"]
+
+[node name="Viewer" type="Node3D"]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+<<<<<<< HEAD
+<<<<<<< HEAD
+visible = false
+=======
+>>>>>>> parent of d2bcc3f (Staticmesh now loads a 3d object)
+=======
+>>>>>>> parent of d2bcc3f (Staticmesh now loads a 3d object)

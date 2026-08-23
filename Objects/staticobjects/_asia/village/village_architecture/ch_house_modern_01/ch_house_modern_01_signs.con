@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh ch_house_modern_01_signs
+CollisionManager.createTemplate ch_house_modern_01_signs
+
+ObjectTemplate.create SimpleObject ch_house_modern_01_signs
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_house_modern_01_signs
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Wood_thin 0
+ObjectTemplate.mapMaterial 2 Cardboard_box 0
+ObjectTemplate.mapMaterial 3 Rubber 0
+ObjectTemplate.mapMaterial 4 Plastic 0
+ObjectTemplate.mapMaterial 5 Glass_common 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_house_modern_01_signs
+ObjectTemplate.anchor 0.1337/-3.7171/-2.6396
+
+include ch_house_modern_01_signs.tweak

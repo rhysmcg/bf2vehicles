@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh dam_ironbridge_part2
+CollisionManager.createTemplate dam_ironbridge_part2
+
+ObjectTemplate.create DestroyableObject dam_ironbridge_part2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh dam_ironbridge_part2
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 rubber 0
+ObjectTemplate.mapMaterial 3 metal_plate_thin 0
+ObjectTemplate.mapMaterial 4 slippery__for__soldier 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_ironbridge_part2
+ObjectTemplate.anchor -70.9259/-70.3645/8.0542
+
+include dam_ironbridge_part2.tweak

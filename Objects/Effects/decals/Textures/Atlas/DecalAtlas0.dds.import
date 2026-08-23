@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvireb5mh0l8f"
+path="res://.godot/imported/DecalAtlas0.dds-e6692c03b251efcd745b06789d79e281.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/Atlas/DecalAtlas0.dds"
+dest_files=["res://.godot/imported/DecalAtlas0.dds-e6692c03b251efcd745b06789d79e281.res"]
+
+[params]
+
+mipmaps/generate=true

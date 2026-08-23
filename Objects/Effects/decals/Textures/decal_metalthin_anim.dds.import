@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://nshare5xrano"
+path="res://.godot/imported/decal_metalthin_anim.dds-b53330951deefebfc474bf9d965f3580.res"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/Textures/decal_metalthin_anim.dds"
+dest_files=["res://.godot/imported/decal_metalthin_anim.dds-b53330951deefebfc474bf9d965f3580.res"]
+
+[params]
+
+mipmaps/generate=true

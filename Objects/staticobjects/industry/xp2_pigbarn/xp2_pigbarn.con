@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh xp2_pigbarn
+CollisionManager.createTemplate xp2_pigbarn
+
+ObjectTemplate.create Bundle xp2_pigbarn
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKEC:mikeca
+ObjectTemplate.collisionMesh xp2_pigbarn
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.mapMaterial 2 metal 0
+ObjectTemplate.mapMaterial 3 glass 0
+ObjectTemplate.mapMaterial 4 rubber 0
+ObjectTemplate.mapMaterial 5 stairs 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_pigbarn
+
+include xp2_pigbarn.tweak

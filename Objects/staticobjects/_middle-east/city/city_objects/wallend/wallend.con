@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wallend
+CollisionManager.createTemplate wallend
+
+ObjectTemplate.create SimpleObject wallend
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh wallend
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wallend
+ObjectTemplate.anchor 0/-1.6007/0
+
+include wallend.tweak

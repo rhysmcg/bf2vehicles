@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b5rewswvv7rlc"
+path="res://.godot/imported/ParticleAtlas0.dds-8d1f83a3c69c7abb8d87457b340f994d.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/Atlas/ParticleAtlas0.dds"
+dest_files=["res://.godot/imported/ParticleAtlas0.dds-8d1f83a3c69c7abb8d87457b340f994d.res"]
+
+[params]
+
+mipmaps/generate=true

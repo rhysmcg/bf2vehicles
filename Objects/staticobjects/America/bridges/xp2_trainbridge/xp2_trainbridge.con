@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_trainbridge
+CollisionManager.createTemplate xp2_trainbridge
+
+ObjectTemplate.create SimpleObject xp2_trainbridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RON:ronda
+ObjectTemplate.collisionMesh xp2_trainbridge
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_trainbridge
+ObjectTemplate.anchor 0/-1.7318/9.9008
+
+include xp2_trainbridge.tweak

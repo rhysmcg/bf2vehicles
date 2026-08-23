@@ -1,0 +1,8 @@
+GeometryTemplate.create SkinnedMesh animatedparachute
+
+ObjectTemplate.create AnimatedBundle animatedparachute
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TDA-1:tda
+ObjectTemplate.geometry animatedparachute
+
+include animatedparachute.tweak

@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh nc_pinebig01_lod
+
+ObjectTemplate.create SimpleObject nc_pinebig01_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry nc_pinebig01_lod
+
+include nc_pinebig01_lod.tweak

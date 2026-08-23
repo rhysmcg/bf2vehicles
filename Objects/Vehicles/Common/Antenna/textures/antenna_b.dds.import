@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cdlv682euflhp"
+path="res://.godot/imported/antenna_b.dds-6bfd2eeb9ee9a0ea055978bfdd4eb98b.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/Antenna/textures/antenna_b.dds"
+dest_files=["res://.godot/imported/antenna_b.dds-6bfd2eeb9ee9a0ea055978bfdd4eb98b.res"]
+
+[params]
+
+mipmaps/generate=true

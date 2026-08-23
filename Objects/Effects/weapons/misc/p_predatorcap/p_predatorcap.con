@@ -1,0 +1,12 @@
+GeometryTemplate.create BundledMesh p_predatorcap
+
+ObjectTemplate.create Particle p_predatorcap
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-3:dsu
+ObjectTemplate.mapMaterial 0 predatorcap_cgfx 0
+ObjectTemplate.mapMaterial 1 Plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_predatorcap
+
+include p_predatorcap.tweak

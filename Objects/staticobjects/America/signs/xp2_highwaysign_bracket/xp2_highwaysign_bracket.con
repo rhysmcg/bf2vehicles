@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_highwaysign_bracket
+CollisionManager.createTemplate xp2_highwaysign_bracket
+
+ObjectTemplate.create SimpleObject xp2_highwaysign_bracket
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_highwaysign_bracket
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_highwaysign_bracket
+ObjectTemplate.anchor 8.0431/-6.4555/0.9279
+
+include xp2_highwaysign_bracket.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://vrmyohj8l48y"
+path="res://.godot/imported/anim_dirt_speed2.dds-bf2dd725ed47a01b5b8047ca15915897.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_dirt_speed2.dds"
+dest_files=["res://.godot/imported/anim_dirt_speed2.dds-bf2dd725ed47a01b5b8047ca15915897.res"]
+
+[params]
+
+mipmaps/generate=true

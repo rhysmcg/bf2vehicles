@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ba6cvp3lnh5n8"
+path="res://.godot/imported/lavhud_c.dds-151400d16d093ed48cfc88652ed5616f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USAPC_LAV25/textures/lavhud_c.dds"
+dest_files=["res://.godot/imported/lavhud_c.dds-151400d16d093ed48cfc88652ed5616f.res"]
+
+[params]
+
+mipmaps/generate=true

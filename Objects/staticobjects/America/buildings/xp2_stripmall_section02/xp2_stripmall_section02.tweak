@@ -1,0 +1,30 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/6 6:46]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 200
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_stripmall_section02
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.modifiedByUser "taylorki"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_stripmall_section02
+ObjectTemplate.setCollisionMesh xp2_stripmall_section02
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 thickMetal 21
+ObjectTemplate.mapMaterial 2 wood 15
+ObjectTemplate.mapMaterial 3 dirt 8
+ObjectTemplate.mapMaterial 4 plastic 11
+ObjectTemplate.mapMaterial 5 fiberGlass 11
+ObjectTemplate.mapMaterial 6 glass 17
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_stripmall_section02_glass
+rem -------------------------------------
+

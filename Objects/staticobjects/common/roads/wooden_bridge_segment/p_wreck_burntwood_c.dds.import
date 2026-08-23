@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bnlmwnycwob4"
+path="res://.godot/imported/p_wreck_burntwood_c.dds-0b0602d4ceb72d0d650228513696d830.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/wooden_bridge_segment/p_wreck_burntwood_c.dds"
+dest_files=["res://.godot/imported/p_wreck_burntwood_c.dds-0b0602d4ceb72d0d650228513696d830.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cimghx2vkh1ch"
+path="res://.godot/imported/p_wreck_fenceboards.dds-376330e8bd33e69358670c135c743d32.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_fenceboards.dds"
+dest_files=["res://.godot/imported/p_wreck_fenceboards.dds-376330e8bd33e69358670c135c743d32.res"]
+
+[params]
+
+mipmaps/generate=true

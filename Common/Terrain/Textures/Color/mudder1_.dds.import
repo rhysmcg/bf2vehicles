@@ -1,0 +1,14 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://csy7acn0s8o4c"
+valid=false
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Color/mudder1_.dds"
+
+[params]
+
+mipmaps/generate=true

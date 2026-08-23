@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh eurif_famas
+
+ObjectTemplate.create GenericFireArm eurif_famas
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JULIO:julioce
+ObjectTemplate.geometry eurif_famas
+
+include eurif_famas.tweak

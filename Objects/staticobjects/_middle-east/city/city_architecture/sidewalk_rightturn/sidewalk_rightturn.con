@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh sidewalk_rightturn
+CollisionManager.createTemplate sidewalk_rightturn
+
+ObjectTemplate.create SimpleObject sidewalk_rightturn
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh sidewalk_rightturn
+ObjectTemplate.mapMaterial 0 Sidewalk_Rightturn_rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sidewalk_rightturn
+ObjectTemplate.anchor -28.0040/-0.0508/27.9969
+
+include sidewalk_rightturn.tweak

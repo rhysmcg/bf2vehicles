@@ -1,0 +1,33 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/22 17:49]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.setSubGeometryLodDistance 0 2 125
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 512
+GeometryTemplate.setLightmapSizeAll 0 1 128
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Bundle hotel
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry hotel
+ObjectTemplate.setCollisionMesh hotel
+ObjectTemplate.mapMaterial 0 soli_dirt 8
+ObjectTemplate.mapMaterial 1 Concrete 78
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 3 cloth 10
+ObjectTemplate.mapMaterial 4 wood 15
+ObjectTemplate.mapMaterial 5 Plastic 11
+ObjectTemplate.mapMaterial 6 tarmac 4
+ObjectTemplate.mapMaterial 7 tarmac 7
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate ladder_40m
+ObjectTemplate.setPosition -6.43023/-6.21411/10.1471
+ObjectTemplate.setRotation -180/0/0
+rem -------------------------------------
+

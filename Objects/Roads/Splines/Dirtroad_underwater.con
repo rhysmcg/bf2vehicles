@@ -1,0 +1,19 @@
+if v_arg1 == BF2Editor
+rem ** [RoadTemplate] - Dirtroad_underwater **
+RoadTemplate.CreateInstance
+RoadTemplate.SetName "Dirtroad_underwater"
+RoadTemplate.SetWidth 5
+RoadTemplate.SetMaxTesselatedError 0
+RoadTemplate.SetBlendFactor 0.85
+RoadTemplate.SetPrio 5
+RoadTemplate.SetMaterial Gravel
+RoadTemplate.SetIsPrimaryTexture 1
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\dirt_road"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 1/1
+RoadTemplate.SetIsPrimaryTexture 0
+RoadTemplateTexture.SetTextureFile "objects\roads\textures\tarmac_layer1_lowtiling"
+RoadTemplateTexture.SetMirror 0
+RoadTemplateTexture.SetScale 1/0.5
+endIf
+

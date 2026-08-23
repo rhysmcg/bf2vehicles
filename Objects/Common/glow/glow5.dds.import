@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bddmq3imgptiw"
+path="res://.godot/imported/glow5.dds-500352fde692760d178222a8ec38bfda.res"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glow5.dds"
+dest_files=["res://.godot/imported/glow5.dds-500352fde692760d178222a8ec38bfda.res"]
+
+[params]
+
+mipmaps/generate=true

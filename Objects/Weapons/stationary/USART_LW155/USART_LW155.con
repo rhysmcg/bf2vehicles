@@ -1,0 +1,43 @@
+GeometryTemplate.create BundledMesh usart_lw155
+CollisionManager.createTemplate usart_lw155
+
+ObjectTemplate.create PlayerControlObject usart_lw155
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh usart_lw155
+ObjectTemplate.mapMaterial 0 Armor_2_light_armored_vehicles 0
+ObjectTemplate.mapMaterial 1 Rubber 0
+ObjectTemplate.mapMaterial 2 lw155wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry usart_lw155
+ObjectTemplate.addTemplate USART_LW155_sadle
+ObjectTemplate.setPosition -0.0051/0.8379/-0.2740
+
+ObjectTemplate.create RotationalBundle USART_LW155_sadle
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate USART_LW155_Barrel_Base
+ObjectTemplate.setPosition 0/-0.0785/-0.1031
+
+ObjectTemplate.create RotationalBundle USART_LW155_Barrel_Base
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate USART_LW155_Barrel
+ObjectTemplate.setPosition 0/0.0416/0.1227
+
+ObjectTemplate.create GenericFireArm USART_LW155_Barrel
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+
+include usart_lw155.tweak

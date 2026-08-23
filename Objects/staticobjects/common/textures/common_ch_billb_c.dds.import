@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dn1sl37qwaskx"
+path="res://.godot/imported/common_ch_billb_c.dds-51cbf7853fe248fba5ed44d2fc57cd41.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/textures/common_ch_billb_c.dds"
+dest_files=["res://.godot/imported/common_ch_billb_c.dds-51cbf7853fe248fba5ed44d2fc57cd41.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh house_low_01_v2
+CollisionManager.createTemplate house_low_01_v2
+
+ObjectTemplate.create SimpleObject house_low_01_v2
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh house_low_01_v2
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 1 Rock_or_concrete 0
+ObjectTemplate.mapMaterial 2 metal_plate_solid 0
+ObjectTemplate.mapMaterial 3 Glass_common 0
+ObjectTemplate.mapMaterial 4 plastic 0
+ObjectTemplate.mapMaterial 5 wood_solid 0
+ObjectTemplate.mapMaterial 6 Tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_low_01_v2
+ObjectTemplate.anchor -3.0345/-5.8608/0
+
+include house_low_01_v2.tweak

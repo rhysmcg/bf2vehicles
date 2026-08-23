@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d4lcbklq8b0j3"
+path="res://.godot/imported/p_towerscope.dds-7400265b02242be53b8cac90a5e66b4d.res"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/textures/p_towerscope.dds"
+dest_files=["res://.godot/imported/p_towerscope.dds-7400265b02242be53b8cac90a5e66b4d.res"]
+
+[params]
+
+mipmaps/generate=true

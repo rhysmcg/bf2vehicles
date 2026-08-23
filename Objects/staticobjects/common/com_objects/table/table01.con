@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh table01
+
+ObjectTemplate.create SimpleObject table01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-1:mkp
+ObjectTemplate.collisionMesh table01
+ObjectTemplate.mapMaterial 0 metallegs 0
+ObjectTemplate.mapMaterial 1 tabletop 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry table01
+
+include table01.tweak

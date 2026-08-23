@@ -1,0 +1,12 @@
+CollisionManager.createTemplate me_deadlog01
+
+ObjectTemplate.create SimpleObject me_deadlog01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_deadlog01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-0.1513/0
+
+include me_deadlog01_col.tweak

@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/17 0:16]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject gate_boom
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry gate_boom
+ObjectTemplate.setCollisionMesh gate_boom
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

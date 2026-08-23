@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh wirefence_l
+CollisionManager.createTemplate wirefence_l
+
+ObjectTemplate.create SimpleObject wirefence_l
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh wirefence_l
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Chicken_Wire_Thin 0
+ObjectTemplate.mapMaterial 2 Barbed_Wire 0
+ObjectTemplate.mapMaterial 3 Metal_solid 0
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wirefence_l
+ObjectTemplate.anchor 2.7447/-1.2500/-3.1731
+
+include wirefence_l.tweak

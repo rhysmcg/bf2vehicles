@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_olive04_lod
+
+ObjectTemplate.create SimpleObject me_olive04_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_olive04_lod
+
+include me_olive04_lod.tweak

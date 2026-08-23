@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c3aagamrgdovp"
+path="res://.godot/imported/distance_c.dds-cc22631c328c5256dabfc874b1135a0b.res"
+
+[deps]
+
+source_file="res://Objects/miscobjects/common/testareaobjects/textures/distance_c.dds"
+dest_files=["res://.godot/imported/distance_c.dds-cc22631c328c5256dabfc874b1135a0b.res"]
+
+[params]
+
+mipmaps/generate=true

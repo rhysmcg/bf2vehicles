@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_gardenshed_01
+CollisionManager.createTemplate xp2_gardenshed_01
+
+ObjectTemplate.create SimpleObject xp2_gardenshed_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_gardenshed_01
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_gardenshed_01
+ObjectTemplate.anchor 0.3846/0.0214/0.0157
+
+include xp2_gardenshed_01.tweak

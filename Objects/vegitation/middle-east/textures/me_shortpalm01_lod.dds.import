@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b0vd2mx8esl4w"
+path="res://.godot/imported/me_shortpalm01_lod.dds-2b48dc1afdfcd737b7bfcd102d2a9813.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/me_shortpalm01_lod.dds"
+dest_files=["res://.godot/imported/me_shortpalm01_lod.dds-2b48dc1afdfcd737b7bfcd102d2a9813.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2011/9/13 20:31]
+GeometryTemplate.setSubGeometryLodDistance 0 0 1000
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject pricklypearflowers_s_01
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.modifiedByUser "Mike"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry pricklypearflowers_s_01
+ObjectTemplate.setCollisionMesh pricklypearflowers_s_01
+ObjectTemplate.mapMaterial 0 wood_col 93
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+
+
+
+

@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/5 9:9]
+GeometryTemplate.setSubGeometryLodDistance 0 0 30
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject concretebarrier_2
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry concretebarrier_2
+ObjectTemplate.setCollisionMesh concretebarrier_2
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.treeCollisionDiameter 0.6
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

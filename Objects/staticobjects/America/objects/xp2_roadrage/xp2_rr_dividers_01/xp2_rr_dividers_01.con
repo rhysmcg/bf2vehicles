@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_rr_dividers_01
+CollisionManager.createTemplate xp2_rr_dividers_01
+
+ObjectTemplate.create SimpleObject xp2_rr_dividers_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DANIELA:Danielab
+ObjectTemplate.collisionMesh xp2_rr_dividers_01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_dividers_01
+ObjectTemplate.anchor 3.0976/-1.0123/209.7699
+
+include xp2_rr_dividers_01.tweak

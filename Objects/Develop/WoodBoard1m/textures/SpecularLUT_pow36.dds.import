@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://xxskpuf78fme"
+path="res://.godot/imported/SpecularLUT_pow36.dds-015a06efec408b019faf1adc40c8eaa8.res"
+
+[deps]
+
+source_file="res://Objects/Develop/WoodBoard1m/textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-015a06efec408b019faf1adc40c8eaa8.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh dam_bridge_part3
+CollisionManager.createTemplate dam_bridge_part3
+
+ObjectTemplate.create DestroyableObject dam_bridge_part3
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh dam_bridge_part3
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 concret 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_bridge_part3
+ObjectTemplate.anchor -0.0346/-22.5453/25.0431
+
+include dam_bridge_part3.tweak

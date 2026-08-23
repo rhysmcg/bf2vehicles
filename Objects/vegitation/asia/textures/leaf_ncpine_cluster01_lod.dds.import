@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://coe6e8w0dwcpe"
+path="res://.godot/imported/leaf_ncpine_cluster01_lod.dds-751c67caecc044c31be24b409841b526.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_ncpine_cluster01_lod.dds"
+dest_files=["res://.godot/imported/leaf_ncpine_cluster01_lod.dds-751c67caecc044c31be24b409841b526.res"]
+
+[params]
+
+mipmaps/generate=true

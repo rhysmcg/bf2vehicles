@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_mExp_Ni_dirt
+ObjectTemplate.createdInEditor 1
+
+include e_mExp_Ni_dirt.tweak

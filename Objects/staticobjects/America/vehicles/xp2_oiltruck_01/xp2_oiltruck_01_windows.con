@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh xp2_oiltruck_01_windows
+
+ObjectTemplate.create SimpleObject xp2_oiltruck_01_windows
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.geometry xp2_oiltruck_01_windows
+
+include xp2_oiltruck_01_windows.tweak

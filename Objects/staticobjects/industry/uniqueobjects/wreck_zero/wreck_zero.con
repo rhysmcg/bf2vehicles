@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh wreck_zero
+CollisionManager.createTemplate wreck_zero
+
+ObjectTemplate.create SimpleObject wreck_zero
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh wreck_zero
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wreck_zero
+
+include wreck_zero.tweak

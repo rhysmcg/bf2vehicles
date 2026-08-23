@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_nanjing_sidepanel
+CollisionManager.createTemplate p_wreck_nanjing_sidepanel
+
+ObjectTemplate.create Particle p_wreck_nanjing_sidepanel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_nanjing_sidepanel
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_nanjing_sidepanel
+
+include p_wreck_nanjing_sidepanel.tweak

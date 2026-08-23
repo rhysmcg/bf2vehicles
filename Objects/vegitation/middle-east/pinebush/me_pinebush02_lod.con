@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh me_pinebush02_lod
+
+ObjectTemplate.create SimpleObject me_pinebush02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry me_pinebush02_lod
+
+include me_pinebush02_lod.tweak

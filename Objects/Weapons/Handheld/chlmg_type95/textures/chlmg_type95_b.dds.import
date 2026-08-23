@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dihjg4ao60wsm"
+path="res://.godot/imported/chlmg_type95_b.dds-93f6bd7da36bd16fee6cbd431bc140a6.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chlmg_type95/textures/chlmg_type95_b.dds"
+dest_files=["res://.godot/imported/chlmg_type95_b.dds-93f6bd7da36bd16fee6cbd431bc140a6.res"]
+
+[params]
+
+mipmaps/generate=true

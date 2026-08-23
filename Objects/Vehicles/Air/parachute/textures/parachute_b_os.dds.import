@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bu71i75lh32fr"
+path="res://.godot/imported/parachute_b_os.dds-103be1ae7c458180e000d5cbbf027735.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/parachute/textures/parachute_b_os.dds"
+dest_files=["res://.godot/imported/parachute_b_os.dds-103be1ae7c458180e000d5cbbf027735.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ccpau0srl2dij"
+path="res://.godot/imported/air_j10_cockpit_b.dds-cf6d3263a5d2164f62caabf2c571e883.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_j10/textures/air_j10_cockpit_b.dds"
+dest_files=["res://.godot/imported/air_j10_cockpit_b.dds-cf6d3263a5d2164f62caabf2c571e883.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh xp2_stripmall_office_glass
+CollisionManager.createTemplate xp2_stripmall_office_glass
+
+ObjectTemplate.create SimpleObject xp2_stripmall_office_glass
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_stripmall_office_glass
+ObjectTemplate.mapMaterial 0 glass 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_stripmall_office_glass
+ObjectTemplate.anchor -17.4125/-0.1291/16.0682
+
+include xp2_stripmall_office_glass.tweak

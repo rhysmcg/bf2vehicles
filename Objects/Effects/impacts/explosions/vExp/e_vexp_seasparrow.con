@@ -1,0 +1,119 @@
+GeometryTemplate.create BundledMesh e_vexp_seasparrow
+
+ObjectTemplate.create EffectBundle e_vexp_seasparrow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_vexp_seasparrow_01
+ObjectTemplate.setPosition 1.7533/0.0372/0.7902
+ObjectTemplate.addTemplate em_vexp_seasparrow_02
+ObjectTemplate.setPosition 1.4198/0.0257/0.8105
+ObjectTemplate.addTemplate em_vexp_seasparrow_03
+ObjectTemplate.setPosition 1.4002/0.0459/-0.4920
+ObjectTemplate.addTemplate em_vexp_seasparrow_04
+ObjectTemplate.setPosition -1.8799/0.1431/0.7902
+ObjectTemplate.addTemplate em_vexp_seasparrow_05
+ObjectTemplate.setPosition -1.5813/0.1265/-0.0640
+ObjectTemplate.addTemplate em_vexp_seasparrow_06
+ObjectTemplate.setPosition -1.2881/-0.2503/-1.0006
+ObjectTemplate.addTemplate em_vexp_seasparrow_08
+ObjectTemplate.setPosition -0.0057/0.5769/1.6759
+ObjectTemplate.addTemplate em_vexp_seasparrow_07
+ObjectTemplate.setPosition -0.0057/0.5331/-1.6136
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_01
+ObjectTemplate.template p_vexp_seasparrow_01
+
+ObjectTemplate.create Particle p_vexp_seasparrow_01
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_02
+ObjectTemplate.template p_vexp_seasparrow_02
+
+ObjectTemplate.create Particle p_vexp_seasparrow_02
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_03
+ObjectTemplate.template p_vexp_seasparrow_03
+
+ObjectTemplate.create Particle p_vexp_seasparrow_03
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_04
+ObjectTemplate.template p_vexp_seasparrow_04
+
+ObjectTemplate.create Particle p_vexp_seasparrow_04
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_05
+ObjectTemplate.template p_vexp_seasparrow_05
+
+ObjectTemplate.create Particle p_vexp_seasparrow_05
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_06
+ObjectTemplate.template p_vexp_seasparrow_06
+
+ObjectTemplate.create Particle p_vexp_seasparrow_06
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_08
+ObjectTemplate.template p_vexp_seasparrow_08
+
+ObjectTemplate.create Particle p_vexp_seasparrow_08
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Emitter em_vexp_seasparrow_07
+ObjectTemplate.template p_vexp_seasparrow_07
+
+ObjectTemplate.create Particle p_vexp_seasparrow_07
+ObjectTemplate.collisionMesh e_vexp_seasparrow
+ObjectTemplate.mapMaterial 0 wreck_seasparrow 0
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_vexp_seasparrow
+ObjectTemplate.geometryPart 7
+
+include e_vexp_seasparrow.tweak

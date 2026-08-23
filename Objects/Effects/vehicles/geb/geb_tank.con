@@ -1,0 +1,4 @@
+ObjectTemplate.create GroundEffectBundle geb_tank
+ObjectTemplate.createdInEditor 1
+
+include geb_tank.tweak

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh oil_pump_static_02
+CollisionManager.createTemplate oil_pump_static_02
+
+ObjectTemplate.create SimpleObject oil_pump_static_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh oil_pump_static_02
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Concrete 0
+ObjectTemplate.mapMaterial 2 slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry oil_pump_static_02
+ObjectTemplate.anchor 0/-3.1271/0
+
+include oil_pump_static_02.tweak

@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/24 7:15]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Bundle xp2_oiltruck_01
+ObjectTemplate.creator JAYE:jayev
+ObjectTemplate.modifiedByUser "julioce"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_oiltruck_01
+ObjectTemplate.setCollisionMesh xp2_oiltruck_01
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 metal_thin 20
+ObjectTemplate.mapMaterial 2 plastic 11
+ObjectTemplate.mapMaterial 3 rubber 22
+ObjectTemplate.mapMaterial 4 glass 17
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate xp2_oiltruck_01_windows
+rem -------------------------------------
+

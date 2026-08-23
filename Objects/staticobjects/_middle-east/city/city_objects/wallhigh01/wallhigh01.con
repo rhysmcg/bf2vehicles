@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wallhigh01
+CollisionManager.createTemplate wallhigh01
+
+ObjectTemplate.create SimpleObject wallhigh01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh wallhigh01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wallhigh01
+ObjectTemplate.anchor 6.0000/-1.5000/0.2500
+
+include wallhigh01.tweak

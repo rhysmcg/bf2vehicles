@@ -1,0 +1,152 @@
+GeometryTemplate.create BundledMesh jep_vodnik
+CollisionManager.createTemplate jep_vodnik
+
+ObjectTemplate.create PlayerControlObject jep_vodnik
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh jep_vodnik
+ObjectTemplate.mapMaterial 0 Armor_2_light_armored_vehicles 0
+ObjectTemplate.mapMaterial 1 Glass_vehicle 0
+ObjectTemplate.mapMaterial 2 Cloth_carpet 0
+ObjectTemplate.mapMaterial 3 Penetrable_Glass_bulletproof 0
+ObjectTemplate.mapMaterial 4 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 5 Rubber 0
+ObjectTemplate.mapMaterial 6 wreck1 0
+ObjectTemplate.mapMaterial 7 hull_colormapgloss 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry jep_vodnik
+ObjectTemplate.addTemplate JEP_VODNIK_Stearingwheel
+ObjectTemplate.setPosition -0.4445/0.5142/2.1336
+ObjectTemplate.setRotation 0/-36.1753/0
+ObjectTemplate.addTemplate JEP_VODNIK_Engine
+ObjectTemplate.addTemplate JEP_VODNIK_Drivetrain_RR
+ObjectTemplate.setPosition 0.7328/-0.2340/-1.7126
+ObjectTemplate.addTemplate JEP_VODNIK_Drivetrain_LR
+ObjectTemplate.setPosition -0.7328/-0.2340/-1.7126
+ObjectTemplate.addTemplate JEP_VODNIK_Drivetrain_RF
+ObjectTemplate.setPosition 0.7328/-0.2340/1.4284
+ObjectTemplate.addTemplate JEP_VODNIK_Drivetrain_LF
+ObjectTemplate.setPosition -0.7328/-0.2340/1.4284
+ObjectTemplate.addTemplate JEP_VODNIK_CupolaBase
+
+ObjectTemplate.create RotationalBundle JEP_VODNIK_Stearingwheel
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Engine JEP_VODNIK_Engine
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+ObjectTemplate.addTemplate JEP_VODNIK_nav_RF
+ObjectTemplate.setPosition 1.1450/-0.7594/1.4303
+ObjectTemplate.addTemplate JEP_VODNIK_nav_LF
+ObjectTemplate.setPosition -1.1450/-0.7594/1.4303
+ObjectTemplate.addTemplate JEP_VODNIK_Wheel_LR
+ObjectTemplate.setPosition -1.1407/-0.7594/-1.7181
+ObjectTemplate.addTemplate JEP_VODNIK_Wheel_RR
+ObjectTemplate.setPosition 1.1407/-0.7594/-1.7181
+
+ObjectTemplate.create RotationalBundle JEP_VODNIK_nav_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate JEP_VODNIK_Wheel_RF
+ObjectTemplate.setPosition -0.0043/0/0
+
+ObjectTemplate.create Spring JEP_VODNIK_Wheel_RF
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create RotationalBundle JEP_VODNIK_nav_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate JEP_VODNIK_Wheel_LF
+ObjectTemplate.setPosition 0.0043/0/0
+
+ObjectTemplate.create Spring JEP_VODNIK_Wheel_LF
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create Spring JEP_VODNIK_Wheel_LR
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create Spring JEP_VODNIK_Wheel_RR
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create Bundle JEP_VODNIK_Drivetrain_RR
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+ObjectTemplate.addTemplate JEP_VODNIK_Spring_RR
+ObjectTemplate.setPosition 0.1112/0.1459/-0.0077
+
+ObjectTemplate.create SimpleObject JEP_VODNIK_Spring_RR
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Bundle JEP_VODNIK_Drivetrain_LR
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+ObjectTemplate.addTemplate JEP_VODNIK_Spring_LR
+ObjectTemplate.setPosition -0.1112/0.1459/-0.0077
+
+ObjectTemplate.create SimpleObject JEP_VODNIK_Spring_LR
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Bundle JEP_VODNIK_Drivetrain_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+ObjectTemplate.addTemplate JEP_VODNIK_Spring_RF
+ObjectTemplate.setPosition 0.1112/0.1459/-0.0077
+
+ObjectTemplate.create SimpleObject JEP_VODNIK_Spring_RF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create Bundle JEP_VODNIK_Drivetrain_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+ObjectTemplate.addTemplate JEP_VODNIK_Spring_LF
+ObjectTemplate.setPosition -0.1112/0.1459/-0.0077
+
+ObjectTemplate.create SimpleObject JEP_VODNIK_Spring_LF
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create PlayerControlObject JEP_VODNIK_CupolaBase
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+ObjectTemplate.addTemplate JEP_VODNIK_CupolaTower
+ObjectTemplate.setPosition 0/1.2817/-0.9685
+
+ObjectTemplate.create RotationalBundle JEP_VODNIK_CupolaTower
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+ObjectTemplate.addTemplate JEP_VODNIK_Cupola_Gunmount
+ObjectTemplate.setPosition 0/0.4237/0.6116
+
+ObjectTemplate.create RotationalBundle JEP_VODNIK_Cupola_Gunmount
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+include jep_vodnik.tweak

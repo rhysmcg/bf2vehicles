@@ -1,0 +1,16 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/4 12:30]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject toolshed_door_l
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry toolshed_door_l
+ObjectTemplate.setCollisionMesh toolshed_door_l
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.mapMaterial 1 Wood_penetratable 1003
+ObjectTemplate.mapMaterial 2 Wood_thin 14
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

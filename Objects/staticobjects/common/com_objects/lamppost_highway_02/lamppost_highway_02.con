@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh lamppost_highway_02
+CollisionManager.createTemplate lamppost_highway_02
+
+ObjectTemplate.create SimpleObject lamppost_highway_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh lamppost_highway_02
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 glass 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry lamppost_highway_02
+ObjectTemplate.anchor 0/-2.6931/0
+
+include lamppost_highway_02.tweak

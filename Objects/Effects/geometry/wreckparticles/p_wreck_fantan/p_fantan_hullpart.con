@@ -1,0 +1,14 @@
+GeometryTemplate.create BundledMesh p_fantan_hullpart
+CollisionManager.createTemplate p_fantan_hullpart
+
+ObjectTemplate.create Particle p_fantan_hullpart
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_fantan_hullpart
+ObjectTemplate.mapMaterial 0 cgfxShader4 0
+ObjectTemplate.mapMaterial 1 col_wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_fantan_hullpart
+
+include p_fantan_hullpart.tweak

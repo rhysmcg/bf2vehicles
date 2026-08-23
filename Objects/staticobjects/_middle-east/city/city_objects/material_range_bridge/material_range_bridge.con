@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh material_range_bridge
+
+ObjectTemplate.create Bundle material_range_bridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ESJ-1:esj
+ObjectTemplate.collisionMesh material_range_bridge
+ObjectTemplate.mapMaterial 0 lambert2 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry material_range_bridge
+ObjectTemplate.anchor -13.0000/-5.4065/-8.0038
+
+include material_range_bridge.tweak

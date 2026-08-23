@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh island_house
+
+ObjectTemplate.create SimpleObject island_house
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JBL-1:jbl
+ObjectTemplate.collisionMesh island_house
+ObjectTemplate.mapMaterial 0 lambert1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry island_house
+ObjectTemplate.anchor 0/-13.7990/0
+
+include island_house.tweak

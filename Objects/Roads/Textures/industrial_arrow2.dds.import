@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://db1n2qrmbm8qk"
+path="res://.godot/imported/industrial_arrow2.dds-0c8f8afe102f0dea137a5e31cfd3787e.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/industrial_arrow2.dds"
+dest_files=["res://.godot/imported/industrial_arrow2.dds-0c8f8afe102f0dea137a5e31cfd3787e.res"]
+
+[params]
+
+mipmaps/generate=true

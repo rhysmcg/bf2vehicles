@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh dam_bridge_base_ladder
+CollisionManager.createTemplate dam_bridge_base_ladder
+
+ObjectTemplate.create Ladder dam_bridge_base_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh dam_bridge_base_ladder
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_bridge_base_ladder
+ObjectTemplate.anchor 0.2950/-2.0505/0.0333
+
+include dam_bridge_base_ladder.tweak

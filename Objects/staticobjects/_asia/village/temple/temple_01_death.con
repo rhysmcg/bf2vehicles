@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh temple_01_death
+CollisionManager.createTemplate temple_01_death
+
+ObjectTemplate.create SimpleObject temple_01_death
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh temple_01_death
+ObjectTemplate.mapMaterial 0 death 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry temple_01_death
+ObjectTemplate.anchor 0/-8.2925/19.4603
+
+include temple_01_death.tweak

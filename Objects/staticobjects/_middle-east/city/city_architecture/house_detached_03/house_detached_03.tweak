@@ -1,0 +1,25 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/14 17:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 75
+GeometryTemplate.setSubGeometryLodDistance 0 2 150
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject house_detached_03
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser mfr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry house_detached_03
+ObjectTemplate.setCollisionMesh House_Detached_03
+ObjectTemplate.mapMaterial 0 stonewall 78
+ObjectTemplate.mapMaterial 1 woodSolid 15
+ObjectTemplate.mapMaterial 2 MetalSolid 21
+ObjectTemplate.mapMaterial 3 fabric 10
+ObjectTemplate.mapMaterial 4 Rubber 11
+ObjectTemplate.mapMaterial 5 Slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.material 0
+

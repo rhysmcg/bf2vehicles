@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c5n5unkdva6qs"
+path="res://.godot/imported/leaf_ncoak01de_le.dds-a86e9ff64ac343123f0bcc3a28bc88e9.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_ncoak01de_le.dds"
+dest_files=["res://.godot/imported/leaf_ncoak01de_le.dds-a86e9ff64ac343123f0bcc3a28bc88e9.res"]
+
+[params]
+
+mipmaps/generate=true

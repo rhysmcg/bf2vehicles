@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cqxm537c7tsin"
+path="res://.godot/imported/housetext_c.dds-258515916d11e7c6ec077bdda6db9126.res"
+
+[deps]
+
+source_file="res://Objects/Develop/WoodBoard1m/textures/housetext_c.dds"
+dest_files=["res://.godot/imported/housetext_c.dds-258515916d11e7c6ec077bdda6db9126.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh xp2_oiltruck_02_tank
+CollisionManager.createTemplate xp2_oiltruck_02_tank
+
+ObjectTemplate.create SimpleObject xp2_oiltruck_02_tank
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_oiltruck_02_tank
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_oiltruck_02_tank
+ObjectTemplate.anchor 0/0/6.7003
+
+include xp2_oiltruck_02_tank.tweak

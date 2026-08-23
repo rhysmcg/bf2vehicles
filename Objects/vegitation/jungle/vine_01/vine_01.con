@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh vine_01
+
+ObjectTemplate.create SimpleObject vine_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.geometry vine_01
+
+include vine_01.tweak

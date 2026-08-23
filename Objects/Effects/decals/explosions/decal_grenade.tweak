@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/15 0:16]
+ObjectTemplate.activeSafe Decal decal_grenade
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.isStatic 0
+ObjectTemplate.randomSize 0
+ObjectTemplate.size 1.5
+ObjectTemplate.color 1/1/1
+ObjectTemplate.decalTextureName objects\effects\decals\textures\decal_grenade
+ObjectTemplate.randomRotation 180
+ObjectTemplate.rotation 0
+ObjectTemplate.randomColorIntensity 0
+ObjectTemplate.animationEnable 0
+ObjectTemplate.animationSpeed 1
+ObjectTemplate.setAnimationFrameWidthRelative 0
+ObjectTemplate.setAnimationFrameHeightRelative 0
+ObjectTemplate.animationRandomizedStartFrame 0
+ObjectTemplate.animationFrameCount 0
+ObjectTemplate.animationFrameCountX 0
+

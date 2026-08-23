@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh us_carrier_wasp_back_ladder
+CollisionManager.createTemplate us_carrier_wasp_back_ladder
+
+ObjectTemplate.create Ladder us_carrier_wasp_back_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh us_carrier_wasp_back_ladder
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry us_carrier_wasp_back_ladder
+ObjectTemplate.anchor -0.3063/-3.8805/0.0100
+
+include us_carrier_wasp_back_ladder.tweak

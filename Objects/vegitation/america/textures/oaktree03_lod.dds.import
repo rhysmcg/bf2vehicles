@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://q2x0wvtgm0yb"
+path="res://.godot/imported/oaktree03_lod.dds-fd29b93815c5c6de70203dd8eee67971.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/textures/oaktree03_lod.dds"
+dest_files=["res://.godot/imported/oaktree03_lod.dds-fd29b93815c5c6de70203dd8eee67971.res"]
+
+[params]
+
+mipmaps/generate=true

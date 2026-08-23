@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle e_predatorscope
+ObjectTemplate.createdInEditor 1
+
+include e_predatorscope.tweak

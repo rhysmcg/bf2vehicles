@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dibqymfd7yycx"
+path="res://.godot/imported/anim_firetest.dds-b5c6f1332b3a49c59715c54010f34947.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_firetest.dds"
+dest_files=["res://.godot/imported/anim_firetest.dds-b5c6f1332b3a49c59715c54010f34947.res"]
+
+[params]
+
+mipmaps/generate=true

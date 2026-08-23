@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cdmr0s4h5ss7c"
+path="res://.godot/imported/aav_type95_wreck_c.dds-fcd373515708c21d07674c9eb784ff75.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_type95/textures/aav_type95_wreck_c.dds"
+dest_files=["res://.godot/imported/aav_type95_wreck_c.dds-fcd373515708c21d07674c9eb784ff75.res"]
+
+[params]
+
+mipmaps/generate=true

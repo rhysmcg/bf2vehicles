@@ -1,0 +1,77 @@
+GeometryTemplate.create BundledMesh e_destruction_stonebridge_4lane
+
+ObjectTemplate.create EffectBundle e_destruction_stonebridge_4lane
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.addTemplate em_destruction_stonebridge_4Lane_01
+ObjectTemplate.setPosition -1.1923/3.7429/2.4299
+ObjectTemplate.addTemplate em_destruction_stonebridge_4Lane_02
+ObjectTemplate.setPosition 2.0729/3.6883/3.8908
+ObjectTemplate.addTemplate em_destruction_stonebridge_4Lane_03
+ObjectTemplate.setPosition -0.0078/3.9135/-2.6306
+ObjectTemplate.addTemplate em_destruction_stonebridge_4Lane_04
+ObjectTemplate.setPosition 5.4515/4.3435/1.4739
+ObjectTemplate.addTemplate em_destruction_stonebridge_4Lane_05
+ObjectTemplate.setPosition 4.0301/4.3064/-1.7110
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_4Lane_01
+ObjectTemplate.template p_destruction_stonebridge_4Lane_01
+
+ObjectTemplate.create Particle p_destruction_stonebridge_4Lane_01
+ObjectTemplate.collisionMesh e_destruction_stonebridge_4lane
+ObjectTemplate.mapMaterial 0 e_destruction_stonebridge_wreck_stonebridge 0
+ObjectTemplate.collisionPart 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge_4lane
+ObjectTemplate.geometryPart 0
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_4Lane_02
+ObjectTemplate.template p_destruction_stonebridge_4Lane_02
+
+ObjectTemplate.create Particle p_destruction_stonebridge_4Lane_02
+ObjectTemplate.collisionMesh e_destruction_stonebridge_4lane
+ObjectTemplate.mapMaterial 0 e_destruction_stonebridge_wreck_stonebridge 0
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge_4lane
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_4Lane_03
+ObjectTemplate.template p_destruction_stonebridge_4Lane_03
+
+ObjectTemplate.create Particle p_destruction_stonebridge_4Lane_03
+ObjectTemplate.collisionMesh e_destruction_stonebridge_4lane
+ObjectTemplate.mapMaterial 0 e_destruction_stonebridge_wreck_stonebridge 0
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge_4lane
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_4Lane_04
+ObjectTemplate.template p_destruction_stonebridge_4Lane_04
+
+ObjectTemplate.create Particle p_destruction_stonebridge_4Lane_04
+ObjectTemplate.collisionMesh e_destruction_stonebridge_4lane
+ObjectTemplate.mapMaterial 0 e_destruction_stonebridge_wreck_stonebridge 0
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge_4lane
+ObjectTemplate.geometryPart 3
+
+ObjectTemplate.create Emitter em_destruction_stonebridge_4Lane_05
+ObjectTemplate.template p_destruction_stonebridge_4Lane_05
+
+ObjectTemplate.create Particle p_destruction_stonebridge_4Lane_05
+ObjectTemplate.collisionMesh e_destruction_stonebridge_4lane
+ObjectTemplate.mapMaterial 0 e_destruction_stonebridge_wreck_stonebridge 0
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry e_destruction_stonebridge_4lane
+ObjectTemplate.geometryPart 4
+
+include e_destruction_stonebridge_4lane.tweak

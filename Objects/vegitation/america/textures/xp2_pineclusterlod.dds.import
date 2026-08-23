@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://debq46xken1w6"
+path="res://.godot/imported/xp2_pineclusterlod.dds-344f65d70ec17baf84a6301751d1660c.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/textures/xp2_pineclusterlod.dds"
+dest_files=["res://.godot/imported/xp2_pineclusterlod.dds-344f65d70ec17baf84a6301751d1660c.res"]
+
+[params]
+
+mipmaps/generate=true

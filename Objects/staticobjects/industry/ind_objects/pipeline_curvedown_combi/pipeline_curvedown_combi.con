@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh pipeline_curvedown_combi
+CollisionManager.createTemplate pipeline_curvedown_combi
+
+ObjectTemplate.create SimpleObject pipeline_curvedown_combi
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh pipeline_curvedown_combi
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pipeline_curvedown_combi
+ObjectTemplate.anchor 14.6302/4.1087/0
+
+include pipeline_curvedown_combi.tweak

@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/5/14 0:17]
+ObjectTemplate.activeSafe Bundle barrier_block_dummy
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry barrier_block_dummy
+ObjectTemplate.setCollisionMesh barrier_block_dummy
+ObjectTemplate.mapMaterial 0 barriermaterial 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor -0.0051/-1.0016/0.0273
+

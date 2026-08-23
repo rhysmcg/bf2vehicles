@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/2 17:38]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject fence_corrugated_3x24m_broken
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry fence_corrugated_3x24m_broken
+ObjectTemplate.setCollisionMesh fence_corrugated_3x24m_broken
+ObjectTemplate.mapMaterial 0 Metal_Solid 21
+ObjectTemplate.mapMaterial 1 Penetrable_Metal_thin 1000
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

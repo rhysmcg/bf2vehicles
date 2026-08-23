@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqfol1a3nc57a"
+path="res://.godot/imported/glasslens.dds-f34e69b10288bc767ae464e1f754c446.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/glasslens/glasslens.dds"
+dest_files=["res://.godot/imported/glasslens.dds-f34e69b10288bc767ae464e1f754c446.res"]
+
+[params]
+
+mipmaps/generate=true

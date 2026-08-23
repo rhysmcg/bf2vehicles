@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d3qqk4f5xbiii"
+path="res://.godot/imported/anim_airburst.dds-39b09c46a9ea291777ef8933784511c5.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/fire/anim_airburst.dds"
+dest_files=["res://.godot/imported/anim_airburst.dds-39b09c46a9ea291777ef8933784511c5.res"]
+
+[params]
+
+mipmaps/generate=true

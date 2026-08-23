@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh rurif_ak47
+CollisionManager.createTemplate rurif_ak47
+
+ObjectTemplate.create GenericFireArm rurif_ak47
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MBA-1:mba
+ObjectTemplate.collisionMesh rurif_ak47
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry rurif_ak47
+
+include rurif_ak47.tweak

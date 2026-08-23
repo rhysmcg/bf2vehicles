@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh supply_parachute
+CollisionManager.createTemplate supply_parachute
+
+ObjectTemplate.create Bundle supply_parachute
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh supply_parachute
+ObjectTemplate.mapMaterial 0 Collision_Material 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry supply_parachute
+
+include supply_parachute.tweak

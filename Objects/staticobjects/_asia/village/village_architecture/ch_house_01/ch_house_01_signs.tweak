@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/27 12:14]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject ch_house_01_signs
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ch_house_01_signs
+ObjectTemplate.setCollisionMesh ch_house_01_signs
+ObjectTemplate.mapMaterial 0 Wood_solid 15
+ObjectTemplate.mapMaterial 1 Wood_thin 14
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

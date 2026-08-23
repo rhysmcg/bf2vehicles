@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh train_cargowag_01_ladder
+CollisionManager.createTemplate train_cargowag_01_ladder
+
+ObjectTemplate.create Ladder train_cargowag_01_ladder
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.collisionMesh train_cargowag_01_ladder
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry train_cargowag_01_ladder
+
+include train_cargowag_01_ladder.tweak

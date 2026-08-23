@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cwgneem5c2mp8"
+path="res://.godot/imported/ec635_glass.dds-7532742c5dbf2a9c4211e67369305d8c.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/textures/ec635_glass.dds"
+dest_files=["res://.godot/imported/ec635_glass.dds-7532742c5dbf2a9c4211e67369305d8c.res"]
+
+[params]
+
+mipmaps/generate=true

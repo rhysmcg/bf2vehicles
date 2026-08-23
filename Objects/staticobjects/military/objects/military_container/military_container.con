@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh military_container
+CollisionManager.createTemplate military_container
+
+ObjectTemplate.create SimpleObject military_container
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DFR-1:dfr
+ObjectTemplate.collisionMesh military_container
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry military_container
+ObjectTemplate.anchor 0/-1.3000/0
+
+include military_container.tweak

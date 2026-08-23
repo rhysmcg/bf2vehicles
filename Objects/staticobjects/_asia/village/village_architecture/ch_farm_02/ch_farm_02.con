@@ -1,0 +1,17 @@
+GeometryTemplate.create StaticMesh ch_farm_02
+CollisionManager.createTemplate ch_farm_02
+
+ObjectTemplate.create SimpleObject ch_farm_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh ch_farm_02
+ObjectTemplate.mapMaterial 0 Stone 0
+ObjectTemplate.mapMaterial 1 Wood 0
+ObjectTemplate.mapMaterial 2 ceramic_tiles 0
+ObjectTemplate.mapMaterial 3 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_farm_02
+ObjectTemplate.anchor -4.6894/-0.1538/4.1240
+
+include ch_farm_02.tweak

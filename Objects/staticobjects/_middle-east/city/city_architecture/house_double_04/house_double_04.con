@@ -1,0 +1,23 @@
+GeometryTemplate.create StaticMesh house_double_04
+CollisionManager.createTemplate house_double_04
+
+ObjectTemplate.create SimpleObject house_double_04
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh house_double_04
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 2 concrete 0
+ObjectTemplate.mapMaterial 3 Wood_thin 0
+ObjectTemplate.mapMaterial 4 Cloth_carpet 0
+ObjectTemplate.mapMaterial 5 Wood_solid 0
+ObjectTemplate.mapMaterial 6 Tarmac 0
+ObjectTemplate.mapMaterial 7 Plastic 0
+ObjectTemplate.mapMaterial 8 Stairs_concrete 0
+ObjectTemplate.mapMaterial 9 Stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry house_double_04
+ObjectTemplate.anchor 7.6903/-5.1276/20.1433
+
+include house_double_04.tweak

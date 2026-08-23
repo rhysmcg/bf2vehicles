@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh ch_stnwalls_innersloope_30m_up
+CollisionManager.createTemplate ch_stnwalls_innersloope_30m_up
+
+ObjectTemplate.create SimpleObject ch_stnwalls_innersloope_30m_up
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.collisionMesh ch_stnwalls_innersloope_30m_up
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_stnwalls_innersloope_30m_up
+ObjectTemplate.anchor 15.0000/-3.5500/-1.0000
+
+include ch_stnwalls_innersloope_30m_up.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bqt6uakfxkqgf"
+path="res://.godot/imported/cube_c.dds-94d9815f7147334856a8da21cf756310.res"
+
+[deps]
+
+source_file="res://Objects/Develop/Cube/Textures/cube_c.dds"
+dest_files=["res://.godot/imported/cube_c.dds-94d9815f7147334856a8da21cf756310.res"]
+
+[params]
+
+mipmaps/generate=true

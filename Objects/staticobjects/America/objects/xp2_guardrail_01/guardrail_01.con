@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh guardrail_01
+CollisionManager.createTemplate guardrail_01
+
+ObjectTemplate.create SimpleObject guardrail_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.collisionMesh guardrail_01
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry guardrail_01
+ObjectTemplate.anchor 0.9579/0.1370/0.0567
+
+include guardrail_01.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://evw1q6srrtj6"
+path="res://.godot/imported/ec635_wreck.dds-136f9ecc0f711482e1a4b44003e38be8.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/textures/ec635_wreck.dds"
+dest_files=["res://.godot/imported/ec635_wreck.dds-136f9ecc0f711482e1a4b44003e38be8.res"]
+
+[params]
+
+mipmaps/generate=true

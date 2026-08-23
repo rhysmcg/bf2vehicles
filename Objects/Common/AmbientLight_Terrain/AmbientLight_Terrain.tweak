@@ -1,0 +1,8 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/2/9 10:9]
+ObjectTemplate.active AmbientLight_Terrain
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+rem -------------------------------------
+ObjectTemplate.addTemplate LightMapAmbient1
+rem -------------------------------------
+

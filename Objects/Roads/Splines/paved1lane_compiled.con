@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled paved1lane
+ObjectTemplate.create SimpleObject paved1lane
+ObjectTemplate.geometry paved1lane

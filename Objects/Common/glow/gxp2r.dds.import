@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://r7a47n60rlbl"
+path="res://.godot/imported/gxp2r.dds-a424006e836cb29f4e37b6179feb1a6a.res"
+
+[deps]
+
+source_file="res://Objects/Common/glow/gxp2r.dds"
+dest_files=["res://.godot/imported/gxp2r.dds-a424006e836cb29f4e37b6179feb1a6a.res"]
+
+[params]
+
+mipmaps/generate=true

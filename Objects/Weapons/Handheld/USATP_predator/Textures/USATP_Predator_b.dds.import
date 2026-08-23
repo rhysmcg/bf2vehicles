@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b1cw3j0rowe0i"
+path="res://.godot/imported/USATP_Predator_b.dds-95cc91244bf2d8c6696e2c1cb9c97814.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USATP_predator/Textures/USATP_Predator_b.dds"
+dest_files=["res://.godot/imported/USATP_Predator_b.dds-95cc91244bf2d8c6696e2c1cb9c97814.res"]
+
+[params]
+
+mipmaps/generate=true

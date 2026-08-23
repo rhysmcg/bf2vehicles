@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh tunguskacap
+CollisionManager.createTemplate tunguskacap
+
+ObjectTemplate.create Bundle tunguskacap
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh tunguskacap
+ObjectTemplate.mapMaterial 0 plastic 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry tunguskacap
+
+include tunguskacap.tweak

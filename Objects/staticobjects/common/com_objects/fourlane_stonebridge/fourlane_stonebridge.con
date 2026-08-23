@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh fourlane_stonebridge
+CollisionManager.createTemplate fourlane_stonebridge
+
+ObjectTemplate.create DestroyableObject fourlane_stonebridge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh fourlane_stonebridge
+ObjectTemplate.mapMaterial 0 stone 0
+ObjectTemplate.mapMaterial 1 tarmac 0
+ObjectTemplate.mapMaterial 2 gravel 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fourlane_stonebridge
+ObjectTemplate.anchor -5.0000/4.7666/9.0000
+
+include fourlane_stonebridge.tweak

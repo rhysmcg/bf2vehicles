@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/3 14:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.setSubGeometryLodDistance 0 1 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject barrier_blocks_high_8m
+ObjectTemplate.creator DFR-2:dfr
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 3.5
+ObjectTemplate.geometry barrier_blocks_high_8m
+ObjectTemplate.setCollisionMesh barrier_blocks_high_8m
+ObjectTemplate.mapMaterial 0 sandbags 76
+ObjectTemplate.mapMaterial 1 gravel 3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

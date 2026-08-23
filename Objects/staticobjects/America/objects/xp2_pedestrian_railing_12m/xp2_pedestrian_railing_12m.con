@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_pedestrian_railing_12m
+CollisionManager.createTemplate xp2_pedestrian_railing_12m
+
+ObjectTemplate.create SimpleObject xp2_pedestrian_railing_12m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN_XP:RyanLo
+ObjectTemplate.collisionMesh xp2_pedestrian_railing_12m
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_pedestrian_railing_12m
+ObjectTemplate.anchor -6.0000/-0.4000/0.0015
+
+include xp2_pedestrian_railing_12m.tweak

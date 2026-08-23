@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dqxx5ggkmiwbr"
+path="res://.godot/imported/p_gradient.dds-57d75d2180ca087951206e64e9721b40.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_gradient.dds"
+dest_files=["res://.godot/imported/p_gradient.dds-57d75d2180ca087951206e64e9721b40.res"]
+
+[params]
+
+mipmaps/generate=true

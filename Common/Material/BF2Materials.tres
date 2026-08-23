@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="BF2PhysicsMaterial" load_steps=2 format=3 uid="uid://biwliplh0ok4h"]
+
+[ext_resource type="Script" uid="uid://dx2qs4fcydysy" path="res://Common/Material/CustomPhysicsMaterial.gd" id="1_67brq"]
+
+[resource]
+script = ExtResource("1_67brq")
+metadata/_custom_type_script = "uid://dx2qs4fcydysy"

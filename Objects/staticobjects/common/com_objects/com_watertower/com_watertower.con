@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh com_watertower
+CollisionManager.createTemplate com_watertower
+
+ObjectTemplate.create Bundle com_watertower
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh com_watertower
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.mapMaterial 2 wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry com_watertower
+ObjectTemplate.anchor 0/-12.5973/0
+
+include com_watertower.tweak

@@ -1,0 +1,12 @@
+GeometryTemplate.create StaticMesh service_tunnel
+
+ObjectTemplate.create SimpleObject service_tunnel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ESJ-1:esj
+ObjectTemplate.collisionMesh service_tunnel
+ObjectTemplate.mapMaterial 0 cgfxShader1 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry service_tunnel
+
+include service_tunnel.tweak

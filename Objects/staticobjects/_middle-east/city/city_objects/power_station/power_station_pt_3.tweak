@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/1/5 13:29]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject power_station_pt_3
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry power_station_pt_3
+ObjectTemplate.setCollisionMesh power_station_pt_3
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.mapMaterial 1 lambert1 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

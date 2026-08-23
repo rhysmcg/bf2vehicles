@@ -1,0 +1,15 @@
+GeometryTemplate.create BundledMesh sign_stop_dest
+CollisionManager.createTemplate sign_stop_dest
+
+ObjectTemplate.create DestroyableObject sign_stop_dest
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh sign_stop_dest
+ObjectTemplate.mapMaterial 0 metal_Solid 0
+ObjectTemplate.mapMaterial 1 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry sign_stop_dest
+ObjectTemplate.anchor 0/-1.4287/0
+
+include sign_stop_dest.tweak

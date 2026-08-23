@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/6 13:42]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject pier
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser mny
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry pier
+ObjectTemplate.setCollisionMesh pier
+ObjectTemplate.mapMaterial 0 wood_Solid 15
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

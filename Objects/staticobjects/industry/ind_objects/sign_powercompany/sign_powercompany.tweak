@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/14 17:21]
+GeometryTemplate.setSubGeometryLodDistance 0 0 10
+GeometryTemplate.setSubGeometryLodDistance 0 1 25
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 8
+ObjectTemplate.activeSafe SimpleObject sign_powercompany
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser eni
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sign_powercompany
+ObjectTemplate.setCollisionMesh sign_powercompany
+ObjectTemplate.mapMaterial 0 Metal 21
+ObjectTemplate.mapMaterial 1 Metal_Thin 20
+ObjectTemplate.mapMaterial 2 glass 17
+ObjectTemplate.mapMaterial 3 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

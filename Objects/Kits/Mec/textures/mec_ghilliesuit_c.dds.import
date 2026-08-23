@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b6353d0vxyd2h"
+path="res://.godot/imported/mec_ghilliesuit_c.dds-78aef073d8d4fa92002fe080ebf8a4bc.res"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/textures/mec_ghilliesuit_c.dds"
+dest_files=["res://.godot/imported/mec_ghilliesuit_c.dds-78aef073d8d4fa92002fe080ebf8a4bc.res"]
+
+[params]
+
+mipmaps/generate=true

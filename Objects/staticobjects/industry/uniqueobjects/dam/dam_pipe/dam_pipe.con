@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh dam_pipe
+CollisionManager.createTemplate dam_pipe
+
+ObjectTemplate.create SimpleObject dam_pipe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh dam_pipe
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.mapMaterial 2 Lamp_glass 0
+ObjectTemplate.mapMaterial 3 plastic_cable 0
+ObjectTemplate.mapMaterial 4 stairs_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry dam_pipe
+ObjectTemplate.anchor -1.4309/-12.1422/-39.1585
+
+include dam_pipe.tweak

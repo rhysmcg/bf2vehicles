@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bdwgd5p61s20y"
+path="res://.godot/imported/mecity_01_de_snow.dds-6d3d7aa83886ef053756cf18f1370300.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/textures/mecity_01_de_snow.dds"
+dest_files=["res://.godot/imported/mecity_01_de_snow.dds-6d3d7aa83886ef053756cf18f1370300.res"]
+
+[params]
+
+mipmaps/generate=true

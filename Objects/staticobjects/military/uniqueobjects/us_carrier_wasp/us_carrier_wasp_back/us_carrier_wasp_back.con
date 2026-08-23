@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh us_carrier_wasp_back
+CollisionManager.createTemplate us_carrier_wasp_back
+
+ObjectTemplate.create Bundle us_carrier_wasp_back
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh us_carrier_wasp_back
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry us_carrier_wasp_back
+ObjectTemplate.anchor 35.2981/-0.6096/16.3679
+
+include us_carrier_wasp_back.tweak

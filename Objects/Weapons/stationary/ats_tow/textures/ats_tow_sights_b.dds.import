@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://l03j7ncb50i8"
+path="res://.godot/imported/ats_tow_sights_b.dds-4d20fef4161e79ee75766611867134e8.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ats_tow/textures/ats_tow_sights_b.dds"
+dest_files=["res://.godot/imported/ats_tow_sights_b.dds-4d20fef4161e79ee75766611867134e8.res"]
+
+[params]
+
+mipmaps/generate=true

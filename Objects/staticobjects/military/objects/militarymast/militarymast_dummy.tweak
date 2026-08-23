@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/5/14 0:17]
+ObjectTemplate.activeSafe Bundle militarymast_dummy
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry militarymast_dummy
+ObjectTemplate.setCollisionMesh MilitaryMast_dummy
+ObjectTemplate.mapMaterial 0 dummyMtrl 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.anchor -0.0538/-15.221/0
+

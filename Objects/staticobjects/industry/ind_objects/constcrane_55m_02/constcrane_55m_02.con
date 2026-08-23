@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh constcrane_55m_02
+CollisionManager.createTemplate constcrane_55m_02
+
+ObjectTemplate.create Bundle constcrane_55m_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh constcrane_55m_02
+ObjectTemplate.mapMaterial 0 metal_solid 0
+ObjectTemplate.mapMaterial 1 plastic 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 concret 0
+ObjectTemplate.mapMaterial 4 penetrable_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry constcrane_55m_02
+ObjectTemplate.anchor 0/-27.6927/-10.1670
+
+include constcrane_55m_02.tweak

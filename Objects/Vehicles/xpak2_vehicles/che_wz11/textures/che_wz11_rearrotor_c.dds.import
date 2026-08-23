@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dck6qafl4jwuh"
+path="res://.godot/imported/che_wz11_rearrotor_c.dds-d49244cbf0dfd6926cdddd40269d1608.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/textures/che_wz11_rearrotor_c.dds"
+dest_files=["res://.godot/imported/che_wz11_rearrotor_c.dds-d49244cbf0dfd6926cdddd40269d1608.res"]
+
+[params]
+
+mipmaps/generate=true

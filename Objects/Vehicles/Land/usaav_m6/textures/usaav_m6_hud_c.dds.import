@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://sa3nde5n2q7k"
+path="res://.godot/imported/usaav_m6_hud_c.dds-0f3c56acfe498f81acb76289510aa2c6.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/usaav_m6/textures/usaav_m6_hud_c.dds"
+dest_files=["res://.godot/imported/usaav_m6_hud_c.dds-0f3c56acfe498f81acb76289510aa2c6.res"]
+
+[params]
+
+mipmaps/generate=true

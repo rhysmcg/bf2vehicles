@@ -1,0 +1,4 @@
+ObjectTemplate.create Bundle lightobject1
+ObjectTemplate.createdInEditor 1
+
+include LightObject1.tweak

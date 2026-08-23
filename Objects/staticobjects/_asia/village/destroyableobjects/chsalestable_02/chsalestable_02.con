@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh chsalestable_02
+CollisionManager.createTemplate chsalestable_02
+
+ObjectTemplate.create DestroyableObject chsalestable_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.collisionMesh chsalestable_02
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry chsalestable_02
+
+include chsalestable_02.tweak

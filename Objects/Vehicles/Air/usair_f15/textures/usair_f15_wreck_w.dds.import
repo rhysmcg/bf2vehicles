@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://diga5m1bjncj0"
+path="res://.godot/imported/usair_f15_wreck_w.dds-a669bff4b6aa9c45c9c0002a598a682f.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f15/textures/usair_f15_wreck_w.dds"
+dest_files=["res://.godot/imported/usair_f15_wreck_w.dds-a669bff4b6aa9c45c9c0002a598a682f.res"]
+
+[params]
+
+mipmaps/generate=true

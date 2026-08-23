@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cga0d8qswgflq"
+path="res://.godot/imported/blurscope_07.dds-16d7899ca0a21f69d425b1f49ac9ea5f.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/textures/blurscope_07.dds"
+dest_files=["res://.godot/imported/blurscope_07.dds-16d7899ca0a21f69d425b1f49ac9ea5f.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dilm3rl8x3g7o"
+path="res://.godot/imported/she_ec635_c.dds-a3eeb8e9adbe9855caacaca6cb1b0929.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/textures/she_ec635_c.dds"
+dest_files=["res://.godot/imported/she_ec635_c.dds-a3eeb8e9adbe9855caacaca6cb1b0929.res"]
+
+[params]
+
+mipmaps/generate=true

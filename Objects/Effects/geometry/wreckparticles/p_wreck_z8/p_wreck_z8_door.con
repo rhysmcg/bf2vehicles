@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_z8_door
+CollisionManager.createTemplate p_wreck_z8_door
+
+ObjectTemplate.create Particle p_wreck_z8_door
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_z8_door
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_z8_door
+
+include p_wreck_z8_door.tweak

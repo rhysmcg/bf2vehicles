@@ -1,0 +1,8 @@
+GeometryTemplate.create BundledMesh wrench
+
+ObjectTemplate.create GenericFireArm wrench
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PAN-1:pan
+ObjectTemplate.geometry wrench
+
+include wrench.tweak

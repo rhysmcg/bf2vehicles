@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cdm7tviln4tnr"
+path="res://.godot/imported/Detail_Sand_rippled_3.dds-9ad353aa9d105b987a155508a626e0e0.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Sand_rippled_3.dds"
+dest_files=["res://.godot/imported/Detail_Sand_rippled_3.dds-9ad353aa9d105b987a155508a626e0e0.res"]
+
+[params]
+
+mipmaps/generate=true

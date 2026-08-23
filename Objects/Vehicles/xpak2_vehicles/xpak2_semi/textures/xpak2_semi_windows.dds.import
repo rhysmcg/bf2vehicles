@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://6nd80q853jq8"
+path="res://.godot/imported/xpak2_semi_windows.dds-80db8a7406690808b530fe107d10e07d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_semi/textures/xpak2_semi_windows.dds"
+dest_files=["res://.godot/imported/xpak2_semi_windows.dds-80db8a7406690808b530fe107d10e07d.res"]
+
+[params]
+
+mipmaps/generate=true

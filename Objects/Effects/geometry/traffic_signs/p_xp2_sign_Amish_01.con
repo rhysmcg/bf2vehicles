@@ -1,0 +1,4 @@
+ObjectTemplate.create Particle p_xp2_sign_Amish_01
+ObjectTemplate.createdInEditor 1
+
+include p_xp2_sign_Amish_01.tweak

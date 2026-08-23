@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/24 0:15]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 0
+GeometryTemplate.setLightmapSizeAll 0 1 0
+GeometryTemplate.setLightmapSizeAll 0 2 0
+ObjectTemplate.activeSafe SimpleObject cablepole
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry cablepole
+ObjectTemplate.setCollisionMesh cablepole
+ObjectTemplate.mapMaterial 0 wood_solid 15
+ObjectTemplate.mapMaterial 1 metal_solid 21
+ObjectTemplate.mapMaterial 2 porslin 17
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

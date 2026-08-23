@@ -1,0 +1,14 @@
+rem *** Plugins ***
+aiTemplatePlugIn.create Physical FourLaneStoneBridgePhysical
+aiTemplatePlugIn.setStrType HeavyArmour
+
+rem *** AITemplate ***
+aiTemplate.create FourLaneStoneBridge
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 50
+aiTemplate.allowedTimeDiff 2
+aiTemplate.basicTemp 5
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn FourLaneStoneBridgePhysical
+
+

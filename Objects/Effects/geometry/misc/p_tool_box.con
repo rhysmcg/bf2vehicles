@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_tool_box
+CollisionManager.createTemplate p_tool_box
+
+ObjectTemplate.create Particle p_tool_box
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh p_tool_box
+ObjectTemplate.mapMaterial 0 paper 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_tool_box
+
+include p_tool_box.tweak

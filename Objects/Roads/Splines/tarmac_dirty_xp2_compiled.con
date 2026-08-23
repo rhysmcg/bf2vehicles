@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled tarmac_dirty_xp2
+ObjectTemplate.create SimpleObject tarmac_dirty_xp2
+ObjectTemplate.geometry tarmac_dirty_xp2

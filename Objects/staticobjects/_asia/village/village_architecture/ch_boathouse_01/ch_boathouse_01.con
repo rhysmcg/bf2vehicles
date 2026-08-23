@@ -1,0 +1,19 @@
+GeometryTemplate.create StaticMesh ch_boathouse_01
+CollisionManager.createTemplate ch_boathouse_01
+
+ObjectTemplate.create SimpleObject ch_boathouse_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh ch_boathouse_01
+ObjectTemplate.mapMaterial 0 Wood 0
+ObjectTemplate.mapMaterial 1 Stone 0
+ObjectTemplate.mapMaterial 2 metal_thin 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 glass_common 0
+ObjectTemplate.mapMaterial 5 metal_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_boathouse_01
+ObjectTemplate.anchor 0.8817/-3.3502/9.0261
+
+include ch_boathouse_01.tweak

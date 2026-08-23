@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dxlfgpwcfithj"
+path="res://.godot/imported/leaf_me_nc_drybush01_lod.dds-92007ae9234648a77e1e9c9901568a5a.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/leaf_me_nc_drybush01_lod.dds"
+dest_files=["res://.godot/imported/leaf_me_nc_drybush01_lod.dds-92007ae9234648a77e1e9c9901568a5a.res"]
+
+[params]
+
+mipmaps/generate=true

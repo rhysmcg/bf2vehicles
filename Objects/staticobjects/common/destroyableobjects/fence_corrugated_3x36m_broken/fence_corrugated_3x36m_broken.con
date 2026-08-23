@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh fence_corrugated_3x36m_broken
+CollisionManager.createTemplate fence_corrugated_3x36m_broken
+
+ObjectTemplate.create SimpleObject fence_corrugated_3x36m_broken
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh fence_corrugated_3x36m_broken
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.mapMaterial 1 Penetrable_Metal_thin 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry fence_corrugated_3x36m_broken
+ObjectTemplate.anchor -17.9911/-1.4054/0.0856
+
+include fence_corrugated_3x36m_broken.tweak

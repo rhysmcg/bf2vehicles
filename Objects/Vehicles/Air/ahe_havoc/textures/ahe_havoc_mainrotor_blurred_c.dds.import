@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cgdce7owfpp5s"
+path="res://.godot/imported/ahe_havoc_mainrotor_blurred_c.dds-53fae18424c3bbade8fae4677293e5aa.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/textures/ahe_havoc_mainrotor_blurred_c.dds"
+dest_files=["res://.godot/imported/ahe_havoc_mainrotor_blurred_c.dds-53fae18424c3bbade8fae4677293e5aa.res"]
+
+[params]
+
+mipmaps/generate=true

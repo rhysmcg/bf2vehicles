@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/12 0:16]
+GeometryTemplate.setSubGeometryLodDistance 0 0 10
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject vent_pipe_curve90deg
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry vent_pipe_curve90deg
+ObjectTemplate.setCollisionMesh vent_pipe_curve90deg
+ObjectTemplate.mapMaterial 0 Metal_plate_thin 20
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

@@ -1,0 +1,10 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/4/6 12:11]
+ObjectTemplate.active container_suspended
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry container_suspended
+ObjectTemplate.setCollisionMesh Container_suspended
+ObjectTemplate.mapMaterial 0 metal_solid 21
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

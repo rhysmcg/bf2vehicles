@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled RR_Merge_3to2
+ObjectTemplate.create SimpleObject RR_Merge_3to2
+ObjectTemplate.geometry RR_Merge_3to2

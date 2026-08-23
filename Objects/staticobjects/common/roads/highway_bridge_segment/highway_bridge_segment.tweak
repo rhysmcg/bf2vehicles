@@ -1,0 +1,52 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/24 14:57]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.setSubGeometryLodDistance 0 1 250
+GeometryTemplate.setSubGeometryLodDistance 1 0 20
+GeometryTemplate.setSubGeometryLodDistance 1 1 250
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject highway_bridge_segment
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser ljo
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.isDestructable 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 1000
+ObjectTemplate.armor.hitPoints 1000
+ObjectTemplate.armor.defaultMaterial 112
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.explosionMaterial 98
+ObjectTemplate.armor.wreckHitPoints 1000
+ObjectTemplate.armor.timeToStayAsWreck 30
+ObjectTemplate.armor.timeToStayAfterDestroyed 3600
+ObjectTemplate.armor.wreckDelay 0.05
+ObjectTemplate.armor.canBeRepairedWhenWreck 1
+ObjectTemplate.armor.showDamageAsDirt 500
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_highwaybridge 0/19.2977/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 50 e_dstate_bridge_d1 2.31412/19.0889/0 0/0/0
+ObjectTemplate.armor.addArmorEffect 25 e_dstate_bridge_d2 -0.600225/19.058/-0.917417 0/0/0
+rem ---EndComp ---
+rem ---BeginComp:StrategicObject ---
+ObjectTemplate.createComponent StrategicObject
+ObjectTemplate.StrategicObject.strategicObjectName hwbrdg
+ObjectTemplate.StrategicObject.destroyedIcon Ingame\Minimap\Icons\Bridge_broken.tga
+ObjectTemplate.StrategicObject.intactIcon Ingame\Minimap\Icons\Bridge.tga
+ObjectTemplate.StrategicObject.part 1
+ObjectTemplate.StrategicObject.3dMapIcon 0
+rem ---EndComp ---
+ObjectTemplate.geometry highway_bridge_segment
+ObjectTemplate.setCollisionMesh highway_bridge_segment
+ObjectTemplate.mapMaterial 0 concrete 78
+ObjectTemplate.mapMaterial 1 Tarmac 4
+ObjectTemplate.mapMaterial 2 Metal_solid 21
+ObjectTemplate.mapMaterial 3 Chicken_Wire_Thin 33
+ObjectTemplate.mapMaterial 4 Metal_plate_thin 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.respawnDelay 60
+

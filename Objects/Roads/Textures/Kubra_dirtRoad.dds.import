@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bw7p2bjp6vyem"
+path="res://.godot/imported/Kubra_dirtRoad.dds-844f41c13330f1619147118bc940c3ae.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Kubra_dirtRoad.dds"
+dest_files=["res://.godot/imported/Kubra_dirtRoad.dds-844f41c13330f1619147118bc940c3ae.res"]
+
+[params]
+
+mipmaps/generate=true

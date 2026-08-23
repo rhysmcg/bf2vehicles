@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dtfw1i0gnur7g"
+path="res://.godot/imported/air_a10_intake_c.dds-dd534fe17e2eacb639b8c4e3370bde57.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_a10/textures/air_a10_intake_c.dds"
+dest_files=["res://.godot/imported/air_a10_intake_c.dds-dd534fe17e2eacb639b8c4e3370bde57.res"]
+
+[params]
+
+mipmaps/generate=true

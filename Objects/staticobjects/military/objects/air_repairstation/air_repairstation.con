@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh air_repairstation
+CollisionManager.createTemplate air_repairstation
+
+ObjectTemplate.create Bundle air_repairstation
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh air_repairstation
+ObjectTemplate.mapMaterial 0 metal_Solid 0
+ObjectTemplate.mapMaterial 1 metal_thin 0
+ObjectTemplate.mapMaterial 2 plastic 0
+ObjectTemplate.mapMaterial 3 cardboard 0
+ObjectTemplate.mapMaterial 4 wood 0
+ObjectTemplate.mapMaterial 5 glass_Common 0
+ObjectTemplate.mapMaterial 6 stair_metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry air_repairstation
+ObjectTemplate.anchor 5.1397/-3.5406/0
+
+include air_repairstation.tweak

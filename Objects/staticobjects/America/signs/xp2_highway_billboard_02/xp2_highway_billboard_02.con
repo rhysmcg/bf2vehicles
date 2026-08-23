@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_highway_billboard_02
+CollisionManager.createTemplate xp2_highway_billboard_02
+
+ObjectTemplate.create SimpleObject xp2_highway_billboard_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_highway_billboard_02
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_highway_billboard_02
+ObjectTemplate.anchor 0/-5.1508/0
+
+include xp2_highway_billboard_02.tweak

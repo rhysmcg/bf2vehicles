@@ -1,0 +1,19 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/4/25 7:22]
+GeometryTemplate.setSubGeometryLodDistance 0 0 50
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe Ladder xp2_ladder_40m
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.modifiedByUser "RyanLo"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_ladder_40m
+ObjectTemplate.setCollisionMesh xp2_ladder_40m
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

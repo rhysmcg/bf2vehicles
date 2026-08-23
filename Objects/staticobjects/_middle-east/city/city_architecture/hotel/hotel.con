@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh hotel
+CollisionManager.createTemplate hotel
+
+ObjectTemplate.create Bundle hotel
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh hotel
+ObjectTemplate.mapMaterial 0 soli_dirt 0
+ObjectTemplate.mapMaterial 1 Concrete 0
+ObjectTemplate.mapMaterial 2 Metal_plate_thin 0
+ObjectTemplate.mapMaterial 3 cloth 0
+ObjectTemplate.mapMaterial 4 wood 0
+ObjectTemplate.mapMaterial 5 Plastic 0
+ObjectTemplate.mapMaterial 6 tarmac 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry hotel
+ObjectTemplate.anchor 0/-17.2526/-11.9763
+
+include hotel.tweak

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bknpak04s2kd"
+path="res://.godot/imported/anim_mud.dds-51f22f18f58c400ef9ed00c2a256bd6e.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/animated/anim_mud.dds"
+dest_files=["res://.godot/imported/anim_mud.dds-51f22f18f58c400ef9ed00c2a256bd6e.res"]
+
+[params]
+
+mipmaps/generate=true

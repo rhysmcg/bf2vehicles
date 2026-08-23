@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/10/26 7:23]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe destroyableobject xp2_pylon_02
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "mfr"
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_pylon_02
+ObjectTemplate.setCollisionMesh xp2_pylon_02
+ObjectTemplate.mapMaterial 0 plastic 11
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.alignLastEffectToHitDirection 1
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_xp2_pylon_02 0/0/0 0/0/0

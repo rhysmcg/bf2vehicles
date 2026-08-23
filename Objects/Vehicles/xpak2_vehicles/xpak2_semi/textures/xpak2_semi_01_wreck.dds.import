@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dxry1s2hffqmb"
+path="res://.godot/imported/xpak2_semi_01_wreck.dds-7a934c44e72292a72431916d02ef5def.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_semi/textures/xpak2_semi_01_wreck.dds"
+dest_files=["res://.godot/imported/xpak2_semi_01_wreck.dds-7a934c44e72292a72431916d02ef5def.res"]
+
+[params]
+
+mipmaps/generate=true

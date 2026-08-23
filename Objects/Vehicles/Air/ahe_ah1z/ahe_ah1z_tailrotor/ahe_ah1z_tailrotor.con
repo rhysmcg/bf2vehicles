@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh ahe_ah1z_tailrotor
+CollisionManager.createTemplate ahe_ah1z_tailrotor
+
+ObjectTemplate.create Rotor ahe_ah1z_tailrotor
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.collisionMesh ahe_ah1z_tailrotor
+ObjectTemplate.mapMaterial 0 rotor 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ahe_ah1z_tailrotor
+
+include ahe_ah1z_tailrotor.tweak

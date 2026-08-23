@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dnftdki2cusbk"
+path="res://.godot/imported/1p_sasrif_mp7_scope_c.dds-fd4ad9148d90a94fe763f9c51920d4c9.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_mp7/textures/dds/1p_sasrif_mp7_scope_c.dds"
+dest_files=["res://.godot/imported/1p_sasrif_mp7_scope_c.dds-fd4ad9148d90a94fe763f9c51920d4c9.res"]
+
+[params]
+
+mipmaps/generate=true

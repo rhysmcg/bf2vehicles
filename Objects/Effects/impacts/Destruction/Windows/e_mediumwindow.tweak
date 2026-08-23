@@ -1,0 +1,572 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/14 0:16]
+ObjectTemplate.activeSafe EffectBundle e_mediumwindow
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.hasMobilePhysics 0
+rem -------------------------------------
+ObjectTemplate.addTemplate S_e_mediumwindow_Start
+rem -------------------------------------
+ObjectTemplate.setStartOnEffects 0
+ObjectTemplate.setStopOnEffects 0
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.randomAgeFactor CRD_NONE/1/0/0
+ObjectTemplate.startAtCreation 0
+ObjectTemplate.speedFromPhysics 0
+
+ObjectTemplate.activeSafe Sound S_e_mediumwindow_Start
+ObjectTemplate.soundFilename "common/material/Collision/Glass/glass_expl_01.wav,common/material/Collision/Glass/glass_expl_02.wav,common/material/Collision/Glass/glass_expl_03.wav,common/material/Collision/Glass/glass_expl_04.wav"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 1
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.reverbLevel 1
+ObjectTemplate.pitchEnvelope 0/1/0.9/1.1/1/1/0/0.95/1.05/
+ObjectTemplate.minDistance 2
+
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_01
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_01
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_01
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_02
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_02
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_02
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_03
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_03
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_03
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_04
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_04
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_04
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_05
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_05
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_05
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_06
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_06
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_06
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_07
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_07
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_07
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_08
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_08
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_08
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_09
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_09
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_09
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_10
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_10
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_10
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_11
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_11
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_11
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_12
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_12
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_12
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_13
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_13
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_13
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_14
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_14
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_14
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_15
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_15
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_15
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+
+ObjectTemplate.activeSafe Emitter em_mediumwindow_shard_16
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.template p_mediumwindow_shard_16
+ObjectTemplate.timeToLive CRD_NONE/0.1/0/0
+ObjectTemplate.intensity CRD_NONE/22/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/0/1/1
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/0/1/1
+ObjectTemplate.rotationalSpeedInDof CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInUp CRD_UNIFORM/3/6/1
+ObjectTemplate.rotationalSpeedInRight CRD_UNIFORM/3/6/1
+ObjectTemplate.startRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotation CRD_NONE/0/0/0
+ObjectTemplate.zRotationSnap 1
+
+ObjectTemplate.activeSafe Particle p_mediumwindow_shard_16
+ObjectTemplate.modifiedByUser dsu
+ObjectTemplate.preCacheObject 1
+ObjectTemplate.geometry e_mediumwindow
+ObjectTemplate.usedOnTransparentSurface 0
+ObjectTemplate.collisionGroups 60
+ObjectTemplate.collisionEffectName e_shardshatter
+ObjectTemplate.mass 0.05
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.physicsType RotationalPoint
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/2.5/0
+ObjectTemplate.sizeModifier 1/1/1
+ObjectTemplate.transparencyGraph 0/0/0/1
+ObjectTemplate.transparency CRD_NONE/0/0/0
+

@@ -1,0 +1,183 @@
+GeometryTemplate.create BundledMesh air_j10
+CollisionManager.createTemplate air_j10
+
+ObjectTemplate.create PlayerControlObject air_j10
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MEI-2:mei
+ObjectTemplate.collisionMesh air_j10
+ObjectTemplate.mapMaterial 0 Airplane 0
+ObjectTemplate.mapMaterial 1 vehicleglass 0
+ObjectTemplate.mapMaterial 2 glass 0
+ObjectTemplate.mapMaterial 3 wreck 0
+ObjectTemplate.mapMaterial 4 rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry air_j10
+ObjectTemplate.addTemplate AIR_J10_FGear
+ObjectTemplate.setPosition 0/-0.5840/3.6116
+ObjectTemplate.setRotation 0/2.5325/0
+ObjectTemplate.addTemplate AIR_J10_Gears
+ObjectTemplate.setPosition 0/0.0084/-0.6755
+ObjectTemplate.addTemplate AIR_J10_RWinglet
+ObjectTemplate.setPosition 0/0.2565/3.2999
+ObjectTemplate.setRotation 0/2.5325/0
+ObjectTemplate.addTemplate AIR_J10_LWinglet
+ObjectTemplate.setPosition 0/0.2565/3.2999
+ObjectTemplate.setRotation 0/2.5325/0
+ObjectTemplate.addTemplate AIR_J10_LFrontFlaps01
+ObjectTemplate.setPosition -3.5557/-0.2772/-2.4764
+ObjectTemplate.setRotation 0/2.5325/0
+ObjectTemplate.addTemplate AIR_J10_RFrontFlaps01
+ObjectTemplate.setPosition 3.5536/-0.2772/-2.4764
+ObjectTemplate.setRotation 0/2.5325/0
+ObjectTemplate.addTemplate AIR_J10_BackFlap
+ObjectTemplate.setPosition -0.0085/1.8995/-5.1380
+ObjectTemplate.setRotation 0/-30.3283/-90.0000
+ObjectTemplate.addTemplate AIR_J10_LHatch
+ObjectTemplate.setPosition -0.6087/-0.4099/0.2674
+ObjectTemplate.setRotation 0/-2.0115/0
+ObjectTemplate.addTemplate AIR_J10_FHatch02
+ObjectTemplate.setPosition 0.3565/-0.8186/2.6871
+ObjectTemplate.setRotation 0/0.5089/0
+ObjectTemplate.addTemplate AIR_J10_FHatch01
+ObjectTemplate.setPosition -0.3497/-0.8268/2.6957
+ObjectTemplate.setRotation 0/0.6789/0
+ObjectTemplate.addTemplate AIR_J10_RHatch
+ObjectTemplate.setPosition 0.6026/-0.4099/0.2674
+ObjectTemplate.setRotation 0/-2.0623/0
+
+ObjectTemplate.create LandingGear AIR_J10_FGear
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+ObjectTemplate.addTemplate AIR_J10_Fgear_hydraulic
+ObjectTemplate.setPosition 0/-0.4290/0.0204
+ObjectTemplate.addTemplate AIR_J10_FGear_Rot
+ObjectTemplate.setPosition 0/-0.6168/0.2169
+ObjectTemplate.setRotation 0/-19.2165/0
+
+ObjectTemplate.create LandingGear AIR_J10_Fgear_hydraulic
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create RotationalBundle AIR_J10_FGear_Rot
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate AIR_J10_Fwheel
+ObjectTemplate.setPosition -0.0030/-0.6821/-0.1184
+
+ObjectTemplate.create Spring AIR_J10_Fwheel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create LandingGear AIR_J10_Gears
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+ObjectTemplate.addTemplate AIR_J10_LGear
+ObjectTemplate.addTemplate AIR_J10_RGear
+
+ObjectTemplate.create LandingGear AIR_J10_LGear
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+ObjectTemplate.addTemplate AIR_J10_Lwheel
+ObjectTemplate.setPosition -0.8115/-1.6280/-0.1735
+
+ObjectTemplate.create Spring AIR_J10_Lwheel
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+
+ObjectTemplate.create LandingGear AIR_J10_RGear
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+ObjectTemplate.addTemplate AIR_J10_Rwheel
+ObjectTemplate.setPosition 0.8131/-1.6280/-0.1735
+
+ObjectTemplate.create Spring AIR_J10_Rwheel
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create Wing AIR_J10_RWinglet
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create Wing AIR_J10_LWinglet
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create Wing AIR_J10_LFrontFlaps01
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create Wing AIR_J10_RFrontFlaps01
+ObjectTemplate.collisionPart 13
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+
+ObjectTemplate.create Wing AIR_J10_BackFlap
+ObjectTemplate.collisionPart 14
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+
+ObjectTemplate.create LandingGear AIR_J10_LHatch
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create LandingGear AIR_J10_FHatch02
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create LandingGear AIR_J10_FHatch01
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create LandingGear AIR_J10_RHatch
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+include air_j10.tweak

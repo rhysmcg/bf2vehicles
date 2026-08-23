@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://c80r58wak0diu"
+path="res://.godot/imported/anim_blood.dds-adc4fbb4712ecd970c7b9e608a655dce.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/blood/anim_blood.dds"
+dest_files=["res://.godot/imported/anim_blood.dds-adc4fbb4712ecd970c7b9e608a655dce.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Fall_road_narrow
+ObjectTemplate.create SimpleObject Fall_road_narrow
+ObjectTemplate.geometry Fall_road_narrow

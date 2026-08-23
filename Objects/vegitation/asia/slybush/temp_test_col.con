@@ -1,0 +1,12 @@
+CollisionManager.createTemplate temp_test
+
+ObjectTemplate.create SimpleObject temp_test_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh temp_test
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-0.7780/0
+
+include temp_test_col.tweak

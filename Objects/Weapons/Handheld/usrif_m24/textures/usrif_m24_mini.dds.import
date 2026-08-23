@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://crnffhfm7qucc"
+path="res://.godot/imported/usrif_m24_mini.dds-35e347621a04412f78ec9c51116dd5a6.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_m24/textures/usrif_m24_mini.dds"
+dest_files=["res://.godot/imported/usrif_m24_mini.dds-35e347621a04412f78ec9c51116dd5a6.res"]
+
+[params]
+
+mipmaps/generate=true

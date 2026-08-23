@@ -1,0 +1,26 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/1 15:40]
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 8
+ObjectTemplate.activeSafe Bundle outdoor_pool_small
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry outdoor_pool_small
+ObjectTemplate.setCollisionMesh outdoor_pool_small
+ObjectTemplate.mapMaterial 0 stone 78
+ObjectTemplate.mapMaterial 1 Ceramaic_tile 82
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate pool_ladder
+ObjectTemplate.setPosition 3.62216/0.985334/6.14603
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate pool_ladder
+ObjectTemplate.setPosition -3.66212/0.987495/-6.13427
+ObjectTemplate.setRotation -90/0/0
+rem -------------------------------------
+

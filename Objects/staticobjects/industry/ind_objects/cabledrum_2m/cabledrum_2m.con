@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh cabledrum_2m
+CollisionManager.createTemplate cabledrum_2m
+
+ObjectTemplate.create SimpleObject cabledrum_2m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh cabledrum_2m
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.mapMaterial 1 Rubber 0
+ObjectTemplate.mapMaterial 2 Wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cabledrum_2m
+
+include cabledrum_2m.tweak

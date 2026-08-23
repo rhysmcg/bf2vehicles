@@ -1,0 +1,13 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/11 14:11]
+GeometryTemplate.setSubGeometryLodDistance 0 0 20
+GeometryTemplate.doNotGenerateLightmaps 1
+GeometryTemplate.lightmapOverride 1
+GeometryTemplate.setLightmapSizeAll 0 0 0
+GeometryTemplate.setLightmapSizeAll 0 1 0
+ObjectTemplate.activeSafe SimpleObject cable16m
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.modifiedByUser oca
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry cable16m
+ObjectTemplate.hasMobilePhysics 0
+

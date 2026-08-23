@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dolhv2i7c256t"
+path="res://.godot/imported/china_specopskit_c.dds-16b7c91b4e5c4a073e545a680e80ea74.res"
+
+[deps]
+
+source_file="res://Objects/Kits/ch/textures/china_specopskit_c.dds"
+dest_files=["res://.godot/imported/china_specopskit_c.dds-16b7c91b4e5c4a073e545a680e80ea74.res"]
+
+[params]
+
+mipmaps/generate=true

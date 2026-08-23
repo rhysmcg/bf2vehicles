@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Dirtroad_underwater
+ObjectTemplate.create SimpleObject Dirtroad_underwater
+ObjectTemplate.geometry Dirtroad_underwater

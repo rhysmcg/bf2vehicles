@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_rr_highwayfence
+CollisionManager.createTemplate xp2_rr_highwayfence
+
+ObjectTemplate.create SimpleObject xp2_rr_highwayfence
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_rr_highwayfence
+ObjectTemplate.mapMaterial 0 xp2_highwayfence_01:Metal_solid 0
+ObjectTemplate.mapMaterial 1 xp2_highwayfence_01:Wood_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rr_highwayfence
+ObjectTemplate.anchor 91.8267/-0.7469/-4.0695
+
+include xp2_rr_highwayfence.tweak

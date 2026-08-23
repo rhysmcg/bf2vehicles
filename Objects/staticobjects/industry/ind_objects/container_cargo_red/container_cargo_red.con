@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh container_cargo_red
+CollisionManager.createTemplate container_cargo_red
+
+ObjectTemplate.create SimpleObject container_cargo_red
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh container_cargo_red
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry container_cargo_red
+ObjectTemplate.anchor 0.0319/-1.3000/0
+
+include container_cargo_red.tweak

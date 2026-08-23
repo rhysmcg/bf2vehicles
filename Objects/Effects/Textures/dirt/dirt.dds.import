@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b4ysfgpwn2qn4"
+path="res://.godot/imported/dirt.dds-13f2ff1b5d6a09136faad8a57dc6de8e.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/dirt.dds"
+dest_files=["res://.godot/imported/dirt.dds-13f2ff1b5d6a09136faad8a57dc6de8e.res"]
+
+[params]
+
+mipmaps/generate=true

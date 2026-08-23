@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_wreck_cobra_hull
+CollisionManager.createTemplate p_wreck_cobra_hull
+
+ObjectTemplate.create Particle p_wreck_cobra_hull
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_wreck_cobra_hull
+ObjectTemplate.mapMaterial 0 cobra_wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_cobra_hull
+
+include p_wreck_cobra_hull.tweak

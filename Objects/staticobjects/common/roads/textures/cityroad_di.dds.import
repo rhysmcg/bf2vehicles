@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dvrbl30b7wb75"
+path="res://.godot/imported/cityroad_di.dds-577e3d9ea09af0cf75c403faeba5f1d4.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/textures/cityroad_di.dds"
+dest_files=["res://.godot/imported/cityroad_di.dds-577e3d9ea09af0cf75c403faeba5f1d4.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/1 14:40]
+GeometryTemplate.setSubGeometryLodDistance 0 0 1000
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject nc_slybush01
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.modifiedByUser mei
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry nc_slybush01
+ObjectTemplate.setCollisionMesh nc_slybush01
+ObjectTemplate.mapMaterial 0 leaf_Col 16
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

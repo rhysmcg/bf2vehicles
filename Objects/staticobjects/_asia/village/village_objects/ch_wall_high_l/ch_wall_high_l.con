@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh ch_wall_high_l
+CollisionManager.createTemplate ch_wall_high_l
+
+ObjectTemplate.create SimpleObject ch_wall_high_l
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh ch_wall_high_l
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_wall_high_l
+ObjectTemplate.anchor -0.6336/-1.5000/0.3664
+
+include ch_wall_high_l.tweak

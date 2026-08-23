@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://g1xux362ewk"
+path="res://.godot/imported/air_a10_cockpit_b.dds-69c81d1326d5e44c9dfab6a3fbb8d33d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_a10/textures/air_a10_cockpit_b.dds"
+dest_files=["res://.godot/imported/air_a10_cockpit_b.dds-69c81d1326d5e44c9dfab6a3fbb8d33d.res"]
+
+[params]
+
+mipmaps/generate=true

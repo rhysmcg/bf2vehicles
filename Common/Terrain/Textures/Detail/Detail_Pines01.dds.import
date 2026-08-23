@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bllvq0whjjyvm"
+path="res://.godot/imported/Detail_Pines01.dds-04dbf42726dfafab42a563e49f563802.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Pines01.dds"
+dest_files=["res://.godot/imported/Detail_Pines01.dds-04dbf42726dfafab42a563e49f563802.res"]
+
+[params]
+
+mipmaps/generate=true

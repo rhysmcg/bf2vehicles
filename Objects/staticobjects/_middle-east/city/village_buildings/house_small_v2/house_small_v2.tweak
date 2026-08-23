@@ -1,0 +1,23 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject house_small_v2
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry house_small_v2
+ObjectTemplate.setCollisionMesh house_small_v2
+ObjectTemplate.mapMaterial 0 wood 14
+ObjectTemplate.mapMaterial 1 Metal_plate_thin 20
+ObjectTemplate.mapMaterial 2 metal_solid 21
+ObjectTemplate.mapMaterial 3 rubber 11
+ObjectTemplate.mapMaterial 4 wood_Solid 15
+ObjectTemplate.mapMaterial 5 Concrete 78
+ObjectTemplate.mapMaterial 6 Penetrable_Wood 1003
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

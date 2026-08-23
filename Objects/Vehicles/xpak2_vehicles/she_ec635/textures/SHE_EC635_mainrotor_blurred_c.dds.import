@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cuwsvth3f7r1b"
+path="res://.godot/imported/SHE_EC635_mainrotor_blurred_c.dds-b799bdb717d880b263f277c455f4fc9d.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/textures/SHE_EC635_mainrotor_blurred_c.dds"
+dest_files=["res://.godot/imported/SHE_EC635_mainrotor_blurred_c.dds-b799bdb717d880b263f277c455f4fc9d.res"]
+
+[params]
+
+mipmaps/generate=true

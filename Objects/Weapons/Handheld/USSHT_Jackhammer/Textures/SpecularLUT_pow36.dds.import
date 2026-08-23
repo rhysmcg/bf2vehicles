@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://pfpvd6veb5xu"
+path="res://.godot/imported/SpecularLUT_pow36.dds-b56885799c93ce5908debc1f1ece6d66.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSHT_Jackhammer/Textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-b56885799c93ce5908debc1f1ece6d66.res"]
+
+[params]
+
+mipmaps/generate=true

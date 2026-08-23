@@ -1,0 +1,8 @@
+GeometryTemplate.create MeshParticleMesh p_muzz_mp5_3p
+
+ObjectTemplate.create Particle p_muzz_mp5_3p
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.geometry p_muzz_mp5_3p
+
+include p_muzz_mp5_3p.tweak

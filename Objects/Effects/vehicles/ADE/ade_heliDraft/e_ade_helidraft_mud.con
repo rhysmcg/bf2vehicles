@@ -1,0 +1,4 @@
+ObjectTemplate.create EffectBundle e_ade_helidraft_mud
+ObjectTemplate.createdInEditor 1
+
+include e_ade_helidraft_mud.tweak

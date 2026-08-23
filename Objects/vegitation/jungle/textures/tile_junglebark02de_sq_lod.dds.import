@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://kjlbwyoo45n2"
+path="res://.godot/imported/tile_junglebark02de_sq_lod.dds-6353e8e9f297f82de0dbde6daed3317d.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/textures/tile_junglebark02de_sq_lod.dds"
+dest_files=["res://.godot/imported/tile_junglebark02de_sq_lod.dds-6353e8e9f297f82de0dbde6daed3317d.res"]
+
+[params]
+
+mipmaps/generate=true

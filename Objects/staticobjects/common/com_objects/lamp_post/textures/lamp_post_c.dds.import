@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dbdl0bfg8mtps"
+path="res://.godot/imported/lamp_post_c.dds-f6c2627ff9e6d3e4822df0ef618e70bf.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lamp_post/textures/lamp_post_c.dds"
+dest_files=["res://.godot/imported/lamp_post_c.dds-f6c2627ff9e6d3e4822df0ef618e70bf.res"]
+
+[params]
+
+mipmaps/generate=true

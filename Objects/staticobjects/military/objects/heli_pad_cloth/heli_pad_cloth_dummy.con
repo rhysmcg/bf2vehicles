@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh heli_pad_cloth_dummy
+
+ObjectTemplate.create Bundle heli_pad_cloth_dummy
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DPA-1:dpa
+ObjectTemplate.collisionMesh Heli_pad_cloth_dummy
+ObjectTemplate.mapMaterial 0 lambert3 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry heli_pad_cloth_dummy
+ObjectTemplate.anchor 7.0000/0.0047/7.0000
+
+include heli_pad_cloth_dummy.tweak

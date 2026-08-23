@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh ahe_ah1z_mainrotor
+CollisionManager.createTemplate ahe_ah1z_mainrotor
+
+ObjectTemplate.create Rotor ahe_ah1z_mainrotor
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.collisionMesh ahe_ah1z_mainrotor
+ObjectTemplate.mapMaterial 0 Rotor 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ahe_ah1z_mainrotor
+
+include ahe_ah1z_mainrotor.tweak

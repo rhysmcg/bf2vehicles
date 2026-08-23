@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh traffic_oversign_01
+CollisionManager.createTemplate traffic_oversign_01
+
+ObjectTemplate.create SimpleObject traffic_oversign_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh traffic_oversign_01
+ObjectTemplate.mapMaterial 0 lamp 0
+ObjectTemplate.mapMaterial 1 metal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry traffic_oversign_01
+ObjectTemplate.anchor 2.2679/-6.3936/-0.2663
+
+include traffic_oversign_01.tweak

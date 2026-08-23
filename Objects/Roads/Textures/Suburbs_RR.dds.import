@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://16yw3avdi5aa"
+path="res://.godot/imported/Suburbs_RR.dds-0f580656ba088f2770f95532ac641e58.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Suburbs_RR.dds"
+dest_files=["res://.godot/imported/Suburbs_RR.dds-0f580656ba088f2770f95532ac641e58.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh xp2_stripmall_section01
+CollisionManager.createTemplate xp2_stripmall_section01
+
+ObjectTemplate.create bundle xp2_stripmall_section01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_stripmall_section01
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 fiberGlass 0
+ObjectTemplate.mapMaterial 2 wood 0
+ObjectTemplate.mapMaterial 3 plastic 0
+ObjectTemplate.mapMaterial 4 glass 0
+ObjectTemplate.mapMaterial 5 metalThick 0
+ObjectTemplate.mapMaterial 6 dirt 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_stripmall_section01
+ObjectTemplate.anchor 12.2044/-0.1410/25.6149
+
+include xp2_stripmall_section01.tweak

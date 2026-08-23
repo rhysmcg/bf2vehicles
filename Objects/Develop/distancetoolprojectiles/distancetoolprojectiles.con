@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh distancetoolprojectiles
+
+ObjectTemplate.create SimpleObject distancetoolprojectiles
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh distancetoolprojectiles
+ObjectTemplate.mapMaterial 0 Matal 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry distancetoolprojectiles
+ObjectTemplate.anchor 0.0940/-18.7730/479.4134
+
+include distancetoolprojectiles.tweak

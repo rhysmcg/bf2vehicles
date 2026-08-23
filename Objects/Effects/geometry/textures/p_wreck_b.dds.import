@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://mmsmuighhlte"
+path="res://.godot/imported/p_wreck_b.dds-2becab6f2515997b2a27e70efe5c85fb.res"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/textures/p_wreck_b.dds"
+dest_files=["res://.godot/imported/p_wreck_b.dds-2becab6f2515997b2a27e70efe5c85fb.res"]
+
+[params]
+
+mipmaps/generate=true

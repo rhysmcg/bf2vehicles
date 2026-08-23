@@ -1,0 +1,8 @@
+GeometryTemplate.create StaticMesh nc_oak02_lod
+
+ObjectTemplate.create SimpleObject nc_oak02_lod
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.geometry nc_oak02_lod
+
+include nc_oak02_lod.tweak

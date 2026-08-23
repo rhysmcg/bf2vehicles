@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_desertshack_02
+CollisionManager.createTemplate xp2_desertshack_02
+
+ObjectTemplate.create SimpleObject xp2_desertshack_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MIKECA:mikeca
+ObjectTemplate.collisionMesh xp2_desertshack_02
+ObjectTemplate.mapMaterial 0 metal_thin 0
+ObjectTemplate.mapMaterial 1 wood 0
+ObjectTemplate.mapMaterial 2 briks 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_desertshack_02
+
+include xp2_desertshack_02.tweak

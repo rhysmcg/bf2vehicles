@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bxphl4of30ohr"
+path="res://.godot/imported/MecKit_Desert_s.dds-f304655055cf82ea7dc8697be3ffff9a.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/kitparts/MecKit/Textures/MecKit_Desert_s.dds"
+dest_files=["res://.godot/imported/MecKit_Desert_s.dds-f304655055cf82ea7dc8697be3ffff9a.res"]
+
+[params]
+
+mipmaps/generate=true

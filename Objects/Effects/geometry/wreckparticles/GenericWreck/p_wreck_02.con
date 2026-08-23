@@ -1,0 +1,12 @@
+GeometryTemplate.create BundledMesh p_wreck_02
+
+ObjectTemplate.create Particle p_wreck_02
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+rem ObjectTemplate.collisionMesh p_wreck_02
+ObjectTemplate.mapMaterial 0 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_wreck_02
+
+include p_wreck_02.tweak

@@ -1,0 +1,11 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/5/6 12:17]
+ObjectTemplate.activeSafe AntennaObject antennaflag
+ObjectTemplate.creator MLU-1:mlu
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry antennaflag
+ObjectTemplate.antenna.skeleton Objects/Vehicles/Common/AntennaFlag/antennaflag_setup.ske
+ObjectTemplate.antenna.maxSwayAngle 60/60
+ObjectTemplate.antenna.stiffness 0.5
+ObjectTemplate.antenna.damping 0.05
+ObjectTemplate.antenna.accelerationFactor 10
+

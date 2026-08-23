@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bpo0xsown40hy"
+path="res://.godot/imported/nc_color_03.dds-006f24478026766fdfe9137a672118ec.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/textures/nc_color_03.dds"
+dest_files=["res://.godot/imported/nc_color_03.dds-006f24478026766fdfe9137a672118ec.res"]
+
+[params]
+
+mipmaps/generate=true

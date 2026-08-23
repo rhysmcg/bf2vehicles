@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cg0ywc373tssi"
+path="res://.godot/imported/Detail_OakLeaves01.dds-ffab3c6bc056b23e09302d9c6e6af7d5.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_OakLeaves01.dds"
+dest_files=["res://.godot/imported/Detail_OakLeaves01.dds-ffab3c6bc056b23e09302d9c6e6af7d5.res"]
+
+[params]
+
+mipmaps/generate=true

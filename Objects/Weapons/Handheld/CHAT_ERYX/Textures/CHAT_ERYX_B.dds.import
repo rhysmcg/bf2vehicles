@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cbaorduo0s18s"
+path="res://.godot/imported/CHAT_ERYX_B.dds-83e1b9923ddb2c3680ae73b67b9a56a3.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/CHAT_ERYX/Textures/CHAT_ERYX_B.dds"
+dest_files=["res://.godot/imported/CHAT_ERYX_B.dds-83e1b9923ddb2c3680ae73b67b9a56a3.res"]
+
+[params]
+
+mipmaps/generate=true

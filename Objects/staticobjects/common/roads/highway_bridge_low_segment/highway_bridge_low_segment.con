@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh highway_bridge_low_segment
+CollisionManager.createTemplate highway_bridge_low_segment
+
+ObjectTemplate.create DestroyableObject highway_bridge_low_segment
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh highway_bridge_low_segment
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 Tarmac 0
+ObjectTemplate.mapMaterial 2 Metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry highway_bridge_low_segment
+ObjectTemplate.anchor -5.9663/7.0394/27.0000
+
+include highway_bridge_low_segment.tweak

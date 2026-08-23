@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bskbq3xe30xin"
+path="res://.godot/imported/dirt_arrow.dds-b2b7f5a1955c3caf8c869242e457c0dd.res"
+
+[deps]
+
+source_file="res://Objects/Effects/Textures/dirt/dirt_arrow.dds"
+dest_files=["res://.godot/imported/dirt_arrow.dds-b2b7f5a1955c3caf8c869242e457c0dd.res"]
+
+[params]
+
+mipmaps/generate=true

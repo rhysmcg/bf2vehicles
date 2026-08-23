@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://upryndexcsiy"
+path="res://.godot/imported/aav_tunguska_hud_b.dds-89bf60cfa4914f074d373056501451ce.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_tunguska/textures/aav_tunguska_hud_b.dds"
+dest_files=["res://.godot/imported/aav_tunguska_hud_b.dds-89bf60cfa4914f074d373056501451ce.res"]
+
+[params]
+
+mipmaps/generate=true

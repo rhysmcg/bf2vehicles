@@ -1,0 +1,18 @@
+GeometryTemplate.create StaticMesh pricklypearflowers_s_01
+CollisionManager.createTemplate pricklypearflowers_s_01
+
+ObjectTemplate.create SimpleObject pricklypearflowers_s_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.collisionMesh pricklypearflowers_s_01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry pricklypearflowers_s_01
+ObjectTemplate.anchor 0/-3/0
+
+
+include pricklypearflowers_s_01.tweak
+
+
+

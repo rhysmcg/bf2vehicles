@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_lav25_backwindow
+CollisionManager.createTemplate p_lav25_backwindow
+
+ObjectTemplate.create Particle p_lav25_backwindow
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator DSU-1:dsu
+ObjectTemplate.collisionMesh p_lav25_backwindow
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_lav25_backwindow
+
+include p_lav25_backwindow.tweak

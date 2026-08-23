@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh outdoor_pool_small
+CollisionManager.createTemplate outdoor_pool_small
+
+ObjectTemplate.create Bundle outdoor_pool_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh outdoor_pool_small
+ObjectTemplate.mapMaterial 0 stone 0
+ObjectTemplate.mapMaterial 1 Ceramaic_tile 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry outdoor_pool_small
+ObjectTemplate.anchor -7.0018/1.8630/10.0005
+
+include outdoor_pool_small.tweak

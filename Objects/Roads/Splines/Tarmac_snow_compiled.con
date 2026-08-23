@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled Tarmac_snow
+ObjectTemplate.create SimpleObject Tarmac_snow
+ObjectTemplate.geometry Tarmac_snow

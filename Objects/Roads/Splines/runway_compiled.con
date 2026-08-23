@@ -1,0 +1,3 @@
+GeometryTemplate.create RoadCompiled runway
+ObjectTemplate.create SimpleObject runway
+ObjectTemplate.geometry runway

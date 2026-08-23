@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/3/23 15:53]
+GeometryTemplate.setSubGeometryLodDistance 0 0 26
+GeometryTemplate.setSubGeometryLodDistance 0 1 51
+GeometryTemplate.setSubGeometryLodDistance 0 2 100
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject oil_pump_static_02
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.geometry oil_pump_static_02
+ObjectTemplate.setCollisionMesh oil_pump_static_02
+ObjectTemplate.mapMaterial 0 Metal_Solid 21
+ObjectTemplate.mapMaterial 1 Concrete 78
+ObjectTemplate.mapMaterial 2 slippery 7001
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

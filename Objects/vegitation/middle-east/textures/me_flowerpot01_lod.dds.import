@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://8lpru4s4i11j"
+path="res://.godot/imported/me_flowerpot01_lod.dds-adf44a75d0e4bb872c93aeb733bf6902.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/textures/me_flowerpot01_lod.dds"
+dest_files=["res://.godot/imported/me_flowerpot01_lod.dds-adf44a75d0e4bb872c93aeb733bf6902.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,20 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/11/4 0:13]
+ObjectTemplate.activeSafe WheelEffectBundle web_trackedSmoke
+ObjectTemplate.modifiedByUser ngo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.material 107
+rem begin Auto-generated effectProperties-part.
+ObjectTemplate.AlphaIntensityRange 0/1
+ObjectTemplate.AlphaIntensityFromSpeed 2/15
+ObjectTemplate.EmitScaleFactorRange 0/1
+ObjectTemplate.EmitScaleFactorFromSpeed 5/10
+ObjectTemplate.EmitSpeedScaleRange 0/1
+ObjectTemplate.EmitSpeedScaleFromSpeed 5/10
+ObjectTemplate.AgeScaleFactorRange 1/1
+ObjectTemplate.StartAgeRange 0/0
+rem end Auto-generated effectProperties-part.
+ObjectTemplate.emitDirectionZFromSpeedDof 1
+

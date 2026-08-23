@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh ch_wall_low_12m
+CollisionManager.createTemplate ch_wall_low_12m
+
+ObjectTemplate.create SimpleObject ch_wall_low_12m
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh ch_wall_low_12m
+ObjectTemplate.mapMaterial 0 Ch_wall_low_end_concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry ch_wall_low_12m
+ObjectTemplate.anchor 6.0000/-0.5500/0
+
+include ch_wall_low_12m.tweak

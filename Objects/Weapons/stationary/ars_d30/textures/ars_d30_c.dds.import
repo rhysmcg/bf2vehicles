@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://6jcncojall0w"
+path="res://.godot/imported/ars_d30_c.dds-03cc260ea7b540279590b29bd2fc5a3c.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ars_d30/textures/ars_d30_c.dds"
+dest_files=["res://.godot/imported/ars_d30_c.dds-03cc260ea7b540279590b29bd2fc5a3c.res"]
+
+[params]
+
+mipmaps/generate=true

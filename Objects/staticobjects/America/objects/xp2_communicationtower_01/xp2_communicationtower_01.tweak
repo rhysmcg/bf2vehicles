@@ -1,0 +1,22 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/3/29 7:12]
+GeometryTemplate.setSubGeometryLodDistance 0 1 150
+GeometryTemplate.setMaterialParallaxHeightScale 0 0 1 15
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject xp2_communicationtower_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "jayev"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry xp2_communicationtower_01
+ObjectTemplate.setCollisionMesh xp2_communicationtower_01
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.mapMaterial 1 glass 17
+ObjectTemplate.mapMaterial 2 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

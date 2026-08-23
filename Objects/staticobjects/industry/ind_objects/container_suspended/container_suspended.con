@@ -1,0 +1,9 @@
+GeometryTemplate.create StaticMesh container_suspended
+
+ObjectTemplate.create SimpleObject container_suspended
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.geometry container_suspended
+ObjectTemplate.anchor 0.0105/2.9854/0.0073
+
+include container_suspended.tweak

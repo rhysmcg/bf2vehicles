@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://qel15v6f1dkv"
+path="res://.godot/imported/p_wreck_highwaybridge_b.dds-e3f8b9035d39ed62b5e4a9254b93c640.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_segment/p_wreck_highwaybridge_b.dds"
+dest_files=["res://.godot/imported/p_wreck_highwaybridge_b.dds-e3f8b9035d39ed62b5e4a9254b93c640.res"]
+
+[params]
+
+mipmaps/generate=true

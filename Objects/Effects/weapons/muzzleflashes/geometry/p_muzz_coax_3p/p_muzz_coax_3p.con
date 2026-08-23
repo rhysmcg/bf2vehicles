@@ -1,0 +1,8 @@
+GeometryTemplate.create MeshParticleMesh p_muzz_coax_3p
+
+ObjectTemplate.create Particle p_muzz_coax_3p
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NGO-1:ngo
+ObjectTemplate.geometry p_muzz_coax_3p
+
+include p_muzz_coax_3p.tweak

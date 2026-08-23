@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://y7vjj1oyxwk5"
+path="res://.godot/imported/tile_ncbark01de_snow.dds-93fa9ac6d1060f5e627205e6edee0efc.res"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/textures/tile_ncbark01de_snow.dds"
+dest_files=["res://.godot/imported/tile_ncbark01de_snow.dds-93fa9ac6d1060f5e627205e6edee0efc.res"]
+
+[params]
+
+mipmaps/generate=true

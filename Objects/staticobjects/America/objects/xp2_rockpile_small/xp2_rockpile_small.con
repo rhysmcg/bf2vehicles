@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_rockpile_small
+CollisionManager.createTemplate xp2_rockpile_small
+
+ObjectTemplate.create SimpleObject xp2_rockpile_small
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_rockpile_small
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_rockpile_small
+ObjectTemplate.anchor 1.0871/-1.1743/-1.5156
+
+include xp2_rockpile_small.tweak

@@ -1,0 +1,13 @@
+CollisionManager.createTemplate nc_birch_cluster01
+
+ObjectTemplate.create SimpleObject nc_birch_cluster01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_birch_cluster01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 0/-9.9754/0
+
+include nc_birch_cluster01_col.tweak

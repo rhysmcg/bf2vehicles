@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh xp2_bush_01
+CollisionManager.createTemplate xp2_bush_01
+
+ObjectTemplate.create SimpleObject xp2_bush_01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator TAYLORK:taylorki
+ObjectTemplate.collisionMesh xp2_bush_01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_bush_01
+ObjectTemplate.anchor 0/-1.5945/0
+
+include xp2_bush_01.tweak

@@ -1,0 +1,16 @@
+GeometryTemplate.create StaticMesh xp2_toolshed_open
+CollisionManager.createTemplate xp2_toolshed_open
+
+ObjectTemplate.create SimpleObject xp2_toolshed_open
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_toolshed_open
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.mapMaterial 1 penetrable_wood 0
+ObjectTemplate.mapMaterial 2 soldier_slippery 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_toolshed_open
+ObjectTemplate.anchor 0.0946/-1.4794/4.1910
+
+include xp2_toolshed_open.tweak

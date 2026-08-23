@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh xp2_metalbridge_ramp
+CollisionManager.createTemplate xp2_metalbridge_ramp
+
+ObjectTemplate.create SimpleObject xp2_metalbridge_ramp
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator RYAN:RyanLo
+ObjectTemplate.collisionMesh xp2_metalbridge_ramp
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.mapMaterial 1 metal_solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry xp2_metalbridge_ramp
+ObjectTemplate.anchor 0/-3.5517/14.2176
+
+include xp2_metalbridge_ramp.tweak

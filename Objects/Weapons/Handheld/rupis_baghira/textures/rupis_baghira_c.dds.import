@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://dcbiyrm1vqoy7"
+path="res://.godot/imported/rupis_baghira_c.dds-9b5c073693b1bf528d342a09df8ed4c8.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rupis_baghira/textures/rupis_baghira_c.dds"
+dest_files=["res://.godot/imported/rupis_baghira_c.dds-9b5c073693b1bf528d342a09df8ed4c8.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cfkrwvh7uuwyw"
+path="res://.godot/imported/SpecularLUT_pow36.dds-eab0e9c38f7f9f85c918de01bfb2861a.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/KNI_KNIFE/Textures/SpecularLUT_pow36.dds"
+dest_files=["res://.godot/imported/SpecularLUT_pow36.dds-eab0e9c38f7f9f85c918de01bfb2861a.res"]
+
+[params]
+
+mipmaps/generate=true

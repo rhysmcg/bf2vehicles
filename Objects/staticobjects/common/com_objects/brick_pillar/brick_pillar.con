@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh brick_pillar
+CollisionManager.createTemplate brick_pillar
+
+ObjectTemplate.create SimpleObject brick_pillar
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh brick_pillar
+ObjectTemplate.mapMaterial 0 rock 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry brick_pillar
+ObjectTemplate.anchor -0.1637/-1.4995/-0.3000
+
+include brick_pillar.tweak

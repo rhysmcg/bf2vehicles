@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://b3c1l6mcij5ku"
+path="res://.godot/imported/us_projectiles_b.dds-51b677cd40c8e6ad15bc8e67e09a61be.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/textures/us_projectiles_b.dds"
+dest_files=["res://.godot/imported/us_projectiles_b.dds-51b677cd40c8e6ad15bc8e67e09a61be.res"]
+
+[params]
+
+mipmaps/generate=true

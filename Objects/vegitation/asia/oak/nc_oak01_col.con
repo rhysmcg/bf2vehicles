@@ -1,0 +1,13 @@
+CollisionManager.createTemplate nc_oak01
+
+ObjectTemplate.create SimpleObject nc_oak01_col
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh nc_oak01
+ObjectTemplate.mapMaterial 0 wood_col 0
+ObjectTemplate.mapMaterial 1 leaf_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.anchor 1.2409/-6.8375/-1.0090
+
+include nc_oak01_col.tweak

@@ -1,0 +1,68 @@
+GeometryTemplate.create StaticMesh cleansweep_suply
+
+ObjectTemplate.create Bundle cleansweep_suply
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.geometry cleansweep_suply
+
+include cleansweep_suply.tweak
+
+rem -------------------------------------
+ObjectTemplate.addTemplate cleansweep_suply_SupplyObject_air1
+ObjectTemplate.setPosition 0/20/149
+ObjectTemplate.addTemplate cleansweep_suply_SupplyObject_air2
+ObjectTemplate.setPosition 0/20/115.6667
+ObjectTemplate.addTemplate cleansweep_suply_SupplyObject_air3
+ObjectTemplate.setPosition 0/20/82.3333
+ObjectTemplate.addTemplate cleansweep_suply_SupplyObject_air4
+ObjectTemplate.setPosition 0/20/49
+rem -------------------------------------
+
+ObjectTemplate.create SupplyObject cleansweep_suply_SupplyObject_air1
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 25
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject cleansweep_suply_SupplyObject_air2
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 25
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject cleansweep_suply_SupplyObject_air3
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 25
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+
+ObjectTemplate.create SupplyObject cleansweep_suply_SupplyObject_air4
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.createdInEditor 1
+ObjectTemplate.floaterMod 0
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 25
+ObjectTemplate.workOnSoldiers 0
+ObjectTemplate.workOnVehicles 1
+ObjectTemplate.refillAmmoSpeed 33
+ObjectTemplate.teamFromClosestCP 1
+ObjectTemplate.addVehicleType 2
+

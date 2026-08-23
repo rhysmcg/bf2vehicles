@@ -1,0 +1,21 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/2/2 9:17]
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe Rotor ahe_ah1z_tailrotor
+ObjectTemplate.creator PHO-1:pho
+ObjectTemplate.modifiedByUser lma
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry ahe_ah1z_tailrotor
+ObjectTemplate.setCollisionMesh ahe_ah1z_tailrotor
+ObjectTemplate.mapMaterial 0 rotor 31
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.changeLodAt 0.15
+ObjectTemplate.tolerance 0.000390625
+ObjectTemplate.rotationSpeedMod 2.5
+ObjectTemplate.rotationSpeedModBlur 0.1
+ObjectTemplate.rotationAxle 1
+ObjectTemplate.engineName AHE_AH1Z_TailEngine
+

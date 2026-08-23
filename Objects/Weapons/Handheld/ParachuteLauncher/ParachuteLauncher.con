@@ -1,0 +1,5 @@
+ObjectTemplate.create GenericFireArm ParachuteLauncher
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.PreCacheObject 1
+
+include ParachuteLauncher.tweak

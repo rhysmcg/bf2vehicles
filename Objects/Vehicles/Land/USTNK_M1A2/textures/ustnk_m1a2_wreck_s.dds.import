@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://btktrywfwl5se"
+path="res://.godot/imported/ustnk_m1a2_wreck_s.dds-0a72b5f813b5114cb926c1f8960050d6.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USTNK_M1A2/textures/ustnk_m1a2_wreck_s.dds"
+dest_files=["res://.godot/imported/ustnk_m1a2_wreck_s.dds-0a72b5f813b5114cb926c1f8960050d6.res"]
+
+[params]
+
+mipmaps/generate=true

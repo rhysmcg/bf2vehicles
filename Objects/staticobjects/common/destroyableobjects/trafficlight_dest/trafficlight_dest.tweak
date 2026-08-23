@@ -1,0 +1,31 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/5/2 17:30]
+GeometryTemplate.setSubGeometryLodDistance 0 0 15
+GeometryTemplate.setSubGeometryLodDistance 0 1 30
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe DestroyableObject trafficlight_dest
+ObjectTemplate.creator ENI-2:eni
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.setNetworkableInfo BasicInfo
+ObjectTemplate.saveInSeparateFile 1
+rem ---BeginComp:Armor ---
+ObjectTemplate.createComponent Armor
+ObjectTemplate.armor.maxHitPoints 1
+ObjectTemplate.armor.hitPoints 1
+ObjectTemplate.armor.defaultMaterial 97
+ObjectTemplate.armor.waterLevel -0.3
+ObjectTemplate.armor.wreckHitPoints 1
+ObjectTemplate.armor.addArmorEffect 0 e_destruction_trafficlight 0/0/0 0/0/0
+rem ---EndComp ---
+ObjectTemplate.geometry trafficlight_dest
+ObjectTemplate.setCollisionMesh trafficlight_dest
+ObjectTemplate.mapMaterial 0 colormapgloss 20
+ObjectTemplate.mapMaterial 1 metal_Solid 17
+ObjectTemplate.mapMaterial 2 metal_thin 20
+ObjectTemplate.mapMaterial 3 glass 0
+ObjectTemplate.treeCollisionDiameter 0.3
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+ObjectTemplate.material 38
+

@@ -1,0 +1,17 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/4/27 18:33]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+ObjectTemplate.activeSafe SimpleObject refug_2
+ObjectTemplate.creator KHE-2:khe
+ObjectTemplate.modifiedByUser god
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry refug_2
+ObjectTemplate.setCollisionMesh refug_2
+ObjectTemplate.mapMaterial 0 concrete 12
+ObjectTemplate.mapMaterial 1 tarmac 4
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

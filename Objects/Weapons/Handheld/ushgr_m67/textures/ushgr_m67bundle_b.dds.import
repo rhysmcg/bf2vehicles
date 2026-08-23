@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://f58rdwj3joe7"
+path="res://.godot/imported/ushgr_m67bundle_b.dds-f3f0c065eb42cfeea1b2cb6061c58a99.res"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ushgr_m67/textures/ushgr_m67bundle_b.dds"
+dest_files=["res://.godot/imported/ushgr_m67bundle_b.dds-f3f0c065eb42cfeea1b2cb6061c58a99.res"]
+
+[params]
+
+mipmaps/generate=true

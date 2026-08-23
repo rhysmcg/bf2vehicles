@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://cl66xg6kw76g"
+path="res://.godot/imported/f35b_cockpit_c.dds-f951fbc1a7279e635133d22ba3355c14.res"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_f35b/textures/f35b_cockpit_c.dds"
+dest_files=["res://.godot/imported/f35b_cockpit_c.dds-f951fbc1a7279e635133d22ba3355c14.res"]
+
+[params]
+
+mipmaps/generate=true

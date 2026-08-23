@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh power_station_pt_4
+
+ObjectTemplate.create SimpleObject power_station_pt_4
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator SVU-1:svu
+ObjectTemplate.collisionMesh power_station_pt_4
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry power_station_pt_4
+ObjectTemplate.anchor 0/-0.5596/0
+
+include power_station_pt_4.tweak

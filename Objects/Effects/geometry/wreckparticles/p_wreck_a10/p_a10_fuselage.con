@@ -1,0 +1,13 @@
+GeometryTemplate.create BundledMesh p_a10_fuselage
+CollisionManager.createTemplate p_a10_fuselage
+
+ObjectTemplate.create Particle p_a10_fuselage
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JEREMY:jeremypr
+ObjectTemplate.collisionMesh p_a10_fuselage
+ObjectTemplate.mapMaterial 0 wreck 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry p_a10_fuselage
+
+include p_a10_fuselage.tweak

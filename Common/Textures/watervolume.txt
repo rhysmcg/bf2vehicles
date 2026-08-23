@@ -1,0 +1,8 @@
+common\textures\waterbump\Waterbump_01 1
+common\textures\waterbump\Waterbump_02 1
+common\textures\waterbump\Waterbump_03 1
+common\textures\waterbump\Waterbump_04 1
+common\textures\waterbump\Waterbump_05 1
+common\textures\waterbump\Waterbump_06 1
+common\textures\waterbump\Waterbump_07 1
+common\textures\waterbump\Waterbump_08 1

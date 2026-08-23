@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh wooden_bridge_head1
+CollisionManager.createTemplate wooden_bridge_head1
+
+ObjectTemplate.create SimpleObject wooden_bridge_head1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GTI-1:gti
+ObjectTemplate.collisionMesh wooden_bridge_head1
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry wooden_bridge_head1
+ObjectTemplate.anchor -2.0000/0.8998/-4.0000
+
+include wooden_bridge_head1.tweak

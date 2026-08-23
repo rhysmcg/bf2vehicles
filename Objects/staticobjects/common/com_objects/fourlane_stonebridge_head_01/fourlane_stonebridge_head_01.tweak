@@ -1,0 +1,15 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/12/17 0:16]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject fourlane_stonebridge_head_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser khe
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry fourlane_stonebridge_head_01
+ObjectTemplate.setCollisionMesh fourlane_stonebridge_head_01
+ObjectTemplate.mapMaterial 0 Stone 12
+ObjectTemplate.mapMaterial 1 Tarmac 4
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

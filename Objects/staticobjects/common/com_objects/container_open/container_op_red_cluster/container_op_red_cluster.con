@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh container_op_red_cluster
+CollisionManager.createTemplate container_op_red_cluster
+
+ObjectTemplate.create SimpleObject container_op_red_cluster
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh container_op_red_cluster
+ObjectTemplate.mapMaterial 0 Metal_Solid 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry container_op_red_cluster
+ObjectTemplate.anchor 0/-0.9495/0
+
+include container_op_red_cluster.tweak

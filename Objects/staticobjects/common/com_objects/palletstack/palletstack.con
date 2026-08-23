@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh palletstack
+CollisionManager.createTemplate palletstack
+
+ObjectTemplate.create SimpleObject palletstack
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh palletstack
+ObjectTemplate.mapMaterial 0 wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry palletstack
+ObjectTemplate.anchor -1.1620/-1.0609/-1.0855
+
+include palletstack.tweak

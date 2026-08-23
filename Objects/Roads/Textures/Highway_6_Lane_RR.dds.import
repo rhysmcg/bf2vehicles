@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bvrv5vnhwfuld"
+path="res://.godot/imported/Highway_6_Lane_RR.dds-9a7bfbea400d12c784310d4048440e09.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Highway_6_Lane_RR.dds"
+dest_files=["res://.godot/imported/Highway_6_Lane_RR.dds-9a7bfbea400d12c784310d4048440e09.res"]
+
+[params]
+
+mipmaps/generate=true

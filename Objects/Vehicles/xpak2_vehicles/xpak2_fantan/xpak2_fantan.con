@@ -1,0 +1,200 @@
+GeometryTemplate.create BundledMesh xpak2_fantan
+CollisionManager.createTemplate xpak2_fantan
+
+ObjectTemplate.create PlayerControlObject xpak2_fantan
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator NICKW:nickwh
+ObjectTemplate.collisionMesh xpak2_fantan
+ObjectTemplate.mapMaterial 0 col_armor 0
+ObjectTemplate.mapMaterial 1 col_glass 0
+ObjectTemplate.mapMaterial 2 col_wreck 0
+ObjectTemplate.mapMaterial 3 col_rubber 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometry xpak2_fantan
+ObjectTemplate.addTemplate Fantan_LGearHatch
+ObjectTemplate.setPosition -0.7920/0.0250/-1.5550
+ObjectTemplate.addTemplate Fantan_LGearFlap
+ObjectTemplate.setPosition -2.3160/0.0270/-1.4070
+ObjectTemplate.setRotation 34.3440/0/0
+ObjectTemplate.addTemplate Fantan_LGear
+ObjectTemplate.setPosition -2.1570/0.1530/-1.4270
+ObjectTemplate.addTemplate Fantan_RGearHatch
+ObjectTemplate.setPosition 0.7920/0.0240/-1.5570
+ObjectTemplate.addTemplate Fantan_RGearFlap
+ObjectTemplate.setPosition 2.3180/0.0270/-1.4090
+ObjectTemplate.setRotation -34.3440/0/0
+ObjectTemplate.addTemplate Fantan_RGear
+ObjectTemplate.setPosition 2.1580/0.1540/-1.4260
+ObjectTemplate.addTemplate Fantan_FGearLHatch
+ObjectTemplate.setPosition -0.2720/-0.2260/3.4530
+ObjectTemplate.setRotation 0/-3.0000/-82.4824
+ObjectTemplate.addTemplate Fantan_FGearLFlap
+ObjectTemplate.setPosition -0.2130/-0.3030/2.8200
+ObjectTemplate.setRotation 0/-2.0000/-92.8263
+ObjectTemplate.addTemplate Fantan_FGearRHatch
+ObjectTemplate.setPosition 0.2730/-0.2260/3.4530
+ObjectTemplate.setRotation 0/-3.0000/83.1262
+ObjectTemplate.addTemplate Fantan_FGearRFlap
+ObjectTemplate.setPosition 0.2130/-0.3030/2.8200
+ObjectTemplate.setRotation 0/-2.0000/92.5221
+ObjectTemplate.addTemplate Fantan_FGear
+ObjectTemplate.setPosition 0/-0.1450/2.7020
+ObjectTemplate.addTemplate Fantan_ElevatorL
+ObjectTemplate.setPosition -0.7010/0.5810/-5.8460
+ObjectTemplate.addTemplate Fantan_ElevatorR
+ObjectTemplate.setPosition 0.7010/0.5790/-5.8460
+ObjectTemplate.addTemplate Fantan_FlapL
+ObjectTemplate.setPosition -3.6100/0.0180/-4.2470
+ObjectTemplate.setRotation -44.9429/0.3520/3.2686
+ObjectTemplate.addTemplate Fantan_FlapR
+ObjectTemplate.setPosition 3.6100/0.0160/-4.2490
+ObjectTemplate.setRotation 45.0304/1.1104/-3.2798
+ObjectTemplate.addTemplate Fantan_Rudder
+ObjectTemplate.setPosition -0.0060/1.7440/-7.7230
+ObjectTemplate.setRotation 0/-45.2290/0
+
+ObjectTemplate.create LandingGear Fantan_LGearHatch
+ObjectTemplate.collisionPart 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 1
+
+ObjectTemplate.create LandingGear Fantan_LGearFlap
+ObjectTemplate.collisionPart 2
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 2
+
+ObjectTemplate.create LandingGear Fantan_LGear
+ObjectTemplate.collisionPart 3
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 3
+ObjectTemplate.addTemplate Fantan_LWheel
+ObjectTemplate.setPosition 0.0120/-1.1/-0.2350
+
+ObjectTemplate.create Spring Fantan_LWheel
+ObjectTemplate.collisionPart 4
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 4
+
+ObjectTemplate.create LandingGear Fantan_RGearHatch
+ObjectTemplate.collisionPart 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 5
+
+ObjectTemplate.create LandingGear Fantan_RGearFlap
+ObjectTemplate.collisionPart 6
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 6
+
+ObjectTemplate.create LandingGear Fantan_RGear
+ObjectTemplate.collisionPart 7
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 7
+ObjectTemplate.addTemplate Fantan_RWheel
+ObjectTemplate.setPosition -0.0120/-1.1/-0.2360
+
+ObjectTemplate.create Spring Fantan_RWheel
+ObjectTemplate.collisionPart 8
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 8
+
+ObjectTemplate.create LandingGear Fantan_FGearLHatch
+ObjectTemplate.collisionPart 9
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 9
+
+ObjectTemplate.create LandingGear Fantan_FGearLFlap
+ObjectTemplate.collisionPart 10
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 10
+
+ObjectTemplate.create LandingGear Fantan_FGearRHatch
+ObjectTemplate.collisionPart 11
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 11
+
+ObjectTemplate.create LandingGear Fantan_FGearRFlap
+ObjectTemplate.collisionPart 12
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 12
+
+ObjectTemplate.create LandingGear Fantan_FGear
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 13
+ObjectTemplate.addTemplate Fantan_FGearRot
+ObjectTemplate.setPosition 0/-0.4186/0.0659
+
+ObjectTemplate.create RotationalBundle Fantan_FGearRot
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 14
+ObjectTemplate.addTemplate Fantan_FWheel
+ObjectTemplate.setPosition 0/-0.5/-0.3132
+
+ObjectTemplate.create Spring Fantan_FWheel
+ObjectTemplate.collisionPart 15
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 15
+
+ObjectTemplate.create RotationalBundle Fantan_ElevatorL
+ObjectTemplate.collisionPart 16
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 16
+
+ObjectTemplate.create RotationalBundle Fantan_ElevatorR
+ObjectTemplate.collisionPart 17
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 17
+
+ObjectTemplate.create RotationalBundle Fantan_FlapL
+ObjectTemplate.collisionPart 18
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 18
+
+ObjectTemplate.create RotationalBundle Fantan_FlapR
+ObjectTemplate.collisionPart 19
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 19
+
+ObjectTemplate.create RotationalBundle Fantan_Rudder
+ObjectTemplate.collisionPart 20
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.geometryPart 20
+
+include xpak2_fantan.tweak

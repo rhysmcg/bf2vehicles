@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh concreteblock_generic_long
+CollisionManager.createTemplate concreteblock_generic_long
+
+ObjectTemplate.create SimpleObject concreteblock_generic_long
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh concreteblock_generic_long
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry concreteblock_generic_long
+ObjectTemplate.anchor -9.0000/0/-99.0000
+
+include concreteblock_generic_long.tweak

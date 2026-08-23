@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh me_palm_cluster01
+CollisionManager.createTemplate me_palm_cluster01
+
+ObjectTemplate.create SimpleObject me_palm_cluster01
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator JLU-1:jlu
+ObjectTemplate.collisionMesh me_palm_cluster01
+ObjectTemplate.mapMaterial 0 leaf_col 0
+ObjectTemplate.mapMaterial 1 wood_col 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry me_palm_cluster01
+ObjectTemplate.anchor 0.1287/-9.3881/-0.8056
+
+include me_palm_cluster01.tweak

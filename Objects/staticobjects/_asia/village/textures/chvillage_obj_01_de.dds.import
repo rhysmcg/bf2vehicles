@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d2vsefw7pqwoa"
+path="res://.godot/imported/chvillage_obj_01_de.dds-1ba712ef5b8389240b62be368047172a.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/textures/chvillage_obj_01_de.dds"
+dest_files=["res://.godot/imported/chvillage_obj_01_de.dds-1ba712ef5b8389240b62be368047172a.res"]
+
+[params]
+
+mipmaps/generate=true

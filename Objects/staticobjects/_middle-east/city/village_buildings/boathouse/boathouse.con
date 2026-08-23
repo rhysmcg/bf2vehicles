@@ -1,0 +1,20 @@
+GeometryTemplate.create StaticMesh boathouse
+CollisionManager.createTemplate boathouse
+
+ObjectTemplate.create SimpleObject boathouse
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh boathouse
+ObjectTemplate.mapMaterial 0 wood_solid 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 metal_solid 0
+ObjectTemplate.mapMaterial 3 Pentrable_Metal_thin 0
+ObjectTemplate.mapMaterial 4 Penetrable_Wood 0
+ObjectTemplate.mapMaterial 5 glass_common 0
+ObjectTemplate.mapMaterial 6 metal_thin 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry boathouse
+ObjectTemplate.anchor 0/-5.5219/0
+
+include boathouse.tweak

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh stnwalls_sloope_30m_up
+CollisionManager.createTemplate stnwalls_sloope_30m_up
+
+ObjectTemplate.create SimpleObject stnwalls_sloope_30m_up
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator GOD-1:god
+ObjectTemplate.collisionMesh stnwalls_sloope_30m_up
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry stnwalls_sloope_30m_up
+ObjectTemplate.anchor -15.0000/-3.5500/0.0500
+
+include stnwalls_sloope_30m_up.tweak

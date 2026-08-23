@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://ctwqstex0oxph"
+path="res://.godot/imported/Detail_Cobble3.dds-e10d825b252775557745695989fe90ac.res"
+
+[deps]
+
+source_file="res://Common/Terrain/Textures/Detail/Detail_Cobble3.dds"
+dest_files=["res://.godot/imported/Detail_Cobble3.dds-e10d825b252775557745695989fe90ac.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,14 @@
+GeometryTemplate.create StaticMesh cleansweep_airstrip_long_endstr
+CollisionManager.createTemplate cleansweep_airstrip_long_endstr
+
+ObjectTemplate.create Bundle cleansweep_airstrip_long_endstr
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.collisionMesh cleansweep_airstrip_long_endstr
+ObjectTemplate.mapMaterial 0 concrete 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry cleansweep_airstrip_long_endstr
+ObjectTemplate.anchor -9.0000/0/-99.0001
+
+include cleansweep_airstrip_long_endstr.tweak

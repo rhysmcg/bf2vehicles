@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2006/5/15 11:52]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 32
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject vine_straight_01
+ObjectTemplate.creator CRASHY:Mike
+ObjectTemplate.modifiedByUser "Mike"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry vine_straight_01
+ObjectTemplate.hasMobilePhysics 0
+

@@ -1,0 +1,15 @@
+GeometryTemplate.create StaticMesh civiliancar1wreck
+CollisionManager.createTemplate civiliancar1wreck
+
+ObjectTemplate.create SimpleObject civiliancar1wreck
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator LMA-2:lma
+ObjectTemplate.collisionMesh civiliancar1wreck
+ObjectTemplate.mapMaterial 0 metal 0
+ObjectTemplate.mapMaterial 1 rubber 0
+ObjectTemplate.mapMaterial 2 cloth 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry civiliancar1wreck
+
+include civiliancar1wreck.tweak

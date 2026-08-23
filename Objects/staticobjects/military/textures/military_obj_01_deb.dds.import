@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://d4hu6aenbvxpo"
+path="res://.godot/imported/military_obj_01_deb.dds-511e626342ca07536a60c2d30bc6ba0a.res"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/textures/military_obj_01_deb.dds"
+dest_files=["res://.godot/imported/military_obj_01_deb.dds-511e626342ca07536a60c2d30bc6ba0a.res"]
+
+[params]
+
+mipmaps/generate=true

@@ -1,0 +1,13 @@
+GeometryTemplate.create StaticMesh woodencrate_destructible
+CollisionManager.createTemplate woodencrate_destructible
+
+ObjectTemplate.create DestroyableObject woodencrate_destructible
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.creator FUL-1:ful
+ObjectTemplate.collisionMesh woodencrate_destructible
+ObjectTemplate.mapMaterial 0 Solid_Wood 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType 3
+ObjectTemplate.geometry woodencrate_destructible
+
+include woodencrate_destructible.tweak

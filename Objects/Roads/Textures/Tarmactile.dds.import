@@ -1,0 +1,15 @@
+[remap]
+
+importer="dds_permissive"
+type="Texture2D"
+uid="uid://bjslcg7o57qq3"
+path="res://.godot/imported/Tarmactile.dds-8e91c2e3fd1001a6f3963b890388063d.res"
+
+[deps]
+
+source_file="res://Objects/Roads/Textures/Tarmactile.dds"
+dest_files=["res://.godot/imported/Tarmactile.dds-8e91c2e3fd1001a6f3963b890388063d.res"]
+
+[params]
+
+mipmaps/generate=true

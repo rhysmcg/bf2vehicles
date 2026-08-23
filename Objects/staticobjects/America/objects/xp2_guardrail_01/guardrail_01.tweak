@@ -1,0 +1,18 @@
+rem *** Generated with Bf2Editor.exe [created: 2005/11/11 6:9]
+GeometryTemplate.doNotGenerateLightmaps 0
+GeometryTemplate.lightmapOverride 0
+GeometryTemplate.compressVertexData 1
+GeometryTemplate.maxTextureRepeat 16
+GeometryTemplate.glowing 0
+GeometryTemplate.noLighting 0
+ObjectTemplate.activeSafe SimpleObject guardrail_01
+ObjectTemplate.creator MFR-1:mfr
+ObjectTemplate.modifiedByUser "nickwh"
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry guardrail_01
+ObjectTemplate.setCollisionMesh guardrail_01
+ObjectTemplate.mapMaterial 0 metal_thin 21
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+

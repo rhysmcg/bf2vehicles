@@ -1,0 +1,14 @@
+rem *** Generated with Bf2Editor.exe [created: 2004/10/18 0:17]
+GeometryTemplate.lightmapOverride 0
+ObjectTemplate.activeSafe SimpleObject sign_green
+ObjectTemplate.creator MKP-2:mkp
+ObjectTemplate.modifiedByUser ful
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry sign_green
+ObjectTemplate.setCollisionMesh sign_green
+ObjectTemplate.mapMaterial 0 metal 21
+ObjectTemplate.mapMaterial 1 concrete 78
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+
