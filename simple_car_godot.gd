@@ -1,5 +1,15 @@
 extends VehicleBody3D
 
+
+
+### KEY PROBLEMS
+### Slope friction is too good, can scale 30 degrees where as BF2 seems to fail just past 25 degrees
+### When the car rolls back, the back wheels need to stay still and the front wheels should roll
+### The car gears up when rolling backwards, interpreting it as forward motion
+### I should be smoothly able to reverse J turn and back into first gear. It needs a certain speed to do this
+### Somethign needs to improve with the brakes
+### RPM 2
+
 ############################################################
 # Steering
 
@@ -8,6 +18,11 @@ extends VehicleBody3D
 @export var MAX_STEER_SPEED = 120.0
 @export var MAX_STEER_INPUT = 90.0
 @export var STEER_SPEED = 1.0
+
+
+@export var max_steep_angle_deg: float = 25.0  # Angle considered "fully steep"
+@export var flat_friction: float = 30.0
+@export var steep_friction: float = 0.6
 
 @onready var max_steer_angle_rad = deg_to_rad(MAX_STEER_ANGLE)
 @onready var speed_steer_angle_rad = deg_to_rad(SPEED_STEER_ANGLE)
@@ -59,8 +74,9 @@ var cameraIndex = 0
 @onready var engine_load = $Load
 
 
-@export_group("Steering Wheel")
+@export_group("Car Parts")
 @export var SteeringWheel : Node3D
+@export var wheels: Array[VehicleWheel3D]
 @export var steeringWheel_min_rotation = -60
 @export var steeringWheel_max_rotation = 60
 @export var steering_speed = 300
@@ -152,6 +168,7 @@ func _process_gear_inputs(delta : float):
 func _process(delta : float):
 	_process_gear_inputs(delta)
 	_changeCamera()
+	adjust_wheel_friction()
 	
 	if is_running:
 		current_time += delta
@@ -159,6 +176,17 @@ func _process(delta : float):
 	
 func _gear_shift_finished():
 	clutch_position = 1.0
+
+func adjust_wheel_friction():
+	var global_up: Vector3 = Vector3.UP
+	var vehicle_up: Vector3 = global_transform.basis.y
+	var angle_rad: float = vehicle_up.angle_to(global_up)
+	var angle_deg: float = rad_to_deg(angle_rad)
+	var interpolation_factor: float = clamp(angle_deg / max_steep_angle_deg, 0.0, 1.0)
+	var current_friction: float = lerp(flat_friction, steep_friction, interpolation_factor)
+	for wheel in wheels:
+		if wheel is VehicleWheel3D:
+			wheel.wheel_friction_slip = current_friction
 
 func _physics_process(delta):
 	# how fast are we going in meters per second?
@@ -185,10 +213,10 @@ func _physics_process(delta):
 	## Gear change to reverse when pretty much stopped
 	if isAutomatic:
 		if current_gear == 1:
-			if current_speed_mps <= 1.0 and brake_val > 0.1:
+			if current_speed_mps <= 6.0 and brake_val > 0.1:
 				current_gear = -1
 		elif current_gear == -1:
-			if current_speed_mps <= 1.0 and throttle_val > 0.1:
+			if current_speed_mps <= 6.0 and throttle_val > 0.1:
 				current_gear = 1
 				
 	## REVERSE 
@@ -196,9 +224,12 @@ func _physics_process(delta):
 		if isAutomatic:
 			engine_force = (clutch_position * brake_val * power_factor * reverse_ratio * final_drive_ratio * MAX_ENGINE_FORCE) * -1.0
 		else:
+			# Manual mode uses throttle_val to accelerate backwards
 			engine_force = (clutch_position * throttle_val * power_factor * reverse_ratio * final_drive_ratio * MAX_ENGINE_FORCE) * -1.0
 		
 	elif current_gear > 0 and current_gear <= gear_ratios.size():
+		#ALWAYS KEEP CLUTCH IN
+		clutch_position = 1.0
 		engine_force = -1 * (clutch_position * throttle_val * power_factor * gear_ratios[current_gear - 1] * final_drive_ratio * MAX_ENGINE_FORCE) 
 	else:
 		engine_force = 0.0
@@ -213,15 +244,20 @@ func _physics_process(delta):
 			brake += engine_brake_torque * 0.01
 		
 		
-			
 	## IN REVERSE
 	elif current_gear == -1:
-		
-		if (isAutomatic and throttle_val > 0.1) or (!isAutomatic and brake_val > 0.1):
-			if isAutomatic:
-				brake = throttle_val * MAX_BRAKE_FORCE
+		if isAutomatic:
+			# Automatic reverse: Forward throttle acts as the brake
+			if throttle_val > 0.1:
+				brake = (throttle_val * MAX_BRAKE_FORCE) * 0.01
 			else:
-				brake = brake_val * MAX_BRAKE_FORCE
+				brake = 0.0
+		else:
+			# Manual reverse: Brake input acts as the brake, freeing up throttle
+			if brake_val > 0.1:
+				brake = (brake_val * MAX_BRAKE_FORCE) * 0.01
+			else:
+				brake = 0.0
 					
 	
 	## STEERING
@@ -264,25 +300,21 @@ func _physics_process(delta):
 	
 
 	## PLay RPM2 and MUTE RPM1
-	if (throttle_val > 0.1 and current_gear > 0) or (isAutomatic and (brake_val > 0.1 and current_gear == -1) or (!isAutomatic and throttle_val > 0.1 and current_gear == -1)):
-		engine_unload.volume_linear = 0.0
-		engine_audio.volume_linear = rpm2_volume_curve.sample_baked(rpm_factor)
-		engine_audio.pitch_scale = rpm2_pitch_curve.sample_baked(rpm_factor)
-
-	## Engine Braking. Play RPM1 and mute RPM2
-	elif is_driving_fast_enough:
-		engine_audio.volume_linear = 0.0
-		engine_unload.volume_linear = rpm1_volume_curve.sample_baked(rpm_factor)
-		engine_unload.pitch_scale = rpm1_pitch_curve.sample_baked(rpm_factor)
-	
-	#Rev engine on Neutral
-	elif current_gear == 0 and throttle_val > 0.1:
-		engine_unload.volume_linear = 0.0
-		engine_audio.volume_linear = rpm2_volume_curve.sample_baked(1.0)
-		engine_audio.pitch_scale = rpm2_pitch_curve.sample_baked(1.0)
+	if clutch_position > 0.1: 
+		if (throttle_val > 0.1 and current_gear > 0) or (isAutomatic and (brake_val > 0.1 and current_gear == -1) or (!isAutomatic and throttle_val > 0.1 and current_gear == -1)):
+			engine_unload.volume_linear = 0.0
+			engine_audio.volume_linear = rpm2_volume_curve.sample_baked(rpm_factor)
+			engine_audio.pitch_scale = rpm2_pitch_curve.sample_baked(rpm_factor)
+		else:
+			engine_unload.volume_linear = 1.0
+			engine_audio.volume_linear = 0.0
+			engine_unload.volume_linear = rpm2_volume_curve.sample_baked(rpm_factor)
+			engine_unload.pitch_scale = rpm2_pitch_curve.sample_baked(rpm_factor)
 	else:
+		engine_unload.volume_linear = 1.0
 		engine_audio.volume_linear = 0.0
-		engine_unload.volume_linear = 0.0
+		engine_unload.volume_linear = rpm2_volume_curve.sample_baked(rpm_factor)
+		engine_unload.pitch_scale = rpm2_pitch_curve.sample_baked(rpm_factor)
 	# 
 	engine_start_idle_stop.volume_linear = idle_volume_curve.sample_baked(rpm_factor)
 	engine_start_idle_stop.pitch_scale = idle_pitch_curve.sample_baked(rpm_factor)

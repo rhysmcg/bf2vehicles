@@ -41,7 +41,7 @@ collision_layer = 15
 size = Vector3(100, 0.1, 100)
 
 [node name="CSGBox3D2" type="CSGBox3D" parent="." unique_id=1334479114]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.825676, -0.49255562, -0.44380856)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.825676, 0.548964, -0.44380856)
 material_override = SubResource("StandardMaterial3D_eb5xl")
 use_collision = true
 collision_layer = 15
@@ -63,3 +63,17 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9452426, 0)
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="WorldPlane" unique_id=1205576915]
 shape = SubResource("WorldBoundaryShape3D_oo62b")
+
+[node name="RAMP" type="CSGBox3D" parent="." unique_id=839362942]
+transform = Transform3D(1, 0, 0, 0, 0.8660254, -0.5, 0, 0.5, 0.8660254, -42.92637, 1.6297121, -1.696599)
+material_override = SubResource("StandardMaterial3D_eb5xl")
+use_collision = true
+collision_layer = 15
+size = Vector3(10.834473, 1, 104.925415)
+
+[node name="RAMP2" type="CSGBox3D" parent="." unique_id=1432288427]
+transform = Transform3D(1, 0, 0, 0, 0.90630776, -0.42261827, 0, 0.42261827, 0.90630776, -25.053669, 3.8893838, -2.3510408)
+material_override = SubResource("StandardMaterial3D_eb5xl")
+use_collision = true
+collision_layer = 15
+size = Vector3(10.834473, 1, 104.925415)

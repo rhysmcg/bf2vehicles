@@ -1127,7 +1127,7 @@ stream_1/stream = ExtResource("12_q37bo")
 stream_2/stream = ExtResource("13_vwjmm")
 stream_3/stream = ExtResource("14_sbuk4")
 
-[node name="jep_mec_paratrooper" type="VehicleBody3D" unique_id=699465521 node_paths=PackedStringArray("SteeringWheel", "InsideCamera", "ChaseCamera")]
+[node name="jep_mec_paratrooper" type="VehicleBody3D" unique_id=699465521 node_paths=PackedStringArray("SteeringWheel", "wheels", "InsideCamera", "ChaseCamera")]
 mass = 1000.0
 gravity_scale = 1.5
 center_of_mass_mode = 1
@@ -1139,6 +1139,7 @@ MAX_BRAKE_FORCE = 2000.0
 final_drive_ratio = 6.0
 power_curve = SubResource("Curve_q37bo")
 SteeringWheel = NodePath("jep_mec_paratrooper__PlayerControlObject/Bundledmesh/Geom1/jep_mec_paratrooper/JEP_mec_Paratrooper_Steeringwheel")
+wheels = [NodePath("JEP_mec_Paratrooper_nav_LF"), NodePath("JEP_mec_Paratrooper_nav_RF"), NodePath("JEP_mec_Paratrooper_Wheel_LR"), NodePath("JEP_mec_Paratrooper_Wheel_RR")]
 rpm2_volume_curve = SubResource("Curve_psqp3")
 rpm2_pitch_curve = SubResource("Curve_6bv66")
 rpm1_volume_curve = SubResource("Curve_w5yea")
@@ -1432,8 +1433,8 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, -1, -0.944, -0.4781, -1.3517001)
 use_as_steering = true
 wheel_roll_influence = 1.0
 wheel_rest_length = 0.01
-wheel_friction_slip = 1.5
-suspension_stiffness = 50.0
+wheel_friction_slip = 0.6
+suspension_stiffness = 30.0
 
 [node name="LOD1" type="Node3D" parent="JEP_mec_Paratrooper_nav_LF" unique_id=1855873935]
 visible = false
@@ -1476,8 +1477,8 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, -1, 0.94659996, -0.4781, 1.64899
 use_as_traction = true
 wheel_roll_influence = 1.0
 wheel_rest_length = 0.01
-wheel_friction_slip = 1.5
-suspension_stiffness = 50.0
+wheel_friction_slip = 0.6
+suspension_stiffness = 30.0
 
 [node name="LOD0" type="Node3D" parent="JEP_mec_Paratrooper_Wheel_RR" unique_id=1979436234]
 
@@ -1504,8 +1505,8 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, -1, -0.944, -0.4781, 1.6489999)
 use_as_traction = true
 wheel_roll_influence = 1.0
 wheel_rest_length = 0.01
-wheel_friction_slip = 1.5
-suspension_stiffness = 50.0
+wheel_friction_slip = 0.6
+suspension_stiffness = 30.0
 
 [node name="LOD0" type="Node3D" parent="JEP_mec_Paratrooper_Wheel_LR" unique_id=1661864263]
 
@@ -1536,8 +1537,8 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, -1, 0.94659996, -0.4781, -1.3517
 use_as_steering = true
 wheel_roll_influence = 1.0
 wheel_rest_length = 0.01
-wheel_friction_slip = 1.5
-suspension_stiffness = 50.0
+wheel_friction_slip = 0.6
+suspension_stiffness = 30.0
 
 [node name="LOD1" type="Node3D" parent="JEP_mec_Paratrooper_nav_RF" unique_id=1920198338]
 visible = false
