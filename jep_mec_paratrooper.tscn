@@ -15,6 +15,7 @@
 [ext_resource type="AudioStream" uid="uid://c63cwrrbw3eab" path="res://Objects/Vehicles/Common/Sound/gear_shift_02.wav" id="12_q37bo"]
 [ext_resource type="AudioStream" uid="uid://bqv3tfdxlvi4n" path="res://Objects/Vehicles/Common/Sound/gear_shift_03.wav" id="13_vwjmm"]
 [ext_resource type="AudioStream" uid="uid://c7vu387e4s02g" path="res://Objects/Vehicles/Common/Sound/gear_shift_04.wav" id="14_sbuk4"]
+[ext_resource type="PackedScene" uid="uid://bdile3yyktoyq" path="res://Objects/Vehicles/Common/Car_horn/Car_horn.tscn" id="16_vwjmm"]
 
 [sub_resource type="Curve" id="Curve_36uu7"]
 _data = [Vector2(0.003861, 0.474903), 0.0, 0.0, 0, 1, Vector2(0.498069, 0.920849), 0.0, 0.0, 1, 1, Vector2(0.752896, 1.14093), 0.0, 0.0, 1, 1, Vector2(0.996139, 1.34942), 0.0, 0.0, 1, 0]
@@ -1127,7 +1128,7 @@ stream_1/stream = ExtResource("12_q37bo")
 stream_2/stream = ExtResource("13_vwjmm")
 stream_3/stream = ExtResource("14_sbuk4")
 
-[node name="jep_mec_paratrooper" type="VehicleBody3D" unique_id=699465521 node_paths=PackedStringArray("SteeringWheel", "wheels", "InsideCamera", "ChaseCamera")]
+[node name="jep_mec_paratrooper" type="VehicleBody3D" unique_id=699465521 node_paths=PackedStringArray("SteeringWheel", "wheels", "VehicleCamera", "CameraMount")]
 mass = 1000.0
 gravity_scale = 1.5
 center_of_mass_mode = 1
@@ -1146,8 +1147,8 @@ rpm1_volume_curve = SubResource("Curve_w5yea")
 rpm1_pitch_curve = SubResource("Curve_f6dls")
 idle_pitch_curve = SubResource("Curve_xleip")
 idle_volume_curve = SubResource("Curve_spj2c")
-InsideCamera = NodePath("jep_mec_paratrooper_CameraMount/jep_mec_paratrooper_Camera_Inside")
-ChaseCamera = NodePath("jep_mec_paratrooper_CameraMount/jep_mec_paratrooper_Camera_Chase")
+VehicleCamera = NodePath("jep_mec_paratrooper_CameraMount/jep_mec_paratrooper_Camera")
+CameraMount = NodePath("jep_mec_paratrooper_CameraMount")
 
 [node name="jep_mec_paratrooper__PlayerControlObject" type="Marker3D" parent="." unique_id=678917086]
 transform = Transform3D(1, 8.742278e-08, 0, -8.742278e-08, 1, 0, 0, 0, -1, 0, 0, 0)
@@ -1416,17 +1417,10 @@ surface_material_override/0 = SubResource("ShaderMaterial_jre7g")
 [node name="jep_mec_paratrooper_CameraMount" type="Node3D" parent="." unique_id=1545368482]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.322, 0.57, -0.023)
 
-[node name="jep_mec_paratrooper_Camera_Inside" type="Camera3D" parent="jep_mec_paratrooper_CameraMount" unique_id=558067966]
+[node name="jep_mec_paratrooper_Camera" type="Camera3D" parent="jep_mec_paratrooper_CameraMount" unique_id=558067966]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.1, 0)
 current = true
-
-[node name="SpringArm3D" type="SpringArm3D" parent="jep_mec_paratrooper_CameraMount" unique_id=761898093]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 7)
-spring_length = 15.0
-
-[node name="jep_mec_paratrooper_Camera_Chase" type="Camera3D" parent="jep_mec_paratrooper_CameraMount" unique_id=1515665318]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.99999994, 7)
-fov = 63.0
+fov = 61.0
 
 [node name="JEP_mec_Paratrooper_nav_LF" type="VehicleWheel3D" parent="." unique_id=1046213651]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, -1, -0.944, -0.4781, -1.3517001)
@@ -1578,13 +1572,13 @@ surface_material_override/0 = SubResource("ShaderMaterial_c0c0j")
 
 [node name="RPM2" type="AudioStreamPlayer3D" parent="." unique_id=763235812]
 stream = ExtResource("9_6bv66")
-volume_db = -6.0
+volume_db = -4.15
 autoplay = true
 max_distance = 18.0
 
 [node name="RPM1" type="AudioStreamPlayer3D" parent="." unique_id=856168950]
 stream = ExtResource("10_psqp3")
-volume_db = -6.0
+volume_db = -2.49
 pitch_scale = 0.8
 autoplay = true
 max_distance = 18.0
@@ -1592,10 +1586,12 @@ max_distance = 18.0
 [node name="StartIdleStop" type="AudioStreamPlayer3D" parent="." unique_id=415438810]
 stream = ExtResource("11_14bry")
 pitch_scale = 1.6
-max_distance = 18.0
+max_distance = 20.0
 
 [node name="Load" type="AudioStreamPlayer3D" parent="." unique_id=212580148]
 stream = SubResource("AudioStreamRandomizer_14bry")
-volume_db = 20.0
+volume_db = -7.95
 pitch_scale = 1.4
-max_distance = 19.0
+max_distance = 4.4
+
+[node name="Car_Horn" parent="." unique_id=2010160107 instance=ExtResource("16_vwjmm")]

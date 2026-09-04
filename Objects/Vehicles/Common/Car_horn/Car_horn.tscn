@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bdile3yyktoyq"]
+
+[ext_resource type="Script" uid="uid://b170m2wdse25a" path="res://Scripts/GenericFireArm.gd" id="1_muk7n"]
+
+[node name="Car_Horn" type="Node3D" unique_id=2010160107]
+script = ExtResource("1_muk7n")

@@ -23,6 +23,7 @@ albedo_texture = ExtResource("1_fcig6")
 uv1_scale = Vector3(0.5, 0.5, 0.5)
 uv1_triplanar = true
 uv1_world_triplanar = true
+proximity_fade_distance = 10.0
 
 [sub_resource type="WorldBoundaryShape3D" id="WorldBoundaryShape3D_oo62b"]
 
