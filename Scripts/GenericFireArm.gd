@@ -34,6 +34,6 @@ func _process(delta: float) -> void:
 func _input(event: InputEvent) -> void:
 	
 	## 1p & 3p sounds set up
-	if Input.is_action_just_pressed("Fire"):
+	if Input.is_action_just_pressed("c_PIFire"):
 		Fire1P.playing = true
 		

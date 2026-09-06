@@ -42,7 +42,7 @@ var steer_angle = 0.0
 @export var MAX_ENGINE_FORCE = 1200.0
 @export var MAX_BRAKE_FORCE = 50.0
 @export var engine_brake_torque : float = 750
-
+var brake_torque_factor = 0.03
 @export var gear_ratios : Array = [ 2.66, 1.78, 1.3, 1.0, 0.8 ] 
 @export var reverse_ratio : float = -2.66
 @export var final_drive_ratio : float = 2.0
@@ -207,7 +207,33 @@ func _process_gear_inputs(delta : float):
 
 func _process(delta : float):
 	_process_gear_inputs(delta)
-	_changeCamera()
+	
+
+	if Input.is_action_just_pressed("c_PICameraMode1"):
+		if cameraIndex != 0:
+			cameraIndex = 0
+			_changeCamera()
+
+	if Input.is_action_just_pressed("c_PICameraMode2"):
+		if cameraIndex != 1:
+			cameraIndex = 1
+			_changeCamera()
+
+	if Input.is_action_just_pressed("c_PICameraMode3"):
+		if cameraIndex != 2:
+			cameraIndex = 2
+			_changeCamera()
+
+	if Input.is_action_just_pressed("c_PICameraMode4"):
+		if cameraIndex != 3:
+			cameraIndex = 3
+			_changeCamera()
+	
+	if Input.is_action_just_pressed("c_PIToggleCameraMode"):
+		cameraIndex = cameraIndex + 1
+		cameraIndex = (cameraIndex % 4)
+		_changeCamera()
+
 	adjust_wheel_friction()
 	
 	
@@ -239,9 +265,9 @@ func _physics_process(delta):
 	current_speed_mps = linear_velocity.length()
 	
 	# get our joystick inputs
-	var steer_val = Input.get_axis("move_left", "move_right")
-	var throttle_val = Input.get_action_strength("move_forward")
-	var brake_val = Input.get_action_strength("move_backward")
+	var steer_val = Input.get_axis("c_PIYaw_Down", "c_PIYaw_Up")
+	var throttle_val = Input.get_action_strength("c_PIThrottle_Up")
+	var brake_val = Input.get_action_strength("c_PIThrottle_Down")
 	
 	var target_wheel_rpm = calculate_rpm()
 	
@@ -303,10 +329,10 @@ func _physics_process(delta):
 	## BRAKING
 	if current_gear > 0:
 		if brake_val > 0.1: 
-			brake = (brake_val * MAX_BRAKE_FORCE) * 0.01
+			brake = (brake_val * MAX_BRAKE_FORCE) * brake_torque_factor
 			
 		if throttle_val < 0.1:
-			brake += engine_brake_torque * 0.01
+			brake += engine_brake_torque * brake_torque_factor
 		
 		
 	## IN REVERSE
@@ -314,13 +340,17 @@ func _physics_process(delta):
 		if isAutomatic:
 			# Automatic reverse: Forward throttle acts as the brake
 			if throttle_val > 0.1:
-				brake = (throttle_val * MAX_BRAKE_FORCE) * 0.01
+				brake = (throttle_val * MAX_BRAKE_FORCE) * brake_torque_factor
+			elif brake_val < 0.1:
+				brake += engine_brake_torque * brake_torque_factor
 			else:
 				brake = 0.0
 		else:
 			# Manual reverse: Brake input acts as the brake, freeing up throttle
 			if brake_val > 0.1:
-				brake = (brake_val * MAX_BRAKE_FORCE) * 0.01
+				brake = (brake_val * MAX_BRAKE_FORCE) * brake_torque_factor
+			elif brake_val < 0.1:
+				brake += engine_brake_torque * brake_torque_factor
 			else:
 				brake = 0.0
 					
@@ -426,67 +456,58 @@ func _physics_process(delta):
 
 ## DELETE THE extra cameras. Just move the camera quickly!
 func _changeCamera():
-
-	## NOT Sure how to use this 15 number
-	
-	
-	if Input.is_action_just_pressed("ChangeCamera"):
-		cameraIndex = cameraIndex + 1
-		cameraIndex = (cameraIndex % 4)
 		
-		if cameras[cameraIndex] == "Inside":
-			ChaseCameraSpring.rotation_degrees = Vector3(0,0,0)
-			
-			VehicleCamera.reparent(CameraMount, false)
-			VehicleCamera.position = CameraPosition
-			VehicleCamera.rotation_degrees = CameraInsideRotation #problem here. It's doing local rotation? 
-			
-		# chaseDistance = 15. Perhaps i need to subtract this number?? More testing needed later
-		# I'm also not happy at the X offset of the chase and especially front chase camera. Need to compare with BF Editor
-		# Perhaps it moves the Camera Mount to 0,0,0 except during inside?
-		elif cameras[cameraIndex] == "Chase":
-			
-			## MAKE this parent to the Vehicle itself OR make the ChaseCameraSpring attach to the vehicle itself
-			VehicleCamera.reparent(ChaseCameraSpring, false)
-			ChaseCameraSpring.reparent(self)
-			ChaseCameraSpring.position = Vector3.ZERO
-			VehicleCamera.position = Vector3.ZERO
-			VehicleCamera.rotation_degrees = Vector3.ZERO
-			
-			ChaseCameraSpring.position = chaseOffset
-			ChaseCameraSpring.spring_length = chaseDistance
-			ChaseCameraSpring.rotation_degrees.x = rad_to_deg(chaseAngle) * -1
-			
-			
-			
-			
-		elif cameras[cameraIndex] == "FrontChase":
-			VehicleCamera.reparent(ChaseCameraSpring, false)
-			ChaseCameraSpring.reparent(self)
-			ChaseCameraSpring.position = Vector3.ZERO
-			VehicleCamera.position = Vector3.ZERO
-			VehicleCamera.rotation_degrees = Vector3.ZERO
-			
-			ChaseCameraSpring.position = chaseOffset
-			ChaseCameraSpring.spring_length = chaseDistance
-			ChaseCameraSpring.rotation_degrees.x = rad_to_deg(chaseAngle) * -1
-			ChaseCameraSpring.rotation_degrees.y = 180
+	
+	if cameras[cameraIndex] == "Inside":
+		ChaseCameraSpring.rotation_degrees = Vector3(0,0,0)
 		
-		elif cameras[cameraIndex] == "Flyby":
-			VehicleCamera.rotation_degrees = Vector3.ZERO
-			var distance_ahead = 15.0
-			var side_offset = 0.0
-			var height_offset = 1.2
+		VehicleCamera.reparent(CameraMount, false)
+		VehicleCamera.position = CameraPosition
+		VehicleCamera.rotation_degrees = CameraInsideRotation #problem here. It's doing local rotation? 
+		
+	# chaseDistance = 15. Perhaps i need to subtract this number?? More testing needed later
+	# I'm also not happy at the X offset of the chase and especially front chase camera. Need to compare with BF Editor
+	# Perhaps it moves the Camera Mount to 0,0,0 except during inside?
+	elif cameras[cameraIndex] == "Chase":
+		
+		## MAKE this parent to the Vehicle itself OR make the ChaseCameraSpring attach to the vehicle itself
+		VehicleCamera.reparent(ChaseCameraSpring, false)
+		ChaseCameraSpring.reparent(self)
+		ChaseCameraSpring.position = Vector3.ZERO
+		VehicleCamera.position = Vector3.ZERO
+		VehicleCamera.rotation_degrees = Vector3.ZERO
+		
+		ChaseCameraSpring.position = chaseOffset
+		ChaseCameraSpring.spring_length = chaseDistance
+		ChaseCameraSpring.rotation_degrees.x = rad_to_deg(chaseAngle) * -1
+		
+	elif cameras[cameraIndex] == "FrontChase":
+		VehicleCamera.reparent(ChaseCameraSpring, false)
+		ChaseCameraSpring.reparent(self)
+		ChaseCameraSpring.position = Vector3.ZERO
+		VehicleCamera.position = Vector3.ZERO
+		VehicleCamera.rotation_degrees = Vector3.ZERO
+		
+		ChaseCameraSpring.position = chaseOffset
+		ChaseCameraSpring.spring_length = chaseDistance
+		ChaseCameraSpring.rotation_degrees.x = rad_to_deg(chaseAngle) * -1
+		ChaseCameraSpring.rotation_degrees.y = 180
+	
+	elif cameras[cameraIndex] == "Flyby":
+		VehicleCamera.rotation_degrees = Vector3.ZERO
+		var distance_ahead = 15.0
+		var side_offset = 0.0
+		var height_offset = 1.2
 
-			var forward_dir = -global_transform.basis.z.normalized()
-			var right_dir = global_transform.basis.x.normalized()
-			
-			## Do some collision detection. If not inside a static object or terrain. If it is, pick another location? or drop it somewhere on the terrain somewhere
-			var flyby_pos = global_position + (forward_dir * distance_ahead) + (right_dir * side_offset)
-			flyby_pos.y += height_offset
-			
-			VehicleCamera.reparent(get_tree().current_scene)
-			VehicleCamera.global_position = flyby_pos
+		var forward_dir = -global_transform.basis.z.normalized()
+		var right_dir = global_transform.basis.x.normalized()
+		
+		## Do some collision detection. If not inside a static object or terrain. If it is, pick another location? or drop it somewhere on the terrain somewhere
+		var flyby_pos = global_position + (forward_dir * distance_ahead) + (right_dir * side_offset)
+		flyby_pos.y += height_offset
+		
+		VehicleCamera.reparent(get_tree().current_scene)
+		VehicleCamera.global_position = flyby_pos
 			
 		
 	if Input.is_action_just_pressed("StartTimer"):

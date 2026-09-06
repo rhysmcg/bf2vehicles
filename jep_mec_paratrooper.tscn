@@ -1134,6 +1134,7 @@ gravity_scale = 1.5
 center_of_mass_mode = 1
 center_of_mass = Vector3(0, -1, 0)
 script = ExtResource("1_6bv66")
+flat_friction = 5.0
 steer_curve = SubResource("Curve_36uu7")
 MAX_ENGINE_FORCE = 300.0
 MAX_BRAKE_FORCE = 2000.0
