@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccrvkxua5g5a8"
+path="res://.godot/imported/decal_s_plastic.con-19f75e7a57f4aa10f0fccdd00fa96e23.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_plastic.con"
+dest_files=["res://.godot/imported/decal_s_plastic.con-19f75e7a57f4aa10f0fccdd00fa96e23.scn"]
+
+[params]
+

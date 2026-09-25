@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bcosatisqy2db"
+path="res://.godot/imported/she_ec635_mainrotor.con-1d30988fa4dde6218b641bf0156d50ee.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/she_ec635_mainrotor/she_ec635_mainrotor.con"
+dest_files=["res://.godot/imported/she_ec635_mainrotor.con-1d30988fa4dde6218b641bf0156d50ee.scn"]
+
+[params]
+

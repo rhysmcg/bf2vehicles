@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blgr7hloqwwg8"
+path="res://.godot/imported/e_mediumwindow.bundledmesh-0679f9eb1942884bb063b79bf9fbf591.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/Windows/meshes/e_mediumwindow.bundledmesh"
+dest_files=["res://.godot/imported/e_mediumwindow.bundledmesh-0679f9eb1942884bb063b79bf9fbf591.scn"]
+
+[params]
+

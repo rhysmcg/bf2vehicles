@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bl6htpfdp41kn"
+path="res://.godot/imported/cross_intersection.staticmesh-c0fa70fc8708d18de1c0cd4e1e85b273.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/cross_intersection/meshes/cross_intersection.staticmesh"
+dest_files=["res://.godot/imported/cross_intersection.staticmesh-c0fa70fc8708d18de1c0cd4e1e85b273.scn"]
+
+[params]
+

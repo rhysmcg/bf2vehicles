@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjpffebt5cm8e"
+path="res://.godot/imported/ch_stnwalls_sloope_30m_invert.staticmesh-aceaedf560f39635f09463040efe0cdc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_sloope_30m_invert/meshes/ch_stnwalls_sloope_30m_invert.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_sloope_30m_invert.staticmesh-aceaedf560f39635f09463040efe0cdc.scn"]
+
+[params]
+

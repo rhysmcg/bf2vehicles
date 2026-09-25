@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6bnjkxr3snaj"
+path="res://.godot/imported/agm65_maverick_dumb.con-c07cf8657467bd03bc1139aeb18b453d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/agm65_maverick_dumb/agm65_maverick_dumb.con"
+dest_files=["res://.godot/imported/agm65_maverick_dumb.con-c07cf8657467bd03bc1139aeb18b453d.scn"]
+
+[params]
+

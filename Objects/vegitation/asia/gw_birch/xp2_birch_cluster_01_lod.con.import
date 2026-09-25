@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b77co5bg72gig"
+path="res://.godot/imported/xp2_birch_cluster_01_lod.con-555a438f7d20f14d1d0373a013728e9d.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/gw_birch/xp2_birch_cluster_01_lod.con"
+dest_files=["res://.godot/imported/xp2_birch_cluster_01_lod.con-555a438f7d20f14d1d0373a013728e9d.scn"]
+
+[params]
+

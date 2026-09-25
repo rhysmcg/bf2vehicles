@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://drdi7moxn5vf7"
+path="res://.godot/imported/boathouse.staticmesh-aa1bb00031e8a0a4c15aec80f054b2f3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/boathouse/meshes/boathouse.staticmesh"
+dest_files=["res://.godot/imported/boathouse.staticmesh-aa1bb00031e8a0a4c15aec80f054b2f3.scn"]
+
+[params]
+

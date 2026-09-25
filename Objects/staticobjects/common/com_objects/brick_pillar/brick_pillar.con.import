@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6foargny72a6"
+path="res://.godot/imported/brick_pillar.con-06bde92159c4b35a0938ff1e7ac673cb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/brick_pillar/brick_pillar.con"
+dest_files=["res://.godot/imported/brick_pillar.con-06bde92159c4b35a0938ff1e7ac673cb.scn"]
+
+[params]
+

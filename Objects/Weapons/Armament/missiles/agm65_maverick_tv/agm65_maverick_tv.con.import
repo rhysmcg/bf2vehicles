@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4abk8cnp87s8"
+path="res://.godot/imported/agm65_maverick_tv.con-cf797974113ff2e2d85da94bb999423b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/agm65_maverick_tv/agm65_maverick_tv.con"
+dest_files=["res://.godot/imported/agm65_maverick_tv.con-cf797974113ff2e2d85da94bb999423b.scn"]
+
+[params]
+

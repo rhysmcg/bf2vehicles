@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d3tl7ubb3allk"
+path="res://.godot/imported/p_wreck_mi17_cockpit.bundledmesh-81540fb2f4f76dc3e8f1d3e114177965.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mi17/meshes/p_wreck_mi17_cockpit.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_mi17_cockpit.bundledmesh-81540fb2f4f76dc3e8f1d3e114177965.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmpj706isx2ap"
+path="res://.godot/imported/TestRoadTemplate.con-2af065ad1d8a7fe13b8a4e3a1db91611.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/TestRoadTemplate.con"
+dest_files=["res://.godot/imported/TestRoadTemplate.con-2af065ad1d8a7fe13b8a4e3a1db91611.scn"]
+
+[params]
+

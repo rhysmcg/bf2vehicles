@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dk6f2485bxspc"
+path="res://.godot/imported/ambstat_Bp2WreckFire.con-1467255bded4d1d50432b04ab269d43b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_Bp2WreckFire.con"
+dest_files=["res://.godot/imported/ambstat_Bp2WreckFire.con-1467255bded4d1d50432b04ab269d43b.scn"]
+
+[params]
+

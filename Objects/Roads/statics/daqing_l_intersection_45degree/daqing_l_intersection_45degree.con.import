@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwsq5okobfp0a"
+path="res://.godot/imported/daqing_l_intersection_45degree.con-35a66d160f6be7793bc32c3c05b58011.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/daqing_l_intersection_45degree/daqing_l_intersection_45degree.con"
+dest_files=["res://.godot/imported/daqing_l_intersection_45degree.con-35a66d160f6be7793bc32c3c05b58011.scn"]
+
+[params]
+

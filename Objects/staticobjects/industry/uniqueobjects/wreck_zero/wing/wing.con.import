@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7p7qhlc651pa"
+path="res://.godot/imported/wing.con-57e30d5190b11b95738cba8fc2def24c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/wreck_zero/wing/wing.con"
+dest_files=["res://.godot/imported/wing.con-57e30d5190b11b95738cba8fc2def24c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b52uhmymuhm0f"
+path="res://.godot/imported/xp2_lrgfactorybuilding.con-00d3a6b85a5b4044e42e63bc797f41c6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_lrgfactorybuilding/xp2_lrgfactorybuilding.con"
+dest_files=["res://.godot/imported/xp2_lrgfactorybuilding.con-00d3a6b85a5b4044e42e63bc797f41c6.scn"]
+
+[params]
+

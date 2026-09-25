@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://begnlrhy1ele6"
+path="res://.godot/imported/boatwreck_small.staticmesh-9e62ac31e19710824e729317610b2aa9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_objects/boatwreck_small/meshes/boatwreck_small.staticmesh"
+dest_files=["res://.godot/imported/boatwreck_small.staticmesh-9e62ac31e19710824e729317610b2aa9.scn"]
+
+[params]
+

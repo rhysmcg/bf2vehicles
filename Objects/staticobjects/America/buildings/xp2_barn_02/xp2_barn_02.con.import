@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://sc6a2qvh8lbl"
+path="res://.godot/imported/xp2_barn_02.con-2dadee94fdd1d4cb78911de199095c5f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_barn_02/xp2_barn_02.con"
+dest_files=["res://.godot/imported/xp2_barn_02.con-2dadee94fdd1d4cb78911de199095c5f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bm1ro144scds1"
+path="res://.godot/imported/cross_intersection.con-e9f7e8b708ffdbd90d4ab98b0014f34e.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/cross_intersection/cross_intersection.con"
+dest_files=["res://.godot/imported/cross_intersection.con-e9f7e8b708ffdbd90d4ab98b0014f34e.scn"]
+
+[params]
+

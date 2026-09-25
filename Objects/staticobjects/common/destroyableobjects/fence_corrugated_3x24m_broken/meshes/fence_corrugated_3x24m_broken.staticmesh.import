@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b7jvg04tyjhld"
+path="res://.godot/imported/fence_corrugated_3x24m_broken.staticmesh-d5e42b4bae02d2b3f689bf441a307e3d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fence_corrugated_3x24m_broken/meshes/fence_corrugated_3x24m_broken.staticmesh"
+dest_files=["res://.godot/imported/fence_corrugated_3x24m_broken.staticmesh-d5e42b4bae02d2b3f689bf441a307e3d.scn"]
+
+[params]
+

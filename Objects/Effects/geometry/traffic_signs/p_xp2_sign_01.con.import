@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdq2xm5novhpo"
+path="res://.godot/imported/p_xp2_sign_01.con-4e8ce877f772185d79c76b335337ff49.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_xp2_sign_01.con"
+dest_files=["res://.godot/imported/p_xp2_sign_01.con-4e8ce877f772185d79c76b335337ff49.scn"]
+
+[params]
+

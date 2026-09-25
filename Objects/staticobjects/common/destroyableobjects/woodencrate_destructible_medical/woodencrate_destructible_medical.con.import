@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://difel4p76ss6y"
+path="res://.godot/imported/woodencrate_destructible_medical.con-306c07d3a0d1f2add4301f53354f9331.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/woodencrate_destructible_medical/woodencrate_destructible_medical.con"
+dest_files=["res://.godot/imported/woodencrate_destructible_medical.con-306c07d3a0d1f2add4301f53354f9331.scn"]
+
+[params]
+

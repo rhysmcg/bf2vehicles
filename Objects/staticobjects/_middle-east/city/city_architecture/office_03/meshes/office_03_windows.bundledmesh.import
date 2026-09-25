@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ca2s0kyqd6vgt"
+path="res://.godot/imported/office_03_windows.bundledmesh-2de9950f3a3d81b5c5cd4afaa3741369.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/office_03/meshes/office_03_windows.bundledmesh"
+dest_files=["res://.godot/imported/office_03_windows.bundledmesh-2de9950f3a3d81b5c5cd4afaa3741369.scn"]
+
+[params]
+

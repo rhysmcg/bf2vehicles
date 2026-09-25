@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dymlifuteu1hr"
+path="res://.godot/imported/ushgr_m67.bundledmesh-08052d8ad21a41cdad78ac87ff47925d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ushgr_m67/meshes/ushgr_m67.bundledmesh"
+dest_files=["res://.godot/imported/ushgr_m67.bundledmesh-08052d8ad21a41cdad78ac87ff47925d.scn"]
+
+[params]
+

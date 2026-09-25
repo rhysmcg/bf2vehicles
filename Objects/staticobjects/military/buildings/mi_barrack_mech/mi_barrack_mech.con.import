@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdir7n77xqe2p"
+path="res://.godot/imported/mi_barrack_mech.con-6232e8316d373027d7d59d7030966af6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_barrack_mech/mi_barrack_mech.con"
+dest_files=["res://.godot/imported/mi_barrack_mech.con-6232e8316d373027d7d59d7030966af6.scn"]
+
+[params]
+

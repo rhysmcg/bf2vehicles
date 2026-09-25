@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ediykuoq7wlj"
+path="res://.godot/imported/usaav_m6.con-faadf020f6342e75785c486b87c59224.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/usaav_m6/usaav_m6.con"
+dest_files=["res://.godot/imported/usaav_m6.con-faadf020f6342e75785c486b87c59224.scn"]
+
+[params]
+

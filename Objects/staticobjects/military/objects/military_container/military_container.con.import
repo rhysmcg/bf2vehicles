@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8awslr80ayrb"
+path="res://.godot/imported/military_container.con-ca197c391c6e12905522762cad03f0ef.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/military_container/military_container.con"
+dest_files=["res://.godot/imported/military_container.con-ca197c391c6e12905522762cad03f0ef.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://mgfjwoos7fgu"
+path="res://.godot/imported/oil_pump_anim.skinnedmesh-bc56c4cb960b29fa6d5671e40bd09b19.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Oil_Pump/meshes/oil_pump_anim.skinnedmesh"
+dest_files=["res://.godot/imported/oil_pump_anim.skinnedmesh-bc56c4cb960b29fa6d5671e40bd09b19.scn"]
+
+[params]
+

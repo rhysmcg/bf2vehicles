@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ds6vj0a8wblvc"
+path="res://.godot/imported/e_bhit_minigun_gravel.con-3328315d3734e828f3801bede9e362db.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_gravel.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_gravel.con-3328315d3734e828f3801bede9e362db.scn"]
+
+[params]
+

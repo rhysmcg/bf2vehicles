@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dl8hfombo6w3l"
+path="res://.godot/imported/wreck_zero.con-6158edaedc415003b586de23c6e0ceb1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/wreck_zero/wreck_zero.con"
+dest_files=["res://.godot/imported/wreck_zero.con-6158edaedc415003b586de23c6e0ceb1.scn"]
+
+[params]
+

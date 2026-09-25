@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://du6x0q8wpvy38"
+path="res://.godot/imported/p_wreck_z10_tailpiece.bundledmesh-b0a6fa3c67c83986282e0af712680ba9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_z10/meshes/p_wreck_z10_tailpiece.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_z10_tailpiece.bundledmesh-b0a6fa3c67c83986282e0af712680ba9.scn"]
+
+[params]
+

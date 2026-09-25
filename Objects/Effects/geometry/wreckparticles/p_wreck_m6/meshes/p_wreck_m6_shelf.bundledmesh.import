@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cbxefhqsnm2b7"
+path="res://.godot/imported/p_wreck_m6_shelf.bundledmesh-c7d94da203bc58b7bc867092710a1ce2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_m6/meshes/p_wreck_m6_shelf.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_m6_shelf.bundledmesh-c7d94da203bc58b7bc867092710a1ce2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xcgauktt77qu"
+path="res://.godot/imported/island_house.staticmesh-572785139bf401817e4a2015c283f835.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/island_house/meshes/island_house.staticmesh"
+dest_files=["res://.godot/imported/island_house.staticmesh-572785139bf401817e4a2015c283f835.scn"]
+
+[params]
+

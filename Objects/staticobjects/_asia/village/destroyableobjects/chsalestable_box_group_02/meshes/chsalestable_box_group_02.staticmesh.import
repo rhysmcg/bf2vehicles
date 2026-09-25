@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://df4q76o5gn7no"
+path="res://.godot/imported/chsalestable_box_group_02.staticmesh-8659822db8b4039a82c01fae66142dce.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/destroyableobjects/chsalestable_box_group_02/meshes/chsalestable_box_group_02.staticmesh"
+dest_files=["res://.godot/imported/chsalestable_box_group_02.staticmesh-8659822db8b4039a82c01fae66142dce.scn"]
+
+[params]
+

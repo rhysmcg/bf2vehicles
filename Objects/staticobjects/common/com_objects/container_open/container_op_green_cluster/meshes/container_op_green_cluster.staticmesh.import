@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4tpkyqvcfqup"
+path="res://.godot/imported/container_op_green_cluster.staticmesh-84f6ae3debff4fb5f1d63c82fa8a296f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/container_open/container_op_green_cluster/meshes/container_op_green_cluster.staticmesh"
+dest_files=["res://.godot/imported/container_op_green_cluster.staticmesh-84f6ae3debff4fb5f1d63c82fa8a296f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c16eqluuv5ww8"
+path="res://.godot/imported/e_destruction_trafficlight.con-b85dbae15e632377ff43feabbf21a316.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_trafficlight.con"
+dest_files=["res://.godot/imported/e_destruction_trafficlight.con-b85dbae15e632377ff43feabbf21a316.scn"]
+
+[params]
+

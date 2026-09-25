@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ej0cmfutc0uw"
+path="res://.godot/imported/xp2_windmill_blades_02.con-868ed8fe19b97d2564c5b15d817a54a1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_windmill_02/xp2_windmill_blades_02.con"
+dest_files=["res://.godot/imported/xp2_windmill_blades_02.con-868ed8fe19b97d2564c5b15d817a54a1.scn"]
+
+[params]
+

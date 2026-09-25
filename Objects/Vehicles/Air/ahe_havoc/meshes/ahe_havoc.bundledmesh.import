@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bnfypwmr0wqlf"
+path="res://.godot/imported/ahe_havoc.bundledmesh-87e91d3b8fecf9ec408aac1b29e819db.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/meshes/ahe_havoc.bundledmesh"
+dest_files=["res://.godot/imported/ahe_havoc.bundledmesh-87e91d3b8fecf9ec408aac1b29e819db.scn"]
+
+[params]
+

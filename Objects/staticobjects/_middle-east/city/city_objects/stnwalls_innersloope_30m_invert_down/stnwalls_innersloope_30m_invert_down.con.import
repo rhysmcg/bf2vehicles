@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8ayho5jqb786"
+path="res://.godot/imported/stnwalls_innersloope_30m_invert_down.con-232f1786d84fac8cc86291c128aa841c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_innersloope_30m_invert_down/stnwalls_innersloope_30m_invert_down.con"
+dest_files=["res://.godot/imported/stnwalls_innersloope_30m_invert_down.con-232f1786d84fac8cc86291c128aa841c.scn"]
+
+[params]
+

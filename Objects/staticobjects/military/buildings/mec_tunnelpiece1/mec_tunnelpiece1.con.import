@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbjlthg4ihiws"
+path="res://.godot/imported/mec_tunnelpiece1.con-d1d4efc32d0cade7209dca451acf2203.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mec_tunnelpiece1/mec_tunnelpiece1.con"
+dest_files=["res://.godot/imported/mec_tunnelpiece1.con-d1d4efc32d0cade7209dca451acf2203.scn"]
+
+[params]
+

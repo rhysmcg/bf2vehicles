@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dqltarerp0cex"
+path="res://.godot/imported/chsht_norinco982.con-e46faa86c0ffac603ddaf43613f73499.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_norinco982/chsht_norinco982.con"
+dest_files=["res://.godot/imported/chsht_norinco982.con-e46faa86c0ffac603ddaf43613f73499.scn"]
+
+[params]
+

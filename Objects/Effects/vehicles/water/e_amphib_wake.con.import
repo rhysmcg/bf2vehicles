@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://buev5s6bs8okj"
+path="res://.godot/imported/e_amphib_wake.con-0fa427fb13d3f45297d3a721548c7b1f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_amphib_wake.con"
+dest_files=["res://.godot/imported/e_amphib_wake.con-0fa427fb13d3f45297d3a721548c7b1f.scn"]
+
+[params]
+

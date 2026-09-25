@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvj62fhulpo5o"
+path="res://.godot/imported/e_destruction_trainbar.bundledmesh-bcdd0f42be820f5b7eb7ddb261678a1d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_trainbar.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_trainbar.bundledmesh-bcdd0f42be820f5b7eb7ddb261678a1d.scn"]
+
+[params]
+

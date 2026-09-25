@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cljmvbjvx53hc"
+path="res://.godot/imported/p_medical_scissors.con-bbd6df8651d6591497ada0b73f9f9ea7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_scissors.con"
+dest_files=["res://.godot/imported/p_medical_scissors.con-bbd6df8651d6591497ada0b73f9f9ea7.scn"]
+
+[params]
+

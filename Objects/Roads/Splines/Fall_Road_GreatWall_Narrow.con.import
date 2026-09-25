@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bhytt435sjons"
+path="res://.godot/imported/Fall_Road_GreatWall_Narrow.con-135f64b98e5e3e902849325e8cffea93.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Fall_Road_GreatWall_Narrow.con"
+dest_files=["res://.godot/imported/Fall_Road_GreatWall_Narrow.con-135f64b98e5e3e902849325e8cffea93.scn"]
+
+[params]
+

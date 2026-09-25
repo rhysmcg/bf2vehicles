@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://v70g7jnqmrv3"
+path="res://.godot/imported/sandbags_8m.staticmesh-b6d1bea5f8a1f125387a61aa16e78fa1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/sandbags_8m/meshes/sandbags_8m.staticmesh"
+dest_files=["res://.godot/imported/sandbags_8m.staticmesh-b6d1bea5f8a1f125387a61aa16e78fa1.scn"]
+
+[params]
+

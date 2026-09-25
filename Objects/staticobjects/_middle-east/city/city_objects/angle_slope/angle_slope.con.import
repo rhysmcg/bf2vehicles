@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://qblqevcaecfq"
+path="res://.godot/imported/angle_slope.con-001c6d7fec846c7493206b7621c8c1c2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/angle_slope/angle_slope.con"
+dest_files=["res://.godot/imported/angle_slope.con-001c6d7fec846c7493206b7621c8c1c2.scn"]
+
+[params]
+

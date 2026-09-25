@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bsjvgg1cor237"
+path="res://.godot/imported/ahe_z10_tailrotor.con-e1e5249b13182e2568b7e5238251153f.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/ahe_z10_tailrotor/ahe_z10_tailrotor.con"
+dest_files=["res://.godot/imported/ahe_z10_tailrotor.con-e1e5249b13182e2568b7e5238251153f.scn"]
+
+[params]
+

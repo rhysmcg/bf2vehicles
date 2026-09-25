@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bhm48gnel8esp"
+path="res://.godot/imported/igla_djigit.con-b3b61b7dfddd97b6bec39417410fc483.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/Igla_Djigit/igla_djigit.con"
+dest_files=["res://.godot/imported/igla_djigit.con-b3b61b7dfddd97b6bec39417410fc483.scn"]
+
+[params]
+

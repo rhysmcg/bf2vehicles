@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://daj2d4ei8gu22"
+path="res://.godot/imported/basket_coart.staticmesh-16ff63b04f88acc80340c974f46f091f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/basket_coart/meshes/basket_coart.staticmesh"
+dest_files=["res://.godot/imported/basket_coart.staticmesh-16ff63b04f88acc80340c974f46f091f.scn"]
+
+[params]
+

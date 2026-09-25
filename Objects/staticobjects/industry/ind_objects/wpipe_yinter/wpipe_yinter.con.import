@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dpluh76jq0fyk"
+path="res://.godot/imported/wpipe_yinter.con-dc4def4036ee39638f7fee28167ed114.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_yinter/wpipe_yinter.con"
+dest_files=["res://.godot/imported/wpipe_yinter.con-dc4def4036ee39638f7fee28167ed114.scn"]
+
+[params]
+

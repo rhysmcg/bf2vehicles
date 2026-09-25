@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bm0ncr32vj274"
+path="res://.godot/imported/house_low_02.staticmesh-23ad59447d639c082a4267e48b245462.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_low_02/meshes/house_low_02.staticmesh"
+dest_files=["res://.godot/imported/house_low_02.staticmesh-23ad59447d639c082a4267e48b245462.scn"]
+
+[params]
+

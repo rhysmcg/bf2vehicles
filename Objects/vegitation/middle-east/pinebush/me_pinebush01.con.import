@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cnnmk5dd6s5ew"
+path="res://.godot/imported/me_pinebush01.con-8a0b5d82fc3bd44d12f8dd525fc6a649.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/pinebush/me_pinebush01.con"
+dest_files=["res://.godot/imported/me_pinebush01.con-8a0b5d82fc3bd44d12f8dd525fc6a649.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://de7pxccjj7rf1"
+path="res://.godot/imported/dam_bridge_base_ladder.staticmesh-3233945c88badec6b362d06c8e233c27.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/common/meshes/dam_bridge_base_ladder.staticmesh"
+dest_files=["res://.godot/imported/dam_bridge_base_ladder.staticmesh-3233945c88badec6b362d06c8e233c27.scn"]
+
+[params]
+

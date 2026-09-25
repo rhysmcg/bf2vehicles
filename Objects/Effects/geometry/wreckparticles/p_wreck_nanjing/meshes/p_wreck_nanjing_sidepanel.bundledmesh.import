@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://diwfv1d3cpbdb"
+path="res://.godot/imported/p_wreck_nanjing_sidepanel.bundledmesh-42fe92209b70eb18db892be6d4f50668.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_nanjing/meshes/p_wreck_nanjing_sidepanel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_nanjing_sidepanel.bundledmesh-42fe92209b70eb18db892be6d4f50668.scn"]
+
+[params]
+

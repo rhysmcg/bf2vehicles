@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3vt6gxh3vnee"
+path="res://.godot/imported/chsni_type88.bundledmesh-186ae067b42b423223fc00d105d1bb14.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsni_type88/meshes/chsni_type88.bundledmesh"
+dest_files=["res://.godot/imported/chsni_type88.bundledmesh-186ae067b42b423223fc00d105d1bb14.scn"]
+
+[params]
+

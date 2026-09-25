@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bg7eshtkt0m1p"
+path="res://.godot/imported/e_yellow_shard_destruction.con-ba86e0ff936ee5e1028245cc845007aa.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/e_yellow_shard_destruction/e_yellow_shard_destruction.con"
+dest_files=["res://.godot/imported/e_yellow_shard_destruction.con-ba86e0ff936ee5e1028245cc845007aa.scn"]
+
+[params]
+

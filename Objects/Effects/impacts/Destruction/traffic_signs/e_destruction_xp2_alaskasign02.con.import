@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5ff6t7cg13y1"
+path="res://.godot/imported/e_destruction_xp2_alaskasign02.con-3225216b9de74c72478809560d049730.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_xp2_alaskasign02.con"
+dest_files=["res://.godot/imported/e_destruction_xp2_alaskasign02.con-3225216b9de74c72478809560d049730.scn"]
+
+[params]
+

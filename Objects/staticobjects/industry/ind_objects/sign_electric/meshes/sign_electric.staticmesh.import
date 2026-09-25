@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cc1qu5vrdbcu7"
+path="res://.godot/imported/sign_electric.staticmesh-b90329c94f22551a85c9c97d1f8014c8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/sign_electric/meshes/sign_electric.staticmesh"
+dest_files=["res://.godot/imported/sign_electric.staticmesh-b90329c94f22551a85c9c97d1f8014c8.scn"]
+
+[params]
+

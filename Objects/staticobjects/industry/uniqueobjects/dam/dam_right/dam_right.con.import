@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bs8cp5cyhlijh"
+path="res://.godot/imported/dam_right.con-51b13e403854af260d394c98f3b79e79.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_right/dam_right.con"
+dest_files=["res://.godot/imported/dam_right.con-51b13e403854af260d394c98f3b79e79.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://duestjj1d3tlr"
+path="res://.godot/imported/ladder_20m_noholders.con-68638e6fdca3d41b8c5297fcee4466ff.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_20m_noholders/ladder_20m_noholders.con"
+dest_files=["res://.godot/imported/ladder_20m_noholders.con-68638e6fdca3d41b8c5297fcee4466ff.scn"]
+
+[params]
+

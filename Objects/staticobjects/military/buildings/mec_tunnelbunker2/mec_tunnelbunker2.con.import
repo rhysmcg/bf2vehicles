@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://y27yp2m615th"
+path="res://.godot/imported/mec_tunnelbunker2.con-eed87dd7c4fbaae64cc977cbea15d6ec.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mec_tunnelbunker2/mec_tunnelbunker2.con"
+dest_files=["res://.godot/imported/mec_tunnelbunker2.con-eed87dd7c4fbaae64cc977cbea15d6ec.scn"]
+
+[params]
+

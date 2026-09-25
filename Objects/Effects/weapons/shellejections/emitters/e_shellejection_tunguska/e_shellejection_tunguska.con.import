@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://fwhp8rfctxwx"
+path="res://.godot/imported/e_shellejection_tunguska.con-edb4ddbbcb4bf3c178e7f4ddb5d5d1ba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_tunguska/e_shellejection_tunguska.con"
+dest_files=["res://.godot/imported/e_shellejection_tunguska.con-edb4ddbbcb4bf3c178e7f4ddb5d5d1ba.scn"]
+
+[params]
+

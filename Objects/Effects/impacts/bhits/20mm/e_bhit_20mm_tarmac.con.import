@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://i2ivleedvkoj"
+path="res://.godot/imported/e_bhit_20mm_tarmac.con-083cb390202707dc9f62891ea16dd79c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_tarmac.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_tarmac.con-083cb390202707dc9f62891ea16dd79c.scn"]
+
+[params]
+

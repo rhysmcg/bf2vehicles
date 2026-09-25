@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ctu616ru5s5xr"
+path="res://.godot/imported/office_01.staticmesh-4de666adf2e996cbf023d8817568a40e.scn"
+
+[deps]
+
+source_file="res://meshes/office_01/meshes/office_01.staticmesh"
+dest_files=["res://.godot/imported/office_01.staticmesh-4de666adf2e996cbf023d8817568a40e.scn"]
+
+[params]
+

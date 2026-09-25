@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dh3kjytjek733"
+path="res://.godot/imported/e_dAmb_bird.con-614af09a4c9e06f9be1670089dff346c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_bird.con"
+dest_files=["res://.godot/imported/e_dAmb_bird.con-614af09a4c9e06f9be1670089dff346c.scn"]
+
+[params]
+

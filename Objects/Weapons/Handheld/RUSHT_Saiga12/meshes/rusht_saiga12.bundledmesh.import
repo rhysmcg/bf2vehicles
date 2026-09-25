@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cm4rypdx85ngw"
+path="res://.godot/imported/rusht_saiga12.bundledmesh-281045dce52ebebf6bbf3dafc3067ba8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RUSHT_Saiga12/meshes/rusht_saiga12.bundledmesh"
+dest_files=["res://.godot/imported/rusht_saiga12.bundledmesh-281045dce52ebebf6bbf3dafc3067ba8.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cupb3asrhadi4"
+path="res://.godot/imported/medikit.bundledmesh-949ee9190f75d262f12d702aad43efe8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/medikit/Meshes/medikit.bundledmesh"
+dest_files=["res://.godot/imported/medikit.bundledmesh-949ee9190f75d262f12d702aad43efe8.scn"]
+
+[params]
+

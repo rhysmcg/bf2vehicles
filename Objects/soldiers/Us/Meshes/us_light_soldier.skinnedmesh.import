@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cbxgamdar0k4n"
+path="res://.godot/imported/us_light_soldier.skinnedmesh-a7cb1e5b5148858764cd28095ba08e3a.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/Meshes/us_light_soldier.skinnedmesh"
+dest_files=["res://.godot/imported/us_light_soldier.skinnedmesh-a7cb1e5b5148858764cd28095ba08e3a.scn"]
+
+[params]
+

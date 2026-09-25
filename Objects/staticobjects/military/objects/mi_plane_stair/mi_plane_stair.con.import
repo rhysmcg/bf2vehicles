@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bumcwqu76eft3"
+path="res://.godot/imported/mi_plane_stair.con-bf7dc171b5b56c999b50929cf340a1c0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_plane_stair/mi_plane_stair.con"
+dest_files=["res://.godot/imported/mi_plane_stair.con-bf7dc171b5b56c999b50929cf340a1c0.scn"]
+
+[params]
+

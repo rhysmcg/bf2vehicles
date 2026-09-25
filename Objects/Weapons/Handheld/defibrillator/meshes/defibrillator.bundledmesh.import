@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cw1eus81ntmks"
+path="res://.godot/imported/defibrillator.bundledmesh-121c36a840e10f8ccd6fe29096bce11a.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/defibrillator/meshes/defibrillator.bundledmesh"
+dest_files=["res://.godot/imported/defibrillator.bundledmesh-121c36a840e10f8ccd6fe29096bce11a.scn"]
+
+[params]
+

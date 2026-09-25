@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dpqiqpdn2qcp7"
+path="res://.godot/imported/palletstack.con-d14251295bea763a3941bda5e29ba0f4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/palletstack/palletstack.con"
+dest_files=["res://.godot/imported/palletstack.con-d14251295bea763a3941bda5e29ba0f4.scn"]
+
+[params]
+

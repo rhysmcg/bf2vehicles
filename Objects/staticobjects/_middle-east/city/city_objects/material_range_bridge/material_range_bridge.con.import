@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://y7jdywte5fit"
+path="res://.godot/imported/material_range_bridge.con-7e6861c76fc1635de674a63589361eff.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/material_range_bridge/material_range_bridge.con"
+dest_files=["res://.godot/imported/material_range_bridge.con-7e6861c76fc1635de674a63589361eff.scn"]
+
+[params]
+

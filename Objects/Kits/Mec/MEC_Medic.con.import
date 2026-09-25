@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cf4dqkwvlsf2n"
+path="res://.godot/imported/MEC_Medic.con-3db8ccbc91ae8f9ef33e13d4168c7150.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Medic.con"
+dest_files=["res://.godot/imported/MEC_Medic.con-3db8ccbc91ae8f9ef33e13d4168c7150.scn"]
+
+[params]
+

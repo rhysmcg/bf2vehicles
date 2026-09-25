@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bqdf6wnstasek"
+path="res://.godot/imported/chsht_protecta.bundledmesh-1aa36c9f06e041858124c648babf6664.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_protecta/meshes/chsht_protecta.bundledmesh"
+dest_files=["res://.godot/imported/chsht_protecta.bundledmesh-1aa36c9f06e041858124c648babf6664.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bot4midrn2of0"
+path="res://.godot/imported/p_fantan_fuselage.con-7163f969c447d5375088716be0625d71.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/p_fantan_fuselage.con"
+dest_files=["res://.godot/imported/p_fantan_fuselage.con-7163f969c447d5375088716be0625d71.scn"]
+
+[params]
+

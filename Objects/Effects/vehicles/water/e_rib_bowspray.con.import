@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b3r6nc08fk0q5"
+path="res://.godot/imported/e_rib_bowspray.con-61e3e68625705277ecd755f8f65adb77.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_rib_bowspray.con"
+dest_files=["res://.godot/imported/e_rib_bowspray.con-61e3e68625705277ecd755f8f65adb77.scn"]
+
+[params]
+

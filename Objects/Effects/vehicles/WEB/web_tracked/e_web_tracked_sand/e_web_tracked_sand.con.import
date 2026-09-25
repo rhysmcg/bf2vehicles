@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://j8i3saq3sw12"
+path="res://.godot/imported/e_web_tracked_sand.con-82bab4d78355251a61b1b214d2923a38.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_sand/e_web_tracked_sand.con"
+dest_files=["res://.godot/imported/e_web_tracked_sand.con-82bab4d78355251a61b1b214d2923a38.scn"]
+
+[params]
+

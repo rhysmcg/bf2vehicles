@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ccsmuaee0fuh0"
+path="res://.godot/imported/p_tunguskacap.bundledmesh-a34871a490b3ba478be6079dba80b927.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_tunguskacap/meshes/p_tunguskacap.bundledmesh"
+dest_files=["res://.godot/imported/p_tunguskacap.bundledmesh-a34871a490b3ba478be6079dba80b927.scn"]
+
+[params]
+

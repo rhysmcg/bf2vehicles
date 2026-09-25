@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dcp61eogn68ba"
+path="res://.godot/imported/sign_busstop_dest.con-682811fe4214605c7eb23212f6b8bd2b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_busstop_dest/sign_busstop_dest.con"
+dest_files=["res://.godot/imported/sign_busstop_dest.con-682811fe4214605c7eb23212f6b8bd2b.scn"]
+
+[params]
+

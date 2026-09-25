@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bs0njgo4agnj"
+path="res://.godot/imported/e_dAmb_fireFlys.con-3f5b540bead5ee128dfcccab555eb423.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_fireFlys.con"
+dest_files=["res://.godot/imported/e_dAmb_fireFlys.con-3f5b540bead5ee128dfcccab555eb423.scn"]
+
+[params]
+

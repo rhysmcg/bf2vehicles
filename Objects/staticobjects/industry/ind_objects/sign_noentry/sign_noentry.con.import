@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cam6hoxgoedx5"
+path="res://.godot/imported/sign_noentry.con-b33b2cc060962bb2a981a781c1ac4d86.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/sign_noentry/sign_noentry.con"
+dest_files=["res://.godot/imported/sign_noentry.con-b33b2cc060962bb2a981a781c1ac4d86.scn"]
+
+[params]
+

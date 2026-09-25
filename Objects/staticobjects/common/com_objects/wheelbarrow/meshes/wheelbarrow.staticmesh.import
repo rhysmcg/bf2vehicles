@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://buldmyvi68jbq"
+path="res://.godot/imported/wheelbarrow.staticmesh-989190b3462fcc682ef012192148f92b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/wheelbarrow/meshes/wheelbarrow.staticmesh"
+dest_files=["res://.godot/imported/wheelbarrow.staticmesh-989190b3462fcc682ef012192148f92b.scn"]
+
+[params]
+

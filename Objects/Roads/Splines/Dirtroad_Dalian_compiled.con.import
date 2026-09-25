@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6ye2dnepxrpa"
+path="res://.godot/imported/Dirtroad_Dalian_compiled.con-b2d6447b4efa1720a890660fc8fd8444.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirtroad_Dalian_compiled.con"
+dest_files=["res://.godot/imported/Dirtroad_Dalian_compiled.con-b2d6447b4efa1720a890660fc8fd8444.scn"]
+
+[params]
+

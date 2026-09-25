@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cew6cix82rbju"
+path="res://.godot/imported/CH_Engineer.con-7c38d4791c0ae4932a452d261a6e3832.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/ch/CH_Engineer.con"
+dest_files=["res://.godot/imported/CH_Engineer.con-7c38d4791c0ae4932a452d261a6e3832.scn"]
+
+[params]
+

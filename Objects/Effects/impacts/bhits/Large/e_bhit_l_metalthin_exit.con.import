@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u50d7npym5iy"
+path="res://.godot/imported/e_bhit_l_metalthin_exit.con-d5515f27afe6240f171104d89ad1bbc8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_metalthin_exit.con"
+dest_files=["res://.godot/imported/e_bhit_l_metalthin_exit.con-d5515f27afe6240f171104d89ad1bbc8.scn"]
+
+[params]
+

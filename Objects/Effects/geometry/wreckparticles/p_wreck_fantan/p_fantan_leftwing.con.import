@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djn6jcrdyd03s"
+path="res://.godot/imported/p_fantan_leftwing.con-bf755270c9ea19ed83668e2d2e39df52.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/p_fantan_leftwing.con"
+dest_files=["res://.godot/imported/p_fantan_leftwing.con-bf755270c9ea19ed83668e2d2e39df52.scn"]
+
+[params]
+

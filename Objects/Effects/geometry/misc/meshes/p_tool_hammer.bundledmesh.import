@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmxe3mrwwieml"
+path="res://.godot/imported/p_tool_hammer.bundledmesh-32ca504ff9f1a19629693f5255f63ce6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_tool_hammer.bundledmesh"
+dest_files=["res://.godot/imported/p_tool_hammer.bundledmesh-32ca504ff9f1a19629693f5255f63ce6.scn"]
+
+[params]
+

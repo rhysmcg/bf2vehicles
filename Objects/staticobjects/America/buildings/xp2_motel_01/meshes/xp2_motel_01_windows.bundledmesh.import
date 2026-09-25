@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cys4gyxkxkdyl"
+path="res://.godot/imported/xp2_motel_01_windows.bundledmesh-a4d25881ab623c25ed6333d6620ef31f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_motel_01/meshes/xp2_motel_01_windows.bundledmesh"
+dest_files=["res://.godot/imported/xp2_motel_01_windows.bundledmesh-a4d25881ab623c25ed6333d6620ef31f.scn"]
+
+[params]
+

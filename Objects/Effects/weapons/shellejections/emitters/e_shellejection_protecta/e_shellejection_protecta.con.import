@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cssjr4ef1bdhl"
+path="res://.godot/imported/e_shellejection_protecta.con-b64d5b8b562a94853f79cd3c95850626.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_protecta/e_shellejection_protecta.con"
+dest_files=["res://.godot/imported/e_shellejection_protecta.con-b64d5b8b562a94853f79cd3c95850626.scn"]
+
+[params]
+

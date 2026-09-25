@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1pwgh8rni5kb"
+path="res://.godot/imported/p_shell_9mm.con-9d0e439b9ca24cebc7bec131eafc86bb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_9mm/p_shell_9mm.con"
+dest_files=["res://.godot/imported/p_shell_9mm.con-9d0e439b9ca24cebc7bec131eafc86bb.scn"]
+
+[params]
+

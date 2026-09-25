@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://68mwcaon6ly1"
+path="res://.godot/imported/p_shell_shotgun.bundledmesh-69ac89a947fb78304447418ce22d3ebc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_shotgun/meshes/p_shell_shotgun.bundledmesh"
+dest_files=["res://.godot/imported/p_shell_shotgun.bundledmesh-69ac89a947fb78304447418ce22d3ebc.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bt67tcjvnu00v"
+path="res://.godot/imported/e_bhit_20mm_plaster.con-240907c9f96b734027b42a8e9fde5e21.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_plaster.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_plaster.con-240907c9f96b734027b42a8e9fde5e21.scn"]
+
+[params]
+

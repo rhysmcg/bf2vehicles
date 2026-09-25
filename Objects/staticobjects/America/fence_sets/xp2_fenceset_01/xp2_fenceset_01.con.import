@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://sdj8yu2gi3sr"
+path="res://.godot/imported/xp2_fenceset_01.con-0fa40739d69d2383e073d8576f927e93.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/fence_sets/xp2_fenceset_01/xp2_fenceset_01.con"
+dest_files=["res://.godot/imported/xp2_fenceset_01.con-0fa40739d69d2383e073d8576f927e93.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1aothe0cxd0a"
+path="res://.godot/imported/e_damb_dustsmall.con-d77722d22a6d109168453614433645ca.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_damb_dustsmall.con"
+dest_files=["res://.godot/imported/e_damb_dustsmall.con-d77722d22a6d109168453614433645ca.scn"]
+
+[params]
+

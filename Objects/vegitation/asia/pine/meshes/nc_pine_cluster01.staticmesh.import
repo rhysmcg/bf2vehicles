@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ofcn4m87a86k"
+path="res://.godot/imported/nc_pine_cluster01.staticmesh-b0beb64831c7c2663a8ef63dbd5c6dd7.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/pine/meshes/nc_pine_cluster01.staticmesh"
+dest_files=["res://.godot/imported/nc_pine_cluster01.staticmesh-b0beb64831c7c2663a8ef63dbd5c6dd7.scn"]
+
+[params]
+

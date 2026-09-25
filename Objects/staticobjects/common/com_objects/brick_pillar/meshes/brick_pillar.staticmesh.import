@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dybhos0ua7gac"
+path="res://.godot/imported/brick_pillar.staticmesh-83e11e5e8231ac67c49216cb6616b9f5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/brick_pillar/meshes/brick_pillar.staticmesh"
+dest_files=["res://.godot/imported/brick_pillar.staticmesh-83e11e5e8231ac67c49216cb6616b9f5.scn"]
+
+[params]
+

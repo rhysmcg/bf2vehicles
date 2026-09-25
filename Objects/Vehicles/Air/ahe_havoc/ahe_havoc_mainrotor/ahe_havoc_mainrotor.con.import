@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crbt2jpw5xd1f"
+path="res://.godot/imported/ahe_havoc_mainrotor.con-1eb90f4b076fc0f69fdae320dce36710.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/ahe_havoc_mainrotor/ahe_havoc_mainrotor.con"
+dest_files=["res://.godot/imported/ahe_havoc_mainrotor.con-1eb90f4b076fc0f69fdae320dce36710.scn"]
+
+[params]
+

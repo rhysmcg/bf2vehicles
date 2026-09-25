@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cx5s0jmhn4yid"
+path="res://.godot/imported/city_concretewall_mid_20m.staticmesh-088c0a06acd6af32b19f1dd62ad3e302.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/city_concretewall_mid_20m/meshes/city_concretewall_mid_20m.staticmesh"
+dest_files=["res://.godot/imported/city_concretewall_mid_20m.staticmesh-088c0a06acd6af32b19f1dd62ad3e302.scn"]
+
+[params]
+

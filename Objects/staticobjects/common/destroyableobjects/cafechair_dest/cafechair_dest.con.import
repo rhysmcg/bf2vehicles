@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccio4a5vv3g7"
+path="res://.godot/imported/cafechair_dest.con-87b0c158ec7c6d746dfe79a13fa7432c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/cafechair_dest/cafechair_dest.con"
+dest_files=["res://.godot/imported/cafechair_dest.con-87b0c158ec7c6d746dfe79a13fa7432c.scn"]
+
+[params]
+

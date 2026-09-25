@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djwi7s5b3k5ji"
+path="res://.godot/imported/AmbientObjects.con-d3b5a8af0d7639d853008a7558b88b4f.scn"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/AmbientObjects.con"
+dest_files=["res://.godot/imported/AmbientObjects.con-d3b5a8af0d7639d853008a7558b88b4f.scn"]
+
+[params]
+

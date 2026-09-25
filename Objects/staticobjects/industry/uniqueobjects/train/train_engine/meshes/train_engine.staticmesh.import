@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bdvni5kjkse4c"
+path="res://.godot/imported/train_engine.staticmesh-1af9c1fe150944c83757e941f54f96d7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/train_engine/meshes/train_engine.staticmesh"
+dest_files=["res://.godot/imported/train_engine.staticmesh-1af9c1fe150944c83757e941f54f96d7.scn"]
+
+[params]
+

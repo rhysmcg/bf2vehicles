@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://hxb7utmnc71l"
+path="res://.godot/imported/xp2_rr_highwayfence.staticmesh-d70b2afa3b01ce8b7866207c6ef0fc92.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_highwayfence/meshes/xp2_rr_highwayfence.staticmesh"
+dest_files=["res://.godot/imported/xp2_rr_highwayfence.staticmesh-d70b2afa3b01ce8b7866207c6ef0fc92.scn"]
+
+[params]
+

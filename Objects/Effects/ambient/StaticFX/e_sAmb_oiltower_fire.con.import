@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cucus1da34wy4"
+path="res://.godot/imported/e_sAmb_oiltower_fire.con-d90c1540c0c37c687e6a0d4d5c89a6ac.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_sAmb_oiltower_fire.con"
+dest_files=["res://.godot/imported/e_sAmb_oiltower_fire.con-d90c1540c0c37c687e6a0d4d5c89a6ac.scn"]
+
+[params]
+

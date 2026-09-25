@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmtsivsd0sror"
+path="res://.godot/imported/xp2_checkvalve_02.con-2d0b75b163c50f884cececdc2e4c082e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_checkvalve_02/xp2_checkvalve_02.con"
+dest_files=["res://.godot/imported/xp2_checkvalve_02.con-2d0b75b163c50f884cececdc2e4c082e.scn"]
+
+[params]
+

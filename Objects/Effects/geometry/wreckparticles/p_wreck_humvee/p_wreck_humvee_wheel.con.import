@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dpqftc141kk8l"
+path="res://.godot/imported/p_wreck_humvee_wheel.con-3aacc3c1ef554c4245abd03e436995f2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_humvee/p_wreck_humvee_wheel.con"
+dest_files=["res://.godot/imported/p_wreck_humvee_wheel.con-3aacc3c1ef554c4245abd03e436995f2.scn"]
+
+[params]
+

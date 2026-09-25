@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bfd7fh5e6y6lx"
+path="res://.godot/imported/service_station.staticmesh-9a7175dc69df4c4c0b54ec0e38afb04f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/service_station/meshes/service_station.staticmesh"
+dest_files=["res://.godot/imported/service_station.staticmesh-9a7175dc69df4c4c0b54ec0e38afb04f.scn"]
+
+[params]
+

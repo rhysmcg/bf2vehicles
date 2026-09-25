@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvjxvkjyog8m1"
+path="res://.godot/imported/e_contrail.con-15c3a401715b3cc6b9d780fdc5a2f1eb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/MISC/e_contrail/e_contrail.con"
+dest_files=["res://.godot/imported/e_contrail.con-15c3a401715b3cc6b9d780fdc5a2f1eb.scn"]
+
+[params]
+

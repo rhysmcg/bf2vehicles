@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cu4tvrqmuow7x"
+path="res://.godot/imported/p_tool_box.bundledmesh-5149dea609b3f26b06f3e6bde143bd05.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_tool_box.bundledmesh"
+dest_files=["res://.godot/imported/p_tool_box.bundledmesh-5149dea609b3f26b06f3e6bde143bd05.scn"]
+
+[params]
+

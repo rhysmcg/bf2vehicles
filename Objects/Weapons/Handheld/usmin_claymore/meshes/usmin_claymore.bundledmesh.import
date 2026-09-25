@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://r2dfvg11dokq"
+path="res://.godot/imported/usmin_claymore.bundledmesh-fe5bef466468a0dd762b26a8692bfb4b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usmin_claymore/meshes/usmin_claymore.bundledmesh"
+dest_files=["res://.godot/imported/usmin_claymore.bundledmesh-fe5bef466468a0dd762b26a8692bfb4b.scn"]
+
+[params]
+

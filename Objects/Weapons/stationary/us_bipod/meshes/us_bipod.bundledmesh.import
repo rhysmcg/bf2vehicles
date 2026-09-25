@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://o2duv7d73in4"
+path="res://.godot/imported/us_bipod.bundledmesh-a504b4d3c5ce86be32647b65717b6d6c.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/us_bipod/meshes/us_bipod.bundledmesh"
+dest_files=["res://.godot/imported/us_bipod.bundledmesh-a504b4d3c5ce86be32647b65717b6d6c.scn"]
+
+[params]
+

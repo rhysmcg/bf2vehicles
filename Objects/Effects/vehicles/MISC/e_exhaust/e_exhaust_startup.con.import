@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://yrm6g0xk7tt"
+path="res://.godot/imported/e_exhaust_startup.con-81d0907f9948d565d686b4071e3c467b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/MISC/e_exhaust/e_exhaust_startup.con"
+dest_files=["res://.godot/imported/e_exhaust_startup.con-81d0907f9948d565d686b4071e3c467b.scn"]
+
+[params]
+

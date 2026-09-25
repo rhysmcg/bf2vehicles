@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bw2nec4orgec8"
+path="res://.godot/imported/civiliancar2wreck4.staticmesh-d5f718105f918610ba6d0d9670ddd7eb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/civiliancar2wreck4/meshes/civiliancar2wreck4.staticmesh"
+dest_files=["res://.godot/imported/civiliancar2wreck4.staticmesh-d5f718105f918610ba6d0d9670ddd7eb.scn"]
+
+[params]
+

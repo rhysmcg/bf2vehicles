@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cv4qow3du5cn6"
+path="res://.godot/imported/lrgstrgbuilding_03.con-05962a24b728b463333f3ad336e1614a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/lrgstrgbuilding_03/lrgstrgbuilding_03.con"
+dest_files=["res://.godot/imported/lrgstrgbuilding_03.con-05962a24b728b463333f3ad336e1614a.scn"]
+
+[params]
+

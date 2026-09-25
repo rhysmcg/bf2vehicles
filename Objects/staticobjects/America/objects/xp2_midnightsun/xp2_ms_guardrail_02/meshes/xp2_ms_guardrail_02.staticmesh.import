@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cqaeflynsxdbg"
+path="res://.godot/imported/xp2_ms_guardrail_02.staticmesh-7c9ea44f4502b8562d2c518fadc367ad.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_midnightsun/xp2_ms_guardrail_02/meshes/xp2_ms_guardrail_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_ms_guardrail_02.staticmesh-7c9ea44f4502b8562d2c518fadc367ad.scn"]
+
+[params]
+

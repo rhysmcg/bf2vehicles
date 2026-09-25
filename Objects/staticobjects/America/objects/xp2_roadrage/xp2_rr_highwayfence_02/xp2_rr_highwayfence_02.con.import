@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://7veow3hiqo7n"
+path="res://.godot/imported/xp2_rr_highwayfence_02.con-73c3151f40bab1564aa1a18d3250a9e8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_highwayfence_02/xp2_rr_highwayfence_02.con"
+dest_files=["res://.godot/imported/xp2_rr_highwayfence_02.con-73c3151f40bab1564aa1a18d3250a9e8.scn"]
+
+[params]
+

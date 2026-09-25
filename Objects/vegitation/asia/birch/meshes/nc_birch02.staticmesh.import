@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cdwm4fqp1ymj1"
+path="res://.godot/imported/nc_birch02.staticmesh-4db6a2562a8939c173fbcf933de40965.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/birch/meshes/nc_birch02.staticmesh"
+dest_files=["res://.godot/imported/nc_birch02.staticmesh-4db6a2562a8939c173fbcf933de40965.scn"]
+
+[params]
+

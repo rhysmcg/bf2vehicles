@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://42shs350su6i"
+path="res://.godot/imported/container_suspended.con-d2268e4d4f5e663079eda41838ce2f73.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/container_suspended/container_suspended.con"
+dest_files=["res://.godot/imported/container_suspended.con-d2268e4d4f5e663079eda41838ce2f73.scn"]
+
+[params]
+

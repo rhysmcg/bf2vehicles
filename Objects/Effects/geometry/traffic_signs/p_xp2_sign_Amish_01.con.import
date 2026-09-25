@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cp036bntx3fcn"
+path="res://.godot/imported/p_xp2_sign_Amish_01.con-0d1ef82999421f8f1d137e67efce16eb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_xp2_sign_Amish_01.con"
+dest_files=["res://.godot/imported/p_xp2_sign_Amish_01.con-0d1ef82999421f8f1d137e67efce16eb.scn"]
+
+[params]
+

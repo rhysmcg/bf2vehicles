@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cn8qq2l30s8iv"
+path="res://.godot/imported/woodencrate_destructible.con-176c1112ecff085c0494f134b9889c34.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/woodencrate_destructible/woodencrate_destructible.con"
+dest_files=["res://.godot/imported/woodencrate_destructible.con-176c1112ecff085c0494f134b9889c34.scn"]
+
+[params]
+

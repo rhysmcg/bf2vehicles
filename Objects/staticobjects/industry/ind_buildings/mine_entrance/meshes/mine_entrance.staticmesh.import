@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c7b6b7snyyqrb"
+path="res://.godot/imported/mine_entrance.staticmesh-fc6766d099f44c1e08fa7ca7771cf62d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/mine_entrance/meshes/mine_entrance.staticmesh"
+dest_files=["res://.godot/imported/mine_entrance.staticmesh-fc6766d099f44c1e08fa7ca7771cf62d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bg1eb3whoflwc"
+path="res://.godot/imported/xp2_watertower_01.con-b4cdcfdb345a08ea05b0a5154da554c6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_watertower_01/xp2_watertower_01.con"
+dest_files=["res://.godot/imported/xp2_watertower_01.con-b4cdcfdb345a08ea05b0a5154da554c6.scn"]
+
+[params]
+

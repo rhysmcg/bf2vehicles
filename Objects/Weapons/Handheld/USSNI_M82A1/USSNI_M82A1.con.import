@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d07cbv7ct4lg0"
+path="res://.godot/imported/USSNI_M82A1.con-e25d515077caa082ddb630afd65bce70.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M82A1/USSNI_M82A1.con"
+dest_files=["res://.godot/imported/USSNI_M82A1.con-e25d515077caa082ddb630afd65bce70.scn"]
+
+[params]
+

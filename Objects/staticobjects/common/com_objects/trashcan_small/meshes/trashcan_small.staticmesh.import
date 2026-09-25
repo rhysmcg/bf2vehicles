@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmr6cwrf5b0yu"
+path="res://.godot/imported/trashcan_small.staticmesh-ecc11abc4883f20130c4dc62c90ded3c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/trashcan_small/meshes/trashcan_small.staticmesh"
+dest_files=["res://.godot/imported/trashcan_small.staticmesh-ecc11abc4883f20130c4dc62c90ded3c.scn"]
+
+[params]
+

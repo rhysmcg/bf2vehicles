@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfuhyyg3c31bp"
+path="res://.godot/imported/e_bhit_l_glass_vehicle.con-a272a5baee585ce83f2e6e84e243a78a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_glass_vehicle.con"
+dest_files=["res://.godot/imported/e_bhit_l_glass_vehicle.con-a272a5baee585ce83f2e6e84e243a78a.scn"]
+
+[params]
+

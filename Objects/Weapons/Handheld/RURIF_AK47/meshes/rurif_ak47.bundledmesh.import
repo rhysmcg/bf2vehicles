@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b70n3htmr1bbe"
+path="res://.godot/imported/rurif_ak47.bundledmesh-c99561ae48f8db6ee075f0a28839c2db.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_AK47/meshes/rurif_ak47.bundledmesh"
+dest_files=["res://.godot/imported/rurif_ak47.bundledmesh-c99561ae48f8db6ee075f0a28839c2db.scn"]
+
+[params]
+

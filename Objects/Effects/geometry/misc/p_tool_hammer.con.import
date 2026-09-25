@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bugrix5rr7dc2"
+path="res://.godot/imported/p_tool_hammer.con-2f3347b731016356f2b7de0b1586e972.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_tool_hammer.con"
+dest_files=["res://.godot/imported/p_tool_hammer.con-2f3347b731016356f2b7de0b1586e972.scn"]
+
+[params]
+

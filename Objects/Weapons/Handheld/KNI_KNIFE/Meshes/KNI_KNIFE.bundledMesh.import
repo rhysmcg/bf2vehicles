@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nawrgwgo4ful"
+path="res://.godot/imported/KNI_KNIFE.bundledMesh-85269b7614894f81265ff5d9af484e41.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/KNI_KNIFE/Meshes/KNI_KNIFE.bundledMesh"
+dest_files=["res://.godot/imported/KNI_KNIFE.bundledMesh-85269b7614894f81265ff5d9af484e41.scn"]
+
+[params]
+

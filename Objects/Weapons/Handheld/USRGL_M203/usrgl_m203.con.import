@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b3sns64snvvw2"
+path="res://.godot/imported/usrgl_m203.con-67f3e7f8637df81f040b54f1ccb287a6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRGL_M203/usrgl_m203.con"
+dest_files=["res://.godot/imported/usrgl_m203.con-67f3e7f8637df81f040b54f1ccb287a6.scn"]
+
+[params]
+

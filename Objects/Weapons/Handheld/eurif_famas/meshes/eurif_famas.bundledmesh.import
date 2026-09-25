@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bfsp1gwvka7r5"
+path="res://.godot/imported/eurif_famas.bundledmesh-5351c4100b9fbc87d6a04865c8eb215f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_famas/meshes/eurif_famas.bundledmesh"
+dest_files=["res://.godot/imported/eurif_famas.bundledmesh-5351c4100b9fbc87d6a04865c8eb215f.scn"]
+
+[params]
+

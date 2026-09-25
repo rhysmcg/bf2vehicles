@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c8af3bs1r7rlh"
+path="res://.godot/imported/me_olive04_dead_lod.staticmesh-8bd684fd0d3e604a7a0ec0eb2526d2f5.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/olive/meshes/me_olive04_dead_lod.staticmesh"
+dest_files=["res://.godot/imported/me_olive04_dead_lod.staticmesh-8bd684fd0d3e604a7a0ec0eb2526d2f5.scn"]
+
+[params]
+

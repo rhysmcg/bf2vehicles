@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://buemcf3wdttv6"
+path="res://.godot/imported/e_vexp_xpak_a10.bundledmesh-e4f6643664a424861a2be46806ab3f67.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_a10/meshes/e_vexp_xpak_a10.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_xpak_a10.bundledmesh-e4f6643664a424861a2be46806ab3f67.scn"]
+
+[params]
+

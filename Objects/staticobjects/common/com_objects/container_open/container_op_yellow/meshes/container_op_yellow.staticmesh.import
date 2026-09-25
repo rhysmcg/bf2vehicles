@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d23wnmahksxb7"
+path="res://.godot/imported/container_op_yellow.staticmesh-6ab231a96211523c26a394c78f867997.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/container_open/container_op_yellow/meshes/container_op_yellow.staticmesh"
+dest_files=["res://.godot/imported/container_op_yellow.staticmesh-6ab231a96211523c26a394c78f867997.scn"]
+
+[params]
+

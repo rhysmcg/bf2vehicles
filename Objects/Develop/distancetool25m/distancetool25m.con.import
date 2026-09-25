@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bkwk2t4hmcao3"
+path="res://.godot/imported/distancetool25m.con-9b3fd3115454e20502f5c03c9eafb043.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/distancetool25m/distancetool25m.con"
+dest_files=["res://.godot/imported/distancetool25m.con-9b3fd3115454e20502f5c03c9eafb043.scn"]
+
+[params]
+

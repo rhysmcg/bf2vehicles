@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3dpyjdsvatxe"
+path="res://.godot/imported/nc_pine_cluster01_col.con-844c7c8b6d81af9521e7d048c6b52955.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/pine/nc_pine_cluster01_col.con"
+dest_files=["res://.godot/imported/nc_pine_cluster01_col.con-844c7c8b6d81af9521e7d048c6b52955.scn"]
+
+[params]
+

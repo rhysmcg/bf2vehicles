@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1iffn1ua4rxj"
+path="res://.godot/imported/e_bhit_l_mud.con-da20870e2e4f5966883b3ad195d87f8d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_mud.con"
+dest_files=["res://.godot/imported/e_bhit_l_mud.con-da20870e2e4f5966883b3ad195d87f8d.scn"]
+
+[params]
+

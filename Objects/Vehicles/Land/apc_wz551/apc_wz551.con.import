@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dp4832ytb8ik1"
+path="res://.godot/imported/apc_wz551.con-b90cce1a2ecf1cef1165922075150edb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_wz551/apc_wz551.con"
+dest_files=["res://.godot/imported/apc_wz551.con-b90cce1a2ecf1cef1165922075150edb.scn"]
+
+[params]
+

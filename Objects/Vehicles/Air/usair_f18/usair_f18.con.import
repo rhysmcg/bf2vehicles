@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckttwitvw40vw"
+path="res://.godot/imported/usair_f18.con-b904dcd4d9fa8d850404905ed0bdfea1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f18/usair_f18.con"
+dest_files=["res://.godot/imported/usair_f18.con-b904dcd4d9fa8d850404905ed0bdfea1.scn"]
+
+[params]
+

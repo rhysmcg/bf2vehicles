@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bpuilva2v116i"
+path="res://.godot/imported/p_wreck_cobra_pod.con-3847de95367646cce234942b3d37a402.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/p_wreck_cobra_pod.con"
+dest_files=["res://.godot/imported/p_wreck_cobra_pod.con-3847de95367646cce234942b3d37a402.scn"]
+
+[params]
+

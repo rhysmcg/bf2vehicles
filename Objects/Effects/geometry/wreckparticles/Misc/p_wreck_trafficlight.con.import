@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bi02o8re2qbfe"
+path="res://.godot/imported/p_wreck_trafficlight.con-40e17ca7b0aa12aa66cdc76fe7f5769e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/Misc/p_wreck_trafficlight.con"
+dest_files=["res://.godot/imported/p_wreck_trafficlight.con-40e17ca7b0aa12aa66cdc76fe7f5769e.scn"]
+
+[params]
+

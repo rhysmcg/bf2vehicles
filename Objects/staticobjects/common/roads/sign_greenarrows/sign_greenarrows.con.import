@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ydbmgjhq6yjo"
+path="res://.godot/imported/sign_greenarrows.con-d1fc7b1daa8f393ee0a48285f95b194c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_greenarrows/sign_greenarrows.con"
+dest_files=["res://.godot/imported/sign_greenarrows.con-d1fc7b1daa8f393ee0a48285f95b194c.scn"]
+
+[params]
+

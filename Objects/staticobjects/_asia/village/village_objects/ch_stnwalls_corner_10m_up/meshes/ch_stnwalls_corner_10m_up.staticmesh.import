@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cb2borp2nmff1"
+path="res://.godot/imported/ch_stnwalls_corner_10m_up.staticmesh-69ef9cf9b71f24f9ce34223505ac84cd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_corner_10m_up/meshes/ch_stnwalls_corner_10m_up.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_corner_10m_up.staticmesh-69ef9cf9b71f24f9ce34223505ac84cd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dajwcrvg20ocf"
+path="res://.godot/imported/shell_m203.staticMesh-78278ab3c28b96575268b0a90ad1eadd.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/projectiles/shell_m203/meshes/shell_m203.staticMesh"
+dest_files=["res://.godot/imported/shell_m203.staticMesh-78278ab3c28b96575268b0a90ad1eadd.scn"]
+
+[params]
+

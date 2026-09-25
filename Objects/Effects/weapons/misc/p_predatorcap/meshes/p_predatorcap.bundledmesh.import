@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://big18vxc8d4bn"
+path="res://.godot/imported/p_predatorcap.bundledmesh-606aba2c37e44b6387a7e752ed48a599.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_predatorcap/meshes/p_predatorcap.bundledmesh"
+dest_files=["res://.godot/imported/p_predatorcap.bundledmesh-606aba2c37e44b6387a7e752ed48a599.scn"]
+
+[params]
+

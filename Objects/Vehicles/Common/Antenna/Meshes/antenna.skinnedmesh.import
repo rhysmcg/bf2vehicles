@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xxpq4bogh08k"
+path="res://.godot/imported/antenna.skinnedmesh-3bf66f6e891279fdfe9c9f26d1d766fb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/Antenna/Meshes/antenna.skinnedmesh"
+dest_files=["res://.godot/imported/antenna.skinnedmesh-3bf66f6e891279fdfe9c9f26d1d766fb.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://camupkvxoolcg"
+path="res://.godot/imported/che_wz11_rearrotor.con-a2eb0c390f589bb84f04176cb4403c22.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/che_wz11_rearrotor/che_wz11_rearrotor.con"
+dest_files=["res://.godot/imported/che_wz11_rearrotor.con-a2eb0c390f589bb84f04176cb4403c22.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dki7akm5v4ouy"
+path="res://.godot/imported/palletstack.staticmesh-6defad4211f4e0efe6607d00832ac67f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/palletstack/meshes/palletstack.staticmesh"
+dest_files=["res://.godot/imported/palletstack.staticmesh-6defad4211f4e0efe6607d00832ac67f.scn"]
+
+[params]
+

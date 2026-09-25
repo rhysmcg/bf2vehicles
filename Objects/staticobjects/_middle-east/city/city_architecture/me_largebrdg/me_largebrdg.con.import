@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://es05vipnbfb7"
+path="res://.godot/imported/me_largebrdg.con-0368410cfea331ddc4e976d9e9931d4c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/me_largebrdg/me_largebrdg.con"
+dest_files=["res://.godot/imported/me_largebrdg.con-0368410cfea331ddc4e976d9e9931d4c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://f60ptas0clnv"
+path="res://.godot/imported/xp2_pigbarn.con-916018034ea2b331e49d8ad479abe535.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_pigbarn/xp2_pigbarn.con"
+dest_files=["res://.godot/imported/xp2_pigbarn.con-916018034ea2b331e49d8ad479abe535.scn"]
+
+[params]
+

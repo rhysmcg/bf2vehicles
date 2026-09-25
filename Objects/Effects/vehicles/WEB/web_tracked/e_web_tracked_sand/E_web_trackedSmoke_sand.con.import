@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vdwguq0it65c"
+path="res://.godot/imported/E_web_trackedSmoke_sand.con-840e48e3270e6f295cc64fad78bf92c9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_sand/E_web_trackedSmoke_sand.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_sand.con-840e48e3270e6f295cc64fad78bf92c9.scn"]
+
+[params]
+

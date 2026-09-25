@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://rmj8gfgf1kxx"
+path="res://.godot/imported/mec_bipod.con-4036d9a315dee3530986fbe2588313e5.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/mec_bipod/mec_bipod.con"
+dest_files=["res://.godot/imported/mec_bipod.con-4036d9a315dee3530986fbe2588313e5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3tgmrphc7qid"
+path="res://.godot/imported/e_vexp_mi17.con-3623622cba1a1a47509549b47667a24b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_mi17/e_vexp_mi17.con"
+dest_files=["res://.godot/imported/e_vexp_mi17.con-3623622cba1a1a47509549b47667a24b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://di8v3m7unumsn"
+path="res://.godot/imported/civiliancar1wreck.con-497afbbe4f148d65d35a5cec72032265.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/civiliancar1wreck/civiliancar1wreck.con"
+dest_files=["res://.godot/imported/civiliancar1wreck.con-497afbbe4f148d65d35a5cec72032265.scn"]
+
+[params]
+

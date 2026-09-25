@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0wohd7pvj7f7"
+path="res://.godot/imported/flag_eu.con-bc20b4affcb4383f7bbaf28bf09176a2.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_eu/flag_eu.con"
+dest_files=["res://.godot/imported/flag_eu.con-bc20b4affcb4383f7bbaf28bf09176a2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtjpxaubc7hsk"
+path="res://.godot/imported/pipeline_curve90deg.con-78385a871aa682f3a445f5ccdee22a69.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_curve90deg/pipeline_curve90deg.con"
+dest_files=["res://.godot/imported/pipeline_curve90deg.con-78385a871aa682f3a445f5ccdee22a69.scn"]
+
+[params]
+

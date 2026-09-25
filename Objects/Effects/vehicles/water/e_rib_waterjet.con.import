@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6g1aox0d15ud"
+path="res://.godot/imported/e_rib_waterjet.con-ac7156c6c3b03973c3a110b78b85c167.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_rib_waterjet.con"
+dest_files=["res://.godot/imported/e_rib_waterjet.con-ac7156c6c3b03973c3a110b78b85c167.scn"]
+
+[params]
+

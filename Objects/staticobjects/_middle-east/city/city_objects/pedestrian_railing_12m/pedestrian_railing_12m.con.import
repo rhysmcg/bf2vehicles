@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ikwn8c7p827"
+path="res://.godot/imported/pedestrian_railing_12m.con-6ae259a88e7dc0716facf431ade0521b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/pedestrian_railing_12m/pedestrian_railing_12m.con"
+dest_files=["res://.godot/imported/pedestrian_railing_12m.con-6ae259a88e7dc0716facf431ade0521b.scn"]
+
+[params]
+

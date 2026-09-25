@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://berlkly3qq5cw"
+path="res://.godot/imported/air_j10.bundledmesh-ab1d30569690ef11869c6334344ccf54.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_j10/meshes/air_j10.bundledmesh"
+dest_files=["res://.godot/imported/air_j10.bundledmesh-ab1d30569690ef11869c6334344ccf54.scn"]
+
+[params]
+

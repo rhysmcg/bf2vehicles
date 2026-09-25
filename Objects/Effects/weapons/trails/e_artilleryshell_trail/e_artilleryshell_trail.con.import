@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5ye7uoulsr5v"
+path="res://.godot/imported/e_artilleryshell_trail.con-a09e533b0e489b9af63fa2318a6de72a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_artilleryshell_trail/e_artilleryshell_trail.con"
+dest_files=["res://.godot/imported/e_artilleryshell_trail.con-a09e533b0e489b9af63fa2318a6de72a.scn"]
+
+[params]
+

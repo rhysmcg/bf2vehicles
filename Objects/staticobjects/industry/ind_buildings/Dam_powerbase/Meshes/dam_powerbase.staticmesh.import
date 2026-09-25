@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dbm2mwy7b1rga"
+path="res://.godot/imported/dam_powerbase.staticmesh-07e6b0a92fefd35eeb1092daa3540ee4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/Dam_powerbase/Meshes/dam_powerbase.staticmesh"
+dest_files=["res://.godot/imported/dam_powerbase.staticmesh-07e6b0a92fefd35eeb1092daa3540ee4.scn"]
+
+[params]
+

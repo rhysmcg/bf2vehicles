@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://n5rkvyiwul3f"
+path="res://.godot/imported/gaspumptow.staticmesh-8960c0b1139042afcc6c317acd391a25.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/gaspumptow/meshes/gaspumptow.staticmesh"
+dest_files=["res://.godot/imported/gaspumptow.staticmesh-8960c0b1139042afcc6c317acd391a25.scn"]
+
+[params]
+

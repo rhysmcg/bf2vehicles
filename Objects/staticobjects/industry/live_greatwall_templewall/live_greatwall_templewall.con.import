@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dco74spqddxkv"
+path="res://.godot/imported/live_greatwall_templewall.con-f9f1a5b77b4c0bd4996386a584930206.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/live_greatwall_templewall/live_greatwall_templewall.con"
+dest_files=["res://.godot/imported/live_greatwall_templewall.con-f9f1a5b77b4c0bd4996386a584930206.scn"]
+
+[params]
+

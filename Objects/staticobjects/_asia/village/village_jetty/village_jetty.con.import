@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbmlpcjfdhy4b"
+path="res://.godot/imported/village_jetty.con-3cad6e04413168dffe7b3b2b4db9acdb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_jetty/village_jetty.con"
+dest_files=["res://.godot/imported/village_jetty.con-3cad6e04413168dffe7b3b2b4db9acdb.scn"]
+
+[params]
+

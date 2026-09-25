@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bx5ycrcna51s7"
+path="res://.godot/imported/highway_bridge_low_segment.staticmesh-78abe4097483ad200c469dd65a7ac1b4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_low_segment/meshes/highway_bridge_low_segment.staticmesh"
+dest_files=["res://.godot/imported/highway_bridge_low_segment.staticmesh-78abe4097483ad200c469dd65a7ac1b4.scn"]
+
+[params]
+

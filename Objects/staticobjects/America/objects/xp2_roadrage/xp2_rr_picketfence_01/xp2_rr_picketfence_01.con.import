@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bi4ocjxtr4aey"
+path="res://.godot/imported/xp2_rr_picketfence_01.con-d2090db31bc8736fb9bfad3e8a15ab27.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_picketfence_01/xp2_rr_picketfence_01.con"
+dest_files=["res://.godot/imported/xp2_rr_picketfence_01.con-d2090db31bc8736fb9bfad3e8a15ab27.scn"]
+
+[params]
+

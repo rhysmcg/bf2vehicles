@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://brnhvmjnun0ie"
+path="res://.godot/imported/nc_bamboo_cluster02.staticmesh-5ff4445ce8b0c68e286a4df8f3e4a0e8.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/bamboo/meshes/nc_bamboo_cluster02.staticmesh"
+dest_files=["res://.godot/imported/nc_bamboo_cluster02.staticmesh-5ff4445ce8b0c68e286a4df8f3e4a0e8.scn"]
+
+[params]
+

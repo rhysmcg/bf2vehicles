@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://60cq0oxbvf02"
+path="res://.godot/imported/gbrif_l96a1.bundledmesh-94a0ff1d1eccf03f2f6dcbfaee341430.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_l96a1/meshes/gbrif_l96a1.bundledmesh"
+dest_files=["res://.godot/imported/gbrif_l96a1.bundledmesh-94a0ff1d1eccf03f2f6dcbfaee341430.scn"]
+
+[params]
+

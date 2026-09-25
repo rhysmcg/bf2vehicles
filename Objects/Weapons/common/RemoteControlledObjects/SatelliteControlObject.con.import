@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6pepnswir0e1"
+path="res://.godot/imported/SatelliteControlObject.con-fff14df02ffdb6da0b166e08f1505587.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/SatelliteControlObject.con"
+dest_files=["res://.godot/imported/SatelliteControlObject.con-fff14df02ffdb6da0b166e08f1505587.scn"]
+
+[params]
+

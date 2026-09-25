@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://boyd2v14rdab0"
+path="res://.godot/imported/p_wreck_d30_barrel.bundledmesh-c271eb79ff9b0f15f0148a947627a2f5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_d30/meshes/p_wreck_d30_barrel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_d30_barrel.bundledmesh-c271eb79ff9b0f15f0148a947627a2f5.scn"]
+
+[params]
+

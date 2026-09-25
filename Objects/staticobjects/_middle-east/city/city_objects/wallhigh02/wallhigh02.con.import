@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6wminu7soptd"
+path="res://.godot/imported/wallhigh02.con-a423170d1e3d98e458190589c00e758f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/wallhigh02/wallhigh02.con"
+dest_files=["res://.godot/imported/wallhigh02.con-a423170d1e3d98e458190589c00e758f.scn"]
+
+[params]
+

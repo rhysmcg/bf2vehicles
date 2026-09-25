@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d26yk3ylc36bv"
+path="res://.godot/imported/e_exp_claymore.con-5e39ce9315e7c8418581982916e6efbe.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/e_exp_claymore/e_exp_claymore.con"
+dest_files=["res://.godot/imported/e_exp_claymore.con-5e39ce9315e7c8418581982916e6efbe.scn"]
+
+[params]
+

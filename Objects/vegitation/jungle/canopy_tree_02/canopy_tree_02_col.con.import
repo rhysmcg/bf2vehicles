@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjqwuyepdld6l"
+path="res://.godot/imported/canopy_tree_02_col.con-24a33921b1d56164b0b203130835b030.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/canopy_tree_02/canopy_tree_02_col.con"
+dest_files=["res://.godot/imported/canopy_tree_02_col.con-24a33921b1d56164b0b203130835b030.scn"]
+
+[params]
+

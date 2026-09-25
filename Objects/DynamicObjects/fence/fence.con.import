@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ywaf6yruosc6"
+path="res://.godot/imported/fence.con-ef88c525316d148d2cf5b6c12df05079.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/fence/fence.con"
+dest_files=["res://.godot/imported/fence.con-ef88c525316d148d2cf5b6c12df05079.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dmaw21dlncejq"
+path="res://.godot/imported/house_detached_02.con-4c801a3283b7f25da0e24bfd307ad186.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_detached_02/house_detached_02.con"
+dest_files=["res://.godot/imported/house_detached_02.con-4c801a3283b7f25da0e24bfd307ad186.scn"]
+
+[params]
+

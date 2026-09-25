@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c007b8bpbnkt"
+path="res://.godot/imported/sign_camel.staticmesh-0fae66fd4614329a75ed89f435471853.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_camel/meshes/sign_camel.staticmesh"
+dest_files=["res://.godot/imported/sign_camel.staticmesh-0fae66fd4614329a75ed89f435471853.scn"]
+
+[params]
+

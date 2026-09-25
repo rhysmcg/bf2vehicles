@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://2e7247a2a643"
+path="res://.godot/imported/agm65_maverick.bundledmesh-5e11f57aa96bad0aea12e6802cf9cbce.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/agm65_maverick/meshes/agm65_maverick.bundledmesh"
+dest_files=["res://.godot/imported/agm65_maverick.bundledmesh-5e11f57aa96bad0aea12e6802cf9cbce.scn"]
+
+[params]
+

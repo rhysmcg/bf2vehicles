@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drmw8pugvwxks"
+path="res://.godot/imported/e_sAmb_Damn_WaterImpact.con-a67294aea6ef0cc71326d205d9e974de.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_sAmb_Damn_WaterImpact.con"
+dest_files=["res://.godot/imported/e_sAmb_Damn_WaterImpact.con-a67294aea6ef0cc71326d205d9e974de.scn"]
+
+[params]
+

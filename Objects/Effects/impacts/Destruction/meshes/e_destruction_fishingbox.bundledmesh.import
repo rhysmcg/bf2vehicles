@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://434ljh5gwt74"
+path="res://.godot/imported/e_destruction_fishingbox.bundledmesh-994c70b54d506a5f6018404931d64271.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_fishingbox.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_fishingbox.bundledmesh-994c70b54d506a5f6018404931d64271.scn"]
+
+[params]
+

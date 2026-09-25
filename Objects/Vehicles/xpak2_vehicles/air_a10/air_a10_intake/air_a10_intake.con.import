@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7rfgfeioisw0"
+path="res://.godot/imported/air_a10_intake.con-17c1bf3669ba20cc2ab859fe54eef743.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_a10/air_a10_intake/air_a10_intake.con"
+dest_files=["res://.godot/imported/air_a10_intake.con-17c1bf3669ba20cc2ab859fe54eef743.scn"]
+
+[params]
+

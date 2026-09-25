@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgxen8mtrwpnd"
+path="res://.godot/imported/e_mexp_s_water.con-64b1fde39e02d657d20154f5faf6cfef.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_water.con"
+dest_files=["res://.godot/imported/e_mexp_s_water.con-64b1fde39e02d657d20154f5faf6cfef.scn"]
+
+[params]
+

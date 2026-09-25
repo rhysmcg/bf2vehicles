@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://qw4pwmf38p57"
+path="res://.godot/imported/highway_bridge_middle.con-18aca2ede01b03da28b30c1c0aeefb18.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_middle/highway_bridge_middle.con"
+dest_files=["res://.godot/imported/highway_bridge_middle.con-18aca2ede01b03da28b30c1c0aeefb18.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://nyn10wso45fv"
+path="res://.godot/imported/e_white_shard_destruction.con-cabd8e2a72a5419df28548d0ebe55e8e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/e_white_shard_destruction/e_white_shard_destruction.con"
+dest_files=["res://.godot/imported/e_white_shard_destruction.con-cabd8e2a72a5419df28548d0ebe55e8e.scn"]
+
+[params]
+

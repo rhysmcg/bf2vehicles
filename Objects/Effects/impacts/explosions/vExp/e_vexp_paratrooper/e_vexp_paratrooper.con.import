@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dq3wlqg8ray3y"
+path="res://.godot/imported/e_vexp_paratrooper.con-583a93f15b7465feb75ddc67d6421344.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_paratrooper/e_vexp_paratrooper.con"
+dest_files=["res://.godot/imported/e_vexp_paratrooper.con-583a93f15b7465feb75ddc67d6421344.scn"]
+
+[params]
+

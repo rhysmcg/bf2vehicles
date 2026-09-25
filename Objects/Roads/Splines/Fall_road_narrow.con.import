@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bbxh5ro8oypbj"
+path="res://.godot/imported/Fall_road_narrow.con-dfc41b5652c47b04f6e9e4df9d8fc5ec.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Fall_road_narrow.con"
+dest_files=["res://.godot/imported/Fall_road_narrow.con-dfc41b5652c47b04f6e9e4df9d8fc5ec.scn"]
+
+[params]
+

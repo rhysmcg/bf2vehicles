@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxgbed3grivsn"
+path="res://.godot/imported/dam_left_ladder_8m.staticmesh-a148cee33445a109aabaf2e8570fa6ce.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_left/meshes/dam_left_ladder_8m.staticmesh"
+dest_files=["res://.godot/imported/dam_left_ladder_8m.staticmesh-a148cee33445a109aabaf2e8570fa6ce.scn"]
+
+[params]
+

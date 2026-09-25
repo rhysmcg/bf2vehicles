@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdmn6aa1nbxdv"
+path="res://.godot/imported/construct_metal_plate_ramp.con-98ddf7b5d6d07cbc46c1ca02c4567a4d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/construct_metal_plate_ramp/construct_metal_plate_ramp.con"
+dest_files=["res://.godot/imported/construct_metal_plate_ramp.con-98ddf7b5d6d07cbc46c1ca02c4567a4d.scn"]
+
+[params]
+

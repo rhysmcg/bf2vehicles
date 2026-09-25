@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://yfds87joesly"
+path="res://.godot/imported/e_destruction_bridge.bundledmesh-69b9fea7d3ac4ef11714f2b7d67f3331.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/meshes/e_destruction_bridge.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_bridge.bundledmesh-69b9fea7d3ac4ef11714f2b7d67f3331.scn"]
+
+[params]
+

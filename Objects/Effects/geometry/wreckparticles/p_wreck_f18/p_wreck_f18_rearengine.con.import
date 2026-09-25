@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csdq3f0p5ir8d"
+path="res://.godot/imported/p_wreck_f18_rearengine.con-42d7402774b950f81eaa7bd74f591b4e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/p_wreck_f18_rearengine.con"
+dest_files=["res://.godot/imported/p_wreck_f18_rearengine.con-42d7402774b950f81eaa7bd74f591b4e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://csagn1xirt2tn"
+path="res://.godot/imported/stnwalls_innersloope_30m.staticmesh-e1d19fdf55d1f36219beb227cf15630c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_innersloope_30m/meshes/stnwalls_innersloope_30m.staticmesh"
+dest_files=["res://.godot/imported/stnwalls_innersloope_30m.staticmesh-e1d19fdf55d1f36219beb227cf15630c.scn"]
+
+[params]
+

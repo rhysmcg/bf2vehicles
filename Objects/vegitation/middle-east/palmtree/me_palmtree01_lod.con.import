@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cn23xc812bl18"
+path="res://.godot/imported/me_palmtree01_lod.con-8e203e5a8c275c1cf97f5906dc8ad0a0.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/palmtree/me_palmtree01_lod.con"
+dest_files=["res://.godot/imported/me_palmtree01_lod.con-8e203e5a8c275c1cf97f5906dc8ad0a0.scn"]
+
+[params]
+

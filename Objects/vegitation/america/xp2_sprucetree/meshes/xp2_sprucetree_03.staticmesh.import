@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dyvcteyn0fh0c"
+path="res://.godot/imported/xp2_sprucetree_03.staticmesh-49470287454330fb71e8a70f9c0a075b.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_sprucetree/meshes/xp2_sprucetree_03.staticmesh"
+dest_files=["res://.godot/imported/xp2_sprucetree_03.staticmesh-49470287454330fb71e8a70f9c0a075b.scn"]
+
+[params]
+

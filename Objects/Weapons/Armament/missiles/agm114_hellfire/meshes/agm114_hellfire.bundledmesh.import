@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dlue6dan4rd6u"
+path="res://.godot/imported/agm114_hellfire.bundledmesh-2ea5ef897edd9fda6d7b8807edaa30fd.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/agm114_hellfire/meshes/agm114_hellfire.bundledmesh"
+dest_files=["res://.godot/imported/agm114_hellfire.bundledmesh-2ea5ef897edd9fda6d7b8807edaa30fd.scn"]
+
+[params]
+

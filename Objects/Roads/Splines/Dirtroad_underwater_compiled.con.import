@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bc44wtcnlvcu"
+path="res://.godot/imported/Dirtroad_underwater_compiled.con-9dbdee12508fc3c5ed38806eeafa0add.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirtroad_underwater_compiled.con"
+dest_files=["res://.godot/imported/Dirtroad_underwater_compiled.con-9dbdee12508fc3c5ed38806eeafa0add.scn"]
+
+[params]
+

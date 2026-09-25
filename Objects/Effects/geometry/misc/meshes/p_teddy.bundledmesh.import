@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://qaiu15j2x37i"
+path="res://.godot/imported/p_teddy.bundledmesh-63905e4f00a36da492cb2ca7fb2c222c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_teddy.bundledmesh"
+dest_files=["res://.godot/imported/p_teddy.bundledmesh-63905e4f00a36da492cb2ca7fb2c222c.scn"]
+
+[params]
+

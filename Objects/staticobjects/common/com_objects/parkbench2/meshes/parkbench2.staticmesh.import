@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cirxjbmn4dkbx"
+path="res://.godot/imported/parkbench2.staticmesh-8dad1e7b30ad7abc2b079c1d46d480d1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/parkbench2/meshes/parkbench2.staticmesh"
+dest_files=["res://.godot/imported/parkbench2.staticmesh-8dad1e7b30ad7abc2b079c1d46d480d1.scn"]
+
+[params]
+

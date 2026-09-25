@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cdovdefp0d0xy"
+path="res://.godot/imported/fushewplane_low.staticmesh-b4a3555c10921e6cdda20c74c79aee59.scn"
+
+[deps]
+
+source_file="res://Objects/water/meshes/fushewplane_low.staticmesh"
+dest_files=["res://.godot/imported/fushewplane_low.staticmesh-b4a3555c10921e6cdda20c74c79aee59.scn"]
+
+[params]
+

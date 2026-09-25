@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bt0f64q5l27jc"
+path="res://.godot/imported/plankstack_big_version_02.con-8cd5b275720b600dba2672e5ed5f5741.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/plankstack_big_version_02/plankstack_big_version_02.con"
+dest_files=["res://.godot/imported/plankstack_big_version_02.con-8cd5b275720b600dba2672e5ed5f5741.scn"]
+
+[params]
+

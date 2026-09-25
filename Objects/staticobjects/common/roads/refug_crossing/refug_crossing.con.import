@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://thtlplpq78r0"
+path="res://.godot/imported/refug_crossing.con-aacd2fc07b74c2266423de4ed2a5fb41.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_crossing/refug_crossing.con"
+dest_files=["res://.godot/imported/refug_crossing.con-aacd2fc07b74c2266423de4ed2a5fb41.scn"]
+
+[params]
+

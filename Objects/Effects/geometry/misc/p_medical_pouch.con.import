@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ba6cnmy4ygb6v"
+path="res://.godot/imported/p_medical_pouch.con-8ff09480d291747bcd7cb0bc8bd75422.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_pouch.con"
+dest_files=["res://.godot/imported/p_medical_pouch.con-8ff09480d291747bcd7cb0bc8bd75422.scn"]
+
+[params]
+

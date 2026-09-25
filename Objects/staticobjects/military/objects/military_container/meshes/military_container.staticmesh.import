@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dq2bm73k4xdg"
+path="res://.godot/imported/military_container.staticmesh-6eec73c803b3d3afc591854e5daa60ce.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/military_container/meshes/military_container.staticmesh"
+dest_files=["res://.godot/imported/military_container.staticmesh-6eec73c803b3d3afc591854e5daa60ce.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://e5fgnbtx6a7h"
+path="res://.godot/imported/wreck_btr90_wheel.staticmesh-9169b83ff4835b246cc4af1723088f89.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/wreck_btr90_static/meshes/wreck_btr90_wheel.staticmesh"
+dest_files=["res://.godot/imported/wreck_btr90_wheel.staticmesh-9169b83ff4835b246cc4af1723088f89.scn"]
+
+[params]
+

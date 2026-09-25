@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cpoleb6kgxfk4"
+path="res://.godot/imported/tcross_1.con-8fef2e84182cbddacf62d9da63a476cd.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/tcross_1/tcross_1.con"
+dest_files=["res://.godot/imported/tcross_1.con-8fef2e84182cbddacf62d9da63a476cd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8v1ba3xyxxck"
+path="res://.godot/imported/p_cone.con-1a4fb9d57dfb8ebfc08bda07e00dc021.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/Misc/p_cone.con"
+dest_files=["res://.godot/imported/p_cone.con-1a4fb9d57dfb8ebfc08bda07e00dc021.scn"]
+
+[params]
+

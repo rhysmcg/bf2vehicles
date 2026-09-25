@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://e1vye071d0nd"
+path="res://.godot/imported/e_mexp_l_rock.con-8fec2748113b588c3aeb5009f9492c73.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/large/e_mexp_l_rock.con"
+dest_files=["res://.godot/imported/e_mexp_l_rock.con-8fec2748113b588c3aeb5009f9492c73.scn"]
+
+[params]
+

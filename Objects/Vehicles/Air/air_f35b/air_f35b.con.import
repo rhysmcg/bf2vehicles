@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bv3lhe1idadsq"
+path="res://.godot/imported/air_f35b.con-71f3b070461d8ee7aa17c6581c7a72c7.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_f35b/air_f35b.con"
+dest_files=["res://.godot/imported/air_f35b.con-71f3b070461d8ee7aa17c6581c7a72c7.scn"]
+
+[params]
+

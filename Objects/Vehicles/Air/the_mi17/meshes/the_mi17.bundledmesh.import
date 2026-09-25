@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://h6y32tof46vu"
+path="res://.godot/imported/the_mi17.bundledmesh-91ed62e6b1a5f00f20a7eeea473accb1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/meshes/the_mi17.bundledmesh"
+dest_files=["res://.godot/imported/the_mi17.bundledmesh-91ed62e6b1a5f00f20a7eeea473accb1.scn"]
+
+[params]
+

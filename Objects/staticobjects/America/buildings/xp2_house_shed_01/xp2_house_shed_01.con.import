@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2cmuyj72q7mc"
+path="res://.godot/imported/xp2_house_shed_01.con-485a8fe7f5e1a8786e3273c7e6ec8906.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_house_shed_01/xp2_house_shed_01.con"
+dest_files=["res://.godot/imported/xp2_house_shed_01.con-485a8fe7f5e1a8786e3273c7e6ec8906.scn"]
+
+[params]
+

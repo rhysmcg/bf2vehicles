@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b1lqcwcnx8nv1"
+path="res://.godot/imported/apc_btr90.bundledmesh-583b072a788bbb5749c24e7cb95ee4e0.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_btr90/meshes/apc_btr90.bundledmesh"
+dest_files=["res://.godot/imported/apc_btr90.bundledmesh-583b072a788bbb5749c24e7cb95ee4e0.scn"]
+
+[params]
+

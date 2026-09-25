@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://08pmt5f0o8xs"
+path="res://.godot/imported/xp2_rr_dividers_04.con-f36742c731322760d79cdfe62a85aeae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_dividers_04/xp2_rr_dividers_04.con"
+dest_files=["res://.godot/imported/xp2_rr_dividers_04.con-f36742c731322760d79cdfe62a85aeae.scn"]
+
+[params]
+

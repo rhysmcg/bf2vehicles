@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dklb4bsbjf5te"
+path="res://.godot/imported/e_vexp_mobileradar_ch.con-0500441488ac2cf935a592c5c4511107.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_mobileradar_ch.con"
+dest_files=["res://.godot/imported/e_vexp_mobileradar_ch.con-0500441488ac2cf935a592c5c4511107.scn"]
+
+[params]
+

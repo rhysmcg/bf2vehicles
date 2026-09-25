@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6s61h4j1sykw"
+path="res://.godot/imported/e_web_tracked_tarmac.con-11e8d5b2c9180a48034c5ff91dcca383.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_tarmac/e_web_tracked_tarmac.con"
+dest_files=["res://.godot/imported/e_web_tracked_tarmac.con-11e8d5b2c9180a48034c5ff91dcca383.scn"]
+
+[params]
+

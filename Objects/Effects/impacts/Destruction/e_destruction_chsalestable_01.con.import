@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cpa5s8uhwc0yq"
+path="res://.godot/imported/e_destruction_chsalestable_01.con-8e3bd5f7a8cf0f06df8319de5a568993.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_chsalestable_01.con"
+dest_files=["res://.godot/imported/e_destruction_chsalestable_01.con-8e3bd5f7a8cf0f06df8319de5a568993.scn"]
+
+[params]
+

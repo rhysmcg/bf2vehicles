@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://h2fiwwd7isw5"
+path="res://.godot/imported/mangrove_med1_fin_col.con-b72e44b3fbbfa10e16e1e6f803ce18d2.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/mangrove/mangrove_med1_fin_col.con"
+dest_files=["res://.godot/imported/mangrove_med1_fin_col.con-b72e44b3fbbfa10e16e1e6f803ce18d2.scn"]
+
+[params]
+

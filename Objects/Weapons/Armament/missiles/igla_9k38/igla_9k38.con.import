@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cki6vhs7b2mqe"
+path="res://.godot/imported/igla_9k38.con-6415c2eff187aaf1e034f185182ef6e3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/igla_9k38/igla_9k38.con"
+dest_files=["res://.godot/imported/igla_9k38.con-6415c2eff187aaf1e034f185182ef6e3.scn"]
+
+[params]
+

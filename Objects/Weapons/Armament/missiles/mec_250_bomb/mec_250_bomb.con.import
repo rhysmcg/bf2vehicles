@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vkljiw6gqufi"
+path="res://.godot/imported/mec_250_bomb.con-4d14baad1592e880d7664811ce413b25.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/mec_250_bomb/mec_250_bomb.con"
+dest_files=["res://.godot/imported/mec_250_bomb.con-4d14baad1592e880d7664811ce413b25.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfsedv36k2t4p"
+path="res://.godot/imported/e_sAmb_Bp2OnlySmoke2.con-e926635da222abbf02b9ec40222e46ee.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_sAmb_Bp2OnlySmoke2.con"
+dest_files=["res://.godot/imported/e_sAmb_Bp2OnlySmoke2.con-e926635da222abbf02b9ec40222e46ee.scn"]
+
+[params]
+

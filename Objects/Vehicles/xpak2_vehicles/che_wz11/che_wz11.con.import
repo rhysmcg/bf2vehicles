@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://wsa6al32hqkq"
+path="res://.godot/imported/che_wz11.con-ca637f02a2d6819369c0333c6e12c8d1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/che_wz11.con"
+dest_files=["res://.godot/imported/che_wz11.con-ca637f02a2d6819369c0333c6e12c8d1.scn"]
+
+[params]
+

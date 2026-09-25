@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://delm1omk077u"
+path="res://.godot/imported/ParachuteLauncher.con-0fa5d39b5bdfc05efaa4bc05102e89ca.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ParachuteLauncher/ParachuteLauncher.con"
+dest_files=["res://.godot/imported/ParachuteLauncher.con-0fa5d39b5bdfc05efaa4bc05102e89ca.scn"]
+
+[params]
+

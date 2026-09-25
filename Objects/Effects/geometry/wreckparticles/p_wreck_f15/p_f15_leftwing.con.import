@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cb3dp5savyuq1"
+path="res://.godot/imported/p_f15_leftwing.con-8726026d016f38b07fe54c72216eb0c3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f15/p_f15_leftwing.con"
+dest_files=["res://.godot/imported/p_f15_leftwing.con-8726026d016f38b07fe54c72216eb0c3.scn"]
+
+[params]
+

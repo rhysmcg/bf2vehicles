@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://en8st56og373"
+path="res://.godot/imported/xp2_stripmall_office_02_glass.bundledmesh-090ce78aaf2b172e41854e6dcb511aa8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_office_02/meshes/xp2_stripmall_office_02_glass.bundledmesh"
+dest_files=["res://.godot/imported/xp2_stripmall_office_02_glass.bundledmesh-090ce78aaf2b172e41854e6dcb511aa8.scn"]
+
+[params]
+

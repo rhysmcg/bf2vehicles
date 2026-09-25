@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u3qujnujmtl4"
+path="res://.godot/imported/e_damb_treeleafs_brown.con-02ca8accd5a3ee2fb8fcfded878c06a1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_damb_treeleafs_brown.con"
+dest_files=["res://.godot/imported/e_damb_treeleafs_brown.con-02ca8accd5a3ee2fb8fcfded878c06a1.scn"]
+
+[params]
+

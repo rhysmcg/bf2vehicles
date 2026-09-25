@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ctvre075g6big"
+path="res://.godot/imported/nc_medbush01_lod.staticmesh-1f6b1ad1f2ba285cb3a8df3831a6ebd1.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/mediumbush/meshes/nc_medbush01_lod.staticmesh"
+dest_files=["res://.godot/imported/nc_medbush01_lod.staticmesh-1f6b1ad1f2ba285cb3a8df3831a6ebd1.scn"]
+
+[params]
+

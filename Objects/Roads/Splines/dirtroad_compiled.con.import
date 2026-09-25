@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bg3kmv4473iwr"
+path="res://.godot/imported/dirtroad_compiled.con-70f9c92eeb703d91f71dcc8830809e17.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/dirtroad_compiled.con"
+dest_files=["res://.godot/imported/dirtroad_compiled.con-70f9c92eeb703d91f71dcc8830809e17.scn"]
+
+[params]
+

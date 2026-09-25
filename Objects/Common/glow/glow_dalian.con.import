@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bb3frnrv50tf1"
+path="res://.godot/imported/glow_dalian.con-7c73f981c4f5e2ebff852e459ca1ecd3.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glow_dalian.con"
+dest_files=["res://.godot/imported/glow_dalian.con-7c73f981c4f5e2ebff852e459ca1ecd3.scn"]
+
+[params]
+

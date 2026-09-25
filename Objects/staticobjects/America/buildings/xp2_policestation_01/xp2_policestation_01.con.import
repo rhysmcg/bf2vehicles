@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0o7ce7kjoiba"
+path="res://.godot/imported/xp2_policestation_01.con-7b7ce430225087a1d038abc3c080f057.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_policestation_01/xp2_policestation_01.con"
+dest_files=["res://.godot/imported/xp2_policestation_01.con-7b7ce430225087a1d038abc3c080f057.scn"]
+
+[params]
+

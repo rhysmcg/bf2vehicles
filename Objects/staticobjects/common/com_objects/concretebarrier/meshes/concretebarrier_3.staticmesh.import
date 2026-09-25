@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmmru2j5gwykr"
+path="res://.godot/imported/concretebarrier_3.staticmesh-a28da38648b5bd249ae0a12eab4e322f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/concretebarrier/meshes/concretebarrier_3.staticmesh"
+dest_files=["res://.godot/imported/concretebarrier_3.staticmesh-a28da38648b5bd249ae0a12eab4e322f.scn"]
+
+[params]
+

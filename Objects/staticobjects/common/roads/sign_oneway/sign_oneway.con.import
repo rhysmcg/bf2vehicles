@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cke7hklwyai56"
+path="res://.godot/imported/sign_oneway.con-c00c067343ca951b18af033e9b06d904.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_oneway/sign_oneway.con"
+dest_files=["res://.godot/imported/sign_oneway.con-c00c067343ca951b18af033e9b06d904.scn"]
+
+[params]
+

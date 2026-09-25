@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://lsmnoac2j5rc"
+path="res://.godot/imported/RR_DoubleLane_XP2.con-e027176b30c86c255535d86259758960.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_DoubleLane_XP2.con"
+dest_files=["res://.godot/imported/RR_DoubleLane_XP2.con-e027176b30c86c255535d86259758960.scn"]
+
+[params]
+

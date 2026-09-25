@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bf5dqfvhtgf0e"
+path="res://.godot/imported/xp2_militarytent_large_01.con-a91dedfa79abc384c3d1e332b3dbf0d2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/xp2_militarytent_large_01/xp2_militarytent_large_01.con"
+dest_files=["res://.godot/imported/xp2_militarytent_large_01.con-a91dedfa79abc384c3d1e332b3dbf0d2.scn"]
+
+[params]
+

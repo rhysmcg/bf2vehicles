@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8iauc56wecqr"
+path="res://.godot/imported/gasstation_cistern_ladder.con-51b3fbb23b68804b685ea19c8d933be7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/gasstation_cistern/gasstation_cistern_ladder.con"
+dest_files=["res://.godot/imported/gasstation_cistern_ladder.con-51b3fbb23b68804b685ea19c8d933be7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bant6jcotf2gi"
+path="res://.godot/imported/dam_right_collision.staticmesh-9e4ba9b1a2a8cbf055dbac67faad9344.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_right/meshes/dam_right_collision.staticmesh"
+dest_files=["res://.godot/imported/dam_right_collision.staticmesh-9e4ba9b1a2a8cbf055dbac67faad9344.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://diew83f5om5t7"
+path="res://.godot/imported/ch_wall_high_6m_door.staticmesh-4165d6f780639193e1a54885cf7ac9a5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_wall_high_6m_door/meshes/ch_wall_high_6m_door.staticmesh"
+dest_files=["res://.godot/imported/ch_wall_high_6m_door.staticmesh-4165d6f780639193e1a54885cf7ac9a5.scn"]
+
+[params]
+

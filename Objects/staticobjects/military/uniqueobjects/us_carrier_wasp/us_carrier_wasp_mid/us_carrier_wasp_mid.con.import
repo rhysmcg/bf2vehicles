@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bokp85f6wd5aw"
+path="res://.godot/imported/us_carrier_wasp_mid.con-8b4a45f9a668c6a9c262978aecc137f0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_mid/us_carrier_wasp_mid.con"
+dest_files=["res://.godot/imported/us_carrier_wasp_mid.con-8b4a45f9a668c6a9c262978aecc137f0.scn"]
+
+[params]
+

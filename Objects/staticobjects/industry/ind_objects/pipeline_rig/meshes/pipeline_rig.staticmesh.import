@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c47m4s68pat2i"
+path="res://.godot/imported/pipeline_rig.staticmesh-1e9a3b6d08d608e7db245818264839e4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_rig/meshes/pipeline_rig.staticmesh"
+dest_files=["res://.godot/imported/pipeline_rig.staticmesh-1e9a3b6d08d608e7db245818264839e4.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d0d1f7w0b65sx"
+path="res://.godot/imported/wasp_defence_back.bundledmesh-ef7a463a2fa43fa5098befa1802ab3e2.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/wasp_defence_back/meshes/wasp_defence_back.bundledmesh"
+dest_files=["res://.godot/imported/wasp_defence_back.bundledmesh-ef7a463a2fa43fa5098befa1802ab3e2.scn"]
+
+[params]
+

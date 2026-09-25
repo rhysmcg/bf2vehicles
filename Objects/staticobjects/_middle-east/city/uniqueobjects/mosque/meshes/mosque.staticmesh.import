@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b6fb664v35ikt"
+path="res://.godot/imported/mosque.staticmesh-55badadee4fa2e7a8d2ffc8b28b1ddb2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/uniqueobjects/mosque/meshes/mosque.staticmesh"
+dest_files=["res://.godot/imported/mosque.staticmesh-55badadee4fa2e7a8d2ffc8b28b1ddb2.scn"]
+
+[params]
+

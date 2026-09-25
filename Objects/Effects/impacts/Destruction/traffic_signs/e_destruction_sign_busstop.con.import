@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://t8utvm6v3wy2"
+path="res://.godot/imported/e_destruction_sign_busstop.con-9860a3d9d062f46c730a79b0bce997e9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_sign_busstop.con"
+dest_files=["res://.godot/imported/e_destruction_sign_busstop.con-9860a3d9d062f46c730a79b0bce997e9.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5c05ft1juhsw"
+path="res://.godot/imported/ch_gas_station.con-045b8b5e91883fc70ba960e0d9a1b191.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_gas_station/ch_gas_station.con"
+dest_files=["res://.godot/imported/ch_gas_station.con-045b8b5e91883fc70ba960e0d9a1b191.scn"]
+
+[params]
+

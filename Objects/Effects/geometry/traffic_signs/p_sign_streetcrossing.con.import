@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ci6vq8ih0rnwr"
+path="res://.godot/imported/p_sign_streetcrossing.con-f438f27f081f19683ddebd8a4dbc2b11.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_streetcrossing.con"
+dest_files=["res://.godot/imported/p_sign_streetcrossing.con-f438f27f081f19683ddebd8a4dbc2b11.scn"]
+
+[params]
+

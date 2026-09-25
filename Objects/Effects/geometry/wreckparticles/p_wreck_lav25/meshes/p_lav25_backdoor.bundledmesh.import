@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ir1ra6fisdm7"
+path="res://.godot/imported/p_lav25_backdoor.bundledmesh-6919244aa7356f0a1594c3bf45522bd6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/meshes/p_lav25_backdoor.bundledmesh"
+dest_files=["res://.godot/imported/p_lav25_backdoor.bundledmesh-6919244aa7356f0a1594c3bf45522bd6.scn"]
+
+[params]
+

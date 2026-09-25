@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2fq1dk2fcjtq"
+path="res://.godot/imported/UAVControlObject.con-d1803152d76cecf19a2321e4eff14dbf.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/UAVControlObject.con"
+dest_files=["res://.godot/imported/UAVControlObject.con-d1803152d76cecf19a2321e4eff14dbf.scn"]
+
+[params]
+

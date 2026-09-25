@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://o48ccmq88ovn"
+path="res://.godot/imported/xp2_silo_02.staticmesh-8aa3eae5d612bd7276b72ddff57ff6c2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_silo_02/meshes/xp2_silo_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_silo_02.staticmesh-8aa3eae5d612bd7276b72ddff57ff6c2.scn"]
+
+[params]
+

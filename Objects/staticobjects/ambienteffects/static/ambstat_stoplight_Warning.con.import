@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ca2dkvdhkbuxl"
+path="res://.godot/imported/ambstat_stoplight_Warning.con-7421eaf99c8a6f8d7e0337deeb798ac2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_stoplight_Warning.con"
+dest_files=["res://.godot/imported/ambstat_stoplight_Warning.con-7421eaf99c8a6f8d7e0337deeb798ac2.scn"]
+
+[params]
+

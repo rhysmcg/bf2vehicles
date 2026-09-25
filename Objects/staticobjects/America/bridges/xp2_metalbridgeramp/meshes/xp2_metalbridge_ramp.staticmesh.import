@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ib6idqp8vnm4"
+path="res://.godot/imported/xp2_metalbridge_ramp.staticmesh-32d8e0a5709fec45ca44cac796442545.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_metalbridgeramp/meshes/xp2_metalbridge_ramp.staticmesh"
+dest_files=["res://.godot/imported/xp2_metalbridge_ramp.staticmesh-32d8e0a5709fec45ca44cac796442545.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://chn1xikbr4tvw"
+path="res://.godot/imported/dam_ironbridge_part3.staticmesh-107807905aea95f7296b584592c56d6c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_ironbridge_part3/meshes/dam_ironbridge_part3.staticmesh"
+dest_files=["res://.godot/imported/dam_ironbridge_part3.staticmesh-107807905aea95f7296b584592c56d6c.scn"]
+
+[params]
+

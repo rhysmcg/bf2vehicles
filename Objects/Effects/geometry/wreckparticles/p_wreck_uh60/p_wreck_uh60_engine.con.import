@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b31anphxf8bjf"
+path="res://.godot/imported/p_wreck_uh60_engine.con-62ff924a05c964423b371363dc8ee89b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/p_wreck_uh60_engine.con"
+dest_files=["res://.godot/imported/p_wreck_uh60_engine.con-62ff924a05c964423b371363dc8ee89b.scn"]
+
+[params]
+

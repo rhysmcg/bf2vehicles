@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://oxjkykuaai02"
+path="res://.godot/imported/aas_phalanx.con-1e542f2ba40795dc9f9d2d6c0b19dcbc.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/aas_phalanx/aas_phalanx.con"
+dest_files=["res://.godot/imported/aas_phalanx.con-1e542f2ba40795dc9f9d2d6c0b19dcbc.scn"]
+
+[params]
+

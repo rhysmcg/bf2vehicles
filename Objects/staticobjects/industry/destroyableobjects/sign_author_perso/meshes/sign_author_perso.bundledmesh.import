@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://drv1wifwf8i0a"
+path="res://.godot/imported/sign_author_perso.bundledmesh-17346756999c229255b189ebe4ea1193.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/sign_author_perso/meshes/sign_author_perso.bundledmesh"
+dest_files=["res://.godot/imported/sign_author_perso.bundledmesh-17346756999c229255b189ebe4ea1193.scn"]
+
+[params]
+

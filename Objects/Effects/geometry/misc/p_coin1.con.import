@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwfddv0sfnged"
+path="res://.godot/imported/p_coin1.con-553438ee5b76e2dad9f1fba08f6df3e5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_coin1.con"
+dest_files=["res://.godot/imported/p_coin1.con-553438ee5b76e2dad9f1fba08f6df3e5.scn"]
+
+[params]
+

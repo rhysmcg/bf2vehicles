@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dy35x0jiy6hxm"
+path="res://.godot/imported/heli_pad_cloth_dummy.staticmesh-d64bba89552acebea20767b00e7a84aa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/heli_pad_cloth/meshes/heli_pad_cloth_dummy.staticmesh"
+dest_files=["res://.godot/imported/heli_pad_cloth_dummy.staticmesh-d64bba89552acebea20767b00e7a84aa.scn"]
+
+[params]
+

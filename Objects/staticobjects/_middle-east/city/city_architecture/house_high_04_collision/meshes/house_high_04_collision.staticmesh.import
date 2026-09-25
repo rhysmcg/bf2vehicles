@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c3isuk8ty838g"
+path="res://.godot/imported/house_high_04_collision.staticmesh-8dc07e40697eb39a984db423cf8791f0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_high_04_collision/meshes/house_high_04_collision.staticmesh"
+dest_files=["res://.godot/imported/house_high_04_collision.staticmesh-8dc07e40697eb39a984db423cf8791f0.scn"]
+
+[params]
+

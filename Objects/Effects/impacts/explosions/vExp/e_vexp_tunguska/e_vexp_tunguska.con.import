@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvjspdk6jvxoo"
+path="res://.godot/imported/e_vexp_tunguska.con-3d82d634779185234048ab4507349572.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_tunguska/e_vexp_tunguska.con"
+dest_files=["res://.godot/imported/e_vexp_tunguska.con-3d82d634779185234048ab4507349572.scn"]
+
+[params]
+

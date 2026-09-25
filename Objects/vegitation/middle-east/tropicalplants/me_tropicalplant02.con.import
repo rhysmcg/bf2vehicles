@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvhogkemvxpqx"
+path="res://.godot/imported/me_tropicalplant02.con-44d9b0689561c8a3eb6ed009d1abb53c.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/tropicalplants/me_tropicalplant02.con"
+dest_files=["res://.godot/imported/me_tropicalplant02.con-44d9b0689561c8a3eb6ed009d1abb53c.scn"]
+
+[params]
+

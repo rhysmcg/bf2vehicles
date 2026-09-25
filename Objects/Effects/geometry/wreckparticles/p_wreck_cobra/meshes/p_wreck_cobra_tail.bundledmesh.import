@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://05jjigxli5jc"
+path="res://.godot/imported/p_wreck_cobra_tail.bundledmesh-b293ef5b899e428099079604927bf984.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/meshes/p_wreck_cobra_tail.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_cobra_tail.bundledmesh-b293ef5b899e428099079604927bf984.scn"]
+
+[params]
+

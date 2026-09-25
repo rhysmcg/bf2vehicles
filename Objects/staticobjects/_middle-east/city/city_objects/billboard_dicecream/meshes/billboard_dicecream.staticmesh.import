@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cp8movxh23ou"
+path="res://.godot/imported/billboard_dicecream.staticmesh-ce1549428abc9b868c8d348db3bdfff3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/billboard_dicecream/meshes/billboard_dicecream.staticmesh"
+dest_files=["res://.godot/imported/billboard_dicecream.staticmesh-ce1549428abc9b868c8d348db3bdfff3.scn"]
+
+[params]
+

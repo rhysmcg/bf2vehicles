@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ctthtfelgnhtx"
+path="res://.godot/imported/ahe_z10_mainrotor.con-8bc1baa9087ca247532bdd03121f7e21.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/ahe_z10_mainrotor/ahe_z10_mainrotor.con"
+dest_files=["res://.godot/imported/ahe_z10_mainrotor.con-8bc1baa9087ca247532bdd03121f7e21.scn"]
+
+[params]
+

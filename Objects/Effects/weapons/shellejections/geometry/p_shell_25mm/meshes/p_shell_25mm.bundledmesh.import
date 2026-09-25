@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b31vh7wooia1v"
+path="res://.godot/imported/p_shell_25mm.bundledmesh-ad87599cb8e2e1638c252f8580540787.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_25mm/meshes/p_shell_25mm.bundledmesh"
+dest_files=["res://.godot/imported/p_shell_25mm.bundledmesh-ad87599cb8e2e1638c252f8580540787.scn"]
+
+[params]
+

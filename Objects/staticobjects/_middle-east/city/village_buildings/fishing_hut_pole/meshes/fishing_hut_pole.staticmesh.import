@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b6kavjllpsvbe"
+path="res://.godot/imported/fishing_hut_pole.staticmesh-033a26f9c729f6fb558fd44012959964.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/fishing_hut_pole/meshes/fishing_hut_pole.staticmesh"
+dest_files=["res://.godot/imported/fishing_hut_pole.staticmesh-033a26f9c729f6fb558fd44012959964.scn"]
+
+[params]
+

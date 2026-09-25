@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bhtpf7bpwnw3t"
+path="res://.godot/imported/barrackdbl_03.con-f2192d8274416ff52f05a64598b52db7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/barrackdbl_03/barrackdbl_03.con"
+dest_files=["res://.godot/imported/barrackdbl_03.con-f2192d8274416ff52f05a64598b52db7.scn"]
+
+[params]
+

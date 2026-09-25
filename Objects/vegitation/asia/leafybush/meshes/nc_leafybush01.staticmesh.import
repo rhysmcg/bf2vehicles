@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rapl7kb0csgg"
+path="res://.godot/imported/nc_leafybush01.staticmesh-645b26e10feee0a94764f811bb4c197f.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/leafybush/meshes/nc_leafybush01.staticmesh"
+dest_files=["res://.godot/imported/nc_leafybush01.staticmesh-645b26e10feee0a94764f811bb4c197f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cd37ysd3hdekn"
+path="res://.godot/imported/aas_seasparrow.con-05f6a45cf6c004e56640fdace6c31083.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/aas_seasparrow/aas_seasparrow.con"
+dest_files=["res://.godot/imported/aas_seasparrow.con-05f6a45cf6c004e56640fdace6c31083.scn"]
+
+[params]
+

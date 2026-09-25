@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c38uspqlrkona"
+path="res://.godot/imported/p_tool_box.con-df5c263404c3a28f2375196d26e7f3e5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_tool_box.con"
+dest_files=["res://.godot/imported/p_tool_box.con-df5c263404c3a28f2375196d26e7f3e5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cip3h55toxgfo"
+path="res://.godot/imported/supply_crate.staticmesh-330b0af820d244ec9d98cf938732dfe3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/supply_crate/meshes/supply_crate.staticmesh"
+dest_files=["res://.godot/imported/supply_crate.staticmesh-330b0af820d244ec9d98cf938732dfe3.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b5hxh42l1ldwt"
+path="res://.godot/imported/lrg_stonebridge_head.con-2bc163d8540899ad507be34ac10f85d2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lrg_stonebridge_head/lrg_stonebridge_head.con"
+dest_files=["res://.godot/imported/lrg_stonebridge_head.con-2bc163d8540899ad507be34ac10f85d2.scn"]
+
+[params]
+

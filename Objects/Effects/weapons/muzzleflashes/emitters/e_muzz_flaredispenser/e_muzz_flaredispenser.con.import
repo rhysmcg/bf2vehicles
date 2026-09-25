@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkdaw72bfu6h6"
+path="res://.godot/imported/e_muzz_flaredispenser.con-4867b686e5dc48e28d336504beb20719.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_flaredispenser/e_muzz_flaredispenser.con"
+dest_files=["res://.godot/imported/e_muzz_flaredispenser.con-4867b686e5dc48e28d336504beb20719.scn"]
+
+[params]
+

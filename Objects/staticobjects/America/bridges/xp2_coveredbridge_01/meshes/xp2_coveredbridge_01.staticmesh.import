@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cdnq4g3k5td6m"
+path="res://.godot/imported/xp2_coveredbridge_01.staticmesh-b0344ba05d56efca63a1584a11e1e915.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_coveredbridge_01/meshes/xp2_coveredbridge_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_coveredbridge_01.staticmesh-b0344ba05d56efca63a1584a11e1e915.scn"]
+
+[params]
+

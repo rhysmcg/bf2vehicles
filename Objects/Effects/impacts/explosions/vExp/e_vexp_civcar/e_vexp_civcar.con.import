@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1kgodc3tnnw3"
+path="res://.godot/imported/e_vexp_civcar.con-2c9e678cdf7adbd9d29090b80dad7fe1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_civcar/e_vexp_civcar.con"
+dest_files=["res://.godot/imported/e_vexp_civcar.con-2c9e678cdf7adbd9d29090b80dad7fe1.scn"]
+
+[params]
+

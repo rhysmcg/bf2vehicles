@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1dyuxss4kcnm"
+path="res://.godot/imported/p_wreck_mi17_weapon.con-f251b234df674f84ef00576c57d3ad72.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mi17/p_wreck_mi17_weapon.con"
+dest_files=["res://.godot/imported/p_wreck_mi17_weapon.con-f251b234df674f84ef00576c57d3ad72.scn"]
+
+[params]
+

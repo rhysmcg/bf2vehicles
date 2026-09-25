@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwm5y0ibpdf4c"
+path="res://.godot/imported/e_web_tracked_rock.con-4afb3751bf854bc8bcfc4632f13b6f36.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_rock/e_web_tracked_rock.con"
+dest_files=["res://.godot/imported/e_web_tracked_rock.con-4afb3751bf854bc8bcfc4632f13b6f36.scn"]
+
+[params]
+

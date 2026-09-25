@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4f2nusr5eoby"
+path="res://.godot/imported/fushewplane_mid.con-25dd839415f5dacb02a7f9aaecef6522.scn"
+
+[deps]
+
+source_file="res://Objects/water/fushewplane_mid.con"
+dest_files=["res://.godot/imported/fushewplane_mid.con-25dd839415f5dacb02a7f9aaecef6522.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d10yfyviptq2g"
+path="res://.godot/imported/train_rail_crossing_open.con-29adfffe228471d6d9b8ec421189b887.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/train_rail_crossing_open/train_rail_crossing_open.con"
+dest_files=["res://.godot/imported/train_rail_crossing_open.con-29adfffe228471d6d9b8ec421189b887.scn"]
+
+[params]
+

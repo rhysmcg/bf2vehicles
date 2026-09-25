@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3k5ch4l8at05"
+path="res://.godot/imported/stig.con-eb9c231bf3f884259bb960fdf5813e61.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/stig.con"
+dest_files=["res://.godot/imported/stig.con-eb9c231bf3f884259bb960fdf5813e61.scn"]
+
+[params]
+

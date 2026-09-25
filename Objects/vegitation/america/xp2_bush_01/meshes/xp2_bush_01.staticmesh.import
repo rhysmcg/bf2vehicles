@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cosn8avubqrd4"
+path="res://.godot/imported/xp2_bush_01.staticmesh-b4681956a774401a8a670019ef00182f.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_bush_01/meshes/xp2_bush_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_bush_01.staticmesh-b4681956a774401a8a670019ef00182f.scn"]
+
+[params]
+

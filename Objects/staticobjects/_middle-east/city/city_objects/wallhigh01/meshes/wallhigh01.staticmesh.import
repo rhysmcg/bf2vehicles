@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blnkst7auemba"
+path="res://.godot/imported/wallhigh01.staticmesh-4c4dea2af948055484e0502de95c4301.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/wallhigh01/meshes/wallhigh01.staticmesh"
+dest_files=["res://.godot/imported/wallhigh01.staticmesh-4c4dea2af948055484e0502de95c4301.scn"]
+
+[params]
+

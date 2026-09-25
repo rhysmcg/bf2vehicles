@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4hqimy7lhx8r"
+path="res://.godot/imported/us_carrier_wasp_bridge_ladder08.con-f5e3b1e349574549d4ecf1000456f23a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_bridge/us_carrier_wasp_bridge_ladder08.con"
+dest_files=["res://.godot/imported/us_carrier_wasp_bridge_ladder08.con-f5e3b1e349574549d4ecf1000456f23a.scn"]
+
+[params]
+

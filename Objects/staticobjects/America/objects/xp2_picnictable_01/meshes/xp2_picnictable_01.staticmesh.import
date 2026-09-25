@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bqupe4kvfjpu3"
+path="res://.godot/imported/xp2_picnictable_01.staticmesh-e68e1d7d94fc2be085d6a4b39f781236.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_picnictable_01/meshes/xp2_picnictable_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_picnictable_01.staticmesh-e68e1d7d94fc2be085d6a4b39f781236.scn"]
+
+[params]
+

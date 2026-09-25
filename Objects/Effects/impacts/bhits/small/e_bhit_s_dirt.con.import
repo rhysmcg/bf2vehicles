@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtsiknmoxtrpr"
+path="res://.godot/imported/e_bhit_s_dirt.con-275b9c64c599340131e7e8dda68aaabe.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_dirt.con"
+dest_files=["res://.godot/imported/e_bhit_s_dirt.con-275b9c64c599340131e7e8dda68aaabe.scn"]
+
+[params]
+

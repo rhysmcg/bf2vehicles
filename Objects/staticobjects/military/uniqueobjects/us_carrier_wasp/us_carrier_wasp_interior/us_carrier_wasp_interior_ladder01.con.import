@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cfcsaxnl1eiv7"
+path="res://.godot/imported/us_carrier_wasp_interior_ladder01.con-4739bd57286ff0592058ed44bde5c719.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_interior/us_carrier_wasp_interior_ladder01.con"
+dest_files=["res://.godot/imported/us_carrier_wasp_interior_ladder01.con-4739bd57286ff0592058ed44bde5c719.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blxhn1m443gmu"
+path="res://.godot/imported/wooden_bridge_support.staticmesh-054c666173b2d53ef9f41ebc6d267974.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/wooden_bridge_support/meshes/wooden_bridge_support.staticmesh"
+dest_files=["res://.godot/imported/wooden_bridge_support.staticmesh-054c666173b2d53ef9f41ebc6d267974.scn"]
+
+[params]
+

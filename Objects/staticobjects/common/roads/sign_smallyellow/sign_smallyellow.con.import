@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://hornom776eo4"
+path="res://.godot/imported/sign_smallyellow.con-7cdec410dd3842402ef3e5de5e7ead1c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_smallyellow/sign_smallyellow.con"
+dest_files=["res://.godot/imported/sign_smallyellow.con-7cdec410dd3842402ef3e5de5e7ead1c.scn"]
+
+[params]
+

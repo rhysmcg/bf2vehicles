@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ddek7srry4ot5"
+path="res://.godot/imported/dock_straight_10m.staticmesh-bab98c155cf8db5bef80019e87f22c68.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_straight_10m/meshes/dock_straight_10m.staticmesh"
+dest_files=["res://.godot/imported/dock_straight_10m.staticmesh-bab98c155cf8db5bef80019e87f22c68.scn"]
+
+[params]
+

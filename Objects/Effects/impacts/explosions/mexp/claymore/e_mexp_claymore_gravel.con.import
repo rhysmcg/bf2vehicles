@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4esk08upohx5"
+path="res://.godot/imported/e_mexp_claymore_gravel.con-59516929407f7385279749a0c91c9e1f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/claymore/e_mexp_claymore_gravel.con"
+dest_files=["res://.godot/imported/e_mexp_claymore_gravel.con-59516929407f7385279749a0c91c9e1f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dc2iocbrmb4ly"
+path="res://.godot/imported/mp_concreteshard.con-89778d299090fa9e501a54f07bb1a827.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/mp_concreteshard.con"
+dest_files=["res://.godot/imported/mp_concreteshard.con-89778d299090fa9e501a54f07bb1a827.scn"]
+
+[params]
+

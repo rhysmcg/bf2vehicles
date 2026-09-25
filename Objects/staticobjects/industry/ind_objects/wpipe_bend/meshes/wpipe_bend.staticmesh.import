@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ct53bxcnegl3b"
+path="res://.godot/imported/wpipe_bend.staticmesh-e17e9ebc28359309a0c71ba973dc29af.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_bend/meshes/wpipe_bend.staticmesh"
+dest_files=["res://.godot/imported/wpipe_bend.staticmesh-e17e9ebc28359309a0c71ba973dc29af.scn"]
+
+[params]
+

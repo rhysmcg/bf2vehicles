@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0plbtqgaffn"
+path="res://.godot/imported/e_dAmb_dustCloudBright.con-1333e2730239db7570ac592e4ee81704.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_dustCloudBright.con"
+dest_files=["res://.godot/imported/e_dAmb_dustCloudBright.con-1333e2730239db7570ac592e4ee81704.scn"]
+
+[params]
+

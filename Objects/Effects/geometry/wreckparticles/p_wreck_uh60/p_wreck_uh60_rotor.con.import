@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4hyl6eh6fcnu"
+path="res://.godot/imported/p_wreck_uh60_rotor.con-279f82c0f3b5f072c75db0205194f716.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/p_wreck_uh60_rotor.con"
+dest_files=["res://.godot/imported/p_wreck_uh60_rotor.con-279f82c0f3b5f072c75db0205194f716.scn"]
+
+[params]
+

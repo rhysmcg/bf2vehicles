@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rf3c7u3tddul"
+path="res://.godot/imported/chimney_01.staticmesh-2c6d99222fd70c2d11b197f4ab600fda.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/chimney_01/meshes/chimney_01.staticmesh"
+dest_files=["res://.godot/imported/chimney_01.staticmesh-2c6d99222fd70c2d11b197f4ab600fda.scn"]
+
+[params]
+

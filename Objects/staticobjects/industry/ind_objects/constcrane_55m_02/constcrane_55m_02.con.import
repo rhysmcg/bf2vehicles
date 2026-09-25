@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bewe0sxuum7ny"
+path="res://.godot/imported/constcrane_55m_02.con-6e14237f462e47931426256be034233a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/constcrane_55m_02/constcrane_55m_02.con"
+dest_files=["res://.godot/imported/constcrane_55m_02.con-6e14237f462e47931426256be034233a.scn"]
+
+[params]
+

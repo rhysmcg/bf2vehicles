@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cpjc6u3le83ma"
+path="res://.godot/imported/e_bhit_l_muddywater.con-aa95928652e3c02384ca86a26b510a70.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_muddywater.con"
+dest_files=["res://.godot/imported/e_bhit_l_muddywater.con-aa95928652e3c02384ca86a26b510a70.scn"]
+
+[params]
+

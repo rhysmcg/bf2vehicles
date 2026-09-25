@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8uxv38uylp8y"
+path="res://.godot/imported/nc_stump01_col.con-149f560dd9e964fe8bb7401a2075e50e.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/stump/nc_stump01_col.con"
+dest_files=["res://.godot/imported/nc_stump01_col.con-149f560dd9e964fe8bb7401a2075e50e.scn"]
+
+[params]
+

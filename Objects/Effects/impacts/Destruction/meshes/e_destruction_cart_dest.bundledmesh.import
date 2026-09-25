@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://kkmtjner7gqx"
+path="res://.godot/imported/e_destruction_cart_dest.bundledmesh-7688976ac8bc31c1ba0cef7aa42ad17e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_cart_dest.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_cart_dest.bundledmesh-7688976ac8bc31c1ba0cef7aa42ad17e.scn"]
+
+[params]
+

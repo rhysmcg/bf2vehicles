@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dcxcwc15tt8bw"
+path="res://.godot/imported/che_wz11.bundledmesh-3119bdfdedc96116b9a99c238d57e7c3.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/meshes/che_wz11.bundledmesh"
+dest_files=["res://.godot/imported/che_wz11.bundledmesh-3119bdfdedc96116b9a99c238d57e7c3.scn"]
+
+[params]
+

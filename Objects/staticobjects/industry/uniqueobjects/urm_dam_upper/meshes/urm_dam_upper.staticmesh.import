@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bb7ct8akio5rq"
+path="res://.godot/imported/urm_dam_upper.staticmesh-7f573102e1b81c97b1665e6e87d705b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/urm_dam_upper/meshes/urm_dam_upper.staticmesh"
+dest_files=["res://.godot/imported/urm_dam_upper.staticmesh-7f573102e1b81c97b1665e6e87d705b2.scn"]
+
+[params]
+

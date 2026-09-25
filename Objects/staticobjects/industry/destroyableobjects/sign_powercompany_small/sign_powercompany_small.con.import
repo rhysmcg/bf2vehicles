@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgvxp83ga2m8e"
+path="res://.godot/imported/sign_powercompany_small.con-534cbb9da3733ee5e6770fb02307e8bf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/sign_powercompany_small/sign_powercompany_small.con"
+dest_files=["res://.godot/imported/sign_powercompany_small.con-534cbb9da3733ee5e6770fb02307e8bf.scn"]
+
+[params]
+

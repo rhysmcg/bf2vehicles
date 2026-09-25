@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkulf21r6e7w4"
+path="res://.godot/imported/decal_s_wood.con-7cd801794bd8d0dff247d53ab68f4bb6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_wood.con"
+dest_files=["res://.godot/imported/decal_s_wood.con-7cd801794bd8d0dff247d53ab68f4bb6.scn"]
+
+[params]
+

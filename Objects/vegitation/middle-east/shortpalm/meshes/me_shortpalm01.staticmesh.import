@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bx4vqec2pabkk"
+path="res://.godot/imported/me_shortpalm01.staticmesh-7a81d179272652c8c37e08c06d0263c0.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/shortpalm/meshes/me_shortpalm01.staticmesh"
+dest_files=["res://.godot/imported/me_shortpalm01.staticmesh-7a81d179272652c8c37e08c06d0263c0.scn"]
+
+[params]
+

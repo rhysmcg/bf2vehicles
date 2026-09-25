@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d4nyomckdlfvx"
+path="res://.godot/imported/rupis_baghira.con-7d376f2ee9abdd5f2c66db084e417980.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rupis_baghira/rupis_baghira.con"
+dest_files=["res://.godot/imported/rupis_baghira.con-7d376f2ee9abdd5f2c66db084e417980.scn"]
+
+[params]
+

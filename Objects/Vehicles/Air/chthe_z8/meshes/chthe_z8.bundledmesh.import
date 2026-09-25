@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dgmltt2tvew8c"
+path="res://.godot/imported/chthe_z8.bundledmesh-41b3498b0604f937360ea6374bacbd9e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/meshes/chthe_z8.bundledmesh"
+dest_files=["res://.godot/imported/chthe_z8.bundledmesh-41b3498b0604f937360ea6374bacbd9e.scn"]
+
+[params]
+

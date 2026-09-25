@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ctstd6rbggbmp"
+path="res://.godot/imported/e_vexp_phalanx.bundledmesh-2effed9ebdad75853ef8175e361ed33e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_phalanx.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_phalanx.bundledmesh-2effed9ebdad75853ef8175e361ed33e.scn"]
+
+[params]
+

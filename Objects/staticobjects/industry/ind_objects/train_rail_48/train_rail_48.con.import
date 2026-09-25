@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2arlbnkvly45"
+path="res://.godot/imported/train_rail_48.con-beeed0cd666955ccbc1c553fd85948e8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/train_rail_48/train_rail_48.con"
+dest_files=["res://.godot/imported/train_rail_48.con-beeed0cd666955ccbc1c553fd85948e8.scn"]
+
+[params]
+

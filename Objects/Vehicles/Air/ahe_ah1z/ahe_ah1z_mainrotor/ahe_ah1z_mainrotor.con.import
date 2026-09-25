@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cyac7twwq25h2"
+path="res://.godot/imported/ahe_ah1z_mainrotor.con-37abb782ae4885e364aa392442386c95.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/ahe_ah1z_mainrotor/ahe_ah1z_mainrotor.con"
+dest_files=["res://.godot/imported/ahe_ah1z_mainrotor.con-37abb782ae4885e364aa392442386c95.scn"]
+
+[params]
+

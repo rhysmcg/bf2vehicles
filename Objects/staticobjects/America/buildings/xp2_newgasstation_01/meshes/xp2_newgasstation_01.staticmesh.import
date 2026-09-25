@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bgmlavwm0q8ck"
+path="res://.godot/imported/xp2_newgasstation_01.staticmesh-c4ff7122b4b42efe75df1e69b5c87f45.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_newgasstation_01/meshes/xp2_newgasstation_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_newgasstation_01.staticmesh-c4ff7122b4b42efe75df1e69b5c87f45.scn"]
+
+[params]
+

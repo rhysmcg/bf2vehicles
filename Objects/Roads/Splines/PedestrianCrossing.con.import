@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dg7viqvrnaw51"
+path="res://.godot/imported/PedestrianCrossing.con-201b1b56fa65f3cfb65e9e8d8c35ed43.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/PedestrianCrossing.con"
+dest_files=["res://.godot/imported/PedestrianCrossing.con-201b1b56fa65f3cfb65e9e8d8c35ed43.scn"]
+
+[params]
+

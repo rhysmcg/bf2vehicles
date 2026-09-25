@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cql7mn5w5bm5w"
+path="res://.godot/imported/shoppingarea.staticmesh-55615804420d9d48f64651fc3f19356f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/shoppingarea/meshes/shoppingarea.staticmesh"
+dest_files=["res://.godot/imported/shoppingarea.staticmesh-55615804420d9d48f64651fc3f19356f.scn"]
+
+[params]
+

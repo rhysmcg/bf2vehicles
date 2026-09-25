@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cb3u8w4nuiag0"
+path="res://.godot/imported/ammokit.con-2be9c152d9abb3e1caf4444003a48547.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ammokit/ammokit.con"
+dest_files=["res://.godot/imported/ammokit.con-2be9c152d9abb3e1caf4444003a48547.scn"]
+
+[params]
+

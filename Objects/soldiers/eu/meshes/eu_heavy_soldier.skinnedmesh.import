@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bcjc10wruy22s"
+path="res://.godot/imported/eu_heavy_soldier.skinnedmesh-097d26a40fddf94b435c341fd504465c.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/meshes/eu_heavy_soldier.skinnedmesh"
+dest_files=["res://.godot/imported/eu_heavy_soldier.skinnedmesh-097d26a40fddf94b435c341fd504465c.scn"]
+
+[params]
+

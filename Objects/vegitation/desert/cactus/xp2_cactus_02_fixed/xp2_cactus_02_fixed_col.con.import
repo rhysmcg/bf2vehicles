@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7bdgiu3f7ntj"
+path="res://.godot/imported/xp2_cactus_02_fixed_col.con-557f2f95b76cc83d66113ef14081aa03.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/xp2_cactus_02_fixed/xp2_cactus_02_fixed_col.con"
+dest_files=["res://.godot/imported/xp2_cactus_02_fixed_col.con-557f2f95b76cc83d66113ef14081aa03.scn"]
+
+[params]
+

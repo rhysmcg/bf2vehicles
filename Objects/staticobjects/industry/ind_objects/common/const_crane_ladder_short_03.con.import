@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pdvi0b4ph64d"
+path="res://.godot/imported/const_crane_ladder_short_03.con-80b638bc21e48caf14e9198785b5136b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/common/const_crane_ladder_short_03.con"
+dest_files=["res://.godot/imported/const_crane_ladder_short_03.con-80b638bc21e48caf14e9198785b5136b.scn"]
+
+[params]
+

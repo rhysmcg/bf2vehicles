@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2xnd5mdvkicj"
+path="res://.godot/imported/largecontainer_dummy.con-0c8171d01cbabb85489e786d95a7c331.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/largecontainer/largecontainer_dummy.con"
+dest_files=["res://.godot/imported/largecontainer_dummy.con-0c8171d01cbabb85489e786d95a7c331.scn"]
+
+[params]
+

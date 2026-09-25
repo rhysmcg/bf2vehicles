@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b8grtgf4punkj"
+path="res://.godot/imported/cityb_tall_30x30.staticmesh-f0dc26d2b4b397204865a65238923883.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/cityb_tall_30x30/meshes/cityb_tall_30x30.staticmesh"
+dest_files=["res://.godot/imported/cityb_tall_30x30.staticmesh-f0dc26d2b4b397204865a65238923883.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ktxajhaom8v7"
+path="res://.godot/imported/bunker.staticmesh-ca78cf5a02a9f05f8c53f195469414a6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/bunker/meshes/bunker.staticmesh"
+dest_files=["res://.godot/imported/bunker.staticmesh-ca78cf5a02a9f05f8c53f195469414a6.scn"]
+
+[params]
+

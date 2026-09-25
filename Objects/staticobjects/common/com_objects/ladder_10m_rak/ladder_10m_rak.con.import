@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6ndywcqvhhmq"
+path="res://.godot/imported/ladder_10m_rak.con-bf642064388babefe83e51c1f1ba5d5a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_10m_rak/ladder_10m_rak.con"
+dest_files=["res://.godot/imported/ladder_10m_rak.con-bf642064388babefe83e51c1f1ba5d5a.scn"]
+
+[params]
+

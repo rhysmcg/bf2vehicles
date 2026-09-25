@@ -27,9 +27,12 @@ void fragment() {
 	vec4 DirtColour = texture(DirtTexture, UV3);
 	vec3 final_color = BaseColour.rgb * DetailColour.rgb * DirtColour.rgb;
 	vec4 NDetailColour = texture(NDetailTexture, UV2);
+	
+	
 
 	ALBEDO = final_color.rgb;
 	SPECULAR = DetailColour.a;
-	NORMAL = NDetailColour.rgb;
+	ROUGHNESS = DetailColour.a;
+	NORMAL_MAP = NDetailColour.rgb;
 
 }

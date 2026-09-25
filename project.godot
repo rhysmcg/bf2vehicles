@@ -21,7 +21,7 @@ config/icon="res://icon.svg"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/dds_permissive_importer/plugin.cfg")
+enabled=PackedStringArray("res://addons/bf2_godot/plugin.cfg", "res://addons/dds_permissive_importer/plugin.cfg")
 
 [input]
 

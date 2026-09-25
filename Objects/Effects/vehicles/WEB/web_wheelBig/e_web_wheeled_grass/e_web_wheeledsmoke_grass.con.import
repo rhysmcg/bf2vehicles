@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvt72qfiersln"
+path="res://.godot/imported/e_web_wheeledsmoke_grass.con-5e1774a6402924bc111dd38485ba19aa.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_grass/e_web_wheeledsmoke_grass.con"
+dest_files=["res://.godot/imported/e_web_wheeledsmoke_grass.con-5e1774a6402924bc111dd38485ba19aa.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crd0ev6sq2rvb"
+path="res://.godot/imported/RR_6_Lane_Highway_compiled.con-65ac95e3a646df8c47bf58116727e812.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_6_Lane_Highway_compiled.con"
+dest_files=["res://.godot/imported/RR_6_Lane_Highway_compiled.con-65ac95e3a646df8c47bf58116727e812.scn"]
+
+[params]
+

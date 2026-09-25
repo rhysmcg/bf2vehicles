@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dabmowkyk8ofy"
+path="res://.godot/imported/test_for_stygg.con-e860f3a7fee52d56db29aff1fe731edb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/test_for_stygg/test_for_stygg.con"
+dest_files=["res://.godot/imported/test_for_stygg.con-e860f3a7fee52d56db29aff1fe731edb.scn"]
+
+[params]
+

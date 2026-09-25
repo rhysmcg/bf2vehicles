@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjuccp0ipeum7"
+path="res://.godot/imported/xp2_rockpile_1.staticmesh-608ba080a455f804be48efbd004dc260.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_rockpile_1/meshes/xp2_rockpile_1.staticmesh"
+dest_files=["res://.godot/imported/xp2_rockpile_1.staticmesh-608ba080a455f804be48efbd004dc260.scn"]
+
+[params]
+

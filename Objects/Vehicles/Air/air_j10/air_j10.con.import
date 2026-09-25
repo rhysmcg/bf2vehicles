@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1r0hifmowywf"
+path="res://.godot/imported/air_j10.con-59fc8cb518e9cf686f263bbf171336fa.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_j10/air_j10.con"
+dest_files=["res://.godot/imported/air_j10.con-59fc8cb518e9cf686f263bbf171336fa.scn"]
+
+[params]
+

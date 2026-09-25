@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://blkthu41p6osb"
+path="res://.godot/imported/nshgr_flashbang.con-defe6578dafebdddd7ac2d1d16be68ab.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/nshgr_flashbang/nshgr_flashbang.con"
+dest_files=["res://.godot/imported/nshgr_flashbang.con-defe6578dafebdddd7ac2d1d16be68ab.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dn7ylbaqiheei"
+path="res://.godot/imported/cable60mtwo.staticmesh-a3078fbe3f6e927d8fa35a372190d5a4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable60mtwo/meshes/cable60mtwo.staticmesh"
+dest_files=["res://.godot/imported/cable60mtwo.staticmesh-a3078fbe3f6e927d8fa35a372190d5a4.scn"]
+
+[params]
+

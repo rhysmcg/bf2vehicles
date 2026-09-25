@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://foppqha0mlay"
+path="res://.godot/imported/e_shellejection_25mm.con-6b65876f46d14985778654f6aa34934a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_25mm/e_shellejection_25mm.con"
+dest_files=["res://.godot/imported/e_shellejection_25mm.con-6b65876f46d14985778654f6aa34934a.scn"]
+
+[params]
+

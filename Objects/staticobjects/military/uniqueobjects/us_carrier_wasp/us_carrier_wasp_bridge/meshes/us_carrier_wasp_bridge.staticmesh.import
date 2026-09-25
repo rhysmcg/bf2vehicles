@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bj4trtywfhswx"
+path="res://.godot/imported/us_carrier_wasp_bridge.staticmesh-3036d65955bffad49ff8e9c9f0312cbf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_bridge/meshes/us_carrier_wasp_bridge.staticmesh"
+dest_files=["res://.godot/imported/us_carrier_wasp_bridge.staticmesh-3036d65955bffad49ff8e9c9f0312cbf.scn"]
+
+[params]
+

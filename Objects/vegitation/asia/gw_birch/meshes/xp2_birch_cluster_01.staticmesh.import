@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://560akap6by2t"
+path="res://.godot/imported/xp2_birch_cluster_01.staticmesh-17b543d9a8e4acf19c4c27f4afb16cee.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/gw_birch/meshes/xp2_birch_cluster_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_birch_cluster_01.staticmesh-17b543d9a8e4acf19c4c27f4afb16cee.scn"]
+
+[params]
+

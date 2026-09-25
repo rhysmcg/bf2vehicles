@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ca5paju5ecgm8"
+path="res://.godot/imported/p_rock_s.con-36a9422d34999c1bd038d8fe272194ba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/rocks/p_rock_s/p_rock_s.con"
+dest_files=["res://.godot/imported/p_rock_s.con-36a9422d34999c1bd038d8fe272194ba.scn"]
+
+[params]
+

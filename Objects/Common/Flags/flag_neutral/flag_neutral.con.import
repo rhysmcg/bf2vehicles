@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d23lufgeojqvx"
+path="res://.godot/imported/flag_neutral.con-438cf3976d8f5eb97fafd84072f6ca30.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_neutral/flag_neutral.con"
+dest_files=["res://.godot/imported/flag_neutral.con-438cf3976d8f5eb97fafd84072f6ca30.scn"]
+
+[params]
+

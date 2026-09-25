@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dhis3ybylvl8q"
+path="res://.godot/imported/xp2_harvestclutster01_lod.staticmesh-91dae28d32b47b0d3f7bc7afc95c54db.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_harvestcluster01/meshes/xp2_harvestclutster01_lod.staticmesh"
+dest_files=["res://.godot/imported/xp2_harvestclutster01_lod.staticmesh-91dae28d32b47b0d3f7bc7afc95c54db.scn"]
+
+[params]
+

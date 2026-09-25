@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u7bvwg0rnnan"
+path="res://.godot/imported/e_destruction_highwaybridge.con-b3e59362e8dff61f7b9f7a9547ed9e7b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/e_destruction_highwaybridge.con"
+dest_files=["res://.godot/imported/e_destruction_highwaybridge.con-b3e59362e8dff61f7b9f7a9547ed9e7b.scn"]
+
+[params]
+

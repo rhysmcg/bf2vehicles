@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://biyhgpo1suauv"
+path="res://.godot/imported/gate_boom_hold.con-ef4678aeae3cd47bd4f62c55e152b52c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/gate_boom_hold/gate_boom_hold.con"
+dest_files=["res://.godot/imported/gate_boom_hold.con-ef4678aeae3cd47bd4f62c55e152b52c.scn"]
+
+[params]
+

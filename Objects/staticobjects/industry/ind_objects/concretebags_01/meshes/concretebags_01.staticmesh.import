@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4ytpn0qap4es"
+path="res://.godot/imported/concretebags_01.staticmesh-22c9d36bf393a20a7730d2ae95aad2e8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/concretebags_01/meshes/concretebags_01.staticmesh"
+dest_files=["res://.godot/imported/concretebags_01.staticmesh-22c9d36bf393a20a7730d2ae95aad2e8.scn"]
+
+[params]
+

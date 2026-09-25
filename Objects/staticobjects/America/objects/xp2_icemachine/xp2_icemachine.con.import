@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xechbli5pwns"
+path="res://.godot/imported/xp2_icemachine.con-10e12ae47152045c3ff8476476940e64.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_icemachine/xp2_icemachine.con"
+dest_files=["res://.godot/imported/xp2_icemachine.con-10e12ae47152045c3ff8476476940e64.scn"]
+
+[params]
+

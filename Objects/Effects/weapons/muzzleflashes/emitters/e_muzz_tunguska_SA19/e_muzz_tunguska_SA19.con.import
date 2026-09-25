@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvejq3rgyev3v"
+path="res://.godot/imported/e_muzz_tunguska_SA19.con-f60b2f82241dc76e38bb4daddaa6629d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_tunguska_SA19/e_muzz_tunguska_SA19.con"
+dest_files=["res://.godot/imported/e_muzz_tunguska_SA19.con-f60b2f82241dc76e38bb4daddaa6629d.scn"]
+
+[params]
+

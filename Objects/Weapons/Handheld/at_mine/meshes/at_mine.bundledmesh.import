@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://g8asraymx0sq"
+path="res://.godot/imported/at_mine.bundledmesh-3a91af0afd6f2c69a55f553588c88f69.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/at_mine/meshes/at_mine.bundledmesh"
+dest_files=["res://.godot/imported/at_mine.bundledmesh-3a91af0afd6f2c69a55f553588c88f69.scn"]
+
+[params]
+

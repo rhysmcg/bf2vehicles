@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjmd7jamc8325"
+path="res://.godot/imported/us_light_soldier.con-32311fd3ee0ad155d9d00cc98107e465.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/Us/us_light_soldier.con"
+dest_files=["res://.godot/imported/us_light_soldier.con-32311fd3ee0ad155d9d00cc98107e465.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://82ap7608qrq5"
+path="res://.godot/imported/tnk_type98.bundledmesh-6a91043c41592a1bc64257563fed91a4.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/tnk_type98/meshes/tnk_type98.bundledmesh"
+dest_files=["res://.godot/imported/tnk_type98.bundledmesh-6a91043c41592a1bc64257563fed91a4.scn"]
+
+[params]
+

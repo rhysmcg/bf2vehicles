@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bm3rwij4sdd1o"
+path="res://.godot/imported/cabledrum_small.staticmesh-050b2f20ce3dffbf20cf5f43a50cf106.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/cabledrum_small/meshes/cabledrum_small.staticmesh"
+dest_files=["res://.godot/imported/cabledrum_small.staticmesh-050b2f20ce3dffbf20cf5f43a50cf106.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://celfmyxk06a0w"
+path="res://.godot/imported/e_mexp_claymore_dirt.con-62e38e339b3d209a186cf33a002345d2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/claymore/e_mexp_claymore_dirt.con"
+dest_files=["res://.godot/imported/e_mexp_claymore_dirt.con-62e38e339b3d209a186cf33a002345d2.scn"]
+
+[params]
+

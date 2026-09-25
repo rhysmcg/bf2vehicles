@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://7jd2cyu2p1sr"
+path="res://.godot/imported/e_predator_trail.con-fdbb3484c3b68ba102ec9cbfc3c94895.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_predator_trail/e_predator_trail.con"
+dest_files=["res://.godot/imported/e_predator_trail.con-fdbb3484c3b68ba102ec9cbfc3c94895.scn"]
+
+[params]
+

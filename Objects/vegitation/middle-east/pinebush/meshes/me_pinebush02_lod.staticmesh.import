@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cv8ei7h12hxvm"
+path="res://.godot/imported/me_pinebush02_lod.staticmesh-f871a97a615bbf07c659d8119c14f1d3.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/pinebush/meshes/me_pinebush02_lod.staticmesh"
+dest_files=["res://.godot/imported/me_pinebush02_lod.staticmesh-f871a97a615bbf07c659d8119c14f1d3.scn"]
+
+[params]
+

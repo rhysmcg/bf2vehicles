@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1aidivi14vv4"
+path="res://.godot/imported/p_wreck_t90_barrel.con-ac05a7443428d354cb20298396ebdac3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_t90/p_wreck_t90_barrel.con"
+dest_files=["res://.godot/imported/p_wreck_t90_barrel.con-ac05a7443428d354cb20298396ebdac3.scn"]
+
+[params]
+

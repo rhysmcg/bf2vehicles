@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwg7fay42rosy"
+path="res://.godot/imported/Dirtroad_Alamein.con-370e55a1396243b1cd5eb82cdd9bfd0c.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirtroad_Alamein.con"
+dest_files=["res://.godot/imported/Dirtroad_Alamein.con-370e55a1396243b1cd5eb82cdd9bfd0c.scn"]
+
+[params]
+

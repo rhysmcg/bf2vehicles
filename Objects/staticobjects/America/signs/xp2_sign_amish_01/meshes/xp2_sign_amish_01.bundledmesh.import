@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dv1shddo8nafv"
+path="res://.godot/imported/xp2_sign_amish_01.bundledmesh-6385a62ce99f131ade32c9d674e3edb4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_sign_amish_01/meshes/xp2_sign_amish_01.bundledmesh"
+dest_files=["res://.godot/imported/xp2_sign_amish_01.bundledmesh-6385a62ce99f131ade32c9d674e3edb4.scn"]
+
+[params]
+

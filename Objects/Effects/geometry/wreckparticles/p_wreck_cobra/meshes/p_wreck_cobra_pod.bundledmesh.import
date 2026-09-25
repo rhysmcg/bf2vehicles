@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://f82ggxhprl3n"
+path="res://.godot/imported/p_wreck_cobra_pod.bundledmesh-b7a2821dc2f211a3319c910de78e85f0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/meshes/p_wreck_cobra_pod.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_cobra_pod.bundledmesh-b7a2821dc2f211a3319c910de78e85f0.scn"]
+
+[params]
+

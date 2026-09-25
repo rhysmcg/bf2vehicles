@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bx8e8h461e25d"
+path="res://.godot/imported/xp2_wirefence_01.con-0409b5bc6bd2ff27a1f3e9230863d3c7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_midnightsun/xp2_wirefence_01/xp2_wirefence_01.con"
+dest_files=["res://.godot/imported/xp2_wirefence_01.con-0409b5bc6bd2ff27a1f3e9230863d3c7.scn"]
+
+[params]
+

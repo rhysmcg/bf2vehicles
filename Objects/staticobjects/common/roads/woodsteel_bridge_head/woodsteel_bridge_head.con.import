@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c31rpudkaaj5f"
+path="res://.godot/imported/woodsteel_bridge_head.con-82fca2cb43fc65ac4bdba9a942a3d4f4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/woodsteel_bridge_head/woodsteel_bridge_head.con"
+dest_files=["res://.godot/imported/woodsteel_bridge_head.con-82fca2cb43fc65ac4bdba9a942a3d4f4.scn"]
+
+[params]
+

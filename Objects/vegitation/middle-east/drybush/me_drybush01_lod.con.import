@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://sa34c175yg71"
+path="res://.godot/imported/me_drybush01_lod.con-886c9cef2e686ba0a98d41c0f234dacd.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/drybush/me_drybush01_lod.con"
+dest_files=["res://.godot/imported/me_drybush01_lod.con-886c9cef2e686ba0a98d41c0f234dacd.scn"]
+
+[params]
+

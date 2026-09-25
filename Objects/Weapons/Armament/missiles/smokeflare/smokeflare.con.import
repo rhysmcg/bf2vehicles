@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ra0wdhx6ljyb"
+path="res://.godot/imported/smokeflare.con-84bc35f3077f53d8baba6b256d262c2a.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/smokeflare/smokeflare.con"
+dest_files=["res://.godot/imported/smokeflare.con-84bc35f3077f53d8baba6b256d262c2a.scn"]
+
+[params]
+

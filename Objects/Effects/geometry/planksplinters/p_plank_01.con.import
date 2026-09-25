@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdpxfxatllv12"
+path="res://.godot/imported/p_plank_01.con-f3f389cda1d7fb5ad84e66d932c4b413.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/planksplinters/p_plank_01.con"
+dest_files=["res://.godot/imported/p_plank_01.con-f3f389cda1d7fb5ad84e66d932c4b413.scn"]
+
+[params]
+

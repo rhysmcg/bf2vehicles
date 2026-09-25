@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4r03cm8o0e70"
+path="res://.godot/imported/e_eryx_trail.con-e6094afb8912ded76adbaa74daea42c3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_eryx_trail/e_eryx_trail.con"
+dest_files=["res://.godot/imported/e_eryx_trail.con-e6094afb8912ded76adbaa74daea42c3.scn"]
+
+[params]
+

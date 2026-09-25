@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dd51lm5dlmi4l"
+path="res://.godot/imported/amdStat_Fountain_waterSpray.con-745e757461f852bed1a61646df9236bd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/amdStat_Fountain_waterSpray.con"
+dest_files=["res://.godot/imported/amdStat_Fountain_waterSpray.con-745e757461f852bed1a61646df9236bd.scn"]
+
+[params]
+

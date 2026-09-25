@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bix4yxg4g46ks"
+path="res://.godot/imported/p_wreck_brick_02.bundledmesh-408d77dbf18f4c55f84ea0fe9c6486ec.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/bridgewreck_particles/meshes/p_wreck_brick_02.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_brick_02.bundledmesh-408d77dbf18f4c55f84ea0fe9c6486ec.scn"]
+
+[params]
+

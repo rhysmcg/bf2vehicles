@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhu8takb5mcyy"
+path="res://.godot/imported/xp2_oiltruck_01_tank_milk.con-cf97db2cb6c06f091509757025847abf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_oiltruck_01/xp2_oiltruck_01_tank_milk.con"
+dest_files=["res://.godot/imported/xp2_oiltruck_01_tank_milk.con-cf97db2cb6c06f091509757025847abf.scn"]
+
+[params]
+

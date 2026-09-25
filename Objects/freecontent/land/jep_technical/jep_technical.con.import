@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0vw51l1p8pqj"
+path="res://.godot/imported/jep_technical.con-f9e630138b06e4f2999d167364b539b5.scn"
+
+[deps]
+
+source_file="res://Objects/freecontent/land/jep_technical/jep_technical.con"
+dest_files=["res://.godot/imported/jep_technical.con-f9e630138b06e4f2999d167364b539b5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1ghdm2kv3v6f"
+path="res://.godot/imported/kord_amobox.con-ae7657b0d2e337e1de60755ceb260acb.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/kord_amobox/kord_amobox.con"
+dest_files=["res://.godot/imported/kord_amobox.con-ae7657b0d2e337e1de60755ceb260acb.scn"]
+
+[params]
+

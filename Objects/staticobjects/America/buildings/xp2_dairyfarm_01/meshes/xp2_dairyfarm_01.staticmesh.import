@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ca2qra62j15i8"
+path="res://.godot/imported/xp2_dairyfarm_01.staticmesh-05a512f1112b381ddc00174a2072114a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_dairyfarm_01/meshes/xp2_dairyfarm_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_dairyfarm_01.staticmesh-05a512f1112b381ddc00174a2072114a.scn"]
+
+[params]
+

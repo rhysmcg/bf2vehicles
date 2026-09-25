@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bnleptxksd8iq"
+path="res://.godot/imported/uav_pred.bundledmesh-10f670fcb015d177d8ab239cc1b086be.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/uav_pred/meshes/uav_pred.bundledmesh"
+dest_files=["res://.godot/imported/uav_pred.bundledmesh-10f670fcb015d177d8ab239cc1b086be.scn"]
+
+[params]
+

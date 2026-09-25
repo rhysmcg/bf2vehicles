@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ch44fqhco4lkd"
+path="res://.godot/imported/e_destruction_fence.con-256f5691c4049129bb67aafac00aeb97.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_fence/e_destruction_fence.con"
+dest_files=["res://.godot/imported/e_destruction_fence.con-256f5691c4049129bb67aafac00aeb97.scn"]
+
+[params]
+

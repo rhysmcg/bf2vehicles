@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://mre3m20gw2vy"
+path="res://.godot/imported/cable40mtwo.staticmesh-4822d831d14007ca951471e749a028ee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable40mtwo/meshes/cable40mtwo.staticmesh"
+dest_files=["res://.godot/imported/cable40mtwo.staticmesh-4822d831d14007ca951471e749a028ee.scn"]
+
+[params]
+

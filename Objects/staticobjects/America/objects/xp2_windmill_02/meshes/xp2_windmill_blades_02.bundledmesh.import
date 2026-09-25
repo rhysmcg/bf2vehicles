@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rmredbe6pmc2"
+path="res://.godot/imported/xp2_windmill_blades_02.bundledmesh-455b5d73c435a916ab821bc1976dca16.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_windmill_02/meshes/xp2_windmill_blades_02.bundledmesh"
+dest_files=["res://.godot/imported/xp2_windmill_blades_02.bundledmesh-455b5d73c435a916ab821bc1976dca16.scn"]
+
+[params]
+

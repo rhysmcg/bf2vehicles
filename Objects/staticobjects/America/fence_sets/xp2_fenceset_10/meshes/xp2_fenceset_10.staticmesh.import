@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://o26vq8vwpod8"
+path="res://.godot/imported/xp2_fenceset_10.staticmesh-15d5c97041fa3ec59c13847cab7491b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/fence_sets/xp2_fenceset_10/meshes/xp2_fenceset_10.staticmesh"
+dest_files=["res://.godot/imported/xp2_fenceset_10.staticmesh-15d5c97041fa3ec59c13847cab7491b2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2go25v7r1nll"
+path="res://.godot/imported/eurif_fnp90.con-48cced16fcd3ef20fc995040b498bc95.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_fnp90/eurif_fnp90.con"
+dest_files=["res://.godot/imported/eurif_fnp90.con-48cced16fcd3ef20fc995040b498bc95.scn"]
+
+[params]
+

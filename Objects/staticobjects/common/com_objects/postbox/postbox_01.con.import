@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://lt55kmqxtux6"
+path="res://.godot/imported/postbox_01.con-2eb4f2ee71d64cd44724b701c8b37de8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/postbox/postbox_01.con"
+dest_files=["res://.godot/imported/postbox_01.con-2eb4f2ee71d64cd44724b701c8b37de8.scn"]
+
+[params]
+

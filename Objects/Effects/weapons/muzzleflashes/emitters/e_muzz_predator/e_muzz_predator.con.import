@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2d0yr4gtlsda"
+path="res://.godot/imported/e_muzz_predator.con-bf6c68f380638e713df43e3ce8785707.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_predator/e_muzz_predator.con"
+dest_files=["res://.godot/imported/e_muzz_predator.con-bf6c68f380638e713df43e3ce8785707.scn"]
+
+[params]
+

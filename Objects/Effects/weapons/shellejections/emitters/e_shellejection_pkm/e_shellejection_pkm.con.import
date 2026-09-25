@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwwfueif2pfdu"
+path="res://.godot/imported/e_shellejection_pkm.con-09592b3f5ce90a47498980a1d1baa9ba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_pkm/e_shellejection_pkm.con"
+dest_files=["res://.godot/imported/e_shellejection_pkm.con-09592b3f5ce90a47498980a1d1baa9ba.scn"]
+
+[params]
+

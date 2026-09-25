@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cxwpjfjrxqn87"
+path="res://.godot/imported/shoppingarea.con-bfac16b1b2462e328d793bf5f5104104.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/shoppingarea/shoppingarea.con"
+dest_files=["res://.godot/imported/shoppingarea.con-bfac16b1b2462e328d793bf5f5104104.scn"]
+
+[params]
+

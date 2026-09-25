@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cuk6q07ak0ko2"
+path="res://.godot/imported/ch_house_modern_01.con-aa66d7022dd8108a639e41ce2e8a4a02.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_house_modern_01/ch_house_modern_01.con"
+dest_files=["res://.godot/imported/ch_house_modern_01.con-aa66d7022dd8108a639e41ce2e8a4a02.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dp64kv4kw7eil"
+path="res://.godot/imported/pagoda_04.staticmesh-048ecd8c0267503a8fd46e80f93d16b7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/pagoda_04/meshes/pagoda_04.staticmesh"
+dest_files=["res://.godot/imported/pagoda_04.staticmesh-048ecd8c0267503a8fd46e80f93d16b7.scn"]
+
+[params]
+

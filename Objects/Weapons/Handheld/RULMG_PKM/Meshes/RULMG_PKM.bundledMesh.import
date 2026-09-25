@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c0coglycyky8b"
+path="res://.godot/imported/RULMG_PKM.bundledMesh-5e9a51d08338325c58dd962ea2fa44bc.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RULMG_PKM/Meshes/RULMG_PKM.bundledMesh"
+dest_files=["res://.godot/imported/RULMG_PKM.bundledMesh-5e9a51d08338325c58dd962ea2fa44bc.scn"]
+
+[params]
+

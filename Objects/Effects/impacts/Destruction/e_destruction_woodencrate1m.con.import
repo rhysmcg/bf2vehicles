@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2ewqchvuwi05"
+path="res://.godot/imported/e_destruction_woodencrate1m.con-87a1aa4eac9ec73a89974bfa132783ba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_woodencrate1m.con"
+dest_files=["res://.godot/imported/e_destruction_woodencrate1m.con-87a1aa4eac9ec73a89974bfa132783ba.scn"]
+
+[params]
+

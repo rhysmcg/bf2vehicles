@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddhpadcghhv33"
+path="res://.godot/imported/decal_l_glass_vehicle.con-c6be09f304d06a2530122b86dbabc32a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_glass_vehicle.con"
+dest_files=["res://.godot/imported/decal_l_glass_vehicle.con-c6be09f304d06a2530122b86dbabc32a.scn"]
+
+[params]
+

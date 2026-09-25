@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://clt738cx6pp88"
+path="res://.godot/imported/USAPC_LAV25.bundledMesh-9668c60abeb3f29227635bfd5132dd65.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USAPC_LAV25/Meshes/USAPC_LAV25.bundledMesh"
+dest_files=["res://.godot/imported/USAPC_LAV25.bundledMesh-9668c60abeb3f29227635bfd5132dd65.scn"]
+
+[params]
+

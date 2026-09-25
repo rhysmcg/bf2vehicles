@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dcl5alm1xalks"
+path="res://.godot/imported/E_web_wheeled_dirt.con-a66002ba8b898be85bb674cbb54cb7d1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_dirt/E_web_wheeled_dirt.con"
+dest_files=["res://.godot/imported/E_web_wheeled_dirt.con-a66002ba8b898be85bb674cbb54cb7d1.scn"]
+
+[params]
+

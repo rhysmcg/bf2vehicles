@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c6j5lds7im74s"
+path="res://.godot/imported/wreck_uh60_door.staticmesh-2ec11c722fa1b156a88d247b56be7729.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/meshes/wreck_uh60_door.staticmesh"
+dest_files=["res://.godot/imported/wreck_uh60_door.staticmesh-2ec11c722fa1b156a88d247b56be7729.scn"]
+
+[params]
+

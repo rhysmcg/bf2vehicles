@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cixl72uqgo5x4"
+path="res://.godot/imported/p_wreck_vodnik_door.bundledmesh-c1ac920f3bc30d6c4bb52d462bad6526.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_vodnik/meshes/p_wreck_vodnik_door.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_vodnik_door.bundledmesh-c1ac920f3bc30d6c4bb52d462bad6526.scn"]
+
+[params]
+

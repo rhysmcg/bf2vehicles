@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtiq72dxbg8tl"
+path="res://.godot/imported/mec_heavy_soldier.con-5275f7105e993a6c122969680f44b790.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/mec/mec_heavy_soldier.con"
+dest_files=["res://.godot/imported/mec_heavy_soldier.con-5275f7105e993a6c122969680f44b790.scn"]
+
+[params]
+

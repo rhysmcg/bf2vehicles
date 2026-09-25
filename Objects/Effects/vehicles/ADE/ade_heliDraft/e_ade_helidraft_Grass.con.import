@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://mpcsec0ggkno"
+path="res://.godot/imported/e_ade_helidraft_Grass.con-a5f383190413846951f341aba1b67377.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/e_ade_helidraft_Grass.con"
+dest_files=["res://.godot/imported/e_ade_helidraft_Grass.con-a5f383190413846951f341aba1b67377.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dshygji6km4nq"
+path="res://.godot/imported/e_destruction_woodsteel_bridge.con-83ae640d01362c6f4b7383ccae024018.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/e_destruction_woodsteel_bridge.con"
+dest_files=["res://.godot/imported/e_destruction_woodsteel_bridge.con-83ae640d01362c6f4b7383ccae024018.scn"]
+
+[params]
+

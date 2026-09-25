@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cduurudul7wbi"
+path="res://.godot/imported/e_vexp_paratrooper.bundledmesh-3dd75eaf3dc408fde6c1bf8c47dd10bb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_paratrooper/meshes/e_vexp_paratrooper.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_paratrooper.bundledmesh-3dd75eaf3dc408fde6c1bf8c47dd10bb.scn"]
+
+[params]
+

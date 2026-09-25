@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhihcrt2gm3c8"
+path="res://.godot/imported/rupis_baghira.bundledmesh-75503599a10d1e8f6136f03a4642a684.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rupis_baghira/meshes/rupis_baghira.bundledmesh"
+dest_files=["res://.godot/imported/rupis_baghira.bundledmesh-75503599a10d1e8f6136f03a4642a684.scn"]
+
+[params]
+

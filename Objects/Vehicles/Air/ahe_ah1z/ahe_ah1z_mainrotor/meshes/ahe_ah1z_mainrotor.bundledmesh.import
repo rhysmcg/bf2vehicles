@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d16oo0yqbanqd"
+path="res://.godot/imported/ahe_ah1z_mainrotor.bundledmesh-f298b2bdeb94ee7ec1ee85205070250f.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/ahe_ah1z_mainrotor/meshes/ahe_ah1z_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/ahe_ah1z_mainrotor.bundledmesh-f298b2bdeb94ee7ec1ee85205070250f.scn"]
+
+[params]
+

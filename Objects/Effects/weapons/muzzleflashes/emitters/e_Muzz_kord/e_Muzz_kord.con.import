@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djfxhaq1fnvjs"
+path="res://.godot/imported/e_Muzz_kord.con-f3a64966f974367c7f9efdd67ee6e6ec.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_Muzz_kord/e_Muzz_kord.con"
+dest_files=["res://.godot/imported/e_Muzz_kord.con-f3a64966f974367c7f9efdd67ee6e6ec.scn"]
+
+[params]
+

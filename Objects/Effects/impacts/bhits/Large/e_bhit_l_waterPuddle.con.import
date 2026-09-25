@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4oo8et8c7vnh"
+path="res://.godot/imported/e_bhit_l_waterPuddle.con-c94ce5c5faf0558bf4943d344442d8c6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_waterPuddle.con"
+dest_files=["res://.godot/imported/e_bhit_l_waterPuddle.con-c94ce5c5faf0558bf4943d344442d8c6.scn"]
+
+[params]
+

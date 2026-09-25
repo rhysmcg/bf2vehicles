@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cce1wpps4nfe7"
+path="res://.godot/imported/e_destruction_stonebridge_4lane.bundledmesh-bfdaf48d8f3790b9d26bb383e4994557.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/meshes/e_destruction_stonebridge_4lane.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_stonebridge_4lane.bundledmesh-bfdaf48d8f3790b9d26bb383e4994557.scn"]
+
+[params]
+

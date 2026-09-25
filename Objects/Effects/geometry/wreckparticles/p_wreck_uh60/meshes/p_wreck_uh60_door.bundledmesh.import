@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://t4jpsg6l6ar8"
+path="res://.godot/imported/p_wreck_uh60_door.bundledmesh-4259241df244546cbecfa538376b7e9c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/meshes/p_wreck_uh60_door.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_uh60_door.bundledmesh-4259241df244546cbecfa538376b7e9c.scn"]
+
+[params]
+

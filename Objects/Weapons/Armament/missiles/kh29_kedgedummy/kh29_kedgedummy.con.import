@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://buda5w5vks6jg"
+path="res://.godot/imported/kh29_kedgedummy.con-00ca3d3fcd7e5fcb87ee4a7c25941c63.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/kh29_kedgedummy/kh29_kedgedummy.con"
+dest_files=["res://.godot/imported/kh29_kedgedummy.con-00ca3d3fcd7e5fcb87ee4a7c25941c63.scn"]
+
+[params]
+

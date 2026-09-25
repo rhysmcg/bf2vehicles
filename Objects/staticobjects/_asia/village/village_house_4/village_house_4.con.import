@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfgpoxa1hfwfd"
+path="res://.godot/imported/village_house_4.con-16aaa2c70b2b66d31f02ed9163eef708.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_house_4/village_house_4.con"
+dest_files=["res://.godot/imported/village_house_4.con-16aaa2c70b2b66d31f02ed9163eef708.scn"]
+
+[params]
+

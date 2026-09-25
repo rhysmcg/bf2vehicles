@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsmw45gpd3kje"
+path="res://.godot/imported/wpipe_tinter.staticmesh-06c2061d51299a57548f725bd4897fd2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_tinter/meshes/wpipe_tinter.staticmesh"
+dest_files=["res://.godot/imported/wpipe_tinter.staticmesh-06c2061d51299a57548f725bd4897fd2.scn"]
+
+[params]
+

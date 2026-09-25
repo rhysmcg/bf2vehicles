@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3fhc868osvgh"
+path="res://.godot/imported/baselight.con-dcf9d62a9e71846ce65fe06d1a3b5e84.scn"
+
+[deps]
+
+source_file="res://Objects/Common/lightsources/baselight/baselight.con"
+dest_files=["res://.godot/imported/baselight.con-dcf9d62a9e71846ce65fe06d1a3b5e84.scn"]
+
+[params]
+

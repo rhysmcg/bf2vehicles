@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8ymk3ja0yocu"
+path="res://.godot/imported/sign_yieldright.con-1ce7dbfbbc94aae18a7e32eb746e4451.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_yieldright/sign_yieldright.con"
+dest_files=["res://.godot/imported/sign_yieldright.con-1ce7dbfbbc94aae18a7e32eb746e4451.scn"]
+
+[params]
+

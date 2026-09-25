@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5jdwqbjlp4bm"
+path="res://.godot/imported/constructionfence01.staticmesh-8be34ee91f199d39c19dbf4dcc356403.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/constructionfence01/meshes/constructionfence01.staticmesh"
+dest_files=["res://.godot/imported/constructionfence01.staticmesh-8be34ee91f199d39c19dbf4dcc356403.scn"]
+
+[params]
+

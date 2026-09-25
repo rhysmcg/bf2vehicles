@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ixw2mpocndgv"
+path="res://.godot/imported/ind_powerstation_02.con-fc306e52b15aae02682a7d60120ea09c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/ind_powerstation/ind_powerstation_02.con"
+dest_files=["res://.godot/imported/ind_powerstation_02.con-fc306e52b15aae02682a7d60120ea09c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bfopr6jxmv8is"
+path="res://.godot/imported/aa_base_bottom.staticmesh-e12726a7acc9e9f68dcef4c5da292ab9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/aa_base_bottom/meshes/aa_base_bottom.staticmesh"
+dest_files=["res://.godot/imported/aa_base_bottom.staticmesh-e12726a7acc9e9f68dcef4c5da292ab9.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfwimh23nucv6"
+path="res://.godot/imported/boatwreck_small.con-a9fa2f258c244e745570aea20e2e549c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_objects/boatwreck_small/boatwreck_small.con"
+dest_files=["res://.godot/imported/boatwreck_small.con-a9fa2f258c244e745570aea20e2e549c.scn"]
+
+[params]
+

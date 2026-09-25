@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://iq70h8o7lv31"
+path="res://.godot/imported/antennamast.con-341ca046ef2876ff398c1232ea50cba1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/antennamast/antennamast.con"
+dest_files=["res://.godot/imported/antennamast.con-341ca046ef2876ff398c1232ea50cba1.scn"]
+
+[params]
+

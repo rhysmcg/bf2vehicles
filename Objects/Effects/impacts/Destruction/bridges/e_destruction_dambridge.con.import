@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dyj6p107jebgg"
+path="res://.godot/imported/e_destruction_dambridge.con-c265247c26b64ab097edae33b83b853a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/e_destruction_dambridge.con"
+dest_files=["res://.godot/imported/e_destruction_dambridge.con-c265247c26b64ab097edae33b83b853a.scn"]
+
+[params]
+

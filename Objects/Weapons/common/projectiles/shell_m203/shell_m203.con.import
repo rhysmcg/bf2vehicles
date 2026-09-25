@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bojvpcw31lgjy"
+path="res://.godot/imported/shell_m203.con-730b38c3a2abbe93add41a3526c9370f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/projectiles/shell_m203/shell_m203.con"
+dest_files=["res://.godot/imported/shell_m203.con-730b38c3a2abbe93add41a3526c9370f.scn"]
+
+[params]
+

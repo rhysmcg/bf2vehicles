@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cgu7dxvjpvvjt"
+path="res://.godot/imported/p_fish.bundledmesh-229f2dfebc7a43e43ea1d770938915de.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_fish.bundledmesh"
+dest_files=["res://.godot/imported/p_fish.bundledmesh-229f2dfebc7a43e43ea1d770938915de.scn"]
+
+[params]
+

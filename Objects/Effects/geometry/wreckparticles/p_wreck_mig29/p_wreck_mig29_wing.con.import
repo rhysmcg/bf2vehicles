@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://byqoxpjiiec1k"
+path="res://.godot/imported/p_wreck_mig29_wing.con-fd3c97a6cc09edd18afd745fe71c0067.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mig29/p_wreck_mig29_wing.con"
+dest_files=["res://.godot/imported/p_wreck_mig29_wing.con-fd3c97a6cc09edd18afd745fe71c0067.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://udgbmsv4upxb"
+path="res://.godot/imported/e_missile_trail.con-cf7a150df855564bccabc98ab2b159eb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_missile_trail/e_missile_trail.con"
+dest_files=["res://.godot/imported/e_missile_trail.con-cf7a150df855564bccabc98ab2b159eb.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://mr82cw2vtpc5"
+path="res://.godot/imported/xp2_oaktree_01_lod.con-2d38588dda5849ca5a2ab6cc443fcfb2.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_oaktree_01/xp2_oaktree_01_lod.con"
+dest_files=["res://.godot/imported/xp2_oaktree_01_lod.con-2d38588dda5849ca5a2ab6cc443fcfb2.scn"]
+
+[params]
+

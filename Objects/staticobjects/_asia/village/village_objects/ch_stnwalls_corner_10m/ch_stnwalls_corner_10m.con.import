@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0amvvwh6j5pw"
+path="res://.godot/imported/ch_stnwalls_corner_10m.con-c95cda6131c403377887585e8e06368c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_corner_10m/ch_stnwalls_corner_10m.con"
+dest_files=["res://.godot/imported/ch_stnwalls_corner_10m.con-c95cda6131c403377887585e8e06368c.scn"]
+
+[params]
+

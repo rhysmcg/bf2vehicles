@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cnfgdw5sghbtv"
+path="res://.godot/imported/cement_factory.staticmesh-38a170ee23daab65982acd95d14feb7a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/cement_factory/meshes/cement_factory.staticmesh"
+dest_files=["res://.godot/imported/cement_factory.staticmesh-38a170ee23daab65982acd95d14feb7a.scn"]
+
+[params]
+

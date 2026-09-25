@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dcuh1srqyrtr1"
+path="res://.godot/imported/xp2_lrgfactorybuilding.staticmesh-2dfd560e818ef939651ef815650b0960.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_lrgfactorybuilding/meshes/xp2_lrgfactorybuilding.staticmesh"
+dest_files=["res://.godot/imported/xp2_lrgfactorybuilding.staticmesh-2dfd560e818ef939651ef815650b0960.scn"]
+
+[params]
+

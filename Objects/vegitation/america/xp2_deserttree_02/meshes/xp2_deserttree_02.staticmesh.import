@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cnrwyitbgpma"
+path="res://.godot/imported/xp2_deserttree_02.staticmesh-1651882313f8a068b5a1d85e82aa816e.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_deserttree_02/meshes/xp2_deserttree_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_deserttree_02.staticmesh-1651882313f8a068b5a1d85e82aa816e.scn"]
+
+[params]
+

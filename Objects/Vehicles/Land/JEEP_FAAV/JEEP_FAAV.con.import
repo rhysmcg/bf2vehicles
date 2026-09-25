@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bmm8lhaswpjg1"
+path="res://.godot/imported/JEEP_FAAV.con-d23b81608473e4b37d71ffb1fac04427.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/JEEP_FAAV/JEEP_FAAV.con"
+dest_files=["res://.godot/imported/JEEP_FAAV.con-d23b81608473e4b37d71ffb1fac04427.scn"]
+
+[params]
+

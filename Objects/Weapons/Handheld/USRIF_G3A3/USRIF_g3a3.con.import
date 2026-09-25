@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bsx30ikry364w"
+path="res://.godot/imported/USRIF_g3a3.con-53a6ca92e75b80b117a884bb1928a90d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRIF_G3A3/USRIF_g3a3.con"
+dest_files=["res://.godot/imported/USRIF_g3a3.con-53a6ca92e75b80b117a884bb1928a90d.scn"]
+
+[params]
+

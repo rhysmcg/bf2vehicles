@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0f40r4dx0lew"
+path="res://.godot/imported/barrels_stacked_dummy.con-44391183da312f51b02b39e2319eaff2.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/barrels_stacked/barrels_stacked_dummy.con"
+dest_files=["res://.godot/imported/barrels_stacked_dummy.con-44391183da312f51b02b39e2319eaff2.scn"]
+
+[params]
+

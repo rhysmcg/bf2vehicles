@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ba7m4c5icmogm"
+path="res://.godot/imported/air_su39.bundledmesh-4d13b7cae6469195d09065f3aad98df4.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_su39/meshes/air_su39.bundledmesh"
+dest_files=["res://.godot/imported/air_su39.bundledmesh-4d13b7cae6469195d09065f3aad98df4.scn"]
+
+[params]
+

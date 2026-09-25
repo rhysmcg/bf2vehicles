@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cwuur615ny6bf"
+path="res://.godot/imported/woodencrate_destructible.staticmesh-9dfbcda6eb221c224c610182aeb3e1ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/woodencrate_destructible/meshes/woodencrate_destructible.staticmesh"
+dest_files=["res://.godot/imported/woodencrate_destructible.staticmesh-9dfbcda6eb221c224c610182aeb3e1ae.scn"]
+
+[params]
+

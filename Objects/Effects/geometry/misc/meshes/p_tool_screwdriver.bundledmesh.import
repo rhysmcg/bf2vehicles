@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cmhcc74kr21wc"
+path="res://.godot/imported/p_tool_screwdriver.bundledmesh-ae1b32142740801a0979fcbecef1ba23.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_tool_screwdriver.bundledmesh"
+dest_files=["res://.godot/imported/p_tool_screwdriver.bundledmesh-ae1b32142740801a0979fcbecef1ba23.scn"]
+
+[params]
+

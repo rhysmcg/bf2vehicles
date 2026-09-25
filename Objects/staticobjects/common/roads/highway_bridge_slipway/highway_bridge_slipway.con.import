@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8uryuaa4k5g2"
+path="res://.godot/imported/highway_bridge_slipway.con-44b12407e9db745b44c2fc1504ded161.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_slipway/highway_bridge_slipway.con"
+dest_files=["res://.godot/imported/highway_bridge_slipway.con-44b12407e9db745b44c2fc1504ded161.scn"]
+
+[params]
+

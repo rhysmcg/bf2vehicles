@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cy1tdw0k7qqoq"
+path="res://.godot/imported/cleansweep_suply.con-da96f6786ffa7c283bb7ec654e962348.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cleansweep_suply/cleansweep_suply.con"
+dest_files=["res://.godot/imported/cleansweep_suply.con-da96f6786ffa7c283bb7ec654e962348.scn"]
+
+[params]
+

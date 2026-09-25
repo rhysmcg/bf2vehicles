@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://brryv3ostvwr2"
+path="res://.godot/imported/e_bhit_20mm_wood.con-a7377a5cbd2a4caafe4bfe0a1be0f76e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_wood.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_wood.con-a7377a5cbd2a4caafe4bfe0a1be0f76e.scn"]
+
+[params]
+

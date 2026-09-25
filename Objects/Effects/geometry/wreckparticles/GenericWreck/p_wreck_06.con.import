@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dsdu4qhaao075"
+path="res://.godot/imported/p_wreck_06.con-8060e201c7557f424df478f923dd43f5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/GenericWreck/p_wreck_06.con"
+dest_files=["res://.godot/imported/p_wreck_06.con-8060e201c7557f424df478f923dd43f5.scn"]
+
+[params]
+

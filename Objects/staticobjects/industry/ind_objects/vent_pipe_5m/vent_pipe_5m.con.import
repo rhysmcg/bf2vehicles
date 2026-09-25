@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjd704m5gxjvh"
+path="res://.godot/imported/vent_pipe_5m.con-12c9547f3b3ed595a129bd05e85a4dcf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/vent_pipe_5m/vent_pipe_5m.con"
+dest_files=["res://.godot/imported/vent_pipe_5m.con-12c9547f3b3ed595a129bd05e85a4dcf.scn"]
+
+[params]
+

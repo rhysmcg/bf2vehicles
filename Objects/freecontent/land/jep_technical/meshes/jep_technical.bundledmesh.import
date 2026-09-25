@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b7mfegltl1fot"
+path="res://.godot/imported/jep_technical.bundledmesh-7480f0ed7956fe6b5ea3c44127d79bd2.scn"
+
+[deps]
+
+source_file="res://Objects/freecontent/land/jep_technical/meshes/jep_technical.bundledmesh"
+dest_files=["res://.godot/imported/jep_technical.bundledmesh-7480f0ed7956fe6b5ea3c44127d79bd2.scn"]
+
+[params]
+

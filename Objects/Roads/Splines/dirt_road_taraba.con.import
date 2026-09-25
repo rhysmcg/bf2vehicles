@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dft67bqevwaes"
+path="res://.godot/imported/dirt_road_taraba.con-912f16e93b3f86a0302a7725c56a2a84.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/dirt_road_taraba.con"
+dest_files=["res://.godot/imported/dirt_road_taraba.con-912f16e93b3f86a0302a7725c56a2a84.scn"]
+
+[params]
+

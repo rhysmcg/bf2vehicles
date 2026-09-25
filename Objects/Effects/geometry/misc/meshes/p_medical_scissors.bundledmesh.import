@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dr3fefk8eh3qo"
+path="res://.godot/imported/p_medical_scissors.bundledmesh-a95b27e6c7300500e8e10e86c99ecde4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_medical_scissors.bundledmesh"
+dest_files=["res://.godot/imported/p_medical_scissors.bundledmesh-a95b27e6c7300500e8e10e86c99ecde4.scn"]
+
+[params]
+

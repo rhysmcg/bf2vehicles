@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cwuuhs0vhnbkh"
+path="res://.godot/imported/sign_stop.staticmesh-70cab960e2a9d0d067511d677e6f5de5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_stop/meshes/sign_stop.staticmesh"
+dest_files=["res://.godot/imported/sign_stop.staticmesh-70cab960e2a9d0d067511d677e6f5de5.scn"]
+
+[params]
+

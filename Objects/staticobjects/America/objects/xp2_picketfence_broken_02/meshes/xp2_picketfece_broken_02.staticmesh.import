@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dk2w88un1lf6f"
+path="res://.godot/imported/xp2_picketfece_broken_02.staticmesh-cdee3de4a0ae04413f861e6610dc3a97.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_picketfence_broken_02/meshes/xp2_picketfece_broken_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_picketfece_broken_02.staticmesh-cdee3de4a0ae04413f861e6610dc3a97.scn"]
+
+[params]
+

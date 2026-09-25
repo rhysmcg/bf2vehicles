@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://px6sf0f3kvud"
+path="res://.godot/imported/chsht_protecta.con-feb62da6dc3070a40d0e5dfc8ba9995d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_protecta/chsht_protecta.con"
+dest_files=["res://.godot/imported/chsht_protecta.con-feb62da6dc3070a40d0e5dfc8ba9995d.scn"]
+
+[params]
+

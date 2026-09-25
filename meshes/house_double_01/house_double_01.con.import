@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xxjycqmkjswp"
+path="res://.godot/imported/house_double_01.con-c3f41e5eccf475c926db7571a67e95e1.scn"
+
+[deps]
+
+source_file="res://meshes/house_double_01/house_double_01.con"
+dest_files=["res://.godot/imported/house_double_01.con-c3f41e5eccf475c926db7571a67e95e1.scn"]
+
+[params]
+

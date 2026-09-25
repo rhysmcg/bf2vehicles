@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://y3nwukdem62s"
+path="res://.godot/imported/xp2_highwaynoisewallpost_01.staticmesh-a947f943d3176e7826d5d1e68dc68e53.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_highwaynoisewallpost_01/meshes/xp2_highwaynoisewallpost_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_highwaynoisewallpost_01.staticmesh-a947f943d3176e7826d5d1e68dc68e53.scn"]
+
+[params]
+

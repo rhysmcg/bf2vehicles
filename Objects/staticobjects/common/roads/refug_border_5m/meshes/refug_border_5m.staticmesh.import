@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bh1ldv8jdfi0b"
+path="res://.godot/imported/refug_border_5m.staticmesh-357cafbb0ec35afa67943e65d8674bdc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_border_5m/meshes/refug_border_5m.staticmesh"
+dest_files=["res://.godot/imported/refug_border_5m.staticmesh-357cafbb0ec35afa67943e65d8674bdc.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjl8avganb3lj"
+path="res://.godot/imported/mec_250_bomb.bundledmesh-39686341ca42e23a99fe0a0d26f482a6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/mec_250_bomb/meshes/mec_250_bomb.bundledmesh"
+dest_files=["res://.godot/imported/mec_250_bomb.bundledmesh-39686341ca42e23a99fe0a0d26f482a6.scn"]
+
+[params]
+

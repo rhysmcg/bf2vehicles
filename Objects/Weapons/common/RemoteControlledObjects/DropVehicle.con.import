@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csgt0d3lrdwpd"
+path="res://.godot/imported/DropVehicle.con-2a695d59fd359ecd6f31332e0b648253.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/DropVehicle.con"
+dest_files=["res://.godot/imported/DropVehicle.con-2a695d59fd359ecd6f31332e0b648253.scn"]
+
+[params]
+

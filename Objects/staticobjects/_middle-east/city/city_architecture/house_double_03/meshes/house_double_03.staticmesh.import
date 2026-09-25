@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c0gq0uyfb6jdf"
+path="res://.godot/imported/house_double_03.staticmesh-1697efb96bf9a35af89f9d4fe6414595.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_double_03/meshes/house_double_03.staticmesh"
+dest_files=["res://.godot/imported/house_double_03.staticmesh-1697efb96bf9a35af89f9d4fe6414595.scn"]
+
+[params]
+

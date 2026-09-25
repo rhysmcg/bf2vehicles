@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ch4x8shp6w3w5"
+path="res://.godot/imported/ch_phone_booth.staticmesh-b5100b92a1e1115b6cea18e34165838d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ch_phone_booth/meshes/ch_phone_booth.staticmesh"
+dest_files=["res://.godot/imported/ch_phone_booth.staticmesh-b5100b92a1e1115b6cea18e34165838d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dilyeek5isxgq"
+path="res://.godot/imported/wpipe_bend.con-f23382eb1fda59d3e4136f6a0ab85958.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_bend/wpipe_bend.con"
+dest_files=["res://.godot/imported/wpipe_bend.con-f23382eb1fda59d3e4136f6a0ab85958.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ci0q6jkfydsdn"
+path="res://.godot/imported/pier.con-79612c49cda4574cccbb3431880f19ed.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_objects/pier/pier.con"
+dest_files=["res://.godot/imported/pier.con-79612c49cda4574cccbb3431880f19ed.scn"]
+
+[params]
+

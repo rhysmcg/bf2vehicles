@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7eyt65bacitx"
+path="res://.godot/imported/sign_camel.con-917a13a948c242a05e5450d292dacb09.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_camel/sign_camel.con"
+dest_files=["res://.godot/imported/sign_camel.con-917a13a948c242a05e5450d292dacb09.scn"]
+
+[params]
+

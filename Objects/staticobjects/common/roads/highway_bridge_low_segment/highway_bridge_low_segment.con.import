@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://by6ekmbfbw0w8"
+path="res://.godot/imported/highway_bridge_low_segment.con-24538f8cd73de16c82cfbc2d6b87a288.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_low_segment/highway_bridge_low_segment.con"
+dest_files=["res://.godot/imported/highway_bridge_low_segment.con-24538f8cd73de16c82cfbc2d6b87a288.scn"]
+
+[params]
+

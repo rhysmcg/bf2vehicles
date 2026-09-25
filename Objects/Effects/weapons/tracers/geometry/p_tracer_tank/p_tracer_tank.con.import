@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dw2toac3til75"
+path="res://.godot/imported/p_tracer_tank.con-776e34fd04dcf34a367187e0a8223bee.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/tracers/geometry/p_tracer_tank/p_tracer_tank.con"
+dest_files=["res://.godot/imported/p_tracer_tank.con-776e34fd04dcf34a367187e0a8223bee.scn"]
+
+[params]
+

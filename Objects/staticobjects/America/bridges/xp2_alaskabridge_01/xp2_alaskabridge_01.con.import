@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7f3o5jok3hok"
+path="res://.godot/imported/xp2_alaskabridge_01.con-57556fd2e5d43d1ddd5e07c854929280.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_alaskabridge_01/xp2_alaskabridge_01.con"
+dest_files=["res://.godot/imported/xp2_alaskabridge_01.con-57556fd2e5d43d1ddd5e07c854929280.scn"]
+
+[params]
+

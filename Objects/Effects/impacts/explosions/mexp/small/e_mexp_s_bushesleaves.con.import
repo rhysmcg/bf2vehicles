@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bx17po2o34wvx"
+path="res://.godot/imported/e_mexp_s_bushesleaves.con-5e090e93f02aff82d0725b03042345f0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_bushesleaves.con"
+dest_files=["res://.godot/imported/e_mexp_s_bushesleaves.con-5e090e93f02aff82d0725b03042345f0.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bh5efdmbtum8q"
+path="res://.godot/imported/RURIF_GP30.con-9639270e255603da4381d1f76021dc4e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP30/RURIF_GP30.con"
+dest_files=["res://.godot/imported/RURIF_GP30.con-9639270e255603da4381d1f76021dc4e.scn"]
+
+[params]
+

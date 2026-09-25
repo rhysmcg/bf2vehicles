@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d30ymdry01l3w"
+path="res://.godot/imported/rurif_gp25.bundledmesh-111298b10a4bb2911e0726caddd996d0.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP25/meshes/rurif_gp25.bundledmesh"
+dest_files=["res://.godot/imported/rurif_gp25.bundledmesh-111298b10a4bb2911e0726caddd996d0.scn"]
+
+[params]
+

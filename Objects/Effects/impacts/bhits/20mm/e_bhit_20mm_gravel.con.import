@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://laid1bneg2m1"
+path="res://.godot/imported/e_bhit_20mm_gravel.con-9f4fe7e8c7c8e98972e9ffecc637ed52.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_gravel.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_gravel.con-9f4fe7e8c7c8e98972e9ffecc637ed52.scn"]
+
+[params]
+

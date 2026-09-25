@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c411iunk78jif"
+path="res://.godot/imported/p_shell_smallarms.con-ce8bf18e3f4ba0d70ebc9b7995c39a5c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_smallarms/p_shell_smallarms.con"
+dest_files=["res://.godot/imported/p_shell_smallarms.con-ce8bf18e3f4ba0d70ebc9b7995c39a5c.scn"]
+
+[params]
+

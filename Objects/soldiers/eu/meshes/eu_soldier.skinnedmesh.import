@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://7bwyas6lhgj2"
+path="res://.godot/imported/eu_soldier.skinnedmesh-a2ea8454db792b7d23b9d7246076ca59.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/meshes/eu_soldier.skinnedmesh"
+dest_files=["res://.godot/imported/eu_soldier.skinnedmesh-a2ea8454db792b7d23b9d7246076ca59.scn"]
+
+[params]
+

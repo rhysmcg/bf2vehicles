@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://r7qbqy18cmap"
+path="res://.godot/imported/ImpactSounds.con-90d8a719c773c8810aa640e131518d4b.scn"
+
+[deps]
+
+source_file="res://Common/Material/ImpactSounds.con"
+dest_files=["res://.godot/imported/ImpactSounds.con-90d8a719c773c8810aa640e131518d4b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c0418agc7kn46"
+path="res://.godot/imported/pipeline_curvedown.staticmesh-4b44f5c89ebf64163021571daaf8ad31.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_curvedown/meshes/pipeline_curvedown.staticmesh"
+dest_files=["res://.godot/imported/pipeline_curvedown.staticmesh-4b44f5c89ebf64163021571daaf8ad31.scn"]
+
+[params]
+

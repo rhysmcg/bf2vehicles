@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bai6nx6k1015u"
+path="res://.godot/imported/r_intersection_45degree.staticmesh-af3cfce088178a879ffe4132cb73220b.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/r_intersection_45degree/meshes/r_intersection_45degree.staticmesh"
+dest_files=["res://.godot/imported/r_intersection_45degree.staticmesh-af3cfce088178a879ffe4132cb73220b.scn"]
+
+[params]
+

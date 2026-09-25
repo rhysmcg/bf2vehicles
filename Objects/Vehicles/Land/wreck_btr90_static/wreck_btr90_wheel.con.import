@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfqw1yteqyn8k"
+path="res://.godot/imported/wreck_btr90_wheel.con-917b96c6d8cd6891038c9e1a6f2c61b1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/wreck_btr90_static/wreck_btr90_wheel.con"
+dest_files=["res://.godot/imported/wreck_btr90_wheel.con-917b96c6d8cd6891038c9e1a6f2c61b1.scn"]
+
+[params]
+

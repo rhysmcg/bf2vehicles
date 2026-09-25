@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bdpbn0qhryja2"
+path="res://.godot/imported/p_wreck_z10_rotor.bundledmesh-cf077a087c921e4772a52613d01ee2ef.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_z10/meshes/p_wreck_z10_rotor.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_z10_rotor.bundledmesh-cf077a087c921e4772a52613d01ee2ef.scn"]
+
+[params]
+

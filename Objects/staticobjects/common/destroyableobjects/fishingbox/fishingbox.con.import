@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://33cj7j2mbwlv"
+path="res://.godot/imported/fishingbox.con-76d428a2e38201f3381d80a3ed4c4544.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fishingbox/fishingbox.con"
+dest_files=["res://.godot/imported/fishingbox.con-76d428a2e38201f3381d80a3ed4c4544.scn"]
+
+[params]
+

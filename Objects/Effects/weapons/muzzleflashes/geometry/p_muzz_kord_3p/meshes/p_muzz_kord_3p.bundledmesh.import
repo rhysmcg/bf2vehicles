@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d2hb7wygsl4t0"
+path="res://.godot/imported/p_muzz_kord_3p.bundledmesh-7af0418814657fa40468b96df3e69491.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_kord_3p/meshes/p_muzz_kord_3p.bundledmesh"
+dest_files=["res://.godot/imported/p_muzz_kord_3p.bundledmesh-7af0418814657fa40468b96df3e69491.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://btbmu8mlsocsn"
+path="res://.godot/imported/powerline.staticmesh-de303fec827e94a3e39aedafe8afd1a5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/powerline/meshes/powerline.staticmesh"
+dest_files=["res://.godot/imported/powerline.staticmesh-de303fec827e94a3e39aedafe8afd1a5.scn"]
+
+[params]
+

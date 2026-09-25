@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0mlxjjidrpy2"
+path="res://.godot/imported/aav_tunguska.con-7b690fbd4bd1f093a0a93b6eda62de04.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_tunguska/aav_tunguska.con"
+dest_files=["res://.godot/imported/aav_tunguska.con-7b690fbd4bd1f093a0a93b6eda62de04.scn"]
+
+[params]
+

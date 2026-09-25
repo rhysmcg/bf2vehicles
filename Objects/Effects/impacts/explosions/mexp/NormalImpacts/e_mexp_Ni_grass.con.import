@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://be32ctf7vws41"
+path="res://.godot/imported/e_mexp_Ni_grass.con-234409895434da474bc11876ac3ce86b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/NormalImpacts/e_mexp_Ni_grass.con"
+dest_files=["res://.godot/imported/e_mexp_Ni_grass.con-234409895434da474bc11876ac3ce86b.scn"]
+
+[params]
+

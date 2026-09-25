@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://derhjaf5df62u"
+path="res://.godot/imported/sign_streetcrossing_dest.con-71737365caaa803dc527f39a019f4d85.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_streetcrossing_dest/sign_streetcrossing_dest.con"
+dest_files=["res://.godot/imported/sign_streetcrossing_dest.con-71737365caaa803dc527f39a019f4d85.scn"]
+
+[params]
+

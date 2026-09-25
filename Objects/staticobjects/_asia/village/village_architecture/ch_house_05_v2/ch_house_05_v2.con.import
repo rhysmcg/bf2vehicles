@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cp4grvn5sxi71"
+path="res://.godot/imported/ch_house_05_v2.con-5ebb65a2f4dfe25dbbc13eefa1b163b3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_house_05_v2/ch_house_05_v2.con"
+dest_files=["res://.godot/imported/ch_house_05_v2.con-5ebb65a2f4dfe25dbbc13eefa1b163b3.scn"]
+
+[params]
+

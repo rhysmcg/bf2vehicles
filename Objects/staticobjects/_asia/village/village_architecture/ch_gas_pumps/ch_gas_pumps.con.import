@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5g82hrj0p7w6"
+path="res://.godot/imported/ch_gas_pumps.con-7b44ea24c72e813a9d7b069857288dc9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_gas_pumps/ch_gas_pumps.con"
+dest_files=["res://.godot/imported/ch_gas_pumps.con-7b44ea24c72e813a9d7b069857288dc9.scn"]
+
+[params]
+

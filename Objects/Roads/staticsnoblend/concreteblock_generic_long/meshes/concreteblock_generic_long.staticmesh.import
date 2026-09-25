@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://8f38uxel7u01"
+path="res://.godot/imported/concreteblock_generic_long.staticmesh-45a05d3960f0c01cdf4ca8796078cf31.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/concreteblock_generic_long/meshes/concreteblock_generic_long.staticmesh"
+dest_files=["res://.godot/imported/concreteblock_generic_long.staticmesh-45a05d3960f0c01cdf4ca8796078cf31.scn"]
+
+[params]
+

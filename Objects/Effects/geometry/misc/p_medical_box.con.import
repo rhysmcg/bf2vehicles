@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bn60uoiqxung2"
+path="res://.godot/imported/p_medical_box.con-ee45c8820d9e3a78cf9a68b68f0d752c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_box.con"
+dest_files=["res://.godot/imported/p_medical_box.con-ee45c8820d9e3a78cf9a68b68f0d752c.scn"]
+
+[params]
+

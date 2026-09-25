@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddwgu7xapjm44"
+path="res://.godot/imported/aircontroltower_chi.con-0b08cc3d4de21c09505556703a36cf64.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/aircontroltower_chi/aircontroltower_chi.con"
+dest_files=["res://.godot/imported/aircontroltower_chi.con-0b08cc3d4de21c09505556703a36cf64.scn"]
+
+[params]
+

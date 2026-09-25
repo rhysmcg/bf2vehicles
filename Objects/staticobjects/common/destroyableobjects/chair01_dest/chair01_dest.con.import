@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bp46us42pdyp8"
+path="res://.godot/imported/chair01_dest.con-a808fbf0a193767359e9eb6b431a6bad.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/chair01_dest/chair01_dest.con"
+dest_files=["res://.godot/imported/chair01_dest.con-a808fbf0a193767359e9eb6b431a6bad.scn"]
+
+[params]
+

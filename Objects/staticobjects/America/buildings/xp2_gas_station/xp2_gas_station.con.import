@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7kc34kq14rsf"
+path="res://.godot/imported/xp2_gas_station.con-75c22050e2a56de4c7602f85a3eeb19b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_gas_station/xp2_gas_station.con"
+dest_files=["res://.godot/imported/xp2_gas_station.con-75c22050e2a56de4c7602f85a3eeb19b.scn"]
+
+[params]
+

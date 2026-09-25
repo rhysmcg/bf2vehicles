@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bs6nnh6sn32kj"
+path="res://.godot/imported/chimney_02_ladder.staticmesh-cb04693e7874c01bc7c02c55f615d102.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/chimney_02/meshes/chimney_02_ladder.staticmesh"
+dest_files=["res://.godot/imported/chimney_02_ladder.staticmesh-cb04693e7874c01bc7c02c55f615d102.scn"]
+
+[params]
+

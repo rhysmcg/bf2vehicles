@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://r1sqbvj3set8"
+path="res://.godot/imported/xp2_bush_01_lod.con-1399fa79d2daa2ac97b90a1b03e4f5ef.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_bush_01/xp2_bush_01_lod.con"
+dest_files=["res://.godot/imported/xp2_bush_01_lod.con-1399fa79d2daa2ac97b90a1b03e4f5ef.scn"]
+
+[params]
+

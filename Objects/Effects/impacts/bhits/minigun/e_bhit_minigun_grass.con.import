@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ci632wk815a01"
+path="res://.godot/imported/e_bhit_minigun_grass.con-5c48e505dca0b5a483174a2b0cb2be3f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_grass.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_grass.con-5c48e505dca0b5a483174a2b0cb2be3f.scn"]
+
+[params]
+

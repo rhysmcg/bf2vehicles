@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvcjcsfugeu6b"
+path="res://.godot/imported/xp2_grainelevator_01.con-d60e4cbe3d4f29b0752055270d2861d3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_grainelevator_01/xp2_grainelevator_01.con"
+dest_files=["res://.godot/imported/xp2_grainelevator_01.con-d60e4cbe3d4f29b0752055270d2861d3.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://pnbmbnfhkngq"
+path="res://.godot/imported/p_wreck_f18_wing.bundledmesh-9f94810d1e034b1f1e78a3a1c9e9e38d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/meshes/p_wreck_f18_wing.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f18_wing.bundledmesh-9f94810d1e034b1f1e78a3a1c9e9e38d.scn"]
+
+[params]
+

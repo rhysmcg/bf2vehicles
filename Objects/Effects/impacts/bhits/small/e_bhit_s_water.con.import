@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://beh1i87j7u33n"
+path="res://.godot/imported/e_bhit_s_water.con-7b062fd7aa9c92ef2eca87b97ab363ce.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_water.con"
+dest_files=["res://.godot/imported/e_bhit_s_water.con-7b062fd7aa9c92ef2eca87b97ab363ce.scn"]
+
+[params]
+

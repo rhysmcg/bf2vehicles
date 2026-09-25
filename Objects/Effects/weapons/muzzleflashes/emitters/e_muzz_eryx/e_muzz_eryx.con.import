@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cecp4x0ulxx2f"
+path="res://.godot/imported/e_muzz_eryx.con-997a372ed81384e8a1789080d35f77eb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_eryx/e_muzz_eryx.con"
+dest_files=["res://.godot/imported/e_muzz_eryx.con-997a372ed81384e8a1789080d35f77eb.scn"]
+
+[params]
+

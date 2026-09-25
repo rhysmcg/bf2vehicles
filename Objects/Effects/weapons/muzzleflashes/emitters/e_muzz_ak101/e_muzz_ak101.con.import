@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bx447qwtil8em"
+path="res://.godot/imported/e_muzz_ak101.con-99921408552cd566d59aa8d483096de8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_ak101/e_muzz_ak101.con"
+dest_files=["res://.godot/imported/e_muzz_ak101.con-99921408552cd566d59aa8d483096de8.scn"]
+
+[params]
+

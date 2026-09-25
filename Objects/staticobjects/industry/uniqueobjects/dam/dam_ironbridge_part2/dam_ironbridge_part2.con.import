@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bsomjck0do71h"
+path="res://.godot/imported/dam_ironbridge_part2.con-ed5f8b6ad39b2e86e4257c2aad4e57db.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_ironbridge_part2/dam_ironbridge_part2.con"
+dest_files=["res://.godot/imported/dam_ironbridge_part2.con-ed5f8b6ad39b2e86e4257c2aad4e57db.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dy6gcgppu4aau"
+path="res://.godot/imported/angle_slope.staticmesh-f8b855cb29b8ffbb1e16af2048d9a2b0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/angle_slope/meshes/angle_slope.staticmesh"
+dest_files=["res://.godot/imported/angle_slope.staticmesh-f8b855cb29b8ffbb1e16af2048d9a2b0.scn"]
+
+[params]
+

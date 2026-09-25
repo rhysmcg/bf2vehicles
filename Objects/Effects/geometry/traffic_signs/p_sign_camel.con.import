@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbtefdmnvc7ng"
+path="res://.godot/imported/p_sign_camel.con-bf28ea108a0f8d5fb008dc9a3aaa475c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_camel.con"
+dest_files=["res://.godot/imported/p_sign_camel.con-bf28ea108a0f8d5fb008dc9a3aaa475c.scn"]
+
+[params]
+

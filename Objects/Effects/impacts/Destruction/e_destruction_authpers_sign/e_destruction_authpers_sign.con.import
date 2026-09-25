@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2hbo23ax32n1"
+path="res://.godot/imported/e_destruction_authpers_sign.con-ee6efbd8b4e0efd9d9bf92a2cb4e4074.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_authpers_sign/e_destruction_authpers_sign.con"
+dest_files=["res://.godot/imported/e_destruction_authpers_sign.con-ee6efbd8b4e0efd9d9bf92a2cb4e4074.scn"]
+
+[params]
+

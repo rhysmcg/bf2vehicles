@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7g3omer63vql"
+path="res://.godot/imported/she_littlebird_mainrotor.con-2356acae7737ab97fd611354128bb5e1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/she_littlebird_mainrotor/she_littlebird_mainrotor.con"
+dest_files=["res://.godot/imported/she_littlebird_mainrotor.con-2356acae7737ab97fd611354128bb5e1.scn"]
+
+[params]
+

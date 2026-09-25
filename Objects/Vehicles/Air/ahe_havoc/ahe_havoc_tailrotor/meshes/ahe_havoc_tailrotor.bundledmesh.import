@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://btpbydteh32fp"
+path="res://.godot/imported/ahe_havoc_tailrotor.bundledmesh-d3694099e386eb0bbccf030a0ef5dfc6.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/ahe_havoc_tailrotor/meshes/ahe_havoc_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/ahe_havoc_tailrotor.bundledmesh-d3694099e386eb0bbccf030a0ef5dfc6.scn"]
+
+[params]
+

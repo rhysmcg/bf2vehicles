@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhmq7wpcs6x0g"
+path="res://.godot/imported/ambstat_constructionlight_Warning.con-c82ecd72cef8f897073643ec1e187a94.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_constructionlight_Warning.con"
+dest_files=["res://.godot/imported/ambstat_constructionlight_Warning.con-c82ecd72cef8f897073643ec1e187a94.scn"]
+
+[params]
+

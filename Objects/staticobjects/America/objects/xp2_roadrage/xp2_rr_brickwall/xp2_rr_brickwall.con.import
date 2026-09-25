@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dypflc4gcxiqu"
+path="res://.godot/imported/xp2_rr_brickwall.con-616d797e1dc0c45521525bb1408cb674.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_brickwall/xp2_rr_brickwall.con"
+dest_files=["res://.godot/imported/xp2_rr_brickwall.con-616d797e1dc0c45521525bb1408cb674.scn"]
+
+[params]
+

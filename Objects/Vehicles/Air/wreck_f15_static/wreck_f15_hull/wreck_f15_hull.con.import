@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8qepaub5ofd7"
+path="res://.godot/imported/wreck_f15_hull.con-13c36e53be333289d9bd297afe5581ba.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_f15_static/wreck_f15_hull/wreck_f15_hull.con"
+dest_files=["res://.godot/imported/wreck_f15_hull.con-13c36e53be333289d9bd297afe5581ba.scn"]
+
+[params]
+

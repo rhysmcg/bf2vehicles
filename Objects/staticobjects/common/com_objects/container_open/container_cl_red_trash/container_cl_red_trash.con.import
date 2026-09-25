@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d22y4je1cl4di"
+path="res://.godot/imported/container_cl_red_trash.con-ea0eea03742c5f67e0bae0e87edfe5ea.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/container_open/container_cl_red_trash/container_cl_red_trash.con"
+dest_files=["res://.godot/imported/container_cl_red_trash.con-ea0eea03742c5f67e0bae0e87edfe5ea.scn"]
+
+[params]
+

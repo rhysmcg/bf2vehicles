@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4adr75xmbqpe"
+path="res://.godot/imported/office_01.staticmesh-723e2db1c82c6d87be23488ab3733e0f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/office_01/meshes/office_01.staticmesh"
+dest_files=["res://.godot/imported/office_01.staticmesh-723e2db1c82c6d87be23488ab3733e0f.scn"]
+
+[params]
+

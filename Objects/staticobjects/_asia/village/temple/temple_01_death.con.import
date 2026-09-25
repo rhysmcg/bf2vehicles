@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csr0b6sq7y43d"
+path="res://.godot/imported/temple_01_death.con-a63d22b39e3f7277bd31b1b425b46915.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/temple/temple_01_death.con"
+dest_files=["res://.godot/imported/temple_01_death.con-a63d22b39e3f7277bd31b1b425b46915.scn"]
+
+[params]
+

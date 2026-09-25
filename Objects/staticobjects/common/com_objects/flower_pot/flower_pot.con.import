@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chit2naldw8jo"
+path="res://.godot/imported/flower_pot.con-1b443b3fea34b7099e71a989574626ed.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/flower_pot/flower_pot.con"
+dest_files=["res://.godot/imported/flower_pot.con-1b443b3fea34b7099e71a989574626ed.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://berak8bpwqnkb"
+path="res://.godot/imported/xp2_stripmall_steakhouse.con-d5303f9451164ba3f13acd504c770815.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_steakhouse/xp2_stripmall_steakhouse.con"
+dest_files=["res://.godot/imported/xp2_stripmall_steakhouse.con-d5303f9451164ba3f13acd504c770815.scn"]
+
+[params]
+

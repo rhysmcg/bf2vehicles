@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djffw8oyklvnx"
+path="res://.godot/imported/city_temp_road.con-9b6de8853b71f94afc0387193e1bb897.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/city_temp_road.con"
+dest_files=["res://.godot/imported/city_temp_road.con-9b6de8853b71f94afc0387193e1bb897.scn"]
+
+[params]
+

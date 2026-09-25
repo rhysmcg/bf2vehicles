@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djcfj81fi4lks"
+path="res://.godot/imported/dock_crane.con-0687676844b1fcc15ab213f1a0112f54.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_crane/dock_crane.con"
+dest_files=["res://.godot/imported/dock_crane.con-0687676844b1fcc15ab213f1a0112f54.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhhdcfxmcd2dq"
+path="res://.godot/imported/highway_bridge_walkway2.con-69aa73fb3cd54e75119c3a631fa721da.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_walkway2/highway_bridge_walkway2.con"
+dest_files=["res://.godot/imported/highway_bridge_walkway2.con-69aa73fb3cd54e75119c3a631fa721da.scn"]
+
+[params]
+

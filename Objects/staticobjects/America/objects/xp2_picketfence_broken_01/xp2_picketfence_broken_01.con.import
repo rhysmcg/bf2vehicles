@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfytjwnye0neo"
+path="res://.godot/imported/xp2_picketfence_broken_01.con-195ec5d3bcb2eaebd5f1beefccdd6d5c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_picketfence_broken_01/xp2_picketfence_broken_01.con"
+dest_files=["res://.godot/imported/xp2_picketfence_broken_01.con-195ec5d3bcb2eaebd5f1beefccdd6d5c.scn"]
+
+[params]
+

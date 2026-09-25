@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bpqaw587n13kn"
+path="res://.godot/imported/xp2_barn_02.staticmesh-0a503a687ee9a7c68c27caeafebd85d3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_barn_02/meshes/xp2_barn_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_barn_02.staticmesh-0a503a687ee9a7c68c27caeafebd85d3.scn"]
+
+[params]
+

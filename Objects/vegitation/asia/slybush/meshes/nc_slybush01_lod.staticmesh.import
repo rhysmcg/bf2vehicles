@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://buee4do1jujkj"
+path="res://.godot/imported/nc_slybush01_lod.staticmesh-f9ba7e381a3765c2357885685a28e33c.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/slybush/meshes/nc_slybush01_lod.staticmesh"
+dest_files=["res://.godot/imported/nc_slybush01_lod.staticmesh-f9ba7e381a3765c2357885685a28e33c.scn"]
+
+[params]
+

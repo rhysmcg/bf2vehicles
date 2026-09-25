@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://s46rk41g60x2"
+path="res://.godot/imported/lrg_trash_dumpster.staticmesh-ac7ed265bdf35bfc482431697801f854.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lrg_trash_dumpster/meshes/lrg_trash_dumpster.staticmesh"
+dest_files=["res://.godot/imported/lrg_trash_dumpster.staticmesh-ac7ed265bdf35bfc482431697801f854.scn"]
+
+[params]
+

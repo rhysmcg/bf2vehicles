@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cby5r025jn665"
+path="res://.godot/imported/e_ade_helidraft_water.con-ea1e87291ad477931344e6a396d4b2de.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/e_ade_helidraft_water.con"
+dest_files=["res://.godot/imported/e_ade_helidraft_water.con-ea1e87291ad477931344e6a396d4b2de.scn"]
+
+[params]
+

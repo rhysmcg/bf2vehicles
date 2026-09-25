@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://rkbxtwvf15iv"
+path="res://.godot/imported/e_geb_tank_mud.con-75403937e35adff0a20a0661d209c5a8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/geb/e_geb_tank_mud.con"
+dest_files=["res://.godot/imported/e_geb_tank_mud.con-75403937e35adff0a20a0661d209c5a8.scn"]
+
+[params]
+

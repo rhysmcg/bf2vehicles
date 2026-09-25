@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bikmdp83kcfif"
+path="res://.godot/imported/temple_02.staticmesh-6e2b133ddb91e2a50bacb96ce444d1f5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/temple/meshes/temple_02.staticmesh"
+dest_files=["res://.godot/imported/temple_02.staticmesh-6e2b133ddb91e2a50bacb96ce444d1f5.scn"]
+
+[params]
+

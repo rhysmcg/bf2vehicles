@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b1v51wgp3frk7"
+path="res://.godot/imported/basebarracks.staticmesh-87c4e02d682b3b6891300e851d20bc5d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/basebarracks/meshes/basebarracks.staticmesh"
+dest_files=["res://.godot/imported/basebarracks.staticmesh-87c4e02d682b3b6891300e851d20bc5d.scn"]
+
+[params]
+

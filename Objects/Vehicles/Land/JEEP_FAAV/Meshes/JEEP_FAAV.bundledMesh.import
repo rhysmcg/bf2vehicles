@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cyuu6lwteump6"
+path="res://.godot/imported/JEEP_FAAV.bundledMesh-3d2da823492de03b77e92b78cb3e6e10.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/JEEP_FAAV/Meshes/JEEP_FAAV.bundledMesh"
+dest_files=["res://.godot/imported/JEEP_FAAV.bundledMesh-3d2da823492de03b77e92b78cb3e6e10.scn"]
+
+[params]
+

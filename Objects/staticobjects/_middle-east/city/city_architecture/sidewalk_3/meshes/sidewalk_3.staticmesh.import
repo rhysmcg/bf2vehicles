@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br7cbr4aeswdx"
+path="res://.godot/imported/sidewalk_3.staticmesh-d58a6ae34b324ee6a97cb9e3f410c7a9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/sidewalk_3/meshes/sidewalk_3.staticmesh"
+dest_files=["res://.godot/imported/sidewalk_3.staticmesh-d58a6ae34b324ee6a97cb9e3f410c7a9.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cttgqwdxjathy"
+path="res://.godot/imported/nc_stump03_lod.staticmesh-b584576699e0caaa3d6d109487b4b158.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/stump/meshes/nc_stump03_lod.staticmesh"
+dest_files=["res://.godot/imported/nc_stump03_lod.staticmesh-b584576699e0caaa3d6d109487b4b158.scn"]
+
+[params]
+

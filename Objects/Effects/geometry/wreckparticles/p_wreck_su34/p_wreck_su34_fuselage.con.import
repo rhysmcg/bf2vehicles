@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgm5o54uclgks"
+path="res://.godot/imported/p_wreck_su34_fuselage.con-eadf99154f41949def55f09388479cba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su34/p_wreck_su34_fuselage.con"
+dest_files=["res://.godot/imported/p_wreck_su34_fuselage.con-eadf99154f41949def55f09388479cba.scn"]
+
+[params]
+

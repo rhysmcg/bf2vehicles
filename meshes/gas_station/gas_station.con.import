@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bohgj34h12od8"
+path="res://.godot/imported/gas_station.con-7b167b35aff70f9e13ab9e6716718bac.scn"
+
+[deps]
+
+source_file="res://meshes/gas_station/gas_station.con"
+dest_files=["res://.godot/imported/gas_station.con-7b167b35aff70f9e13ab9e6716718bac.scn"]
+
+[params]
+

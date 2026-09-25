@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://datfbvcsvinra"
+path="res://.godot/imported/xp2_ms_guardrail_01.con-9fe30333647f3ff043fad6c749793b07.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_midnightsun/xp2_ms_guardrail_01/xp2_ms_guardrail_01.con"
+dest_files=["res://.godot/imported/xp2_ms_guardrail_01.con-9fe30333647f3ff043fad6c749793b07.scn"]
+
+[params]
+

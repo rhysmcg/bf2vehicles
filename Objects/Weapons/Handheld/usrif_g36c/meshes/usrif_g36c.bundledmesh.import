@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://p4o47msaffq1"
+path="res://.godot/imported/usrif_g36c.bundledmesh-7c9363e13eade7430ea76b5e140d4724.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_g36c/meshes/usrif_g36c.bundledmesh"
+dest_files=["res://.godot/imported/usrif_g36c.bundledmesh-7c9363e13eade7430ea76b5e140d4724.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bi2dqryxir62p"
+path="res://.godot/imported/silo_01.staticmesh-1f8407b1274a7cc16e351794afd29425.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/silo_01/meshes/silo_01.staticmesh"
+dest_files=["res://.godot/imported/silo_01.staticmesh-1f8407b1274a7cc16e351794afd29425.scn"]
+
+[params]
+

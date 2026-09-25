@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cw5ifep55fk5n"
+path="res://.godot/imported/e_dAmb_mosquito.con-91d1c577ba190ac10bd73bf1456977e1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_mosquito.con"
+dest_files=["res://.godot/imported/e_dAmb_mosquito.con-91d1c577ba190ac10bd73bf1456977e1.scn"]
+
+[params]
+

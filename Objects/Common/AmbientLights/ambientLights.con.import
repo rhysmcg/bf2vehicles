@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4nlddpsgc6bd"
+path="res://.godot/imported/ambientLights.con-a36155729d1cede674704c0468205ce8.scn"
+
+[deps]
+
+source_file="res://Objects/Common/AmbientLights/ambientLights.con"
+dest_files=["res://.godot/imported/ambientLights.con-a36155729d1cede674704c0468205ce8.scn"]
+
+[params]
+

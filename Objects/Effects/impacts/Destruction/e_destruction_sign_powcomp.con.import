@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bcjwly3vtlble"
+path="res://.godot/imported/e_destruction_sign_powcomp.con-5535aee33eaa386eb6ff20e5ea1e8a93.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_sign_powcomp.con"
+dest_files=["res://.godot/imported/e_destruction_sign_powcomp.con-5535aee33eaa386eb6ff20e5ea1e8a93.scn"]
+
+[params]
+

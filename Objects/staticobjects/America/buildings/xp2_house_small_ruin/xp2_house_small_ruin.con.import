@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dr0ujuummuy3x"
+path="res://.godot/imported/xp2_house_small_ruin.con-dde1c890be6f3613255ce5e16dca4d61.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_house_small_ruin/xp2_house_small_ruin.con"
+dest_files=["res://.godot/imported/xp2_house_small_ruin.con-dde1c890be6f3613255ce5e16dca4d61.scn"]
+
+[params]
+

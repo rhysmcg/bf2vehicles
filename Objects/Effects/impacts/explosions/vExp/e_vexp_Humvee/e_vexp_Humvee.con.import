@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://shrk7nf67mi1"
+path="res://.godot/imported/e_vexp_Humvee.con-793f57993c3abbbeccb3d7b6f4f4cc7f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_Humvee/e_vexp_Humvee.con"
+dest_files=["res://.godot/imported/e_vexp_Humvee.con-793f57993c3abbbeccb3d7b6f4f4cc7f.scn"]
+
+[params]
+

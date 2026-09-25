@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crbnjno6cunsl"
+path="res://.godot/imported/uspis_92fs_silencer.bundledmesh-0c41ed5373a5b889798d2b464887cb13.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/uspis_92fs_silencer/meshes/uspis_92fs_silencer.bundledmesh"
+dest_files=["res://.godot/imported/uspis_92fs_silencer.bundledmesh-0c41ed5373a5b889798d2b464887cb13.scn"]
+
+[params]
+

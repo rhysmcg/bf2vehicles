@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cfedfckvmlu5x"
+path="res://.godot/imported/wpipe_valve.con-658937db55e3a0664ed2f0fb24f91269.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_valve/wpipe_valve.con"
+dest_files=["res://.godot/imported/wpipe_valve.con-658937db55e3a0664ed2f0fb24f91269.scn"]
+
+[params]
+

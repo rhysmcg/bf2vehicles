@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ui6p4wnpdrs3"
+path="res://.godot/imported/highway_bridge_walkway2.staticmesh-6db44f3fda916cafdbf603dd7f9ac784.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_walkway2/meshes/highway_bridge_walkway2.staticmesh"
+dest_files=["res://.godot/imported/highway_bridge_walkway2.staticmesh-6db44f3fda916cafdbf603dd7f9ac784.scn"]
+
+[params]
+

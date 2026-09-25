@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2vk2iy0d226n"
+path="res://.godot/imported/xp2_mailbox_01.con-460e15f6f0b5f778eea0f5f135b59706.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_mailbox_01/xp2_mailbox_01.con"
+dest_files=["res://.godot/imported/xp2_mailbox_01.con-460e15f6f0b5f778eea0f5f135b59706.scn"]
+
+[params]
+

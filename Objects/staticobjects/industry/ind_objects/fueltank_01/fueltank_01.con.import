@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cggf4buq8hcmd"
+path="res://.godot/imported/fueltank_01.con-9eaa64a6a8c4949cd5c7909cb05a304b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/fueltank_01/fueltank_01.con"
+dest_files=["res://.godot/imported/fueltank_01.con-9eaa64a6a8c4949cd5c7909cb05a304b.scn"]
+
+[params]
+

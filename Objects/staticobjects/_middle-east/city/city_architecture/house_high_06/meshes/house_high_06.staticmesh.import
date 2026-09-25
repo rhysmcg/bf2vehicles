@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ck507lopyn2n3"
+path="res://.godot/imported/house_high_06.staticmesh-12883aeb6aa17be69f8f5bf95b036460.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_high_06/meshes/house_high_06.staticmesh"
+dest_files=["res://.godot/imported/house_high_06.staticmesh-12883aeb6aa17be69f8f5bf95b036460.scn"]
+
+[params]
+

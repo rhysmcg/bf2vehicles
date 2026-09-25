@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://noojaswcuv6p"
+path="res://.godot/imported/dam_pipe.con-386aea311381f5f50512557bd187c5b6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_pipe/dam_pipe.con"
+dest_files=["res://.godot/imported/dam_pipe.con-386aea311381f5f50512557bd187c5b6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jk1mige1b8dw"
+path="res://.godot/imported/xp2_pylon_02.con-9b79d1d5be7800f21e2a25ecb699f11e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pylon_02/xp2_pylon_02.con"
+dest_files=["res://.godot/imported/xp2_pylon_02.con-9b79d1d5be7800f21e2a25ecb699f11e.scn"]
+
+[params]
+

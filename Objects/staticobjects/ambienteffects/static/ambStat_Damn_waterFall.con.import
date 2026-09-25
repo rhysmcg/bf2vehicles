@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://balpnj137w4um"
+path="res://.godot/imported/ambStat_Damn_waterFall.con-da4d89142527101c7aee3e5ce91ff5e6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambStat_Damn_waterFall.con"
+dest_files=["res://.godot/imported/ambStat_Damn_waterFall.con-da4d89142527101c7aee3e5ce91ff5e6.scn"]
+
+[params]
+

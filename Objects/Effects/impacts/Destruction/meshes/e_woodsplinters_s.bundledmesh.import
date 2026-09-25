@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ksgbf38yom53"
+path="res://.godot/imported/e_woodsplinters_s.bundledmesh-2c10ad0e254e0801a0fb3552bd9fbffc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_woodsplinters_s.bundledmesh"
+dest_files=["res://.godot/imported/e_woodsplinters_s.bundledmesh-2c10ad0e254e0801a0fb3552bd9fbffc.scn"]
+
+[params]
+

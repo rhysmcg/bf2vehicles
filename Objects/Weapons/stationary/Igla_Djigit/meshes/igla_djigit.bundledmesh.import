@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwdbuop8vqs2e"
+path="res://.godot/imported/igla_djigit.bundledmesh-fc431a6d160391eab4835aefccf4c25b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/Igla_Djigit/meshes/igla_djigit.bundledmesh"
+dest_files=["res://.godot/imported/igla_djigit.bundledmesh-fc431a6d160391eab4835aefccf4c25b.scn"]
+
+[params]
+

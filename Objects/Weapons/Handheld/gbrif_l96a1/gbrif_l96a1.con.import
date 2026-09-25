@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwo6wq731eq8"
+path="res://.godot/imported/gbrif_l96a1.con-47b1870ab4fb9db64a5b5f3d313490fd.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_l96a1/gbrif_l96a1.con"
+dest_files=["res://.godot/imported/gbrif_l96a1.con-47b1870ab4fb9db64a5b5f3d313490fd.scn"]
+
+[params]
+

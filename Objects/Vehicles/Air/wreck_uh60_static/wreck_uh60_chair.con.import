@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8jbm2lggktsg"
+path="res://.godot/imported/wreck_uh60_chair.con-9b5da41d87263437d4f3065ce138d03a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/wreck_uh60_chair.con"
+dest_files=["res://.godot/imported/wreck_uh60_chair.con-9b5da41d87263437d4f3065ce138d03a.scn"]
+
+[params]
+

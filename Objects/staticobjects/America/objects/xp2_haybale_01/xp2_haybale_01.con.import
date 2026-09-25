@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c76jq1a1wf0nn"
+path="res://.godot/imported/xp2_haybale_01.con-24f578af625d72ffe3600b81ef9dc607.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_haybale_01/xp2_haybale_01.con"
+dest_files=["res://.godot/imported/xp2_haybale_01.con-24f578af625d72ffe3600b81ef9dc607.scn"]
+
+[params]
+

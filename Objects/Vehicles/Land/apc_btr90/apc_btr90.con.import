@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bkkl2pv5ks4o2"
+path="res://.godot/imported/apc_btr90.con-4e11150104614eed74247ed453e263e3.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_btr90/apc_btr90.con"
+dest_files=["res://.godot/imported/apc_btr90.con-4e11150104614eed74247ed453e263e3.scn"]
+
+[params]
+

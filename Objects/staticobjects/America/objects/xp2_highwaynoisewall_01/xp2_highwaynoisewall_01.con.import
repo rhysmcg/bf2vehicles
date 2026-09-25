@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7cwgi0bws0ll"
+path="res://.godot/imported/xp2_highwaynoisewall_01.con-60af3a7deca8e258e0ded622618d1898.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_highwaynoisewall_01/xp2_highwaynoisewall_01.con"
+dest_files=["res://.godot/imported/xp2_highwaynoisewall_01.con-60af3a7deca8e258e0ded622618d1898.scn"]
+
+[params]
+

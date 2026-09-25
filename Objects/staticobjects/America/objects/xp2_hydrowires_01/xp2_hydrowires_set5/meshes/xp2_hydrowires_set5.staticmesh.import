@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://tdb3h8u8m517"
+path="res://.godot/imported/xp2_hydrowires_set5.staticmesh-e9075a0a52b75275a1832c66e37e7254.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_hydrowires_01/xp2_hydrowires_set5/meshes/xp2_hydrowires_set5.staticmesh"
+dest_files=["res://.godot/imported/xp2_hydrowires_set5.staticmesh-e9075a0a52b75275a1832c66e37e7254.scn"]
+
+[params]
+

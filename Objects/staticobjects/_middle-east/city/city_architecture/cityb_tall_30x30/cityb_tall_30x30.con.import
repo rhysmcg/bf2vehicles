@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bcg7jvs2vr0m4"
+path="res://.godot/imported/cityb_tall_30x30.con-6d8d0c958b7d2b21326a39ec1b49c8ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/cityb_tall_30x30/cityb_tall_30x30.con"
+dest_files=["res://.godot/imported/cityb_tall_30x30.con-6d8d0c958b7d2b21326a39ec1b49c8ae.scn"]
+
+[params]
+

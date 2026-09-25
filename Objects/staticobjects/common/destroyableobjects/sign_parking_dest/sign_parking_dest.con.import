@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://e84f3p3fvpxc"
+path="res://.godot/imported/sign_parking_dest.con-85c7ed6152ef7daf5239205191d69429.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_parking_dest/sign_parking_dest.con"
+dest_files=["res://.godot/imported/sign_parking_dest.con-85c7ed6152ef7daf5239205191d69429.scn"]
+
+[params]
+

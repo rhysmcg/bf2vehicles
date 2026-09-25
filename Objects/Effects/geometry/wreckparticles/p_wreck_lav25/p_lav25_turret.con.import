@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7rcbl4h0t01"
+path="res://.godot/imported/p_lav25_turret.con-3e1c1d729c0324a4e539594e83b72ce5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/p_lav25_turret.con"
+dest_files=["res://.godot/imported/p_lav25_turret.con-3e1c1d729c0324a4e539594e83b72ce5.scn"]
+
+[params]
+

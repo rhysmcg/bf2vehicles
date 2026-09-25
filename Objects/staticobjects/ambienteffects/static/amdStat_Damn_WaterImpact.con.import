@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c06o00iel2mq"
+path="res://.godot/imported/amdStat_Damn_WaterImpact.con-dac685f03a6d22e68f81a6e3482319c6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/amdStat_Damn_WaterImpact.con"
+dest_files=["res://.godot/imported/amdStat_Damn_WaterImpact.con-dac685f03a6d22e68f81a6e3482319c6.scn"]
+
+[params]
+

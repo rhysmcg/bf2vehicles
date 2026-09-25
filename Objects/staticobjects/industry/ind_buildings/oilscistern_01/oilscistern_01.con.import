@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cugo0dxi61khn"
+path="res://.godot/imported/oilscistern_01.con-4c1915106aa25dc850472176475d1bbf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/oilscistern_01/oilscistern_01.con"
+dest_files=["res://.godot/imported/oilscistern_01.con-4c1915106aa25dc850472176475d1bbf.scn"]
+
+[params]
+

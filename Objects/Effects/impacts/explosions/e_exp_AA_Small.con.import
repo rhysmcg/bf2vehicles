@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djuuy7xjat24d"
+path="res://.godot/imported/e_exp_AA_Small.con-29ba36387e6d3cda971867318fe6cd6f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/e_exp_AA_Small.con"
+dest_files=["res://.godot/imported/e_exp_AA_Small.con-29ba36387e6d3cda971867318fe6cd6f.scn"]
+
+[params]
+

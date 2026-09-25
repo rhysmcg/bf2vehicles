@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://f40ldpihjfhw"
+path="res://.godot/imported/me_flowerpot01.con-48ec6331d10ed43ab1aa2f2a4b2f52c5.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/flowerpot/me_flowerpot01.con"
+dest_files=["res://.godot/imported/me_flowerpot01.con-48ec6331d10ed43ab1aa2f2a4b2f52c5.scn"]
+
+[params]
+

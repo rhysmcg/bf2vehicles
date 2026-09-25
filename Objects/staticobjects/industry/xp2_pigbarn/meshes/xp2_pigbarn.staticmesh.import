@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://5g03867apxeu"
+path="res://.godot/imported/xp2_pigbarn.staticmesh-36242c2663ca595a2b3cd6821c2e5c8b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_pigbarn/meshes/xp2_pigbarn.staticmesh"
+dest_files=["res://.godot/imported/xp2_pigbarn.staticmesh-36242c2663ca595a2b3cd6821c2e5c8b.scn"]
+
+[params]
+

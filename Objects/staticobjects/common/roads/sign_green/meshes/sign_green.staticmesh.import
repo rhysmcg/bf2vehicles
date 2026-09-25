@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dbls2j3oytnn5"
+path="res://.godot/imported/sign_green.staticmesh-054aaee199302d66143e86caddbebd24.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_green/meshes/sign_green.staticmesh"
+dest_files=["res://.godot/imported/sign_green.staticmesh-054aaee199302d66143e86caddbebd24.scn"]
+
+[params]
+

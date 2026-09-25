@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfl2j8kcct7er"
+path="res://.godot/imported/ladder_10m_noholders.staticmesh-25c7d7c71bc8074802b4bf16092fe320.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_10m_noholders/meshes/ladder_10m_noholders.staticmesh"
+dest_files=["res://.godot/imported/ladder_10m_noholders.staticmesh-25c7d7c71bc8074802b4bf16092fe320.scn"]
+
+[params]
+

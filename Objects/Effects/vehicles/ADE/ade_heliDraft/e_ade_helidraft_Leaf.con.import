@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6hj72j7gcj0y"
+path="res://.godot/imported/e_ade_helidraft_Leaf.con-6ea64ed65955ad5748ddfdd46f270598.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/e_ade_helidraft_Leaf.con"
+dest_files=["res://.godot/imported/e_ade_helidraft_Leaf.con-6ea64ed65955ad5748ddfdd46f270598.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwxo4g2gl65ni"
+path="res://.godot/imported/xp2_fastfood_01_glass.con-28d9ac87e908421f21392a32b50ef56a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_fastfood_01/xp2_fastfood_01_glass.con"
+dest_files=["res://.godot/imported/xp2_fastfood_01_glass.con-28d9ac87e908421f21392a32b50ef56a.scn"]
+
+[params]
+

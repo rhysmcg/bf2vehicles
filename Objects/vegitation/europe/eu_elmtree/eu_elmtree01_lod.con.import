@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhqjs02obikw6"
+path="res://.godot/imported/eu_elmtree01_lod.con-b4b08952234f4ac5e63ef4851dc7cc1f.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/europe/eu_elmtree/eu_elmtree01_lod.con"
+dest_files=["res://.godot/imported/eu_elmtree01_lod.con-b4b08952234f4ac5e63ef4851dc7cc1f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vx0mee7ae2i6"
+path="res://.godot/imported/xp2_pipeline_01.con-9c0dcab61086cbc1b7035017fde7e191.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pipeline_01/xp2_pipeline_01.con"
+dest_files=["res://.godot/imported/xp2_pipeline_01.con-9c0dcab61086cbc1b7035017fde7e191.scn"]
+
+[params]
+

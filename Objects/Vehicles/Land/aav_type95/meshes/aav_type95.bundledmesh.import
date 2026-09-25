@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwut78utgtsn3"
+path="res://.godot/imported/aav_type95.bundledmesh-7103fb2f1e4ff345a963ac0ec60b81f4.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_type95/meshes/aav_type95.bundledmesh"
+dest_files=["res://.godot/imported/aav_type95.bundledmesh-7103fb2f1e4ff345a963ac0ec60b81f4.scn"]
+
+[params]
+

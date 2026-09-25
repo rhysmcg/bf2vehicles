@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bbgwoue7ylwlm"
+path="res://.godot/imported/flag_ch.con-a93f93afae866f96e96234aaf62a1286.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_CH/flag_ch.con"
+dest_files=["res://.godot/imported/flag_ch.con-a93f93afae866f96e96234aaf62a1286.scn"]
+
+[params]
+

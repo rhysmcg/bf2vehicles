@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://yy38c441nx0"
+path="res://.godot/imported/sign_powercompany.con-39b958e918ea98ec0259d2516b2ec18c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/sign_powercompany/sign_powercompany.con"
+dest_files=["res://.godot/imported/sign_powercompany.con-39b958e918ea98ec0259d2516b2ec18c.scn"]
+
+[params]
+

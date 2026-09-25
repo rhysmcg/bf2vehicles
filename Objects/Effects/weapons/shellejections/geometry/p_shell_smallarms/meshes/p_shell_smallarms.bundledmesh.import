@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://be00nbfene6ve"
+path="res://.godot/imported/p_shell_smallarms.bundledmesh-0dab77165e5c61448d9d43c331604685.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_smallarms/meshes/p_shell_smallarms.bundledmesh"
+dest_files=["res://.godot/imported/p_shell_smallarms.bundledmesh-0dab77165e5c61448d9d43c331604685.scn"]
+
+[params]
+

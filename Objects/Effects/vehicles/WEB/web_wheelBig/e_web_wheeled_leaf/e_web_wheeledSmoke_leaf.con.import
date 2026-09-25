@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d8ac3w1uhyrs"
+path="res://.godot/imported/e_web_wheeledSmoke_leaf.con-f20dd6e4b35dc3ae58e5bb7389f9d759.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_leaf/e_web_wheeledSmoke_leaf.con"
+dest_files=["res://.godot/imported/e_web_wheeledSmoke_leaf.con-f20dd6e4b35dc3ae58e5bb7389f9d759.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://djilre4ki0qtr"
+path="res://.godot/imported/p_wreck_uh60_chair.bundledmesh-6d040234c00e1bbda65fc97c0060fe4a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/meshes/p_wreck_uh60_chair.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_uh60_chair.bundledmesh-6d040234c00e1bbda65fc97c0060fe4a.scn"]
+
+[params]
+

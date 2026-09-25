@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ctwhiwwlhisnu"
+path="res://.godot/imported/asian_temple.con-55679f7a0b6c2b520dc9401f0f96736c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/ruins/asian_temple/asian_temple.con"
+dest_files=["res://.godot/imported/asian_temple.con-55679f7a0b6c2b520dc9401f0f96736c.scn"]
+
+[params]
+

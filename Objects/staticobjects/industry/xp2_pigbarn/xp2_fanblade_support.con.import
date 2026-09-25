@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://p5qq5ti57q27"
+path="res://.godot/imported/xp2_fanblade_support.con-0d359068555613cd9e13613fef33578d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_pigbarn/xp2_fanblade_support.con"
+dest_files=["res://.godot/imported/xp2_fanblade_support.con-0d359068555613cd9e13613fef33578d.scn"]
+
+[params]
+

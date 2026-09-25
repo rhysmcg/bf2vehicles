@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfjwb7pv0o7so"
+path="res://.godot/imported/hotel.staticmesh-a85fd7c461ce5e38bf47b5bf2963fe96.scn"
+
+[deps]
+
+source_file="res://meshes/hotel/meshes/hotel.staticmesh"
+dest_files=["res://.godot/imported/hotel.staticmesh-a85fd7c461ce5e38bf47b5bf2963fe96.scn"]
+
+[params]
+

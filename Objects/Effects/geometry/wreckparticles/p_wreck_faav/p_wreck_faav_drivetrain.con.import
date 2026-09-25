@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://wr86r5onh0tw"
+path="res://.godot/imported/p_wreck_faav_drivetrain.con-3982e509006160179457d216548fbabb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_faav/p_wreck_faav_drivetrain.con"
+dest_files=["res://.godot/imported/p_wreck_faav_drivetrain.con-3982e509006160179457d216548fbabb.scn"]
+
+[params]
+

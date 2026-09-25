@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drvqfnycvpqxy"
+path="res://.godot/imported/office_01.con-f21980e2b958de477f327450a8283cdc.scn"
+
+[deps]
+
+source_file="res://meshes/office_01/office_01.con"
+dest_files=["res://.godot/imported/office_01.con-f21980e2b958de477f327450a8283cdc.scn"]
+
+[params]
+

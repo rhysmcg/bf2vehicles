@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3iqceqrwba7j"
+path="res://.godot/imported/dam_bottom.con-9b5b46f4efd2be918868177f57b50d13.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_bottom/dam_bottom.con"
+dest_files=["res://.godot/imported/dam_bottom.con-9b5b46f4efd2be918868177f57b50d13.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bja83ll88hy86"
+path="res://.godot/imported/xp2_gasstation_cistern.con-8839b819edd3c472dfb689cc1f960505.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gasstation_cistern/xp2_gasstation_cistern.con"
+dest_files=["res://.godot/imported/xp2_gasstation_cistern.con-8839b819edd3c472dfb689cc1f960505.scn"]
+
+[params]
+

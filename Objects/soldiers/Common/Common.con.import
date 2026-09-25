@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3yfba5gxom7r"
+path="res://.godot/imported/Common.con-4e4e98d862b9e1f3ba62fc6debd34509.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/Common/Common.con"
+dest_files=["res://.godot/imported/Common.con-4e4e98d862b9e1f3ba62fc6debd34509.scn"]
+
+[params]
+

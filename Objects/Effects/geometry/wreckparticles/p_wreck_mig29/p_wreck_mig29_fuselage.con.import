@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://onmrqsx5tm3d"
+path="res://.godot/imported/p_wreck_mig29_fuselage.con-a08de1dc56f1bcd842a9abb801dd488d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mig29/p_wreck_mig29_fuselage.con"
+dest_files=["res://.godot/imported/p_wreck_mig29_fuselage.con-a08de1dc56f1bcd842a9abb801dd488d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jptb1rcwmcpy"
+path="res://.godot/imported/MEC_Engineer.con-591fa7ae8eed8e8cd3aa390a0980e728.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Engineer.con"
+dest_files=["res://.godot/imported/MEC_Engineer.con-591fa7ae8eed8e8cd3aa390a0980e728.scn"]
+
+[params]
+

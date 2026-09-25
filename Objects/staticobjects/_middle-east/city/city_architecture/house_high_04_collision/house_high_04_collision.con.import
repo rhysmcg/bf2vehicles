@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dt1yvamr3tlwg"
+path="res://.godot/imported/house_high_04_collision.con-3e1b2507aa1329c5944373828e266a67.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_high_04_collision/house_high_04_collision.con"
+dest_files=["res://.godot/imported/house_high_04_collision.con-3e1b2507aa1329c5944373828e266a67.scn"]
+
+[params]
+

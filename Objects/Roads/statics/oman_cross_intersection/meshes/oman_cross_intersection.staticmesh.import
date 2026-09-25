@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsk8aqgouov25"
+path="res://.godot/imported/oman_cross_intersection.staticmesh-16c77a240978ada07961f7e03130ab88.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/oman_cross_intersection/meshes/oman_cross_intersection.staticmesh"
+dest_files=["res://.godot/imported/oman_cross_intersection.staticmesh-16c77a240978ada07961f7e03130ab88.scn"]
+
+[params]
+

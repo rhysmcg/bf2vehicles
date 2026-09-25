@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://p6ofk5s16e1c"
+path="res://.godot/imported/me_tropicalplant01_lod.staticmesh-488a6ef87217872ab760614512057de4.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/tropicalplants/meshes/me_tropicalplant01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_tropicalplant01_lod.staticmesh-488a6ef87217872ab760614512057de4.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b03jkjixvuf6d"
+path="res://.godot/imported/usrif_remington11-87.bundledmesh-fdb655fbb6a29b3f1189cf3f9ef47701.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_remington11-87/meshes/usrif_remington11-87.bundledmesh"
+dest_files=["res://.godot/imported/usrif_remington11-87.bundledmesh-fdb655fbb6a29b3f1189cf3f9ef47701.scn"]
+
+[params]
+

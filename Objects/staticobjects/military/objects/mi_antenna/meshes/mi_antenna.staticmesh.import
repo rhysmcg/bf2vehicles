@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cslfhj01avyut"
+path="res://.godot/imported/mi_antenna.staticmesh-fa9be75f49fe72ae2930dcc1ccb3258a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_antenna/meshes/mi_antenna.staticmesh"
+dest_files=["res://.godot/imported/mi_antenna.staticmesh-fa9be75f49fe72ae2930dcc1ccb3258a.scn"]
+
+[params]
+

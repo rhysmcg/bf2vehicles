@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cnn6rjx7g320p"
+path="res://.godot/imported/p_wreck_rib_hull.bundledmesh-d03d2b2864313281a2360400d6f95755.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_rib/meshes/p_wreck_rib_hull.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_rib_hull.bundledmesh-d03d2b2864313281a2360400d6f95755.scn"]
+
+[params]
+

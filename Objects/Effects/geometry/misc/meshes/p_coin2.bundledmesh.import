@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cau14210042ay"
+path="res://.godot/imported/p_coin2.bundledmesh-c58b646a2f2079f696d147d6a181c23f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_coin2.bundledmesh"
+dest_files=["res://.godot/imported/p_coin2.bundledmesh-c58b646a2f2079f696d147d6a181c23f.scn"]
+
+[params]
+

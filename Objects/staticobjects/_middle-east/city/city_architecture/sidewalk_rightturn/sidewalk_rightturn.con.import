@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfx3ra8dl1mg4"
+path="res://.godot/imported/sidewalk_rightturn.con-59f3b7c27914da2bada1e36acad43ee4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/sidewalk_rightturn/sidewalk_rightturn.con"
+dest_files=["res://.godot/imported/sidewalk_rightturn.con-59f3b7c27914da2bada1e36acad43ee4.scn"]
+
+[params]
+

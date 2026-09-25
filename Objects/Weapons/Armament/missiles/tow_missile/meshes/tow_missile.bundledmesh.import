@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dlt7ejpdgcdhe"
+path="res://.godot/imported/tow_missile.bundledmesh-de61d969aac5bb82c334f716a023f16e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/tow_missile/meshes/tow_missile.bundledmesh"
+dest_files=["res://.godot/imported/tow_missile.bundledmesh-de61d969aac5bb82c334f716a023f16e.scn"]
+
+[params]
+

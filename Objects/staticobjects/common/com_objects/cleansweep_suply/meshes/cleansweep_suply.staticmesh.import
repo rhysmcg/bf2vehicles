@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c7pabcy8lwihs"
+path="res://.godot/imported/cleansweep_suply.staticmesh-7c268124f5b30b3e991c0fbe7c3839af.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cleansweep_suply/meshes/cleansweep_suply.staticmesh"
+dest_files=["res://.godot/imported/cleansweep_suply.staticmesh-7c268124f5b30b3e991c0fbe7c3839af.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crn0me6cryuif"
+path="res://.godot/imported/e_destruction_dambridge.bundledmesh-38779a95c036a5376479cee4d1ebe49e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/meshes/e_destruction_dambridge.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_dambridge.bundledmesh-38779a95c036a5376479cee4d1ebe49e.scn"]
+
+[params]
+

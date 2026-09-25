@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwhqbwnnucey1"
+path="res://.godot/imported/house_high_02_v2.con-52363fa42e1ac8c87091dad3a45900bb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_high_02_v2/house_high_02_v2.con"
+dest_files=["res://.godot/imported/house_high_02_v2.con-52363fa42e1ac8c87091dad3a45900bb.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhfd4saax6hnj"
+path="res://.godot/imported/xp2_pipeline_01_support.staticmesh-e4572fbec6e41f2c7130f3ec6cd3d0ed.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pipeline_01_support/meshes/xp2_pipeline_01_support.staticmesh"
+dest_files=["res://.godot/imported/xp2_pipeline_01_support.staticmesh-e4572fbec6e41f2c7130f3ec6cd3d0ed.scn"]
+
+[params]
+

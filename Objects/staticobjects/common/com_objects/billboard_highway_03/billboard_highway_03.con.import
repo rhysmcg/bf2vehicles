@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bb524u4fyj2j8"
+path="res://.godot/imported/billboard_highway_03.con-53ade2d3e35ba6e124fb74d35a84edad.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/billboard_highway_03/billboard_highway_03.con"
+dest_files=["res://.godot/imported/billboard_highway_03.con-53ade2d3e35ba6e124fb74d35a84edad.scn"]
+
+[params]
+

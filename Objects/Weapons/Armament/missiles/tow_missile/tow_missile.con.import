@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3py1l076qwnu"
+path="res://.godot/imported/tow_missile.con-110cb6ad58832b56bfab113a0d888df8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/tow_missile/tow_missile.con"
+dest_files=["res://.godot/imported/tow_missile.con-110cb6ad58832b56bfab113a0d888df8.scn"]
+
+[params]
+

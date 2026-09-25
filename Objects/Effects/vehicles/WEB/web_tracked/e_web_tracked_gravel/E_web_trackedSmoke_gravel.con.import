@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://os1agpwmqex0"
+path="res://.godot/imported/E_web_trackedSmoke_gravel.con-57a349378e85db5f7c723aabfcb41db7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_gravel/E_web_trackedSmoke_gravel.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_gravel.con-57a349378e85db5f7c723aabfcb41db7.scn"]
+
+[params]
+

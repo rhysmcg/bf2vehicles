@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bffcj1sruiucr"
+path="res://.godot/imported/r_intersection_45degree.con-64f097953a079d5eea16d49131c698e2.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/r_intersection_45degree/r_intersection_45degree.con"
+dest_files=["res://.godot/imported/r_intersection_45degree.con-64f097953a079d5eea16d49131c698e2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7v8t54bydv1s"
+path="res://.godot/imported/e_woodsplinters_s.con-86e0450c7fce3d370a54a134fe996b4d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_woodsplinters_s.con"
+dest_files=["res://.godot/imported/e_woodsplinters_s.con-86e0450c7fce3d370a54a134fe996b4d.scn"]
+
+[params]
+

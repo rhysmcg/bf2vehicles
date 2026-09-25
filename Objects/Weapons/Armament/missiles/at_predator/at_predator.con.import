@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://df2ttmydle3jj"
+path="res://.godot/imported/at_predator.con-08bc311362ded297adb3bfaada2a9d25.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/at_predator/at_predator.con"
+dest_files=["res://.godot/imported/at_predator.con-08bc311362ded297adb3bfaada2a9d25.scn"]
+
+[params]
+

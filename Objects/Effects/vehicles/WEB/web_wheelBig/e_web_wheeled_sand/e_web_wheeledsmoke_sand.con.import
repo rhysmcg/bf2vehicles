@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bcafisqb5tdv3"
+path="res://.godot/imported/e_web_wheeledsmoke_sand.con-8ed3d8898e03b3cabdf7223dad992216.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_sand/e_web_wheeledsmoke_sand.con"
+dest_files=["res://.godot/imported/e_web_wheeledsmoke_sand.con-8ed3d8898e03b3cabdf7223dad992216.scn"]
+
+[params]
+

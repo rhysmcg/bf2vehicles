@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dndob04ftdnbv"
+path="res://.godot/imported/xp2_stripmall_section01.staticmesh-ed2ffae3a2ba6c003888b85c5014b14d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_section01/meshes/xp2_stripmall_section01.staticmesh"
+dest_files=["res://.godot/imported/xp2_stripmall_section01.staticmesh-ed2ffae3a2ba6c003888b85c5014b14d.scn"]
+
+[params]
+

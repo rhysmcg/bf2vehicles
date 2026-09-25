@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwjtpckxgg0l4"
+path="res://.godot/imported/industrial_arrow_righr_compiled.con-3196580cce99194068ec281b71296f3b.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/industrial_arrow_righr_compiled.con"
+dest_files=["res://.godot/imported/industrial_arrow_righr_compiled.con-3196580cce99194068ec281b71296f3b.scn"]
+
+[params]
+

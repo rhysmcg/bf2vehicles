@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cy0ckb35547r8"
+path="res://.godot/imported/table_01.bundledmesh-be52cf8e4994d86cadf766b58415c7f0.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/table_01/meshes/table_01.bundledmesh"
+dest_files=["res://.godot/imported/table_01.bundledmesh-be52cf8e4994d86cadf766b58415c7f0.scn"]
+
+[params]
+

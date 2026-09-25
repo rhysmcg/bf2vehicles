@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfk11xrgts3tl"
+path="res://.godot/imported/e_muzz_sniper.con-6c68cb0185b474ec6f82d2f0969e5f92.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_sniper/e_muzz_sniper.con"
+dest_files=["res://.godot/imported/e_muzz_sniper.con-6c68cb0185b474ec6f82d2f0969e5f92.scn"]
+
+[params]
+

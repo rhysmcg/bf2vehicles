@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cto2indmqn22"
+path="res://.godot/imported/xp2_appletree.con-8a41e859ff9ebfba4aa42566a0551f17.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_appletree.con"
+dest_files=["res://.godot/imported/xp2_appletree.con-8a41e859ff9ebfba4aa42566a0551f17.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://oe8e7pfine1t"
+path="res://.godot/imported/ch_house_02.staticmesh-4fbf754500386cffc6695c2dfd3717fa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_house_02/meshes/ch_house_02.staticmesh"
+dest_files=["res://.godot/imported/ch_house_02.staticmesh-4fbf754500386cffc6695c2dfd3717fa.scn"]
+
+[params]
+

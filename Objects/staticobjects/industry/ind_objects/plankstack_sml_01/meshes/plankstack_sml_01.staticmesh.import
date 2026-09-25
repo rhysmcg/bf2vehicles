@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://o26g2tvsctix"
+path="res://.godot/imported/plankstack_sml_01.staticmesh-5175b4586c6edffd2d35b66eeaafe179.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/plankstack_sml_01/meshes/plankstack_sml_01.staticmesh"
+dest_files=["res://.godot/imported/plankstack_sml_01.staticmesh-5175b4586c6edffd2d35b66eeaafe179.scn"]
+
+[params]
+

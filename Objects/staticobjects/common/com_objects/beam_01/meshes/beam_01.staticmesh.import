@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cnqj5dypfmuqi"
+path="res://.godot/imported/beam_01.staticmesh-3a5b6017de4d8c55df1fa63a1162ed0a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/beam_01/meshes/beam_01.staticmesh"
+dest_files=["res://.godot/imported/beam_01.staticmesh-3a5b6017de4d8c55df1fa63a1162ed0a.scn"]
+
+[params]
+

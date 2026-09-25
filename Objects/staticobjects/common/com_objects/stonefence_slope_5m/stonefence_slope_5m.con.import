@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://da2hdtvx8s6cr"
+path="res://.godot/imported/stonefence_slope_5m.con-27138c62c6221f0a75b396930311773f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/stonefence_slope_5m/stonefence_slope_5m.con"
+dest_files=["res://.godot/imported/stonefence_slope_5m.con-27138c62c6221f0a75b396930311773f.scn"]
+
+[params]
+

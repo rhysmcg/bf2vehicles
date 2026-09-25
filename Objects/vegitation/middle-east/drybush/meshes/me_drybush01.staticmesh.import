@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://borb7o7jmtmub"
+path="res://.godot/imported/me_drybush01.staticmesh-2981f68de82c287ad8a182d6dfb6040d.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/drybush/meshes/me_drybush01.staticmesh"
+dest_files=["res://.godot/imported/me_drybush01.staticmesh-2981f68de82c287ad8a182d6dfb6040d.scn"]
+
+[params]
+

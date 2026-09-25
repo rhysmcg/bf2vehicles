@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://doltpdr3sci3y"
+path="res://.godot/imported/gate_boom.staticmesh-926320d46a46657ef5cd1b76bb2b401d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/gate_boom/meshes/gate_boom.staticmesh"
+dest_files=["res://.godot/imported/gate_boom.staticmesh-926320d46a46657ef5cd1b76bb2b401d.scn"]
+
+[params]
+

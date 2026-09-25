@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccoamq72rjl02"
+path="res://.godot/imported/e_dstate_land_MediumSmoke.con-bda61a1f456c2c9dc8abc2101bc430cf.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_land_MediumSmoke.con"
+dest_files=["res://.godot/imported/e_dstate_land_MediumSmoke.con-bda61a1f456c2c9dc8abc2101bc430cf.scn"]
+
+[params]
+

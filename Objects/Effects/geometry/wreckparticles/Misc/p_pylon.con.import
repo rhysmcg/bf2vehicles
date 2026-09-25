@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cdmujggg1i6gc"
+path="res://.godot/imported/p_pylon.con-11dcc68e8f4ec22ab71aae95649c0515.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/Misc/p_pylon.con"
+dest_files=["res://.godot/imported/p_pylon.con-11dcc68e8f4ec22ab71aae95649c0515.scn"]
+
+[params]
+

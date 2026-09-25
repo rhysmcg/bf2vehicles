@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4kr4hbowdb2a"
+path="res://.godot/imported/e_mexp_claymore_wood.con-816b3061fedf234ad5413845bfae0290.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/claymore/e_mexp_claymore_wood.con"
+dest_files=["res://.godot/imported/e_mexp_claymore_wood.con-816b3061fedf234ad5413845bfae0290.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b75gl06bvyslh"
+path="res://.godot/imported/dragon_waterplane.con-49c387b3fbdf443167c077b1e6ee741b.scn"
+
+[deps]
+
+source_file="res://Objects/water/dragon_waterplane.con"
+dest_files=["res://.godot/imported/dragon_waterplane.con-49c387b3fbdf443167c077b1e6ee741b.scn"]
+
+[params]
+

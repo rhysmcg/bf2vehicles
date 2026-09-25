@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bxxl1mqvf5e8t"
+path="res://.godot/imported/wreck_f15_tailfin.staticmesh-7c991863648d8a953265da9617d8acfb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_f15_static/wreck_f15_tailfin/meshes/wreck_f15_tailfin.staticmesh"
+dest_files=["res://.godot/imported/wreck_f15_tailfin.staticmesh-7c991863648d8a953265da9617d8acfb.scn"]
+
+[params]
+

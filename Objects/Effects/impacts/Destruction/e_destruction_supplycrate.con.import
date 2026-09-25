@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://hte6of8gu630"
+path="res://.godot/imported/e_destruction_supplycrate.con-a6756c13c7e901a5764de38d7344db0c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_supplycrate.con"
+dest_files=["res://.godot/imported/e_destruction_supplycrate.con-a6756c13c7e901a5764de38d7344db0c.scn"]
+
+[params]
+

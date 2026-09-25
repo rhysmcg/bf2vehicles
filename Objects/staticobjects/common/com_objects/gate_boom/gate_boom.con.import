@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dn0sxksknjdav"
+path="res://.godot/imported/gate_boom.con-553eace1b89c3c5f31273a6bb24bf388.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/gate_boom/gate_boom.con"
+dest_files=["res://.godot/imported/gate_boom.con-553eace1b89c3c5f31273a6bb24bf388.scn"]
+
+[params]
+

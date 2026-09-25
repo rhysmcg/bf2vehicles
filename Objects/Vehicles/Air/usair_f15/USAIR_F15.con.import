@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhnmper24jixr"
+path="res://.godot/imported/USAIR_F15.con-8d185d61be3d90af8632a6c9071df37b.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f15/USAIR_F15.con"
+dest_files=["res://.godot/imported/USAIR_F15.con-8d185d61be3d90af8632a6c9071df37b.scn"]
+
+[params]
+

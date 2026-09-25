@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvwlqjue3cmmg"
+path="res://.godot/imported/ahe_ah1z_tailrotor.bundledmesh-c383197e3156a9083290242c6fd8e66a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/ahe_ah1z_tailrotor/meshes/ahe_ah1z_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/ahe_ah1z_tailrotor.bundledmesh-c383197e3156a9083290242c6fd8e66a.scn"]
+
+[params]
+

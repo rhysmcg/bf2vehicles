@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://fymo2cdohjyf"
+path="res://.godot/imported/e_muzz_rocketpod.con-5e54c16ca17a264d5cf2f845610e968f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_rocketpod/e_muzz_rocketpod.con"
+dest_files=["res://.godot/imported/e_muzz_rocketpod.con-5e54c16ca17a264d5cf2f845610e968f.scn"]
+
+[params]
+

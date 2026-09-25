@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2wbdg0s60any"
+path="res://.godot/imported/E_web_trackedSmoke_mud.con-4afa62822eab50acd7bd05e0006b9c36.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_mud/E_web_trackedSmoke_mud.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_mud.con-4afa62822eab50acd7bd05e0006b9c36.scn"]
+
+[params]
+

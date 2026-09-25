@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://re1rroknm1xq"
+path="res://.godot/imported/material_range_bridge.staticmesh-e0dff81edd44043ab21b04c6a678847a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/material_range_bridge/meshes/material_range_bridge.staticmesh"
+dest_files=["res://.godot/imported/material_range_bridge.staticmesh-e0dff81edd44043ab21b04c6a678847a.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cyyv8xd3yf8mf"
+path="res://.godot/imported/concretebags_01.con-bac28305a6fc7176110dd0780ec45ada.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/concretebags_01/concretebags_01.con"
+dest_files=["res://.godot/imported/concretebags_01.con-bac28305a6fc7176110dd0780ec45ada.scn"]
+
+[params]
+

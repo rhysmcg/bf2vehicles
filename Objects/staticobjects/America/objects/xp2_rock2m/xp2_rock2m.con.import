@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bd1jd5sra35q5"
+path="res://.godot/imported/xp2_rock2m.con-aebd3204829682700e3eacc3beca83f3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_rock2m/xp2_rock2m.con"
+dest_files=["res://.godot/imported/xp2_rock2m.con-aebd3204829682700e3eacc3beca83f3.scn"]
+
+[params]
+

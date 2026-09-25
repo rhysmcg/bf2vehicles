@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://der0rrhfdrpnr"
+path="res://.godot/imported/xp2_trafficlight_01.staticmesh-ee34637f9fc07b187161869189fdc291.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_trafficlight_01/meshes/xp2_trafficlight_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_trafficlight_01.staticmesh-ee34637f9fc07b187161869189fdc291.scn"]
+
+[params]
+

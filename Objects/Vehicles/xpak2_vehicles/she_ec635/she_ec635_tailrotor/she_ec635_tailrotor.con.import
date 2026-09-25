@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dr7sr5t2sqdat"
+path="res://.godot/imported/she_ec635_tailrotor.con-f49f120044b07fb90609e23d71b378c1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/she_ec635_tailrotor/she_ec635_tailrotor.con"
+dest_files=["res://.godot/imported/she_ec635_tailrotor.con-f49f120044b07fb90609e23d71b378c1.scn"]
+
+[params]
+

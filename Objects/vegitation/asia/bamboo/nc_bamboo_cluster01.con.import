@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://brksg1krc6v7q"
+path="res://.godot/imported/nc_bamboo_cluster01.con-0b7815f0cb8aea98ba39ab3bcfd87927.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/bamboo/nc_bamboo_cluster01.con"
+dest_files=["res://.godot/imported/nc_bamboo_cluster01.con-0b7815f0cb8aea98ba39ab3bcfd87927.scn"]
+
+[params]
+

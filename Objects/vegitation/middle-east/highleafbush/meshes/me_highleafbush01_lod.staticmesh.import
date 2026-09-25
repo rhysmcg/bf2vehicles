@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dy1eo7xhktuvi"
+path="res://.godot/imported/me_highleafbush01_lod.staticmesh-da9e7c9455d01a75d622a8c320a32dd4.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/highleafbush/meshes/me_highleafbush01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_highleafbush01_lod.staticmesh-da9e7c9455d01a75d622a8c320a32dd4.scn"]
+
+[params]
+

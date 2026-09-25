@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1nuw0m521yef"
+path="res://.godot/imported/UniqueTarget.con-8220df36dd4265b79c0c99bbedab9447.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/TargetObjects/UniqueTarget.con"
+dest_files=["res://.godot/imported/UniqueTarget.con-8220df36dd4265b79c0c99bbedab9447.scn"]
+
+[params]
+

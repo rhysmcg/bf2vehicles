@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cboi3aowl1w06"
+path="res://.godot/imported/stnwalls_10m_up_test.staticmesh-903347bd422b2e2b1ab2561988d0634e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_10m_up_test/meshes/stnwalls_10m_up_test.staticmesh"
+dest_files=["res://.godot/imported/stnwalls_10m_up_test.staticmesh-903347bd422b2e2b1ab2561988d0634e.scn"]
+
+[params]
+

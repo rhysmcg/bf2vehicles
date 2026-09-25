@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkfyw5tlhrtws"
+path="res://.godot/imported/hgr_smoke.con-ec615a97b82be252eb7fb6b826d9185e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/hgr_smoke/hgr_smoke.con"
+dest_files=["res://.godot/imported/hgr_smoke.con-ec615a97b82be252eb7fb6b826d9185e.scn"]
+
+[params]
+

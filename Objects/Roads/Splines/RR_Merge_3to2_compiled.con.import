@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c56g4d4gal04w"
+path="res://.godot/imported/RR_Merge_3to2_compiled.con-0c7f063e825524bbde6596be1bd81cca.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_Merge_3to2_compiled.con"
+dest_files=["res://.godot/imported/RR_Merge_3to2_compiled.con-0c7f063e825524bbde6596be1bd81cca.scn"]
+
+[params]
+

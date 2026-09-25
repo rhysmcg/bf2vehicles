@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://boaqi023vulyq"
+path="res://.godot/imported/p_wreck_cobra_hull.bundledmesh-4172858170a12f5c0f32bab1d2d8b9e4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/meshes/p_wreck_cobra_hull.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_cobra_hull.bundledmesh-4172858170a12f5c0f32bab1d2d8b9e4.scn"]
+
+[params]
+

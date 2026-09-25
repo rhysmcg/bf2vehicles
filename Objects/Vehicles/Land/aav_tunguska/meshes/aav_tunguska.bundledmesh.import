@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dgpblmqb3hg6m"
+path="res://.godot/imported/aav_tunguska.bundledmesh-859f4c9dcac70f38bab039ed9ae90b4e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_tunguska/meshes/aav_tunguska.bundledmesh"
+dest_files=["res://.godot/imported/aav_tunguska.bundledmesh-859f4c9dcac70f38bab039ed9ae90b4e.scn"]
+
+[params]
+

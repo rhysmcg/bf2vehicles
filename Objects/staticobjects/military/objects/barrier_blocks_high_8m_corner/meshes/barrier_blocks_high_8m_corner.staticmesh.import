@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://caskrfcvnhia4"
+path="res://.godot/imported/barrier_blocks_high_8m_corner.staticmesh-bc15a9b8767cef5164790452e53d22ee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/barrier_blocks_high_8m_corner/meshes/barrier_blocks_high_8m_corner.staticmesh"
+dest_files=["res://.godot/imported/barrier_blocks_high_8m_corner.staticmesh-bc15a9b8767cef5164790452e53d22ee.scn"]
+
+[params]
+

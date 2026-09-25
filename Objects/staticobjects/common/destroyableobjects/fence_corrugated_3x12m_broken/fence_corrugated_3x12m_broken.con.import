@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gvnn838xreb2"
+path="res://.godot/imported/fence_corrugated_3x12m_broken.con-dcaf7164302de8919cfaf5f29597e4e0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fence_corrugated_3x12m_broken/fence_corrugated_3x12m_broken.con"
+dest_files=["res://.godot/imported/fence_corrugated_3x12m_broken.con-dcaf7164302de8919cfaf5f29597e4e0.scn"]
+
+[params]
+

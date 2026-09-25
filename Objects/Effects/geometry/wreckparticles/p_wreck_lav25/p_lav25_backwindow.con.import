@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://tpvrwt32y5u4"
+path="res://.godot/imported/p_lav25_backwindow.con-6ee1c2e3d1a4e812da9b6a76607246ad.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/p_lav25_backwindow.con"
+dest_files=["res://.godot/imported/p_lav25_backwindow.con-6ee1c2e3d1a4e812da9b6a76607246ad.scn"]
+
+[params]
+

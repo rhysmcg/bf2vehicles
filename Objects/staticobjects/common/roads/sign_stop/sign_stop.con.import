@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://by3jaaem2e1fn"
+path="res://.godot/imported/sign_stop.con-c4680ed705e2afd71e75816935d829ba.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_stop/sign_stop.con"
+dest_files=["res://.godot/imported/sign_stop.con-c4680ed705e2afd71e75816935d829ba.scn"]
+
+[params]
+

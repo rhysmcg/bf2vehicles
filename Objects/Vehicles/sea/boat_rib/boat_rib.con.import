@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b23lolbdkj27f"
+path="res://.godot/imported/boat_rib.con-03a9959bc5901272a6d983d914849a89.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/sea/boat_rib/boat_rib.con"
+dest_files=["res://.godot/imported/boat_rib.con-03a9959bc5901272a6d983d914849a89.scn"]
+
+[params]
+

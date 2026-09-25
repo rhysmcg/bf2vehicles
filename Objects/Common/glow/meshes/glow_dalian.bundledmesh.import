@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cys0p40ps32w2"
+path="res://.godot/imported/glow_dalian.bundledmesh-22ac512d7878894f89e57420a8f114d2.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/meshes/glow_dalian.bundledmesh"
+dest_files=["res://.godot/imported/glow_dalian.bundledmesh-22ac512d7878894f89e57420a8f114d2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bu7axb07kkc7m"
+path="res://.godot/imported/cloth_line.con-63395bc8ccf43ac40914cbf749c468ba.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Cloth_Line/cloth_line.con"
+dest_files=["res://.godot/imported/cloth_line.con-63395bc8ccf43ac40914cbf749c468ba.scn"]
+
+[params]
+

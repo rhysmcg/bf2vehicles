@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgyaeqejhnjsq"
+path="res://.godot/imported/mi_sandbags_quad.con-3a8c4ca15e95280dbd21019031c8c00b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/mi_sandbags_quad/mi_sandbags_quad.con"
+dest_files=["res://.godot/imported/mi_sandbags_quad.con-3a8c4ca15e95280dbd21019031c8c00b.scn"]
+
+[params]
+

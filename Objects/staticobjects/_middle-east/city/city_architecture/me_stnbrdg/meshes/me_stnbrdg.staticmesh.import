@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d27hi87umjuon"
+path="res://.godot/imported/me_stnbrdg.staticmesh-a21bf7b6e1af0bd2a315edaad6cc7b32.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/me_stnbrdg/meshes/me_stnbrdg.staticmesh"
+dest_files=["res://.godot/imported/me_stnbrdg.staticmesh-a21bf7b6e1af0bd2a315edaad6cc7b32.scn"]
+
+[params]
+

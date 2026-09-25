@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7qk0cdmf14xx"
+path="res://.godot/imported/concrete_pillar_beam_large.con-76e49cf59ccedd3d9fe4e10254c21546.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/concrete_pillar_beam_large/concrete_pillar_beam_large.con"
+dest_files=["res://.godot/imported/concrete_pillar_beam_large.con-76e49cf59ccedd3d9fe4e10254c21546.scn"]
+
+[params]
+

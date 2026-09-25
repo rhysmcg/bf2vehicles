@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bdeu0gu4pq2om"
+path="res://.godot/imported/c4_explosives.bundledmesh-ec00e7077c1b513bff9c46a1d3fb11a4.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/c4_explosives/meshes/c4_explosives.bundledmesh"
+dest_files=["res://.godot/imported/c4_explosives.bundledmesh-ec00e7077c1b513bff9c46a1d3fb11a4.scn"]
+
+[params]
+

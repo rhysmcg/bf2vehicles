@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgctrhcr0cjsd"
+path="res://.godot/imported/p_wreck_f18_tailwing.con-eea879812f096cff10ba556ea0af28fe.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/p_wreck_f18_tailwing.con"
+dest_files=["res://.godot/imported/p_wreck_f18_tailwing.con-eea879812f096cff10ba556ea0af28fe.scn"]
+
+[params]
+

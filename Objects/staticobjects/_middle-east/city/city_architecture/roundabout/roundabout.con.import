@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bc4xrl50gs1hr"
+path="res://.godot/imported/roundabout.con-5ccd49061a827225396c432a3f4e7a32.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/roundabout/roundabout.con"
+dest_files=["res://.godot/imported/roundabout.con-5ccd49061a827225396c432a3f4e7a32.scn"]
+
+[params]
+

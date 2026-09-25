@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cy27gogxf84so"
+path="res://.godot/imported/p_wreck_brick_01.con-8a2fb284caf0bebc80ebb99d77e31735.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/bridgewreck_particles/p_wreck_brick_01.con"
+dest_files=["res://.godot/imported/p_wreck_brick_01.con-8a2fb284caf0bebc80ebb99d77e31735.scn"]
+
+[params]
+

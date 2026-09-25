@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0yjo8n8hd40f"
+path="res://.godot/imported/e_vexp_xpak_fantan.con-fa45dbd541c20eddffdcf239787d9b84.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_fantan/e_vexp_xpak_fantan.con"
+dest_files=["res://.godot/imported/e_vexp_xpak_fantan.con-fa45dbd541c20eddffdcf239787d9b84.scn"]
+
+[params]
+

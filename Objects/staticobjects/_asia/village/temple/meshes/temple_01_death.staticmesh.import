@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5ceeqh52khig"
+path="res://.godot/imported/temple_01_death.staticmesh-5077a73a95757383f393e78182bda937.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/temple/meshes/temple_01_death.staticmesh"
+dest_files=["res://.godot/imported/temple_01_death.staticmesh-5077a73a95757383f393e78182bda937.scn"]
+
+[params]
+

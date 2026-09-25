@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bs651pqco8srt"
+path="res://.godot/imported/mi_guard_tower_us.staticmesh-8ee0bfd7ee228c05dda2e91c29bd669b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_guard_tower_us/meshes/mi_guard_tower_us.staticmesh"
+dest_files=["res://.godot/imported/mi_guard_tower_us.staticmesh-8ee0bfd7ee228c05dda2e91c29bd669b.scn"]
+
+[params]
+

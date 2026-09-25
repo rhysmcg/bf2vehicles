@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bcewf2xudr1nj"
+path="res://.godot/imported/p_tool_file.con-aa0bd772220a182e22636dd4705149e5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_tool_file.con"
+dest_files=["res://.godot/imported/p_tool_file.con-aa0bd772220a182e22636dd4705149e5.scn"]
+
+[params]
+

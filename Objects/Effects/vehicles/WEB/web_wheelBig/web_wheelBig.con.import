@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://iwl1wkou43x5"
+path="res://.godot/imported/web_wheelBig.con-64f46d510327f939b737d634678f8b19.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/web_wheelBig.con"
+dest_files=["res://.godot/imported/web_wheelBig.con-64f46d510327f939b737d634678f8b19.scn"]
+
+[params]
+

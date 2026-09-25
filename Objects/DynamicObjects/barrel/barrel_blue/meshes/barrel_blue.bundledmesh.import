@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxgrwsebprysn"
+path="res://.godot/imported/barrel_blue.bundledmesh-bfd5f82275071004b24d93ec97b85e68.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/barrel/barrel_blue/meshes/barrel_blue.bundledmesh"
+dest_files=["res://.godot/imported/barrel_blue.bundledmesh-bfd5f82275071004b24d93ec97b85e68.scn"]
+
+[params]
+

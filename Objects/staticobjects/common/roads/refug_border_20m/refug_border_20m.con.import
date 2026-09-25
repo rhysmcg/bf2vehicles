@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://p5bdqts3800b"
+path="res://.godot/imported/refug_border_20m.con-ae542d635dc084806ac7e873146ee3e3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_border_20m/refug_border_20m.con"
+dest_files=["res://.godot/imported/refug_border_20m.con-ae542d635dc084806ac7e873146ee3e3.scn"]
+
+[params]
+

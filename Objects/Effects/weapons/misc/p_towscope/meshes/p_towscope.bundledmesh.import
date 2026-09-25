@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b1p857tmicsm3"
+path="res://.godot/imported/p_towscope.bundledmesh-18e7fcd0151e0d9a2a1640685d09c0db.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_towscope/meshes/p_towscope.bundledmesh"
+dest_files=["res://.godot/imported/p_towscope.bundledmesh-18e7fcd0151e0d9a2a1640685d09c0db.scn"]
+
+[params]
+

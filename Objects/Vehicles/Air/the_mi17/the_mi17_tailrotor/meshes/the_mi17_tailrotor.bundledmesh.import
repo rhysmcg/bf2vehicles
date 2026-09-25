@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bpdeaqxs04pkn"
+path="res://.godot/imported/the_mi17_tailrotor.bundledmesh-b8449244f76786fa6ec146132d0ce529.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/the_mi17_tailrotor/meshes/the_mi17_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/the_mi17_tailrotor.bundledmesh-b8449244f76786fa6ec146132d0ce529.scn"]
+
+[params]
+

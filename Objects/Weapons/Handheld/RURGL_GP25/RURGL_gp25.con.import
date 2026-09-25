@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cs146tk253c1"
+path="res://.godot/imported/RURGL_gp25.con-6bf04d6264473bb23ac076d4610613f5.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURGL_GP25/RURGL_gp25.con"
+dest_files=["res://.godot/imported/RURGL_gp25.con-6bf04d6264473bb23ac076d4610613f5.scn"]
+
+[params]
+

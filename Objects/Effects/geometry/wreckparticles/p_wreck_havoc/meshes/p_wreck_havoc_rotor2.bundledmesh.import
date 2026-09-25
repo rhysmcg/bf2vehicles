@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://hj02utw22mpw"
+path="res://.godot/imported/p_wreck_havoc_rotor2.bundledmesh-c602b25a317df692f987d84689c829cc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_havoc/meshes/p_wreck_havoc_rotor2.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_havoc_rotor2.bundledmesh-c602b25a317df692f987d84689c829cc.scn"]
+
+[params]
+

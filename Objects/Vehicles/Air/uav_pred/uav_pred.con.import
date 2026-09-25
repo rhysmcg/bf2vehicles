@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bc43vshi2a2qx"
+path="res://.godot/imported/uav_pred.con-bb44580e7ea8276a3382a5d878ae2037.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/uav_pred/uav_pred.con"
+dest_files=["res://.godot/imported/uav_pred.con-bb44580e7ea8276a3382a5d878ae2037.scn"]
+
+[params]
+

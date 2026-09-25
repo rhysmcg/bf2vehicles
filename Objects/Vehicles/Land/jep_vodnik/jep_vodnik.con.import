@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bjdp1bc1x6nc3"
+path="res://.godot/imported/jep_vodnik.con-efb818459bb47d5409977e5976b85c6e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_vodnik/jep_vodnik.con"
+dest_files=["res://.godot/imported/jep_vodnik.con-efb818459bb47d5409977e5976b85c6e.scn"]
+
+[params]
+

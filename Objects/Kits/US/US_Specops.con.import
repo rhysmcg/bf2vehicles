@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwsr8sp5ajpvc"
+path="res://.godot/imported/US_Specops.con-c04f63c2d2b5b09610f6b52ecec8b71e.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/US/US_Specops.con"
+dest_files=["res://.godot/imported/US_Specops.con-c04f63c2d2b5b09610f6b52ecec8b71e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bghaobbxgy1nq"
+path="res://.godot/imported/canopy_01_vines_02_lod.staticmesh-428a1d191b1e5e53ed9a08160c0828f7.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/canopy_01_vines_02/Meshes/canopy_01_vines_02_lod.staticmesh"
+dest_files=["res://.godot/imported/canopy_01_vines_02_lod.staticmesh-428a1d191b1e5e53ed9a08160c0828f7.scn"]
+
+[params]
+

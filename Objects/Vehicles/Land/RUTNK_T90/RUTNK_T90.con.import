@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddm4t3dyfavu6"
+path="res://.godot/imported/RUTNK_T90.con-287223baf7cf154a9673cd124ed8dda0.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/RUTNK_T90/RUTNK_T90.con"
+dest_files=["res://.godot/imported/RUTNK_T90.con-287223baf7cf154a9673cd124ed8dda0.scn"]
+
+[params]
+

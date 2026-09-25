@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c2hmnlb416jk0"
+path="res://.godot/imported/mi_hangar_us.staticmesh-2258cde32a9241c15afe10c31c4074e4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_hangar_us/meshes/mi_hangar_us.staticmesh"
+dest_files=["res://.godot/imported/mi_hangar_us.staticmesh-2258cde32a9241c15afe10c31c4074e4.scn"]
+
+[params]
+

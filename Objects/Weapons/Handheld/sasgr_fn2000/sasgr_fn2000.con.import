@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bagbomu7m5vs8"
+path="res://.godot/imported/sasgr_fn2000.con-f2050b62d79d8f472ee0c9d3698b062d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasgr_fn2000/sasgr_fn2000.con"
+dest_files=["res://.godot/imported/sasgr_fn2000.con-f2050b62d79d8f472ee0c9d3698b062d.scn"]
+
+[params]
+

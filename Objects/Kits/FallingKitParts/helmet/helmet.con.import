@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://p7qmcum64b6h"
+path="res://.godot/imported/helmet.con-aee7a1f72138f94e2c8605268dbd450e.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/FallingKitParts/helmet/helmet.con"
+dest_files=["res://.godot/imported/helmet.con-aee7a1f72138f94e2c8605268dbd450e.scn"]
+
+[params]
+

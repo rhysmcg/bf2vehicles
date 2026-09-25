@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bq62f00f4e4r2"
+path="res://.godot/imported/e_web_wheeled_rock.con-fd152046da7b2fd08f0e15739ebc69d8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_rock/e_web_wheeled_rock.con"
+dest_files=["res://.godot/imported/e_web_wheeled_rock.con-fd152046da7b2fd08f0e15739ebc69d8.scn"]
+
+[params]
+

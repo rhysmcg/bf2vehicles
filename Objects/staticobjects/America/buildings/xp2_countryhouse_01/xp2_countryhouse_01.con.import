@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3upcbgex2jrh"
+path="res://.godot/imported/xp2_countryhouse_01.con-57ac750a9e78f0d551cad6f7c0a2cb8c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_countryhouse_01/xp2_countryhouse_01.con"
+dest_files=["res://.godot/imported/xp2_countryhouse_01.con-57ac750a9e78f0d551cad6f7c0a2cb8c.scn"]
+
+[params]
+

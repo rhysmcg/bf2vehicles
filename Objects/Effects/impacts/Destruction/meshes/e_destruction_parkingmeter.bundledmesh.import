@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cifedqbpxvabx"
+path="res://.godot/imported/e_destruction_parkingmeter.bundledmesh-0fb8c9015a9ce099dea4db7ec250d343.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_parkingmeter.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_parkingmeter.bundledmesh-0fb8c9015a9ce099dea4db7ec250d343.scn"]
+
+[params]
+

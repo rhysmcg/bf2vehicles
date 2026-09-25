@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ct8xj2y7qynv7"
+path="res://.godot/imported/urm_dam_upper.con-3f948aea1f45553cccb5f6dd16c51a08.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/urm_dam_upper/urm_dam_upper.con"
+dest_files=["res://.godot/imported/urm_dam_upper.con-3f948aea1f45553cccb5f6dd16c51a08.scn"]
+
+[params]
+

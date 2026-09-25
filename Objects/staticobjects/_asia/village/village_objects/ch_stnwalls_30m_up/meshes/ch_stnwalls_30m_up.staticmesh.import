@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blfifoke2l6l2"
+path="res://.godot/imported/ch_stnwalls_30m_up.staticmesh-02b87c5c55eeb3b87984178e2459fd67.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_30m_up/meshes/ch_stnwalls_30m_up.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_30m_up.staticmesh-02b87c5c55eeb3b87984178e2459fd67.scn"]
+
+[params]
+

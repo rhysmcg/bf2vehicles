@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dpa72mmdw7qra"
+path="res://.godot/imported/xp2_highwaybridge_01.staticmesh-b1ac22dc3c6d8726ac9c81ccb2b0f4cd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_highwaybridge_01/meshes/xp2_highwaybridge_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_highwaybridge_01.staticmesh-b1ac22dc3c6d8726ac9c81ccb2b0f4cd.scn"]
+
+[params]
+

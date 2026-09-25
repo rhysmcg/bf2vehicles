@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cb21avpw8w107"
+path="res://.godot/imported/p_sign_smallyellow.con-5551256090c5a6d700419940ad0bce7d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_smallyellow.con"
+dest_files=["res://.godot/imported/p_sign_smallyellow.con-5551256090c5a6d700419940ad0bce7d.scn"]
+
+[params]
+

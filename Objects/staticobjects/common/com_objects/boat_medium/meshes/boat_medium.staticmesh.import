@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c42qtt1dg538s"
+path="res://.godot/imported/boat_medium.staticmesh-d586131daea6556bbc884b779e3f7d13.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/boat_medium/meshes/boat_medium.staticmesh"
+dest_files=["res://.godot/imported/boat_medium.staticmesh-d586131daea6556bbc884b779e3f7d13.scn"]
+
+[params]
+

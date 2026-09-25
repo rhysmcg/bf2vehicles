@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvuagqv0oq6oq"
+path="res://.godot/imported/xp2_picnictable_01.con-f2536fba4bc47c4e218bf85cfd248f67.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_picnictable_01/xp2_picnictable_01.con"
+dest_files=["res://.godot/imported/xp2_picnictable_01.con-f2536fba4bc47c4e218bf85cfd248f67.scn"]
+
+[params]
+

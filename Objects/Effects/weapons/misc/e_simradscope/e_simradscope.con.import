@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b180cvn2wjvqf"
+path="res://.godot/imported/e_simradscope.con-dbdbdc1e126d1b96b01804e68531ca93.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/e_simradscope/e_simradscope.con"
+dest_files=["res://.godot/imported/e_simradscope.con-dbdbdc1e126d1b96b01804e68531ca93.scn"]
+
+[params]
+

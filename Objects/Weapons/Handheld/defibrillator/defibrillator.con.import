@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgw4rsth2c8v"
+path="res://.godot/imported/defibrillator.con-0424bbfe464f207d2be02f726a3a3c14.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/defibrillator/defibrillator.con"
+dest_files=["res://.godot/imported/defibrillator.con-0424bbfe464f207d2be02f726a3a3c14.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cnkruo6se06vb"
+path="res://.godot/imported/e_mexp_claymore_water.con-b9e2c32ed3b570dec39940b7f80654ac.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/claymore/e_mexp_claymore_water.con"
+dest_files=["res://.godot/imported/e_mexp_claymore_water.con-b9e2c32ed3b570dec39940b7f80654ac.scn"]
+
+[params]
+

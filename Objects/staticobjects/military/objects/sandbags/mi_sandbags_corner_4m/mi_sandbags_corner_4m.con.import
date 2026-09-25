@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dlp8wto5jfts7"
+path="res://.godot/imported/mi_sandbags_corner_4m.con-4fed825ccbe5e37f69e86db99061e407.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/mi_sandbags_corner_4m/mi_sandbags_corner_4m.con"
+dest_files=["res://.godot/imported/mi_sandbags_corner_4m.con-4fed825ccbe5e37f69e86db99061e407.scn"]
+
+[params]
+

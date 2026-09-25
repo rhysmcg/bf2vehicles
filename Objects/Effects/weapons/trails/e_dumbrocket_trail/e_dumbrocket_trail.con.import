@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://brpi3o1m5w1t3"
+path="res://.godot/imported/e_dumbrocket_trail.con-4dd9a5e51e917b153ef7d1c5894f3369.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_dumbrocket_trail/e_dumbrocket_trail.con"
+dest_files=["res://.godot/imported/e_dumbrocket_trail.con-4dd9a5e51e917b153ef7d1c5894f3369.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chifc5a76nau1"
+path="res://.godot/imported/xp2_recyclingdumpster_01.con-1c9090c2363dce0328aeb613b4476ee6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_recyclingdumpster_01/xp2_recyclingdumpster_01.con"
+dest_files=["res://.godot/imported/xp2_recyclingdumpster_01.con-1c9090c2363dce0328aeb613b4476ee6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d31qgjoebu55h"
+path="res://.godot/imported/c4_explosives.con-e4d6ba2795066aa81f9ba0edf905368c.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/c4_explosives/c4_explosives.con"
+dest_files=["res://.godot/imported/c4_explosives.con-e4d6ba2795066aa81f9ba0edf905368c.scn"]
+
+[params]
+

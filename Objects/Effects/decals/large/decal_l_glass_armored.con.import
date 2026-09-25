@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmw7dlsmlaem1"
+path="res://.godot/imported/decal_l_glass_armored.con-36b9475f979152640ecf5f1debe2c51b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_glass_armored.con"
+dest_files=["res://.godot/imported/decal_l_glass_armored.con-36b9475f979152640ecf5f1debe2c51b.scn"]
+
+[params]
+

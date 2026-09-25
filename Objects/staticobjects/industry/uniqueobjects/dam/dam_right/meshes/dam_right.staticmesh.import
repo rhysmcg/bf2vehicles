@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d0jpla8aileyr"
+path="res://.godot/imported/dam_right.staticmesh-4efda3fcec9c256216edb337293466c6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_right/meshes/dam_right.staticmesh"
+dest_files=["res://.godot/imported/dam_right.staticmesh-4efda3fcec9c256216edb337293466c6.scn"]
+
+[params]
+

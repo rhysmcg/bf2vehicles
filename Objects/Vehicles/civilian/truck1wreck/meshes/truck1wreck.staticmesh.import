@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cd6vrk5ah4we2"
+path="res://.godot/imported/truck1wreck.staticmesh-e16caead68e392b63d952a327db67eb2.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/truck1wreck/meshes/truck1wreck.staticmesh"
+dest_files=["res://.godot/imported/truck1wreck.staticmesh-e16caead68e392b63d952a327db67eb2.scn"]
+
+[params]
+

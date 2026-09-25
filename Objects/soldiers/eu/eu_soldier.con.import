@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvduhuurpd632"
+path="res://.godot/imported/eu_soldier.con-893d0997d8ba71fc00f62623f510d255.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/eu/eu_soldier.con"
+dest_files=["res://.godot/imported/eu_soldier.con-893d0997d8ba71fc00f62623f510d255.scn"]
+
+[params]
+

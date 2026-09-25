@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bqejmii5ip44w"
+path="res://.godot/imported/e_vexp_mobileradar_us.bundledmesh-f1db152669f6d9149ab5ba22cbc29e55.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_mobileradar_us.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_mobileradar_us.bundledmesh-f1db152669f6d9149ab5ba22cbc29e55.scn"]
+
+[params]
+

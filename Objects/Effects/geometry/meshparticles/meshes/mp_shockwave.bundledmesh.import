@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvv4krsd4xpvi"
+path="res://.godot/imported/mp_shockwave.bundledmesh-2ca9e8fe3121ff4a9c4a9c2fa7b9cd6c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/meshes/mp_shockwave.bundledmesh"
+dest_files=["res://.godot/imported/mp_shockwave.bundledmesh-2ca9e8fe3121ff4a9c4a9c2fa7b9cd6c.scn"]
+
+[params]
+

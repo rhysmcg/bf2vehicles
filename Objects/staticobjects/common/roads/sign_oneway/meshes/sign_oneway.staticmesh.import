@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://mxfekvaeime7"
+path="res://.godot/imported/sign_oneway.staticmesh-d722c309632513efc7de3ab381e637ed.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_oneway/meshes/sign_oneway.staticmesh"
+dest_files=["res://.godot/imported/sign_oneway.staticmesh-d722c309632513efc7de3ab381e637ed.scn"]
+
+[params]
+

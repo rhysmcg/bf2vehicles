@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://br3xpwb4ebphh"
+path="res://.godot/imported/xp2_oiltruck_02_cab.con-4626f6c6ffe38fab2ef43a101122d9bd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_oiltruck_02/xp2_oiltruck_02_cab.con"
+dest_files=["res://.godot/imported/xp2_oiltruck_02_cab.con-4626f6c6ffe38fab2ef43a101122d9bd.scn"]
+
+[params]
+

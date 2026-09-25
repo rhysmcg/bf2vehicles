@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bboo7pu88mbwa"
+path="res://.godot/imported/p_fantan_tailfin.bundledmesh-a85adbd3ec1c01a7f68e66289dcde7b6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/meshes/p_fantan_tailfin.bundledmesh"
+dest_files=["res://.godot/imported/p_fantan_tailfin.bundledmesh-a85adbd3ec1c01a7f68e66289dcde7b6.scn"]
+
+[params]
+

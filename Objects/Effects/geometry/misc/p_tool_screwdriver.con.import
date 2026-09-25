@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://h5ebbhbiiy63"
+path="res://.godot/imported/p_tool_screwdriver.con-8e1c1c0dd95f739d63f2a62db2086ed7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_tool_screwdriver.con"
+dest_files=["res://.godot/imported/p_tool_screwdriver.con-8e1c1c0dd95f739d63f2a62db2086ed7.scn"]
+
+[params]
+

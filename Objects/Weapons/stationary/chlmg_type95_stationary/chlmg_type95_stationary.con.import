@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvvohhhctfpjg"
+path="res://.godot/imported/chlmg_type95_stationary.con-1c9bb072feb54463e708a18f5898e8ee.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/chlmg_type95_stationary/chlmg_type95_stationary.con"
+dest_files=["res://.godot/imported/chlmg_type95_stationary.con-1c9bb072feb54463e708a18f5898e8ee.scn"]
+
+[params]
+

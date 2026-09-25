@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dv66eoqot6tro"
+path="res://.godot/imported/dam_bottom.staticmesh-00049cf1fb314920fc55e5c5f98f1ad7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_bottom/meshes/dam_bottom.staticmesh"
+dest_files=["res://.godot/imported/dam_bottom.staticmesh-00049cf1fb314920fc55e5c5f98f1ad7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c24jpfbcuwr2k"
+path="res://.godot/imported/e_exp_f15_buringWreck.con-7f67036444052bc278f7693eb61a3c9f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_exp_f15_buringWreck/e_exp_f15_buringWreck.con"
+dest_files=["res://.godot/imported/e_exp_f15_buringWreck.con-7f67036444052bc278f7693eb61a3c9f.scn"]
+
+[params]
+

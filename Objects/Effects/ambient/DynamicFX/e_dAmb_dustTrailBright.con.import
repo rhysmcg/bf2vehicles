@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c3l14aac2slb8"
+path="res://.godot/imported/e_dAmb_dustTrailBright.con-8486f4c2263586435d85577a14be467f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_dustTrailBright.con"
+dest_files=["res://.godot/imported/e_dAmb_dustTrailBright.con-8486f4c2263586435d85577a14be467f.scn"]
+
+[params]
+

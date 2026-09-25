@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvfjao76rwkr2"
+path="res://.godot/imported/p_su39_tailfin.con-31ee4a7ae2e9accb3548491851f9b4ef.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su39/p_su39_tailfin.con"
+dest_files=["res://.godot/imported/p_su39_tailfin.con-31ee4a7ae2e9accb3548491851f9b4ef.scn"]
+
+[params]
+

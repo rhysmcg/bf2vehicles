@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://isje5d42ub6m"
+path="res://.godot/imported/EU_Specops.con-1a047e90816cdcaf0111420023729460.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/EU/EU_Specops.con"
+dest_files=["res://.godot/imported/EU_Specops.con-1a047e90816cdcaf0111420023729460.scn"]
+
+[params]
+

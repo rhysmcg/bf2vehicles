@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dmxu5a5fnx5b2"
+path="res://.godot/imported/gas_station.con-81947e60fcbafa6939e0948a17ad3ac0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/gas_station/gas_station.con"
+dest_files=["res://.godot/imported/gas_station.con-81947e60fcbafa6939e0948a17ad3ac0.scn"]
+
+[params]
+

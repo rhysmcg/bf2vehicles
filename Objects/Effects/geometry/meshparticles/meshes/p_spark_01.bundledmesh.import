@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dgd3gydx7j8jc"
+path="res://.godot/imported/p_spark_01.bundledmesh-c20e00a9dd1d5238dc4e1f172f386c81.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/meshes/p_spark_01.bundledmesh"
+dest_files=["res://.godot/imported/p_spark_01.bundledmesh-c20e00a9dd1d5238dc4e1f172f386c81.scn"]
+
+[params]
+

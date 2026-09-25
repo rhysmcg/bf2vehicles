@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dix6qryc2jvqp"
+path="res://.godot/imported/p_wreck_vodnik_wheel.bundledmesh-29dcaf652f843b077cffd0c1fcf7a057.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_vodnik/meshes/p_wreck_vodnik_wheel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_vodnik_wheel.bundledmesh-29dcaf652f843b077cffd0c1fcf7a057.scn"]
+
+[params]
+

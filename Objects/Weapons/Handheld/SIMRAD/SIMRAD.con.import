@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbhd02o1nex5q"
+path="res://.godot/imported/SIMRAD.con-93c956e634e5d8177b36aa625aaefa87.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/SIMRAD/SIMRAD.con"
+dest_files=["res://.godot/imported/SIMRAD.con-93c956e634e5d8177b36aa625aaefa87.scn"]
+
+[params]
+

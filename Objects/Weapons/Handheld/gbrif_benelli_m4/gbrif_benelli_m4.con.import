@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhx8kfsuprejo"
+path="res://.godot/imported/gbrif_benelli_m4.con-76982316853667ba590b438b3e87134d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_benelli_m4/gbrif_benelli_m4.con"
+dest_files=["res://.godot/imported/gbrif_benelli_m4.con-76982316853667ba590b438b3e87134d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2hkkmroj842d"
+path="res://.godot/imported/vine_01_col.con-b77c272106babcb19145ad3465a9da51.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/vine_01/vine_01_col.con"
+dest_files=["res://.godot/imported/vine_01_col.con-b77c272106babcb19145ad3465a9da51.scn"]
+
+[params]
+

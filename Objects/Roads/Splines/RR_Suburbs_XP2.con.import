@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dofq5w2mepg4h"
+path="res://.godot/imported/RR_Suburbs_XP2.con-7821d2a556f794d46d6192f660f973e1.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_Suburbs_XP2.con"
+dest_files=["res://.godot/imported/RR_Suburbs_XP2.con-7821d2a556f794d46d6192f660f973e1.scn"]
+
+[params]
+

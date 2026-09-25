@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cougoc8vbhl8h"
+path="res://.godot/imported/me_olive03_dead.con-6ec44ad2a78d6ae5f2e37acc004b71cd.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/olive/me_olive03_dead.con"
+dest_files=["res://.godot/imported/me_olive03_dead.con-6ec44ad2a78d6ae5f2e37acc004b71cd.scn"]
+
+[params]
+

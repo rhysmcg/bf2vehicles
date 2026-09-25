@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4or7x0g0m8wt"
+path="res://.godot/imported/flower_pot.staticmesh-72b06567771cfc1c19d2d31e0696405e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/flower_pot/meshes/flower_pot.staticmesh"
+dest_files=["res://.godot/imported/flower_pot.staticmesh-72b06567771cfc1c19d2d31e0696405e.scn"]
+
+[params]
+

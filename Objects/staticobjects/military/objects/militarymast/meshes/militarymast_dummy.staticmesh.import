@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cd0xy833lpsfn"
+path="res://.godot/imported/militarymast_dummy.staticmesh-dae11b960704388f36ef7be75840a4ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/militarymast/meshes/militarymast_dummy.staticmesh"
+dest_files=["res://.godot/imported/militarymast_dummy.staticmesh-dae11b960704388f36ef7be75840a4ae.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://df68flispf7c0"
+path="res://.godot/imported/ahe_z10.con-a4301203aa737bd85e4df002db2b595c.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/ahe_z10.con"
+dest_files=["res://.godot/imported/ahe_z10.con-a4301203aa737bd85e4df002db2b595c.scn"]
+
+[params]
+

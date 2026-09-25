@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c45nphoqsnswr"
+path="res://.godot/imported/e_dstate_land_fire.con-9fc27abb6df87b82e3ad6e75b42a3d6a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_land_fire.con"
+dest_files=["res://.godot/imported/e_dstate_land_fire.con-9fc27abb6df87b82e3ad6e75b42a3d6a.scn"]
+
+[params]
+

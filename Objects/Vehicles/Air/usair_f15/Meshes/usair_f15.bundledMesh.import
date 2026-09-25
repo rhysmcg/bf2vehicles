@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dad33h0km46ax"
+path="res://.godot/imported/usair_f15.bundledMesh-893c1641d232d63a5ef7e32a6f143f13.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usair_f15/Meshes/usair_f15.bundledMesh"
+dest_files=["res://.godot/imported/usair_f15.bundledMesh-893c1641d232d63a5ef7e32a6f143f13.scn"]
+
+[params]
+

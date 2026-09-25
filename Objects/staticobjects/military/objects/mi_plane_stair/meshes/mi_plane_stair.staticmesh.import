@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xuuwaf25m6d6"
+path="res://.godot/imported/mi_plane_stair.staticmesh-fd8e2d0aa2d32474d9e433f121e5b7dd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_plane_stair/meshes/mi_plane_stair.staticmesh"
+dest_files=["res://.godot/imported/mi_plane_stair.staticmesh-fd8e2d0aa2d32474d9e433f121e5b7dd.scn"]
+
+[params]
+

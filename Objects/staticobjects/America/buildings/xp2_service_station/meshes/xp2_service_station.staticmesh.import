@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cl77a2vm7x6hl"
+path="res://.godot/imported/xp2_service_station.staticmesh-0eb382b262a2ce07bfe04251005a513d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_service_station/meshes/xp2_service_station.staticmesh"
+dest_files=["res://.godot/imported/xp2_service_station.staticmesh-0eb382b262a2ce07bfe04251005a513d.scn"]
+
+[params]
+

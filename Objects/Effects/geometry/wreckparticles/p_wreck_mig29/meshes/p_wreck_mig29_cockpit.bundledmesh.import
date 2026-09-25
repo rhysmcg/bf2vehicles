@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c8oat6eqt0ha3"
+path="res://.godot/imported/p_wreck_mig29_cockpit.bundledmesh-10526a71d4f7891135e3259c61b9ccb8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mig29/meshes/p_wreck_mig29_cockpit.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_mig29_cockpit.bundledmesh-10526a71d4f7891135e3259c61b9ccb8.scn"]
+
+[params]
+

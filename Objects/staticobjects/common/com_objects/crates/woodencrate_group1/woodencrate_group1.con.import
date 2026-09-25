@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2la0m3x7etaw"
+path="res://.godot/imported/woodencrate_group1.con-b3da59d5a412c605056bddcce40ac06f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/crates/woodencrate_group1/woodencrate_group1.con"
+dest_files=["res://.godot/imported/woodencrate_group1.con-b3da59d5a412c605056bddcce40ac06f.scn"]
+
+[params]
+

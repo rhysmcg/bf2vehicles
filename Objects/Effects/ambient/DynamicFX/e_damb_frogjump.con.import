@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddvvjiixbp0vl"
+path="res://.godot/imported/e_damb_frogjump.con-220c7919f31bc1f5bba7177158091bfb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_damb_frogjump.con"
+dest_files=["res://.godot/imported/e_damb_frogjump.con-220c7919f31bc1f5bba7177158091bfb.scn"]
+
+[params]
+

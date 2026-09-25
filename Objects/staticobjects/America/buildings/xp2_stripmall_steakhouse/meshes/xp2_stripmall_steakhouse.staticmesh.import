@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfnn24a44nvsw"
+path="res://.godot/imported/xp2_stripmall_steakhouse.staticmesh-69e5ef503cd987c727c854ece8ca3f3b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_steakhouse/meshes/xp2_stripmall_steakhouse.staticmesh"
+dest_files=["res://.godot/imported/xp2_stripmall_steakhouse.staticmesh-69e5ef503cd987c727c854ece8ca3f3b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rj3k1kde7jl0"
+path="res://.godot/imported/xp2_picketfence_post_01.staticmesh-07c5a565ad31c330ad191537ee8a08be.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_picketfence_post_01/meshes/xp2_picketfence_post_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_picketfence_post_01.staticmesh-07c5a565ad31c330ad191537ee8a08be.scn"]
+
+[params]
+

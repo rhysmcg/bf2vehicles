@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3kegafotv61g"
+path="res://.godot/imported/e_sAmb_fire.con-dce77ba57c7dd7ab67ca3e0e80c95f49.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_sAmb_fire.con"
+dest_files=["res://.godot/imported/e_sAmb_fire.con-dce77ba57c7dd7ab67ca3e0e80c95f49.scn"]
+
+[params]
+

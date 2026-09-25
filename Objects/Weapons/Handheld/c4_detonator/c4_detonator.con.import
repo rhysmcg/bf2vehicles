@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pd0frig1gd5k"
+path="res://.godot/imported/c4_detonator.con-897b281b99c6c33d5cef538fd7ba005c.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/c4_detonator/c4_detonator.con"
+dest_files=["res://.godot/imported/c4_detonator.con-897b281b99c6c33d5cef538fd7ba005c.scn"]
+
+[params]
+

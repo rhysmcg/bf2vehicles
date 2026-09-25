@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkd34q1h60fgf"
+path="res://.godot/imported/e_destruction_parkingmeter.con-8a250e70cf6fceb778743843b2f78b0f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_parkingmeter.con"
+dest_files=["res://.godot/imported/e_destruction_parkingmeter.con-8a250e70cf6fceb778743843b2f78b0f.scn"]
+
+[params]
+

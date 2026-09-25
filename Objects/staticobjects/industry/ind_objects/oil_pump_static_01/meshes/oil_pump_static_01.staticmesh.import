@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cluhbe42db3kq"
+path="res://.godot/imported/oil_pump_static_01.staticmesh-6aed51f4869b780525b34dfa59e01456.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/oil_pump_static_01/meshes/oil_pump_static_01.staticmesh"
+dest_files=["res://.godot/imported/oil_pump_static_01.staticmesh-6aed51f4869b780525b34dfa59e01456.scn"]
+
+[params]
+

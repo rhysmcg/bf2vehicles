@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://m3km4ruruu2x"
+path="res://.godot/imported/p_wreck_wz551_barrelbase.con-02cc4ab7b8d9d2dcf800db838ad490c3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_wz551/p_wreck_wz551_barrelbase.con"
+dest_files=["res://.godot/imported/p_wreck_wz551_barrelbase.con-02cc4ab7b8d9d2dcf800db838ad490c3.scn"]
+
+[params]
+

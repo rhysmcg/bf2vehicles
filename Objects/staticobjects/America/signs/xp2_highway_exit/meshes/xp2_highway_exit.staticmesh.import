@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cua0ep8jpm3hx"
+path="res://.godot/imported/xp2_highway_exit.staticmesh-b1b7ecd603c5f5998a091250f0336542.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highway_exit/meshes/xp2_highway_exit.staticmesh"
+dest_files=["res://.godot/imported/xp2_highway_exit.staticmesh-b1b7ecd603c5f5998a091250f0336542.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dyfhqbbjul6xh"
+path="res://.godot/imported/e_web_tracked_leaf.con-1b8666d77e51a638843d4cd491408872.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_leaf/e_web_tracked_leaf.con"
+dest_files=["res://.godot/imported/e_web_tracked_leaf.con-1b8666d77e51a638843d4cd491408872.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddvjr5l3vcgvd"
+path="res://.godot/imported/e_web_wheeled_gravel.con-8db6d5eb13dcd1ee734526cd453dcda1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_gravel/e_web_wheeled_gravel.con"
+dest_files=["res://.godot/imported/e_web_wheeled_gravel.con-8db6d5eb13dcd1ee734526cd453dcda1.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjjpgn8kso7nf"
+path="res://.godot/imported/Car_horn.con-1a0528ab9191f4501df39af271f28739.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/Car_horn/Car_horn.con"
+dest_files=["res://.godot/imported/Car_horn.con-1a0528ab9191f4501df39af271f28739.scn"]
+
+[params]
+

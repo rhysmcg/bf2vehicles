@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://doelsts6qrikg"
+path="res://.godot/imported/e_rifgrenade_trail.con-4a2430b5124bff7d1909cf4e944d3e41.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_rifgrenade_trail/e_rifgrenade_trail.con"
+dest_files=["res://.godot/imported/e_rifgrenade_trail.con-4a2430b5124bff7d1909cf4e944d3e41.scn"]
+
+[params]
+

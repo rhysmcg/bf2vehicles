@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b28jifj4ljnu1"
+path="res://.godot/imported/p_lav25_turret.bundledmesh-92f8a6c3611540a625aff20f122656ea.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/meshes/p_lav25_turret.bundledmesh"
+dest_files=["res://.godot/imported/p_lav25_turret.bundledmesh-92f8a6c3611540a625aff20f122656ea.scn"]
+
+[params]
+

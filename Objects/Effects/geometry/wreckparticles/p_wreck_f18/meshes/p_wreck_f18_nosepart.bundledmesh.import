@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://7y2vql620b3p"
+path="res://.godot/imported/p_wreck_f18_nosepart.bundledmesh-351264fd40820ff4bdb31c8f0e0e827c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/meshes/p_wreck_f18_nosepart.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f18_nosepart.bundledmesh-351264fd40820ff4bdb31c8f0e0e827c.scn"]
+
+[params]
+

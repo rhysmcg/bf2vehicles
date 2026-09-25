@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmp6pwoi6h2cy"
+path="res://.godot/imported/p_sign_authpers_plank_07.bundledmesh-33ddbad6b64cffa7f20797d22d477630.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_sign/meshes/p_sign_authpers_plank_07.bundledmesh"
+dest_files=["res://.godot/imported/p_sign_authpers_plank_07.bundledmesh-33ddbad6b64cffa7f20797d22d477630.scn"]
+
+[params]
+

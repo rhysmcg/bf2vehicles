@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddi5bdlgcb8rs"
+path="res://.godot/imported/barrier_blocks_high_8m.con-0e41f101c96ba016cd251da49e8e4cbb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/barrier_blocks_high_8m/barrier_blocks_high_8m.con"
+dest_files=["res://.godot/imported/barrier_blocks_high_8m.con-0e41f101c96ba016cd251da49e8e4cbb.scn"]
+
+[params]
+

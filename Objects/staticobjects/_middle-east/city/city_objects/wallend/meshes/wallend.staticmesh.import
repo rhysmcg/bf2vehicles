@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dtu28ym0p8kap"
+path="res://.godot/imported/wallend.staticmesh-441bfda95d44a3a2884728c0bb371aad.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/wallend/meshes/wallend.staticmesh"
+dest_files=["res://.godot/imported/wallend.staticmesh-441bfda95d44a3a2884728c0bb371aad.scn"]
+
+[params]
+

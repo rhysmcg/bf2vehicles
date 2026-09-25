@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7lmnx12xwpoj"
+path="res://.godot/imported/e_crateobjects_teddy.con-4b2380150a87c145c4dcbe8e6d8a64d7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_crateobjects_teddy.con"
+dest_files=["res://.godot/imported/e_crateobjects_teddy.con-4b2380150a87c145c4dcbe8e6d8a64d7.scn"]
+
+[params]
+

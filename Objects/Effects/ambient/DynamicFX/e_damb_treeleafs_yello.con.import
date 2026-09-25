@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pk1r4ni1egvu"
+path="res://.godot/imported/e_damb_treeleafs_yello.con-1e75d25c27a881e60972a60e9b6a224f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_damb_treeleafs_yello.con"
+dest_files=["res://.godot/imported/e_damb_treeleafs_yello.con-1e75d25c27a881e60972a60e9b6a224f.scn"]
+
+[params]
+

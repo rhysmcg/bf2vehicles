@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kt8keyglq3l4"
+path="res://.godot/imported/xp2_sign_amish_01.con-3cfeb10904b05b4ff659859d6d363c39.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_sign_amish_01/xp2_sign_amish_01.con"
+dest_files=["res://.godot/imported/xp2_sign_amish_01.con-3cfeb10904b05b4ff659859d6d363c39.scn"]
+
+[params]
+

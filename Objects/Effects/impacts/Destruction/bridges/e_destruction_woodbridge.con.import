@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dqxebekwustjk"
+path="res://.godot/imported/e_destruction_woodbridge.con-9f1c5f37dc4a9c82302406886edb446f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/e_destruction_woodbridge.con"
+dest_files=["res://.godot/imported/e_destruction_woodbridge.con-9f1c5f37dc4a9c82302406886edb446f.scn"]
+
+[params]
+

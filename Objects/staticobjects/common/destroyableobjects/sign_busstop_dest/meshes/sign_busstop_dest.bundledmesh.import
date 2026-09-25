@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dbq1nl0lxk0y4"
+path="res://.godot/imported/sign_busstop_dest.bundledmesh-2b83e375ca8971c5fa42184160f80eda.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_busstop_dest/meshes/sign_busstop_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_busstop_dest.bundledmesh-2b83e375ca8971c5fa42184160f80eda.scn"]
+
+[params]
+

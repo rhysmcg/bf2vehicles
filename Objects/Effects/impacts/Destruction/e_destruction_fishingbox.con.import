@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ixd8qlyd70dm"
+path="res://.godot/imported/e_destruction_fishingbox.con-9cc6c3d821d4fbe512ba8fb8a62915a2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_fishingbox.con"
+dest_files=["res://.godot/imported/e_destruction_fishingbox.con-9cc6c3d821d4fbe512ba8fb8a62915a2.scn"]
+
+[params]
+

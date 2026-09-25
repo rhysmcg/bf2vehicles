@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0oxo32illx2j"
+path="res://.godot/imported/xp2_plow_01.con-50b92a395ade8c83f79eb0a88815e499.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_plow_01/xp2_plow_01.con"
+dest_files=["res://.godot/imported/xp2_plow_01.con-50b92a395ade8c83f79eb0a88815e499.scn"]
+
+[params]
+

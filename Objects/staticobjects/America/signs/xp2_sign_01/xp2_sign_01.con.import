@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c36t7j47qa06l"
+path="res://.godot/imported/xp2_sign_01.con-7cca1c371e87c4537e31dfdb7be964ef.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_sign_01/xp2_sign_01.con"
+dest_files=["res://.godot/imported/xp2_sign_01.con-7cca1c371e87c4537e31dfdb7be964ef.scn"]
+
+[params]
+

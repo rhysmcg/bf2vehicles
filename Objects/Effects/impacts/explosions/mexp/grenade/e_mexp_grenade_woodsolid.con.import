@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cfur23x2lmm2o"
+path="res://.godot/imported/e_mexp_grenade_woodsolid.con-45cbaa973de26f5129d0c3b7a3434239.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/grenade/e_mexp_grenade_woodsolid.con"
+dest_files=["res://.godot/imported/e_mexp_grenade_woodsolid.con-45cbaa973de26f5129d0c3b7a3434239.scn"]
+
+[params]
+

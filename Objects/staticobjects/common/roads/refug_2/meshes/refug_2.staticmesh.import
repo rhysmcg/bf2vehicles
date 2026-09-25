@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c6gpex4gtxo3l"
+path="res://.godot/imported/refug_2.staticmesh-7bc2f24e72b96299fe978e6f540fc485.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_2/meshes/refug_2.staticmesh"
+dest_files=["res://.godot/imported/refug_2.staticmesh-7bc2f24e72b96299fe978e6f540fc485.scn"]
+
+[params]
+

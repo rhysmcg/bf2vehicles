@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bp6upne1bi4ta"
+path="res://.godot/imported/e_vexp_xpak_wz11.con-a7dbffd36b78e53fea921182f1be9951.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_wz11/e_vexp_xpak_wz11.con"
+dest_files=["res://.godot/imported/e_vexp_xpak_wz11.con-a7dbffd36b78e53fea921182f1be9951.scn"]
+
+[params]
+

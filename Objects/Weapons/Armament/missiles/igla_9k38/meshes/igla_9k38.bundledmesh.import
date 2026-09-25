@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bai8tl0gofrma"
+path="res://.godot/imported/igla_9k38.bundledmesh-465bc369d3bcc5506823f6e7bd9fe4fe.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/igla_9k38/meshes/igla_9k38.bundledmesh"
+dest_files=["res://.godot/imported/igla_9k38.bundledmesh-465bc369d3bcc5506823f6e7bd9fe4fe.scn"]
+
+[params]
+

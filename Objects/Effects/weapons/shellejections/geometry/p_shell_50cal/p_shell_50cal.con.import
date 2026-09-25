@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfm7hfq3pl61n"
+path="res://.godot/imported/p_shell_50cal.con-c67ac1ff81c42ee5e509766395e2d9d0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_50cal/p_shell_50cal.con"
+dest_files=["res://.godot/imported/p_shell_50cal.con-c67ac1ff81c42ee5e509766395e2d9d0.scn"]
+
+[params]
+

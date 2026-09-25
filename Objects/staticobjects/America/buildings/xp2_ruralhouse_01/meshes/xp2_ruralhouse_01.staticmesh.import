@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://o0vmwasrfadc"
+path="res://.godot/imported/xp2_ruralhouse_01.staticmesh-5d05c2051a8574adaf032c10fa4b08a9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_ruralhouse_01/meshes/xp2_ruralhouse_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_ruralhouse_01.staticmesh-5d05c2051a8574adaf032c10fa4b08a9.scn"]
+
+[params]
+

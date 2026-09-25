@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0a2ei3uvycro"
+path="res://.godot/imported/trafficlight.con-85e5c87dbc7f989da278505ec83e6953.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/trafficlight/trafficlight.con"
+dest_files=["res://.godot/imported/trafficlight.con-85e5c87dbc7f989da278505ec83e6953.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bdcd0l2iupkwm"
+path="res://.godot/imported/xp2_cowtrough_01.staticmesh-7cfa094a40134dfc211c185202c81ec8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_cowtrough_01/meshes/xp2_cowtrough_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_cowtrough_01.staticmesh-7cfa094a40134dfc211c185202c81ec8.scn"]
+
+[params]
+

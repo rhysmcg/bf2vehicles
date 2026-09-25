@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bu68pmbhx1pk6"
+path="res://.godot/imported/e_mexp_l_wood.con-52528e21fce29d713ff04d78f988b294.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/large/e_mexp_l_wood.con"
+dest_files=["res://.godot/imported/e_mexp_l_wood.con-52528e21fce29d713ff04d78f988b294.scn"]
+
+[params]
+

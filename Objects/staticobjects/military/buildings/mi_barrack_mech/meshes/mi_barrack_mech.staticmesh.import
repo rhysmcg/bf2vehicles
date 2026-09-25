@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://pkt05m0voplp"
+path="res://.godot/imported/mi_barrack_mech.staticmesh-f2eb951bfdbf76e55f8ce5c3ce4f236f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_barrack_mech/meshes/mi_barrack_mech.staticmesh"
+dest_files=["res://.godot/imported/mi_barrack_mech.staticmesh-f2eb951bfdbf76e55f8ce5c3ce4f236f.scn"]
+
+[params]
+

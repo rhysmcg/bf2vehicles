@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwskriha08o6u"
+path="res://.godot/imported/mi_sandbags_shelter.con-4513d5636037dff5903eafc2cc551869.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_sandbags_shelter/mi_sandbags_shelter.con"
+dest_files=["res://.godot/imported/mi_sandbags_shelter.con-4513d5636037dff5903eafc2cc551869.scn"]
+
+[params]
+

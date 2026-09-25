@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dd1cjrirraumg"
+path="res://.godot/imported/hgr_smoke.bundledmesh-cc63fd0cfeeab1e8739e482060372c3f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/hgr_smoke/meshes/hgr_smoke.bundledmesh"
+dest_files=["res://.godot/imported/hgr_smoke.bundledmesh-cc63fd0cfeeab1e8739e482060372c3f.scn"]
+
+[params]
+

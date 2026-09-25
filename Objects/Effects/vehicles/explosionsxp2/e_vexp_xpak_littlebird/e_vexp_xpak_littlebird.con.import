@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dchm0jm1py6x8"
+path="res://.godot/imported/e_vexp_xpak_littlebird.con-4813cf0e83dc5fc3f48d722bd7777f3e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_littlebird/e_vexp_xpak_littlebird.con"
+dest_files=["res://.godot/imported/e_vexp_xpak_littlebird.con-4813cf0e83dc5fc3f48d722bd7777f3e.scn"]
+
+[params]
+

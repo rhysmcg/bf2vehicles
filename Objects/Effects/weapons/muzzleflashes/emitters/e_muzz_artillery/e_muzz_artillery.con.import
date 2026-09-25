@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbe3dn63u6prv"
+path="res://.godot/imported/e_muzz_artillery.con-442c99523d4a9b57355a889e57eca5f9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_artillery/e_muzz_artillery.con"
+dest_files=["res://.godot/imported/e_muzz_artillery.con-442c99523d4a9b57355a889e57eca5f9.scn"]
+
+[params]
+

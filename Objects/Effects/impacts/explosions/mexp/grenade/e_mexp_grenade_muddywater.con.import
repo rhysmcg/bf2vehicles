@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddoaebkcynh0i"
+path="res://.godot/imported/e_mexp_grenade_muddywater.con-b5c181f2b29aaef488e3944d798b5b9e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/grenade/e_mexp_grenade_muddywater.con"
+dest_files=["res://.godot/imported/e_mexp_grenade_muddywater.con-b5c181f2b29aaef488e3944d798b5b9e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4r4g1a571k8x"
+path="res://.godot/imported/e_mexp_s_waterPuddle.con-208cbbad1456a53ed7e01efdd398a7ff.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_waterPuddle.con"
+dest_files=["res://.godot/imported/e_mexp_s_waterPuddle.con-208cbbad1456a53ed7e01efdd398a7ff.scn"]
+
+[params]
+

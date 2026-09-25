@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xo1lubj42cpv"
+path="res://.godot/imported/cactus_large_01.con-c31b93fdb08b1187bff0c8e092ce83e7.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/Cactus_large_01/cactus_large_01.con"
+dest_files=["res://.godot/imported/cactus_large_01.con-c31b93fdb08b1187bff0c8e092ce83e7.scn"]
+
+[params]
+

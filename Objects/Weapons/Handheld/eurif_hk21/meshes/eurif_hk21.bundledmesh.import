@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bpp5g8qh30ed5"
+path="res://.godot/imported/eurif_hk21.bundledmesh-be8cdb96c422d9d5a5f079c0ee6461fa.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_hk21/meshes/eurif_hk21.bundledmesh"
+dest_files=["res://.godot/imported/eurif_hk21.bundledmesh-be8cdb96c422d9d5a5f079c0ee6461fa.scn"]
+
+[params]
+

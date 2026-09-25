@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cd5ps2less67o"
+path="res://.godot/imported/mp_woodsplinter_s.con-880b5420227fdd4c7c4206df9b0c14b8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/mp_woodsplinter_s.con"
+dest_files=["res://.godot/imported/mp_woodsplinter_s.con-880b5420227fdd4c7c4206df9b0c14b8.scn"]
+
+[params]
+

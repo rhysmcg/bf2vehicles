@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cw4o3bm2tcuge"
+path="res://.godot/imported/wing.staticmesh-59b6d31e156ac2003d368631b496f403.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/wreck_zero/wing/meshes/wing.staticmesh"
+dest_files=["res://.godot/imported/wing.staticmesh-59b6d31e156ac2003d368631b496f403.scn"]
+
+[params]
+

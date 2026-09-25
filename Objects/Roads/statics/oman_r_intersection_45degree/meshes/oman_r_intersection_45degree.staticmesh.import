@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://jn80wp5ohxr0"
+path="res://.godot/imported/oman_r_intersection_45degree.staticmesh-69f1663297d1970f5b5641b1d5a2e5ac.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/oman_r_intersection_45degree/meshes/oman_r_intersection_45degree.staticmesh"
+dest_files=["res://.godot/imported/oman_r_intersection_45degree.staticmesh-69f1663297d1970f5b5641b1d5a2e5ac.scn"]
+
+[params]
+

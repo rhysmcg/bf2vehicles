@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cd16c13rtq4dg"
+path="res://.godot/imported/chsalestable_pot_01.con-29ea66b9a5b75722e752aad8e8897629.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/destroyableobjects/chsalestable_pot_01/chsalestable_pot_01.con"
+dest_files=["res://.godot/imported/chsalestable_pot_01.con-29ea66b9a5b75722e752aad8e8897629.scn"]
+
+[params]
+

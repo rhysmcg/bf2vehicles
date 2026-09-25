@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bqla3xbaxuyld"
+path="res://.godot/imported/sign_noentry.staticmesh-6cbe2b2cc9ff09e888774e918984a3f2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/sign_noentry/meshes/sign_noentry.staticmesh"
+dest_files=["res://.godot/imported/sign_noentry.staticmesh-6cbe2b2cc9ff09e888774e918984a3f2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nce4pcuhloo5"
+path="res://.godot/imported/xp2_oilsilo_01.staticmesh-2ffb465fcf42985e876c60190401e261.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_oilsilo_01/meshes/xp2_oilsilo_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_oilsilo_01.staticmesh-2ffb465fcf42985e876c60190401e261.scn"]
+
+[params]
+

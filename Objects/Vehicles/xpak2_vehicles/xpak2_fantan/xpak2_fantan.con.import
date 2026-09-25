@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gv2jfbgi4v2"
+path="res://.godot/imported/xpak2_fantan.con-80d372548c7c5cf37d717aedff88a395.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_fantan/xpak2_fantan.con"
+dest_files=["res://.godot/imported/xpak2_fantan.con-80d372548c7c5cf37d717aedff88a395.scn"]
+
+[params]
+

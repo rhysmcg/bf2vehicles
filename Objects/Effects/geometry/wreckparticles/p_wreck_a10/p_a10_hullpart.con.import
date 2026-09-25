@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1g2gykrmono1"
+path="res://.godot/imported/p_a10_hullpart.con-bc2afdb0597edb62ac678cefef149d0a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_a10/p_a10_hullpart.con"
+dest_files=["res://.godot/imported/p_a10_hullpart.con-bc2afdb0597edb62ac678cefef149d0a.scn"]
+
+[params]
+

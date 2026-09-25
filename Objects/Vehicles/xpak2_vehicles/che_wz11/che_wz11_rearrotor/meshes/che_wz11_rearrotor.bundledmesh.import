@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cj2ik0ulat3w2"
+path="res://.godot/imported/che_wz11_rearrotor.bundledmesh-88e12f3fc3f2c3a425f1bf3b485193d2.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/che_wz11_rearrotor/meshes/che_wz11_rearrotor.bundledmesh"
+dest_files=["res://.godot/imported/che_wz11_rearrotor.bundledmesh-88e12f3fc3f2c3a425f1bf3b485193d2.scn"]
+
+[params]
+

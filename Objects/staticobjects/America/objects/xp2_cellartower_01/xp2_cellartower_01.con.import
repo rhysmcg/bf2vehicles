@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jlemxb77i3g2"
+path="res://.godot/imported/xp2_cellartower_01.con-22d5fd4df048e0fc8d36fdb75058b65e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_cellartower_01/xp2_cellartower_01.con"
+dest_files=["res://.godot/imported/xp2_cellartower_01.con-22d5fd4df048e0fc8d36fdb75058b65e.scn"]
+
+[params]
+

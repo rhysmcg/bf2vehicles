@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blnvktog7j2gj"
+path="res://.godot/imported/p_wreck_f18_finwing.bundledmesh-4dd0ffe6f6db98c966675b37d8f3da61.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/meshes/p_wreck_f18_finwing.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f18_finwing.bundledmesh-4dd0ffe6f6db98c966675b37d8f3da61.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dk80p127h66ai"
+path="res://.godot/imported/parachute.con-774b63d81819222ceec583d76683fb0f.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/parachute/parachute.con"
+dest_files=["res://.godot/imported/parachute.con-774b63d81819222ceec583d76683fb0f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://n8tu2fpe3g3v"
+path="res://.godot/imported/p_wreck_rib_hull.con-7f814ee867bb715f49811fb911f754be.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_rib/p_wreck_rib_hull.con"
+dest_files=["res://.godot/imported/p_wreck_rib_hull.con-7f814ee867bb715f49811fb911f754be.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kmm3nhvruheb"
+path="res://.godot/imported/wasp_defence_front.con-3ac0491898a225e23bced31962e237b6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/wasp_defence_front/wasp_defence_front.con"
+dest_files=["res://.godot/imported/wasp_defence_front.con-3ac0491898a225e23bced31962e237b6.scn"]
+
+[params]
+

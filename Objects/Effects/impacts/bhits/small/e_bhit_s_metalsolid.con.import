@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chw4kwg0o47ly"
+path="res://.godot/imported/e_bhit_s_metalsolid.con-0278624ca566d813562e19b985fe506f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_metalsolid.con"
+dest_files=["res://.godot/imported/e_bhit_s_metalsolid.con-0278624ca566d813562e19b985fe506f.scn"]
+
+[params]
+

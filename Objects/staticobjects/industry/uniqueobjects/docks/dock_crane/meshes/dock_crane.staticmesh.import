@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://biu72lawnhw01"
+path="res://.godot/imported/dock_crane.staticmesh-55d57ae7d046153e151cd6dba3686188.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_crane/meshes/dock_crane.staticmesh"
+dest_files=["res://.godot/imported/dock_crane.staticmesh-55d57ae7d046153e151cd6dba3686188.scn"]
+
+[params]
+

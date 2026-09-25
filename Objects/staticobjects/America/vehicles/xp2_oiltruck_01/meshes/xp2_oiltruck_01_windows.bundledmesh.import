@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dj4iyjm4o1ngi"
+path="res://.godot/imported/xp2_oiltruck_01_windows.bundledmesh-ceff56d5afcb60cccfdf6b34ee8c6463.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_oiltruck_01/meshes/xp2_oiltruck_01_windows.bundledmesh"
+dest_files=["res://.godot/imported/xp2_oiltruck_01_windows.bundledmesh-ceff56d5afcb60cccfdf6b34ee8c6463.scn"]
+
+[params]
+

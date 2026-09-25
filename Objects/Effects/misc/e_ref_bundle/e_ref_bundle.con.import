@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6kcon1v5eyxo"
+path="res://.godot/imported/e_ref_bundle.con-784efd6331c94538ed69ff3a082c7edd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/e_ref_bundle/e_ref_bundle.con"
+dest_files=["res://.godot/imported/e_ref_bundle.con-784efd6331c94538ed69ff3a082c7edd.scn"]
+
+[params]
+

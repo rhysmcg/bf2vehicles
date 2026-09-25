@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://itskmw8knltk"
+path="res://.godot/imported/e_dstate_woodbridge_light.con-412d9bb3569a37806b5ec769af8e45c4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_woodbridge_light.con"
+dest_files=["res://.godot/imported/e_dstate_woodbridge_light.con-412d9bb3569a37806b5ec769af8e45c4.scn"]
+
+[params]
+

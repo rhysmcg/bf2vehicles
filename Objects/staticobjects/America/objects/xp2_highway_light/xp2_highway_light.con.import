@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cpekpjex5nshy"
+path="res://.godot/imported/xp2_highway_light.con-0813a1664df3954ee13970a963e1fa18.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_highway_light/xp2_highway_light.con"
+dest_files=["res://.godot/imported/xp2_highway_light.con-0813a1664df3954ee13970a963e1fa18.scn"]
+
+[params]
+

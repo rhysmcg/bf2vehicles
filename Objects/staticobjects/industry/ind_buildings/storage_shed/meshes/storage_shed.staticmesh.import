@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dl1fyex1supdg"
+path="res://.godot/imported/storage_shed.staticmesh-85db2fd34d37bad1ed8c859080c0a27e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/storage_shed/meshes/storage_shed.staticmesh"
+dest_files=["res://.godot/imported/storage_shed.staticmesh-85db2fd34d37bad1ed8c859080c0a27e.scn"]
+
+[params]
+

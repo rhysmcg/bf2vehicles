@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ca88qhve5emjy"
+path="res://.godot/imported/xp2_checkvalve_02.staticmesh-f5cb77a7f8b91bbfc858dfa233863539.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_checkvalve_02/meshes/xp2_checkvalve_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_checkvalve_02.staticmesh-f5cb77a7f8b91bbfc858dfa233863539.scn"]
+
+[params]
+

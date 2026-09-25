@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8iev48m1axe1"
+path="res://.godot/imported/e_flare_decoy.con-76c0372a216559be7e46a38908cb0759.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/MISC/e_flare_decoy/e_flare_decoy.con"
+dest_files=["res://.godot/imported/e_flare_decoy.con-76c0372a216559be7e46a38908cb0759.scn"]
+
+[params]
+

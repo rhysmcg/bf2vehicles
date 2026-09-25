@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dqmo52t62l83h"
+path="res://.godot/imported/gbrif_benelli_m4.bundledmesh-bb5dec61b86ecc1aebbc5a7e51e0cca1.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbrif_benelli_m4/meshes/gbrif_benelli_m4.bundledmesh"
+dest_files=["res://.godot/imported/gbrif_benelli_m4.bundledmesh-bb5dec61b86ecc1aebbc5a7e51e0cca1.scn"]
+
+[params]
+

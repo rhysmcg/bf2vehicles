@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://btddt17t3j6g7"
+path="res://.godot/imported/nc_deadlog01.con-24e7a5ac2fe87599f4ad2410f6afcae0.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/deadlog/nc_deadlog01.con"
+dest_files=["res://.godot/imported/nc_deadlog01.con-24e7a5ac2fe87599f4ad2410f6afcae0.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwq12bd5br2kd"
+path="res://.godot/imported/p_lav25_sparetire.bundledmesh-b88978a24e12935da16c1353e6ee0b8e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/meshes/p_lav25_sparetire.bundledmesh"
+dest_files=["res://.godot/imported/p_lav25_sparetire.bundledmesh-b88978a24e12935da16c1353e6ee0b8e.scn"]
+
+[params]
+

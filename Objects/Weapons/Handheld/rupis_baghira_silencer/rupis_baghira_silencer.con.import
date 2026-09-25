@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dj10c2scxx78f"
+path="res://.godot/imported/rupis_baghira_silencer.con-b239bf9321f9104751b0e4cc74598e14.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rupis_baghira_silencer/rupis_baghira_silencer.con"
+dest_files=["res://.godot/imported/rupis_baghira_silencer.con-b239bf9321f9104751b0e4cc74598e14.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bosnkps4tdgcc"
+path="res://.godot/imported/office_building.con-bda8cac85d3eaef606a10f2f3366280e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/office_building/office_building.con"
+dest_files=["res://.godot/imported/office_building.con-bda8cac85d3eaef606a10f2f3366280e.scn"]
+
+[params]
+

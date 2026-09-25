@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://caog603dk41pk"
+path="res://.godot/imported/Dirtroad_Oman_compiled.con-0ccd4927846432ceca32b9e405c474b9.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirtroad_Oman_compiled.con"
+dest_files=["res://.godot/imported/Dirtroad_Oman_compiled.con-0ccd4927846432ceca32b9e405c474b9.scn"]
+
+[params]
+

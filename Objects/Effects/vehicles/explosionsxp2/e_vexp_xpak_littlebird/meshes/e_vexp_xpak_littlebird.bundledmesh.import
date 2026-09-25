@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dy2hw0eablflx"
+path="res://.godot/imported/e_vexp_xpak_littlebird.bundledmesh-7d0d62d924af659388558757803fb6a8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_littlebird/meshes/e_vexp_xpak_littlebird.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_xpak_littlebird.bundledmesh-7d0d62d924af659388558757803fb6a8.scn"]
+
+[params]
+

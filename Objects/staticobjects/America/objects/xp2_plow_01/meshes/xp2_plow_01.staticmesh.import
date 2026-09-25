@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dbauyyhys6drm"
+path="res://.godot/imported/xp2_plow_01.staticmesh-240db89af454fad83d9675175569fa1e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_plow_01/meshes/xp2_plow_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_plow_01.staticmesh-240db89af454fad83d9675175569fa1e.scn"]
+
+[params]
+

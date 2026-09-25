@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://clwdt76ryxh5q"
+path="res://.godot/imported/ordermarker_attack.con-b33df4a0b41975f24aa5b8b962802c45.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/ordermarker_attack/ordermarker_attack.con"
+dest_files=["res://.godot/imported/ordermarker_attack.con-b33df4a0b41975f24aa5b8b962802c45.scn"]
+
+[params]
+

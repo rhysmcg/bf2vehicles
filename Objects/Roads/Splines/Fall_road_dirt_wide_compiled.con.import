@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwoyg1baxuc5f"
+path="res://.godot/imported/Fall_road_dirt_wide_compiled.con-12dbbd318db67f7aad9d2d2168a6049e.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Fall_road_dirt_wide_compiled.con"
+dest_files=["res://.godot/imported/Fall_road_dirt_wide_compiled.con-12dbbd318db67f7aad9d2d2168a6049e.scn"]
+
+[params]
+

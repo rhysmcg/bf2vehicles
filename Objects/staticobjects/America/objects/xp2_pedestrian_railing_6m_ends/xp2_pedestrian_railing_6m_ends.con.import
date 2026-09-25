@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnu2qb44r5moq"
+path="res://.godot/imported/xp2_pedestrian_railing_6m_ends.con-c9a749b10e458b74b82fd8037ad403a0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pedestrian_railing_6m_ends/xp2_pedestrian_railing_6m_ends.con"
+dest_files=["res://.godot/imported/xp2_pedestrian_railing_6m_ends.con-c9a749b10e458b74b82fd8037ad403a0.scn"]
+
+[params]
+

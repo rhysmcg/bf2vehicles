@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2qhdb1awur6"
+path="res://.godot/imported/stnwalls_sloope_30m_none.con-1423fb8e506941ca78c5011d3ad4cc9e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_sloope_30m_none/stnwalls_sloope_30m_none.con"
+dest_files=["res://.godot/imported/stnwalls_sloope_30m_none.con-1423fb8e506941ca78c5011d3ad4cc9e.scn"]
+
+[params]
+

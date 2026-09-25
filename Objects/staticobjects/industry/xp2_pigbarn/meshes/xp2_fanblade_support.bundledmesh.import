@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cco2svxp1cypj"
+path="res://.godot/imported/xp2_fanblade_support.bundledmesh-bf2bd97b67e75d029f0e648736dab3b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_pigbarn/meshes/xp2_fanblade_support.bundledmesh"
+dest_files=["res://.godot/imported/xp2_fanblade_support.bundledmesh-bf2bd97b67e75d029f0e648736dab3b2.scn"]
+
+[params]
+

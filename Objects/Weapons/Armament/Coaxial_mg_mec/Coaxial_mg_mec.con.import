@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwt8gdbnpxr2r"
+path="res://.godot/imported/Coaxial_mg_mec.con-dbe6d95fe52d5a085573a03da53cfb64.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/Coaxial_mg_mec/Coaxial_mg_mec.con"
+dest_files=["res://.godot/imported/Coaxial_mg_mec.con-dbe6d95fe52d5a085573a03da53cfb64.scn"]
+
+[params]
+

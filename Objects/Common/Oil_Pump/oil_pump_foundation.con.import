@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bb4tim6h0mnvc"
+path="res://.godot/imported/oil_pump_foundation.con-d20a30e019c8970500446e3efd5c5200.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Oil_Pump/oil_pump_foundation.con"
+dest_files=["res://.godot/imported/oil_pump_foundation.con-d20a30e019c8970500446e3efd5c5200.scn"]
+
+[params]
+

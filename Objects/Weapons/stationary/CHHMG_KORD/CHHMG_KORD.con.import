@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c2owjsyfoq3ex"
+path="res://.godot/imported/CHHMG_KORD.con-25d0d55018ea5411cf800ca5cbcf5d98.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/CHHMG_KORD/CHHMG_KORD.con"
+dest_files=["res://.godot/imported/CHHMG_KORD.con-25d0d55018ea5411cf800ca5cbcf5d98.scn"]
+
+[params]
+

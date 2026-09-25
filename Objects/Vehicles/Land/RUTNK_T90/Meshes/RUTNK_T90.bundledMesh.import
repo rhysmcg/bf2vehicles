@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ddrjlb5j2xr54"
+path="res://.godot/imported/RUTNK_T90.bundledMesh-60ed2b7f512e92d7c1653b842006c81b.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/RUTNK_T90/Meshes/RUTNK_T90.bundledMesh"
+dest_files=["res://.godot/imported/RUTNK_T90.bundledMesh-60ed2b7f512e92d7c1653b842006c81b.scn"]
+
+[params]
+

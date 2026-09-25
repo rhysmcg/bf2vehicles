@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8wjcqflfq4pw"
+path="res://.godot/imported/decal_s_rubber.con-60aa836410d3584b75cd4d8801f5aded.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_rubber.con"
+dest_files=["res://.godot/imported/decal_s_rubber.con-60aa836410d3584b75cd4d8801f5aded.scn"]
+
+[params]
+

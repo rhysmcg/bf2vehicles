@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://f0fdfs7avsla"
+path="res://.godot/imported/aircontroltower_chi.bundledmesh-afbfb99fb07b75ba87ebf89e25e7607e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/aircontroltower_chi/meshes/aircontroltower_chi.bundledmesh"
+dest_files=["res://.godot/imported/aircontroltower_chi.bundledmesh-afbfb99fb07b75ba87ebf89e25e7607e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cq5uln5x2yesf"
+path="res://.godot/imported/e_tow_trail.con-ff8c33463a8a973508acb2209d7aba9d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_tow_trail/e_tow_trail.con"
+dest_files=["res://.godot/imported/e_tow_trail.con-ff8c33463a8a973508acb2209d7aba9d.scn"]
+
+[params]
+

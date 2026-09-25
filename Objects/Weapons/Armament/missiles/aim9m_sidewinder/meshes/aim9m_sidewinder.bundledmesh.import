@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d1lvk2jisutmt"
+path="res://.godot/imported/aim9m_sidewinder.bundledmesh-f741d1eb1f00270600503c503ef7da80.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/aim9m_sidewinder/meshes/aim9m_sidewinder.bundledmesh"
+dest_files=["res://.godot/imported/aim9m_sidewinder.bundledmesh-f741d1eb1f00270600503c503ef7da80.scn"]
+
+[params]
+

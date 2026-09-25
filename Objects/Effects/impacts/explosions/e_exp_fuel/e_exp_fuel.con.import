@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dplqmlynuiixe"
+path="res://.godot/imported/e_exp_fuel.con-bbdbdca589dc446a1c2c298eca283229.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/e_exp_fuel/e_exp_fuel.con"
+dest_files=["res://.godot/imported/e_exp_fuel.con-bbdbdca589dc446a1c2c298eca283229.scn"]
+
+[params]
+

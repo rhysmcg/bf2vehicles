@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5vlsc8bsbrcl"
+path="res://.godot/imported/p_rock_l.bundledmesh-65a78ff92d91e0e2d3a9aeba9d3ae92e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/rocks/p_rock_l/meshes/p_rock_l.bundledmesh"
+dest_files=["res://.godot/imported/p_rock_l.bundledmesh-65a78ff92d91e0e2d3a9aeba9d3ae92e.scn"]
+
+[params]
+

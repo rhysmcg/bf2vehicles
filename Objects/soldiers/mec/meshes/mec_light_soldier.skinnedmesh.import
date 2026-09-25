@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bd3l76iypve45"
+path="res://.godot/imported/mec_light_soldier.skinnedmesh-de3030c3668f3dcc5f8e1fe65e440829.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/mec/meshes/mec_light_soldier.skinnedmesh"
+dest_files=["res://.godot/imported/mec_light_soldier.skinnedmesh-de3030c3668f3dcc5f8e1fe65e440829.scn"]
+
+[params]
+

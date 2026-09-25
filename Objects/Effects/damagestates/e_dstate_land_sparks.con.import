@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4krdtr6lj4mi"
+path="res://.godot/imported/e_dstate_land_sparks.con-dbad2a02b42145d140f378864f039f08.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_land_sparks.con"
+dest_files=["res://.godot/imported/e_dstate_land_sparks.con-dbad2a02b42145d140f378864f039f08.scn"]
+
+[params]
+

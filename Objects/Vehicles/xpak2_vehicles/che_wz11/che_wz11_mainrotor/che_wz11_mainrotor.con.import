@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqckjqdi2ag26"
+path="res://.godot/imported/che_wz11_mainrotor.con-a07241de22096519a6b08f66b9d5aaf3.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/che_wz11_mainrotor/che_wz11_mainrotor.con"
+dest_files=["res://.godot/imported/che_wz11_mainrotor.con-a07241de22096519a6b08f66b9d5aaf3.scn"]
+
+[params]
+

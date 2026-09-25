@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjrngvcv0pcx4"
+path="res://.godot/imported/brickwall_30m.staticmesh-af8cefe2eb90830779572dd2ad3f177d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/brickwall_30m/meshes/brickwall_30m.staticmesh"
+dest_files=["res://.godot/imported/brickwall_30m.staticmesh-af8cefe2eb90830779572dd2ad3f177d.scn"]
+
+[params]
+

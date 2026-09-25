@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2cvp8o3uk7gi"
+path="res://.godot/imported/e_exp_flashbang.con-3fe15e446cbcac6ad942d7d956261450.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/e_exp_flashbang/e_exp_flashbang.con"
+dest_files=["res://.godot/imported/e_exp_flashbang.con-3fe15e446cbcac6ad942d7d956261450.scn"]
+
+[params]
+

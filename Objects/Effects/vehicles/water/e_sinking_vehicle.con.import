@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bnwebfk1yabnt"
+path="res://.godot/imported/e_sinking_vehicle.con-65766179ab8dc5386ffe4a37f845187d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_sinking_vehicle.con"
+dest_files=["res://.godot/imported/e_sinking_vehicle.con-65766179ab8dc5386ffe4a37f845187d.scn"]
+
+[params]
+

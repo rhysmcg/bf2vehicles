@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ge57gxjc4eru"
+path="res://.godot/imported/concrete_pillar_wall.staticmesh-c9916b79bb594b5e099eda2962102b19.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/concrete_pillar_wall/meshes/concrete_pillar_wall.staticmesh"
+dest_files=["res://.godot/imported/concrete_pillar_wall.staticmesh-c9916b79bb594b5e099eda2962102b19.scn"]
+
+[params]
+

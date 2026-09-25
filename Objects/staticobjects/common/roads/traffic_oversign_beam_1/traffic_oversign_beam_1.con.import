@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5jll5qu0ppe7"
+path="res://.godot/imported/traffic_oversign_beam_1.con-dedacf00da5e66d888d61a0da213b486.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/traffic_oversign_beam_1/traffic_oversign_beam_1.con"
+dest_files=["res://.godot/imported/traffic_oversign_beam_1.con-dedacf00da5e66d888d61a0da213b486.scn"]
+
+[params]
+

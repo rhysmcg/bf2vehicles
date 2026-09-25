@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://copqh78wkkcka"
+path="res://.godot/imported/e_amphib_wake_sound.con-a9a845c78131c989c7b1a1e9f48ba097.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_amphib_wake_sound.con"
+dest_files=["res://.godot/imported/e_amphib_wake_sound.con-a9a845c78131c989c7b1a1e9f48ba097.scn"]
+
+[params]
+

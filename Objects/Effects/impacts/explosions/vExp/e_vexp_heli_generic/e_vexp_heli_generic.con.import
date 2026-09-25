@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bl2vxbc2ng33h"
+path="res://.godot/imported/e_vexp_heli_generic.con-3c7472570add070a6f5b020a0743607e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_heli_generic/e_vexp_heli_generic.con"
+dest_files=["res://.godot/imported/e_vexp_heli_generic.con-3c7472570add070a6f5b020a0743607e.scn"]
+
+[params]
+

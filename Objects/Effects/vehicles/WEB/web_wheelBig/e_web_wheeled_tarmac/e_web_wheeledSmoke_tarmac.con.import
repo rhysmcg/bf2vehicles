@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5utqhhjuuae8"
+path="res://.godot/imported/e_web_wheeledSmoke_tarmac.con-1efd5bfde0f345cbc467dc2419d3dbd0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_tarmac/e_web_wheeledSmoke_tarmac.con"
+dest_files=["res://.godot/imported/e_web_wheeledSmoke_tarmac.con-1efd5bfde0f345cbc467dc2419d3dbd0.scn"]
+
+[params]
+

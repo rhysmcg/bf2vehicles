@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bf30ypygs1bv7"
+path="res://.godot/imported/E_web_trackedSmoke_water.con-295c6ba11b844282aec94c7bf71774e9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_water/E_web_trackedSmoke_water.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_water.con-295c6ba11b844282aec94c7bf71774e9.scn"]
+
+[params]
+

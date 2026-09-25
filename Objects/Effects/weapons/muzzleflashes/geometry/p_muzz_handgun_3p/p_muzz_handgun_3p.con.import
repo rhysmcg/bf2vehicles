@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgsq8ujfsd1fi"
+path="res://.godot/imported/p_muzz_handgun_3p.con-952e9a53cd31fc16953c7ef301df0f10.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_handgun_3p/p_muzz_handgun_3p.con"
+dest_files=["res://.godot/imported/p_muzz_handgun_3p.con-952e9a53cd31fc16953c7ef301df0f10.scn"]
+
+[params]
+

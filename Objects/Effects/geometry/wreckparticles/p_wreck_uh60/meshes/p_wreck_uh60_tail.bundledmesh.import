@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bneahl1f2yf8u"
+path="res://.godot/imported/p_wreck_uh60_tail.bundledmesh-e8ea13130658913ce47d274be0dec4b5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/meshes/p_wreck_uh60_tail.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_uh60_tail.bundledmesh-e8ea13130658913ce47d274be0dec4b5.scn"]
+
+[params]
+

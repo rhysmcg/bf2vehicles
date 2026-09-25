@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqlp3fkp13e7c"
+path="res://.godot/imported/barrel_green.con-80718f888475a2aa02facf9c0ed16fbd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/barrel_green/barrel_green.con"
+dest_files=["res://.godot/imported/barrel_green.con-80718f888475a2aa02facf9c0ed16fbd.scn"]
+
+[params]
+

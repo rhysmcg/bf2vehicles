@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cgeeuilgnpjf3"
+path="res://.godot/imported/RURGL_GP30.bundledMesh-29c444ec5fd3db85cc307b77f5fee85e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURGL_GP30/Meshes/RURGL_GP30.bundledMesh"
+dest_files=["res://.godot/imported/RURGL_GP30.bundledMesh-29c444ec5fd3db85cc307b77f5fee85e.scn"]
+
+[params]
+

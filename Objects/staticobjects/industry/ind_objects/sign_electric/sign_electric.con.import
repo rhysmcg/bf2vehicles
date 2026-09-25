@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://mm77sod240ta"
+path="res://.godot/imported/sign_electric.con-9d9fb46d9911601b907d7f002e1df5f3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/sign_electric/sign_electric.con"
+dest_files=["res://.godot/imported/sign_electric.con-9d9fb46d9911601b907d7f002e1df5f3.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://doatoa13r1wit"
+path="res://.godot/imported/constcrane_hook.con-09525d34c32b53754b75172e570be16d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/constcrane_hook/constcrane_hook.con"
+dest_files=["res://.godot/imported/constcrane_hook.con-09525d34c32b53754b75172e570be16d.scn"]
+
+[params]
+

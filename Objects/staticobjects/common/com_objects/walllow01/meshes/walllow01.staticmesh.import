@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d03su7q7wkwh4"
+path="res://.godot/imported/walllow01.staticmesh-f8fb8553eabf4b84b341b546abd6f131.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/walllow01/meshes/walllow01.staticmesh"
+dest_files=["res://.godot/imported/walllow01.staticmesh-f8fb8553eabf4b84b341b546abd6f131.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cawuwgc1m187l"
+path="res://.godot/imported/xp2_rr_brickwall.staticmesh-cac407f96a1d986a8da0d14492c0da87.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_brickwall/meshes/xp2_rr_brickwall.staticmesh"
+dest_files=["res://.godot/imported/xp2_rr_brickwall.staticmesh-cac407f96a1d986a8da0d14492c0da87.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d12obbfiry6qe"
+path="res://.godot/imported/uslmg_m249saw_stationary.con-df1a917a1ba2404a28b9384791b5925e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/uslmg_m249saw_stationary/uslmg_m249saw_stationary.con"
+dest_files=["res://.godot/imported/uslmg_m249saw_stationary.con-df1a917a1ba2404a28b9384791b5925e.scn"]
+
+[params]
+

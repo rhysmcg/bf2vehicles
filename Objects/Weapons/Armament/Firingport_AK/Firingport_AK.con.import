@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bo2f7yvgxnrey"
+path="res://.godot/imported/Firingport_AK.con-1b3030781c09ebbfcaf6d3eeec62a9bd.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/Firingport_AK/Firingport_AK.con"
+dest_files=["res://.godot/imported/Firingport_AK.con-1b3030781c09ebbfcaf6d3eeec62a9bd.scn"]
+
+[params]
+

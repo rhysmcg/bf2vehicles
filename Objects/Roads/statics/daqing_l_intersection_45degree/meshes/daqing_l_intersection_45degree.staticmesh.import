@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bg1068jcqhql"
+path="res://.godot/imported/daqing_l_intersection_45degree.staticmesh-aec9020be305f25c5e8eb07ef196a1e0.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/daqing_l_intersection_45degree/meshes/daqing_l_intersection_45degree.staticmesh"
+dest_files=["res://.godot/imported/daqing_l_intersection_45degree.staticmesh-aec9020be305f25c5e8eb07ef196a1e0.scn"]
+
+[params]
+

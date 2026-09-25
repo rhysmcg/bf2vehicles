@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bmb8v8j5fo1qp"
+path="res://.godot/imported/e_dstate_Jets_wrecksmoke.con-042cde8b08a9b8e68aaaaaec872cc010.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_Jets_wrecksmoke.con"
+dest_files=["res://.godot/imported/e_dstate_Jets_wrecksmoke.con-042cde8b08a9b8e68aaaaaec872cc010.scn"]
+
+[params]
+

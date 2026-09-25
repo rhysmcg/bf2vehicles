@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://1d1vt61w1vai"
+path="res://.godot/imported/me_vines01_lod.staticmesh-e04fa9a0dc96bac907f7a41985c731e8.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/vines/meshes/me_vines01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_vines01_lod.staticmesh-e04fa9a0dc96bac907f7a41985c731e8.scn"]
+
+[params]
+

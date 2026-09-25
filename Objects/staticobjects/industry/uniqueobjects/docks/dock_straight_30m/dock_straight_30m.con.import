@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://baladuftot1sc"
+path="res://.godot/imported/dock_straight_30m.con-1785e35cb026e1abb6d20c0d93b510d7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_straight_30m/dock_straight_30m.con"
+dest_files=["res://.godot/imported/dock_straight_30m.con-1785e35cb026e1abb6d20c0d93b510d7.scn"]
+
+[params]
+

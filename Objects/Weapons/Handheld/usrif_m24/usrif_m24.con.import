@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://df70ercu1y18p"
+path="res://.godot/imported/usrif_m24.con-da82f770a73b6df445791fc7d6f545e3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_m24/usrif_m24.con"
+dest_files=["res://.godot/imported/usrif_m24.con-da82f770a73b6df445791fc7d6f545e3.scn"]
+
+[params]
+

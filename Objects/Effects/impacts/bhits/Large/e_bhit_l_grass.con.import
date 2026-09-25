@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://fmjoas0vquse"
+path="res://.godot/imported/e_bhit_l_grass.con-a8d95e0e36175a0cab6597a958fd6346.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_grass.con"
+dest_files=["res://.godot/imported/e_bhit_l_grass.con-a8d95e0e36175a0cab6597a958fd6346.scn"]
+
+[params]
+

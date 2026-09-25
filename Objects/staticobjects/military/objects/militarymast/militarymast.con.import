@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cdhogai1x5fjv"
+path="res://.godot/imported/militarymast.con-7f17a8c281b6b3e91ad6a454d527e975.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/militarymast/militarymast.con"
+dest_files=["res://.godot/imported/militarymast.con-7f17a8c281b6b3e91ad6a454d527e975.scn"]
+
+[params]
+

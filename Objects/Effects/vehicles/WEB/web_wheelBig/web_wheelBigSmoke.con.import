@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://84f2nkspsb6l"
+path="res://.godot/imported/web_wheelBigSmoke.con-929d7e3f1f7ffa55648b64e6586af89d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/web_wheelBigSmoke.con"
+dest_files=["res://.godot/imported/web_wheelBigSmoke.con-929d7e3f1f7ffa55648b64e6586af89d.scn"]
+
+[params]
+

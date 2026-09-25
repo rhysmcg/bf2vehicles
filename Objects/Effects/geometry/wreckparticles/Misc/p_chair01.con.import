@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://yiolm4okj58y"
+path="res://.godot/imported/p_chair01.con-4f641854b72d9864effca71357d4374b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/Misc/p_chair01.con"
+dest_files=["res://.godot/imported/p_chair01.con-4f641854b72d9864effca71357d4374b.scn"]
+
+[params]
+

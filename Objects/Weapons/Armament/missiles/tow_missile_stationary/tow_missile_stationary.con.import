@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bj6uvdflmgc3e"
+path="res://.godot/imported/tow_missile_stationary.con-fa3c3554c4e716800662e9634134043c.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/tow_missile_stationary/tow_missile_stationary.con"
+dest_files=["res://.godot/imported/tow_missile_stationary.con-fa3c3554c4e716800662e9634134043c.scn"]
+
+[params]
+

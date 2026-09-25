@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dlog1pl67htno"
+path="res://.godot/imported/xp2_cowtrough_01.con-01e9eb158cf7b0364df08e84aa9a8684.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_cowtrough_01/xp2_cowtrough_01.con"
+dest_files=["res://.godot/imported/xp2_cowtrough_01.con-01e9eb158cf7b0364df08e84aa9a8684.scn"]
+
+[params]
+

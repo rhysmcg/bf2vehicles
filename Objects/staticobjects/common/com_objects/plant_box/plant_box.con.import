@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c87qvb62n05l2"
+path="res://.godot/imported/plant_box.con-342bb510bb3dc320d1504a9321596051.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/plant_box/plant_box.con"
+dest_files=["res://.godot/imported/plant_box.con-342bb510bb3dc320d1504a9321596051.scn"]
+
+[params]
+

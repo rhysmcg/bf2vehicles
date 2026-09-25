@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bhbmbw3racix5"
+path="res://.godot/imported/USART_LW155.con-bfb2287003daad22124b04463e677b03.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/USART_LW155/USART_LW155.con"
+dest_files=["res://.godot/imported/USART_LW155.con-bfb2287003daad22124b04463e677b03.scn"]
+
+[params]
+

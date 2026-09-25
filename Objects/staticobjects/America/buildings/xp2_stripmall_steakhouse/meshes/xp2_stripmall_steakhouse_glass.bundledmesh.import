@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cow1h33f46kvs"
+path="res://.godot/imported/xp2_stripmall_steakhouse_glass.bundledmesh-d28f24abce4b2a268de9f47b789bb9d9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_steakhouse/meshes/xp2_stripmall_steakhouse_glass.bundledmesh"
+dest_files=["res://.godot/imported/xp2_stripmall_steakhouse_glass.bundledmesh-d28f24abce4b2a268de9f47b789bb9d9.scn"]
+
+[params]
+

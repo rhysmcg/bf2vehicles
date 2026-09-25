@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://fa3cqyio3ydl"
+path="res://.godot/imported/daqing_cross_intersection.staticmesh-2e45d5c0c8ffe737424a2b3e9bbeeaac.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/daqing_cross_intersection/meshes/daqing_cross_intersection.staticmesh"
+dest_files=["res://.godot/imported/daqing_cross_intersection.staticmesh-2e45d5c0c8ffe737424a2b3e9bbeeaac.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dx0jqrrbgxdg"
+path="res://.godot/imported/boathouse.con-106d7d53a67a2c93cb03e74792bbca20.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/boathouse/boathouse.con"
+dest_files=["res://.godot/imported/boathouse.con-106d7d53a67a2c93cb03e74792bbca20.scn"]
+
+[params]
+

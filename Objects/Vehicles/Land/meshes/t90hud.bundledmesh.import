@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nyu1prxja23i"
+path="res://.godot/imported/t90hud.bundledmesh-6b724706fbdce6ea753da7907f84259e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/meshes/t90hud.bundledmesh"
+dest_files=["res://.godot/imported/t90hud.bundledmesh-6b724706fbdce6ea753da7907f84259e.scn"]
+
+[params]
+

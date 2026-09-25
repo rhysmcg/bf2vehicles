@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7ygu4pq1egn0"
+path="res://.godot/imported/usmin_claymore.con-e4e88b9d889b09076e8c8bf312358878.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usmin_claymore/usmin_claymore.con"
+dest_files=["res://.godot/imported/usmin_claymore.con-e4e88b9d889b09076e8c8bf312358878.scn"]
+
+[params]
+

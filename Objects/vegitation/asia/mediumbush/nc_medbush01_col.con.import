@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbp2dc4g3bspc"
+path="res://.godot/imported/nc_medbush01_col.con-e1b2102d90e0664fca3c01d55ea39289.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/mediumbush/nc_medbush01_col.con"
+dest_files=["res://.godot/imported/nc_medbush01_col.con-e1b2102d90e0664fca3c01d55ea39289.scn"]
+
+[params]
+

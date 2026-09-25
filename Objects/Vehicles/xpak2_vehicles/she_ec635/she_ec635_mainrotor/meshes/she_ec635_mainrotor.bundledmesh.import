@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b2gwtwhf2yel7"
+path="res://.godot/imported/she_ec635_mainrotor.bundledmesh-c6d224acd8a358c1e097fef3b1f67932.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/she_ec635_mainrotor/meshes/she_ec635_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/she_ec635_mainrotor.bundledmesh-c6d224acd8a358c1e097fef3b1f67932.scn"]
+
+[params]
+

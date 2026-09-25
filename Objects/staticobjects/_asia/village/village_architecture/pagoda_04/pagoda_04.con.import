@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://iqth7ika5mp0"
+path="res://.godot/imported/pagoda_04.con-d9fec16004024c1e1ac9a618586d1d37.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/pagoda_04/pagoda_04.con"
+dest_files=["res://.godot/imported/pagoda_04.con-d9fec16004024c1e1ac9a618586d1d37.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c13v88yqgv6hw"
+path="res://.godot/imported/fall_road_compiled.con-e7479b7f46a5d1ae59541ff5c345c8ca.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/fall_road_compiled.con"
+dest_files=["res://.godot/imported/fall_road_compiled.con-e7479b7f46a5d1ae59541ff5c345c8ca.scn"]
+
+[params]
+

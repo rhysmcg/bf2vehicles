@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://huejjfxtdajb"
+path="res://.godot/imported/table_01.con-108bece2f393865ec8122b79cee69f8a.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/table_01/table_01.con"
+dest_files=["res://.godot/imported/table_01.con-108bece2f393865ec8122b79cee69f8a.scn"]
+
+[params]
+

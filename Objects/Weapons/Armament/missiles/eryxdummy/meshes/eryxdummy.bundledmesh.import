@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cnnc4h4wwdfxr"
+path="res://.godot/imported/eryxdummy.bundledmesh-829fb5c4fd1c34b8b87517a642dd6bff.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/eryxdummy/meshes/eryxdummy.bundledmesh"
+dest_files=["res://.godot/imported/eryxdummy.bundledmesh-829fb5c4fd1c34b8b87517a642dd6bff.scn"]
+
+[params]
+

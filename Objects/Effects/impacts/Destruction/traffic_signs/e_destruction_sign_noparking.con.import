@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bq4hovdg0fnok"
+path="res://.godot/imported/e_destruction_sign_noparking.con-55c3fe7a7e32120db763a525cd711d64.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_sign_noparking.con"
+dest_files=["res://.godot/imported/e_destruction_sign_noparking.con-55c3fe7a7e32120db763a525cd711d64.scn"]
+
+[params]
+

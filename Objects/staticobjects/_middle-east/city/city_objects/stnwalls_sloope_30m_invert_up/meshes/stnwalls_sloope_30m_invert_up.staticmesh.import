@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjvwtjt5re5b"
+path="res://.godot/imported/stnwalls_sloope_30m_invert_up.staticmesh-d31599d59112a816776633683417d20a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_sloope_30m_invert_up/meshes/stnwalls_sloope_30m_invert_up.staticmesh"
+dest_files=["res://.godot/imported/stnwalls_sloope_30m_invert_up.staticmesh-d31599d59112a816776633683417d20a.scn"]
+
+[params]
+

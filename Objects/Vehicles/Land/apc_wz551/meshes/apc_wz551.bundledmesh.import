@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://m02e1u3dk3dw"
+path="res://.godot/imported/apc_wz551.bundledmesh-c59d4567b8748b128c91d89b9ee73914.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/apc_wz551/meshes/apc_wz551.bundledmesh"
+dest_files=["res://.godot/imported/apc_wz551.bundledmesh-c59d4567b8748b128c91d89b9ee73914.scn"]
+
+[params]
+

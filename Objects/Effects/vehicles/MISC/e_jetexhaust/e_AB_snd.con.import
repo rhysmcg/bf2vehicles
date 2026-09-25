@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dcf4x3yf0nsyd"
+path="res://.godot/imported/e_AB_snd.con-7b0b9426bc925fe16f8a32ab1ce85314.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/MISC/e_jetexhaust/e_AB_snd.con"
+dest_files=["res://.godot/imported/e_AB_snd.con-7b0b9426bc925fe16f8a32ab1ce85314.scn"]
+
+[params]
+

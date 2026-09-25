@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gbb406efhmjh"
+path="res://.godot/imported/p_wreck_z8_tail.con-c5339c4fc208f45a741cb9ac6b2a6279.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_z8/p_wreck_z8_tail.con"
+dest_files=["res://.godot/imported/p_wreck_z8_tail.con-c5339c4fc208f45a741cb9ac6b2a6279.scn"]
+
+[params]
+

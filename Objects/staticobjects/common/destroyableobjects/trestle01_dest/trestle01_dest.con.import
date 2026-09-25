@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bpessuxbh3ibi"
+path="res://.godot/imported/trestle01_dest.con-62b134bab7941a0e8429a69c73e18a76.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/trestle01_dest/trestle01_dest.con"
+dest_files=["res://.godot/imported/trestle01_dest.con-62b134bab7941a0e8429a69c73e18a76.scn"]
+
+[params]
+

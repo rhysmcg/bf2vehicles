@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7n574hnyjx25"
+path="res://.godot/imported/PlaneMG.con-e29492b9bc924443be2d55a7a5c44a5a.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/PlaneMG/PlaneMG.con"
+dest_files=["res://.godot/imported/PlaneMG.con-e29492b9bc924443be2d55a7a5c44a5a.scn"]
+
+[params]
+

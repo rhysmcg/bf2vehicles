@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bcsrjhdlos6ha"
+path="res://.godot/imported/concreteblock_airstrip.staticmesh-bd73be1613df133f2732085f8db53dbd.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/concreteblock_airstrip/meshes/concreteblock_airstrip.staticmesh"
+dest_files=["res://.godot/imported/concreteblock_airstrip.staticmesh-bd73be1613df133f2732085f8db53dbd.scn"]
+
+[params]
+

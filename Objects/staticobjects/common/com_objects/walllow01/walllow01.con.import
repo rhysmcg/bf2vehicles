@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b1hrg56smivrp"
+path="res://.godot/imported/walllow01.con-12030676cec08fe174a2b14e5e68f1cb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/walllow01/walllow01.con"
+dest_files=["res://.godot/imported/walllow01.con-12030676cec08fe174a2b14e5e68f1cb.scn"]
+
+[params]
+

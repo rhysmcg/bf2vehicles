@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dmemhdcldugyt"
+path="res://.godot/imported/aa11_archerdummy.con-b876d7ed7a2c36f647f20f3a4fe41c6c.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/aa11_archerdummy/aa11_archerdummy.con"
+dest_files=["res://.godot/imported/aa11_archerdummy.con-b876d7ed7a2c36f647f20f3a4fe41c6c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crs33ojgbpygd"
+path="res://.godot/imported/uslmg_m249saw_stationary.bundledmesh-9aa330ee0ec6336b63cd3263200a7abe.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/uslmg_m249saw_stationary/meshes/uslmg_m249saw_stationary.bundledmesh"
+dest_files=["res://.godot/imported/uslmg_m249saw_stationary.bundledmesh-9aa330ee0ec6336b63cd3263200a7abe.scn"]
+
+[params]
+

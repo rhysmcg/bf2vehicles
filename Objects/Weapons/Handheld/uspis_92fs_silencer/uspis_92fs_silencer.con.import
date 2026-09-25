@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1m8t4my7rmj1"
+path="res://.godot/imported/uspis_92fs_silencer.con-d1203d952daee7dc8f4be3baaef117e5.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/uspis_92fs_silencer/uspis_92fs_silencer.con"
+dest_files=["res://.godot/imported/uspis_92fs_silencer.con-d1203d952daee7dc8f4be3baaef117e5.scn"]
+
+[params]
+

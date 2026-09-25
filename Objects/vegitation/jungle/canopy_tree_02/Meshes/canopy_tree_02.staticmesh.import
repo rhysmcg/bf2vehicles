@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ei1viy5v45y1"
+path="res://.godot/imported/canopy_tree_02.staticmesh-70cfea7a1b13497988b4371c6b87862e.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/canopy_tree_02/Meshes/canopy_tree_02.staticmesh"
+dest_files=["res://.godot/imported/canopy_tree_02.staticmesh-70cfea7a1b13497988b4371c6b87862e.scn"]
+
+[params]
+

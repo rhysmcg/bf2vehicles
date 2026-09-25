@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://7gur8jgxe5m4"
+path="res://.godot/imported/fourlane_stonebridge_head_02.staticmesh-288fd44a59ad464a2231f5025aea4080.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/fourlane_stonebridge_head_02/meshes/fourlane_stonebridge_head_02.staticmesh"
+dest_files=["res://.godot/imported/fourlane_stonebridge_head_02.staticmesh-288fd44a59ad464a2231f5025aea4080.scn"]
+
+[params]
+

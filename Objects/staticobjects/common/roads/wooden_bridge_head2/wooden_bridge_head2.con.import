@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bantfyqqlpf0b"
+path="res://.godot/imported/wooden_bridge_head2.con-f4448f53ae5a755c77da7d0dacb4d82b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/wooden_bridge_head2/wooden_bridge_head2.con"
+dest_files=["res://.godot/imported/wooden_bridge_head2.con-f4448f53ae5a755c77da7d0dacb4d82b.scn"]
+
+[params]
+

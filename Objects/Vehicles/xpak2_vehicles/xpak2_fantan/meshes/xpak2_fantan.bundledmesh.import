@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhqcoua1xp4om"
+path="res://.godot/imported/xpak2_fantan.bundledmesh-47f1b0bee1ef16a2841945de00fc8dc6.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_fantan/meshes/xpak2_fantan.bundledmesh"
+dest_files=["res://.godot/imported/xpak2_fantan.bundledmesh-47f1b0bee1ef16a2841945de00fc8dc6.scn"]
+
+[params]
+

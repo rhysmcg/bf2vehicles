@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3lsm4jac43qm"
+path="res://.godot/imported/xp2_boathouse.con-18b16b89424968e5d73183f81fdb33f8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_boathouse/xp2_boathouse.con"
+dest_files=["res://.godot/imported/xp2_boathouse.con-18b16b89424968e5d73183f81fdb33f8.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cvf2n57kglhgo"
+path="res://.godot/imported/heightnsize.staticmesh-8a283b9b5d1b70fd2d8db34607ff14ec.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/heightnsize/meshes/heightnsize.staticmesh"
+dest_files=["res://.godot/imported/heightnsize.staticmesh-8a283b9b5d1b70fd2d8db34607ff14ec.scn"]
+
+[params]
+

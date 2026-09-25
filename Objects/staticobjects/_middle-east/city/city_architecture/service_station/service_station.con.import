@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://sep6kqa13ydw"
+path="res://.godot/imported/service_station.con-3566a49f53f0824ff9a209a22cfb9fa4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/service_station/service_station.con"
+dest_files=["res://.godot/imported/service_station.con-3566a49f53f0824ff9a209a22cfb9fa4.scn"]
+
+[params]
+

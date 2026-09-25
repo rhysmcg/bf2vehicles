@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4mk3ej31gjty"
+path="res://.godot/imported/barrier_block_dummy.con-78097b5fc094da44b928e530b1cfd3b6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/filled_barrier_blocks/barrier_block/barrier_block_dummy.con"
+dest_files=["res://.godot/imported/barrier_block_dummy.con-78097b5fc094da44b928e530b1cfd3b6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3pfnrq5n2vuy"
+path="res://.godot/imported/xp2_buggy_01.con-133dd57228feabed3f006386f33b884b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_buggy_01/xp2_buggy_01.con"
+dest_files=["res://.godot/imported/xp2_buggy_01.con-133dd57228feabed3f006386f33b884b.scn"]
+
+[params]
+

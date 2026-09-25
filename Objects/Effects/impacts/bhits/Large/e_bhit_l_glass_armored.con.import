@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5asbtve1v54y"
+path="res://.godot/imported/e_bhit_l_glass_armored.con-f55b85d46d705ef2f9c57c9c9003306d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_glass_armored.con"
+dest_files=["res://.godot/imported/e_bhit_l_glass_armored.con-f55b85d46d705ef2f9c57c9c9003306d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7cdlj4ungwfu"
+path="res://.godot/imported/mp_frog.con-d6e515f3014277adb052dde8a5f78ec3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/mp_frog.con"
+dest_files=["res://.godot/imported/mp_frog.con-d6e515f3014277adb052dde8a5f78ec3.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jmp8vonf6uhy"
+path="res://.godot/imported/e_bhit_l_concrete.con-f78f97676dd8f3a8de72c4e00d7a8dfa.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_concrete.con"
+dest_files=["res://.godot/imported/e_bhit_l_concrete.con-f78f97676dd8f3a8de72c4e00d7a8dfa.scn"]
+
+[params]
+

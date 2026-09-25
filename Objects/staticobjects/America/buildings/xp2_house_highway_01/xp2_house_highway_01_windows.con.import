@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c3l4ltreyqd0f"
+path="res://.godot/imported/xp2_house_highway_01_windows.con-56e5b3bccbac4ef998c44dae0d1c4f72.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_house_highway_01/xp2_house_highway_01_windows.con"
+dest_files=["res://.godot/imported/xp2_house_highway_01_windows.con-56e5b3bccbac4ef998c44dae0d1c4f72.scn"]
+
+[params]
+

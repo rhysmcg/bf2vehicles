@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://1h2mh0vp87od"
+path="res://.godot/imported/xp2_railroadgate_02.staticmesh-7e4417fc5b62ad3a96b291c60ed72188.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_railroadgate_02/meshes/xp2_railroadgate_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_railroadgate_02.staticmesh-7e4417fc5b62ad3a96b291c60ed72188.scn"]
+
+[params]
+

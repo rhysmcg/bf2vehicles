@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djqe70or6rv54"
+path="res://.godot/imported/e_mexp_grenade_water.con-ec917db5c486f3d433c8898074b843d9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/grenade/e_mexp_grenade_water.con"
+dest_files=["res://.godot/imported/e_mexp_grenade_water.con-ec917db5c486f3d433c8898074b843d9.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d165pt2ba52yn"
+path="res://.godot/imported/cable100m_powerline_lower.con-204a84f13ca3ee931f92804b7e42163e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable100m_powerline_lower/cable100m_powerline_lower.con"
+dest_files=["res://.godot/imported/cable100m_powerline_lower.con-204a84f13ca3ee931f92804b7e42163e.scn"]
+
+[params]
+

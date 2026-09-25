@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1waqbgbeju1o"
+path="res://.godot/imported/xp2_railroadcrossing_01.con-6c5eef24d84cc46137f16fd1ef51e3a6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_railroadcrossing_01/xp2_railroadcrossing_01.con"
+dest_files=["res://.godot/imported/xp2_railroadcrossing_01.con-6c5eef24d84cc46137f16fd1ef51e3a6.scn"]
+
+[params]
+

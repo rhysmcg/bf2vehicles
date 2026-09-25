@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckyotmcxyep47"
+path="res://.godot/imported/p_f15_fuselage.con-bfc4d07061c2f5a81ff9cc236bd943ea.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f15/p_f15_fuselage.con"
+dest_files=["res://.godot/imported/p_f15_fuselage.con-bfc4d07061c2f5a81ff9cc236bd943ea.scn"]
+
+[params]
+

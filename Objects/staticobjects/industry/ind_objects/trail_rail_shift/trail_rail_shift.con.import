@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnqngxrvmdta8"
+path="res://.godot/imported/trail_rail_shift.con-4620dcee205fa23b973a1e3a97f8e5c0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/trail_rail_shift/trail_rail_shift.con"
+dest_files=["res://.godot/imported/trail_rail_shift.con-4620dcee205fa23b973a1e3a97f8e5c0.scn"]
+
+[params]
+

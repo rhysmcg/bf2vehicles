@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://badqxspfulatp"
+path="res://.godot/imported/ruair_mig29.con-938feef81d23f6ef4c3f1de8c9075bcd.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ruair_mig29/ruair_mig29.con"
+dest_files=["res://.godot/imported/ruair_mig29.con-938feef81d23f6ef4c3f1de8c9075bcd.scn"]
+
+[params]
+

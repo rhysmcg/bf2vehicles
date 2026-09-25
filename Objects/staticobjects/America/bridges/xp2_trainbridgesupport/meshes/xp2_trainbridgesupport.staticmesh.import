@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bwie1pj1xqttb"
+path="res://.godot/imported/xp2_trainbridgesupport.staticmesh-4316b49da1929906c98f149253b9ac8c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_trainbridgesupport/meshes/xp2_trainbridgesupport.staticmesh"
+dest_files=["res://.godot/imported/xp2_trainbridgesupport.staticmesh-4316b49da1929906c98f149253b9ac8c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtv687bx3v2yd"
+path="res://.godot/imported/construct_metal_plate.con-17d2e2d9241407309dfeb47686f3dced.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/construct_metal_plate/construct_metal_plate.con"
+dest_files=["res://.godot/imported/construct_metal_plate.con-17d2e2d9241407309dfeb47686f3dced.scn"]
+
+[params]
+

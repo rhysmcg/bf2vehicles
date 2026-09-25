@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vmhj0s3egjuv"
+path="res://.godot/imported/cable40mtwo.con-8b1b0115387b013601594bceae5f2cc0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable40mtwo/cable40mtwo.con"
+dest_files=["res://.godot/imported/cable40mtwo.con-8b1b0115387b013601594bceae5f2cc0.scn"]
+
+[params]
+

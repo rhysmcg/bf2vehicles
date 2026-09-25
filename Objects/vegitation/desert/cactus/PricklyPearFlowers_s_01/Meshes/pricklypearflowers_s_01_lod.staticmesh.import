@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bnysmhmt188s8"
+path="res://.godot/imported/pricklypearflowers_s_01_lod.staticmesh-f53d7eb53c19f4942a329e85a6b5ddd8.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/PricklyPearFlowers_s_01/Meshes/pricklypearflowers_s_01_lod.staticmesh"
+dest_files=["res://.godot/imported/pricklypearflowers_s_01_lod.staticmesh-f53d7eb53c19f4942a329e85a6b5ddd8.scn"]
+
+[params]
+

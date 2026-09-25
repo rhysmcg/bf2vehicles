@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bet7gqlirxr4k"
+path="res://.godot/imported/the_mi17.con-6c1031ffb562b1d29258d917f38c7d7a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/the_mi17.con"
+dest_files=["res://.godot/imported/the_mi17.con-6c1031ffb562b1d29258d917f38c7d7a.scn"]
+
+[params]
+

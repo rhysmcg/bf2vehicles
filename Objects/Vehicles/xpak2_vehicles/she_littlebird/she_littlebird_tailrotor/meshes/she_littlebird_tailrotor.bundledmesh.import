@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d4he2uk55rbgl"
+path="res://.godot/imported/she_littlebird_tailrotor.bundledmesh-56bec8161f4ffe84db4d33d26b3a42d9.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/she_littlebird_tailrotor/meshes/she_littlebird_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/she_littlebird_tailrotor.bundledmesh-56bec8161f4ffe84db4d33d26b3a42d9.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dph4p78yaxomm"
+path="res://.godot/imported/train_rail_48.staticmesh-0fb7f572d631026c28a7b0f058adc7c6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/train_rail_48/meshes/train_rail_48.staticmesh"
+dest_files=["res://.godot/imported/train_rail_48.staticmesh-0fb7f572d631026c28a7b0f058adc7c6.scn"]
+
+[params]
+

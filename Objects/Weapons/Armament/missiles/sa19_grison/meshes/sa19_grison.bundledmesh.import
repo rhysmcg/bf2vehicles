@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cba2wiv22clu"
+path="res://.godot/imported/sa19_grison.bundledmesh-62c03ebf96fc90638cd352cf21ec8cde.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/sa19_grison/meshes/sa19_grison.bundledmesh"
+dest_files=["res://.godot/imported/sa19_grison.bundledmesh-62c03ebf96fc90638cd352cf21ec8cde.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://df7j0sr63xtoi"
+path="res://.godot/imported/nc_drybush01_col.con-1b6dd8ebad62c2d06cadc4c1f1e92f92.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/drybush/nc_drybush01_col.con"
+dest_files=["res://.godot/imported/nc_drybush01_col.con-1b6dd8ebad62c2d06cadc4c1f1e92f92.scn"]
+
+[params]
+

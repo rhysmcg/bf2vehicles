@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cyjuc7aw1e2f4"
+path="res://.godot/imported/MEC_Common.con-0414479131190e2de56d2e8fe3ab5d5c.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Common.con"
+dest_files=["res://.godot/imported/MEC_Common.con-0414479131190e2de56d2e8fe3ab5d5c.scn"]
+
+[params]
+

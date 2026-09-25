@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dh2gpq2k3p0gf"
+path="res://.godot/imported/mine_entrance.con-fc3561d7df95c04739190359e4147cf1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/mine_entrance/mine_entrance.con"
+dest_files=["res://.godot/imported/mine_entrance.con-fc3561d7df95c04739190359e4147cf1.scn"]
+
+[params]
+

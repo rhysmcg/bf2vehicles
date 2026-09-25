@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bblwixevc6vwq"
+path="res://.godot/imported/E_web_wheeled_mud.con-a8d059498cc6b5ee7c086e5223efa5ba.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_mud/E_web_wheeled_mud.con"
+dest_files=["res://.godot/imported/E_web_wheeled_mud.con-a8d059498cc6b5ee7c086e5223efa5ba.scn"]
+
+[params]
+

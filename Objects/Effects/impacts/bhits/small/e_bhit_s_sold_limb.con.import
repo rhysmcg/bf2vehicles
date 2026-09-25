@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dov8niixbwgsj"
+path="res://.godot/imported/e_bhit_s_sold_limb.con-60c26d723d124739c82a2015f6f771e9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_sold_limb.con"
+dest_files=["res://.godot/imported/e_bhit_s_sold_limb.con-60c26d723d124739c82a2015f6f771e9.scn"]
+
+[params]
+

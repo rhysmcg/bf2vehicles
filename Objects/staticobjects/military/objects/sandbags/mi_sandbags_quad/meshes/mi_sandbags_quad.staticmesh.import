@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b11e8sit6w1kn"
+path="res://.godot/imported/mi_sandbags_quad.staticmesh-0fe45a05e0d7d2d8e3c1a6491dab9fa8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/mi_sandbags_quad/meshes/mi_sandbags_quad.staticmesh"
+dest_files=["res://.godot/imported/mi_sandbags_quad.staticmesh-0fe45a05e0d7d2d8e3c1a6491dab9fa8.scn"]
+
+[params]
+

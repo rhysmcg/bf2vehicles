@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cn4yfcqu1w0o0"
+path="res://.godot/imported/chimney_02.con-a5dd8c7ce8abdefbcc383b5c9f1991ea.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/chimney_02/chimney_02.con"
+dest_files=["res://.godot/imported/chimney_02.con-a5dd8c7ce8abdefbcc383b5c9f1991ea.scn"]
+
+[params]
+

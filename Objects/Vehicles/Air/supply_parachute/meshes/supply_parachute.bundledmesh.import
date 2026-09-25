@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3fvsfgxhbawi"
+path="res://.godot/imported/supply_parachute.bundledmesh-0b6a7ffee592bf9e0116be701d61e37e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/supply_parachute/meshes/supply_parachute.bundledmesh"
+dest_files=["res://.godot/imported/supply_parachute.bundledmesh-0b6a7ffee592bf9e0116be701d61e37e.scn"]
+
+[params]
+

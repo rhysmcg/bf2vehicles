@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b1r6wyaoqla28"
+path="res://.godot/imported/cafechair_dest.bundledmesh-952cddbbfa1b64adcbe23a51dc502dfe.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/cafechair_dest/meshes/cafechair_dest.bundledmesh"
+dest_files=["res://.godot/imported/cafechair_dest.bundledmesh-952cddbbfa1b64adcbe23a51dc502dfe.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bsiu8gwensce7"
+path="res://.godot/imported/gaspumptow_ladder_8m.con-70e3176d69287745de3b8004f86e08b8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/gaspumptow/gaspumptow_ladder_8m.con"
+dest_files=["res://.godot/imported/gaspumptow_ladder_8m.con-70e3176d69287745de3b8004f86e08b8.scn"]
+
+[params]
+

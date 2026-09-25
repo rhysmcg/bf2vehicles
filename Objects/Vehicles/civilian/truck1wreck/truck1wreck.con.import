@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://na6r3diwypey"
+path="res://.godot/imported/truck1wreck.con-d3a2342c7d7779ad73609863cb5d7964.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/truck1wreck/truck1wreck.con"
+dest_files=["res://.godot/imported/truck1wreck.con-d3a2342c7d7779ad73609863cb5d7964.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4vjl1s8fs7vp"
+path="res://.godot/imported/xp2_fenceset_12_apple.staticmesh-6f8aca75f0854d22a180250500a046f5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/fence_sets/xp2_fenceset_12_apple/meshes/xp2_fenceset_12_apple.staticmesh"
+dest_files=["res://.godot/imported/xp2_fenceset_12_apple.staticmesh-6f8aca75f0854d22a180250500a046f5.scn"]
+
+[params]
+

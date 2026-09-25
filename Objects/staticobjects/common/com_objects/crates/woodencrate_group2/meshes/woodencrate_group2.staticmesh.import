@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d3c5jrggfmtxk"
+path="res://.godot/imported/woodencrate_group2.staticmesh-a069f13ed11eae922291c8c6e145afee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/crates/woodencrate_group2/meshes/woodencrate_group2.staticmesh"
+dest_files=["res://.godot/imported/woodencrate_group2.staticmesh-a069f13ed11eae922291c8c6e145afee.scn"]
+
+[params]
+

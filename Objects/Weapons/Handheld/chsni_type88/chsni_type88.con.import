@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqtidws4i0off"
+path="res://.godot/imported/chsni_type88.con-1b74eeb173e044bf8d92ca4b11e27ce6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsni_type88/chsni_type88.con"
+dest_files=["res://.godot/imported/chsni_type88.con-1b74eeb173e044bf8d92ca4b11e27ce6.scn"]
+
+[params]
+

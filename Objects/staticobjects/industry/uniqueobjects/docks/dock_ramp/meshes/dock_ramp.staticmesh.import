@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d3dbvynrx0b7g"
+path="res://.godot/imported/dock_ramp.staticmesh-03d5a884c88fd14f499a0f23f7aff603.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_ramp/meshes/dock_ramp.staticmesh"
+dest_files=["res://.godot/imported/dock_ramp.staticmesh-03d5a884c88fd14f499a0f23f7aff603.scn"]
+
+[params]
+

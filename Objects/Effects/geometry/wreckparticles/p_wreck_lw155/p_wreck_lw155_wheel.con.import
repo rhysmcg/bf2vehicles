@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dj8c0l6gxak7v"
+path="res://.godot/imported/p_wreck_lw155_wheel.con-94abe72cf7d6c15f8016fb7790e54b02.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lw155/p_wreck_lw155_wheel.con"
+dest_files=["res://.godot/imported/p_wreck_lw155_wheel.con-94abe72cf7d6c15f8016fb7790e54b02.scn"]
+
+[params]
+

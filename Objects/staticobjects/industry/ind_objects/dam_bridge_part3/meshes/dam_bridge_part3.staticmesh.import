@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvafq46n3cbvp"
+path="res://.godot/imported/dam_bridge_part3.staticmesh-fd06266f575f54d61a54f860e1b0feec.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/dam_bridge_part3/meshes/dam_bridge_part3.staticmesh"
+dest_files=["res://.godot/imported/dam_bridge_part3.staticmesh-fd06266f575f54d61a54f860e1b0feec.scn"]
+
+[params]
+

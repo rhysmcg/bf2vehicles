@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://de1ivkgrk4n1n"
+path="res://.godot/imported/e_destruction_pylon.con-ba1e99de4ca008defba9fd4e57ef7b89.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_pylon.con"
+dest_files=["res://.godot/imported/e_destruction_pylon.con-ba1e99de4ca008defba9fd4e57ef7b89.scn"]
+
+[params]
+

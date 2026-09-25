@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vesn3y7gg4iv"
+path="res://.godot/imported/p_bridgewreck_metal_03.con-9001dbdb3d92288df650a5730bcb07e5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/bridgewreck_particles/p_bridgewreck_metal_03.con"
+dest_files=["res://.godot/imported/p_bridgewreck_metal_03.con-9001dbdb3d92288df650a5730bcb07e5.scn"]
+
+[params]
+

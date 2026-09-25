@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhua8t1p476pc"
+path="res://.godot/imported/p_wreck_rib_rollbar.bundledmesh-bb71f5b32257b6c93f026f1f7e71840e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_rib/meshes/p_wreck_rib_rollbar.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_rib_rollbar.bundledmesh-bb71f5b32257b6c93f026f1f7e71840e.scn"]
+
+[params]
+

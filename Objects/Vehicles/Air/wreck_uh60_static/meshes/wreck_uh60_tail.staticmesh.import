@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cx7ue04fs1fgp"
+path="res://.godot/imported/wreck_uh60_tail.staticmesh-5d200e4e5e4f84887284a29258b97dac.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/meshes/wreck_uh60_tail.staticmesh"
+dest_files=["res://.godot/imported/wreck_uh60_tail.staticmesh-5d200e4e5e4f84887284a29258b97dac.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drdekq0xfccfe"
+path="res://.godot/imported/ch_gasstation_cistern.con-87334eac59f8dec603ff21b58e1c7dd6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_gasstation_cistern/ch_gasstation_cistern.con"
+dest_files=["res://.godot/imported/ch_gasstation_cistern.con-87334eac59f8dec603ff21b58e1c7dd6.scn"]
+
+[params]
+

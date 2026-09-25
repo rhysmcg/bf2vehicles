@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rmhb75pd00l0"
+path="res://.godot/imported/roadmarker_dest.bundledmesh-9420a7c77dd1e612b74083399e1bf752.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/roadmarker_dest/meshes/roadmarker_dest.bundledmesh"
+dest_files=["res://.godot/imported/roadmarker_dest.bundledmesh-9420a7c77dd1e612b74083399e1bf752.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cfey5cdsokmti"
+path="res://.godot/imported/p_fantan_tailfin.con-d280a0904ab0d9698c3e695075feb8f6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/p_fantan_tailfin.con"
+dest_files=["res://.godot/imported/p_fantan_tailfin.con-d280a0904ab0d9698c3e695075feb8f6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://blw37y8sjw1jl"
+path="res://.godot/imported/nc_birch02_col.con-b1b7d3fd0f1f3899faf664de04557e16.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/birch/nc_birch02_col.con"
+dest_files=["res://.godot/imported/nc_birch02_col.con-b1b7d3fd0f1f3899faf664de04557e16.scn"]
+
+[params]
+

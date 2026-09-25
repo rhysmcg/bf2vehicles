@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dsebqlwhlsbgn"
+path="res://.godot/imported/nc_deadtree01_col.con-fc8b79f754332bdc5e9c9414eed7c22f.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/deadtree/nc_deadtree01_col.con"
+dest_files=["res://.godot/imported/nc_deadtree01_col.con-fc8b79f754332bdc5e9c9414eed7c22f.scn"]
+
+[params]
+

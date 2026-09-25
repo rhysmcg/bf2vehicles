@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvnex3xi68vdb"
+path="res://.godot/imported/decal_l_metalthin.con-85ccfe86c924cf6255458adc9e3ce245.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_metalthin.con"
+dest_files=["res://.godot/imported/decal_l_metalthin.con-85ccfe86c924cf6255458adc9e3ce245.scn"]
+
+[params]
+

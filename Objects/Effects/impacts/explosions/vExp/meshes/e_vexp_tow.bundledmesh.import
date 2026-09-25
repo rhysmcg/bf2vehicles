@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3fcdd8hycnf"
+path="res://.godot/imported/e_vexp_tow.bundledmesh-13c751a96e0b5cf95a5de90a743b0a90.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_tow.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_tow.bundledmesh-13c751a96e0b5cf95a5de90a743b0a90.scn"]
+
+[params]
+

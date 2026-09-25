@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://wthmatoanu70"
+path="res://.godot/imported/e_destruction_sign_streetcrossing.con-322cdfa3260031d38d1686cbbdb0d008.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_sign_streetcrossing.con"
+dest_files=["res://.godot/imported/e_destruction_sign_streetcrossing.con-322cdfa3260031d38d1686cbbdb0d008.scn"]
+
+[params]
+

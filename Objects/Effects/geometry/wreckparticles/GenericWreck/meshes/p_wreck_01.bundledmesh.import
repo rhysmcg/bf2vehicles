@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://lpo3nej5bna6"
+path="res://.godot/imported/p_wreck_01.bundledmesh-b5b12416104c12489cff807bd404db03.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/GenericWreck/meshes/p_wreck_01.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_01.bundledmesh-b5b12416104c12489cff807bd404db03.scn"]
+
+[params]
+

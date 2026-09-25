@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b5h11pjusey5s"
+path="res://.godot/imported/Dirt_wetlands.con-7c5bd06e7161cbde33ad006ce7b41fcf.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirt_wetlands.con"
+dest_files=["res://.godot/imported/Dirt_wetlands.con-7c5bd06e7161cbde33ad006ce7b41fcf.scn"]
+
+[params]
+

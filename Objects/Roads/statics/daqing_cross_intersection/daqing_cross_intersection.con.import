@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dme6v6jrvgeii"
+path="res://.godot/imported/daqing_cross_intersection.con-d45dc59bf096873673512db4586d123f.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/daqing_cross_intersection/daqing_cross_intersection.con"
+dest_files=["res://.godot/imported/daqing_cross_intersection.con-d45dc59bf096873673512db4586d123f.scn"]
+
+[params]
+

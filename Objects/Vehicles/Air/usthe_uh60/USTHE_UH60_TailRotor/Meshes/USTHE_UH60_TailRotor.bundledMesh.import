@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhmlf1b17rtbr"
+path="res://.godot/imported/USTHE_UH60_TailRotor.bundledMesh-74c8f662bd67e6546c03d935dd593a9f.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/USTHE_UH60_TailRotor/Meshes/USTHE_UH60_TailRotor.bundledMesh"
+dest_files=["res://.godot/imported/USTHE_UH60_TailRotor.bundledMesh-74c8f662bd67e6546c03d935dd593a9f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cpwb8vocjly8s"
+path="res://.godot/imported/basebarracks.con-331bc7341600192f89b22b336f283467.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/basebarracks/basebarracks.con"
+dest_files=["res://.godot/imported/basebarracks.con-331bc7341600192f89b22b336f283467.scn"]
+
+[params]
+

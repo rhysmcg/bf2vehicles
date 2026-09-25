@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkrwnrpo2awu7"
+path="res://.godot/imported/xp2_oiltruck_02_tank.con-d793eb01bae47edf0cfbad9712ef6210.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/vehicles/xp2_oiltruck_02/xp2_oiltruck_02_tank.con"
+dest_files=["res://.godot/imported/xp2_oiltruck_02_tank.con-d793eb01bae47edf0cfbad9712ef6210.scn"]
+
+[params]
+

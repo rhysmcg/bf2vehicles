@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6vfyhkgf4jr5"
+path="res://.godot/imported/parkbench.con-466ed3ec21e0ed3e85f3551640583c2a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/parkbench/parkbench.con"
+dest_files=["res://.godot/imported/parkbench.con-466ed3ec21e0ed3e85f3551640583c2a.scn"]
+
+[params]
+

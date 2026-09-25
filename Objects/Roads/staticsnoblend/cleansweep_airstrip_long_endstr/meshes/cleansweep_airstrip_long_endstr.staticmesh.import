@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ud6jrsurehx"
+path="res://.godot/imported/cleansweep_airstrip_long_endstr.staticmesh-a4496442fda7d062915588e913dd0130.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/cleansweep_airstrip_long_endstr/meshes/cleansweep_airstrip_long_endstr.staticmesh"
+dest_files=["res://.godot/imported/cleansweep_airstrip_long_endstr.staticmesh-a4496442fda7d062915588e913dd0130.scn"]
+
+[params]
+

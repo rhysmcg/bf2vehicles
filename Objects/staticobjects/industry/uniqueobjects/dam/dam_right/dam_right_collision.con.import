@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ct4flxtc3x2by"
+path="res://.godot/imported/dam_right_collision.con-beab8e9a7d62002988ed80b91b73d105.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_right/dam_right_collision.con"
+dest_files=["res://.godot/imported/dam_right_collision.con-beab8e9a7d62002988ed80b91b73d105.scn"]
+
+[params]
+

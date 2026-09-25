@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bee82211p1b2r"
+path="res://.godot/imported/boxesonpallet_01.staticmesh-0718bb34fa94b361f24e8571cf24c353.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/boxesonpallet_01/meshes/boxesonpallet_01.staticmesh"
+dest_files=["res://.godot/imported/boxesonpallet_01.staticmesh-0718bb34fa94b361f24e8571cf24c353.scn"]
+
+[params]
+

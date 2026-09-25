@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfsyeun2t7rv4"
+path="res://.godot/imported/xp2_abandoned_house_01.con-510253a094b67305a8e385eb4b6244ef.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_abandoned_house_01/xp2_abandoned_house_01.con"
+dest_files=["res://.godot/imported/xp2_abandoned_house_01.con-510253a094b67305a8e385eb4b6244ef.scn"]
+
+[params]
+

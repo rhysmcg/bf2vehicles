@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ut8ma5rk881j"
+path="res://.godot/imported/wreck_f15_wing.con-15759c925201db9e651c3a18fbca3bf5.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_f15_static/wreck_f15_wing/wreck_f15_wing.con"
+dest_files=["res://.godot/imported/wreck_f15_wing.con-15759c925201db9e651c3a18fbca3bf5.scn"]
+
+[params]
+

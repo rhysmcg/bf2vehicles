@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1m2s6kdke3ac"
+path="res://.godot/imported/object.con-60bb8c5652714708cc8ad333d641b05d.scn"
+
+[deps]
+
+source_file="res://Objects/Common/lightsources/Streetlight/object.con"
+dest_files=["res://.godot/imported/object.con-60bb8c5652714708cc8ad333d641b05d.scn"]
+
+[params]
+

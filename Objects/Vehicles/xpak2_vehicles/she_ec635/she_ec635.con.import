@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwhpavce8yxm"
+path="res://.godot/imported/she_ec635.con-1bec7ae4cfcb822b6a9d9a06e354fb1f.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/she_ec635.con"
+dest_files=["res://.godot/imported/she_ec635.con-1bec7ae4cfcb822b6a9d9a06e354fb1f.scn"]
+
+[params]
+

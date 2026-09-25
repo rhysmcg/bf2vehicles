@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cth03s12ryva8"
+path="res://.godot/imported/e_dAmb_IceMachine.con-cc439254e8760d58f24020f70d84919d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_IceMachine.con"
+dest_files=["res://.godot/imported/e_dAmb_IceMachine.con-cc439254e8760d58f24020f70d84919d.scn"]
+
+[params]
+

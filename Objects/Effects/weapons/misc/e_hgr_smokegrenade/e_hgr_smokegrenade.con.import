@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnfxmeg2c0njo"
+path="res://.godot/imported/e_hgr_smokegrenade.con-f6f1140ea697cd41c286614b59a8157d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/e_hgr_smokegrenade/e_hgr_smokegrenade.con"
+dest_files=["res://.godot/imported/e_hgr_smokegrenade.con-f6f1140ea697cd41c286614b59a8157d.scn"]
+
+[params]
+

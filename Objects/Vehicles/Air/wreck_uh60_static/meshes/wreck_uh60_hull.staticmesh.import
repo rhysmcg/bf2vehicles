@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d2rhjc3gp4vd5"
+path="res://.godot/imported/wreck_uh60_hull.staticmesh-83dce98dee9f623061beb541743758c3.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/meshes/wreck_uh60_hull.staticmesh"
+dest_files=["res://.godot/imported/wreck_uh60_hull.staticmesh-83dce98dee9f623061beb541743758c3.scn"]
+
+[params]
+

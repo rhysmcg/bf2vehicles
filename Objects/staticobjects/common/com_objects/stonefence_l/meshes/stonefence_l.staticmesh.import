@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5a1b0gxo6dbf"
+path="res://.godot/imported/stonefence_l.staticmesh-64a163cd0d19eba0e6849389e744dbfd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/stonefence_l/meshes/stonefence_l.staticmesh"
+dest_files=["res://.godot/imported/stonefence_l.staticmesh-64a163cd0d19eba0e6849389e744dbfd.scn"]
+
+[params]
+

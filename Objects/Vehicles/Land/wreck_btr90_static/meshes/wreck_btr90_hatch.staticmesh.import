@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cpgw01ah5xlnf"
+path="res://.godot/imported/wreck_btr90_hatch.staticmesh-a0f09210297bfad17e9937a938aa03fe.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/wreck_btr90_static/meshes/wreck_btr90_hatch.staticmesh"
+dest_files=["res://.godot/imported/wreck_btr90_hatch.staticmesh-a0f09210297bfad17e9937a938aa03fe.scn"]
+
+[params]
+

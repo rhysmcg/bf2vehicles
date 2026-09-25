@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0s7sadyutexg"
+path="res://.godot/imported/e_dstate_static_fire.con-86031ccad8636cd5992dca2097d272a0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_static_fire.con"
+dest_files=["res://.godot/imported/e_dstate_static_fire.con-86031ccad8636cd5992dca2097d272a0.scn"]
+
+[params]
+

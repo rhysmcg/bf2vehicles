@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://baj65qw8065mm"
+path="res://.godot/imported/e_dustpuff_ground.con-78e20b195cbd70b84f46ea7967748cca.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Obj/e_dustpuff_ground/e_dustpuff_ground.con"
+dest_files=["res://.godot/imported/e_dustpuff_ground.con-78e20b195cbd70b84f46ea7967748cca.scn"]
+
+[params]
+

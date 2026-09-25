@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0ng2qedvcrss"
+path="res://.godot/imported/xp2_sprucetree_01.con-08a46a008399ee7e7cdfd2443fdab7ef.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_sprucetree/xp2_sprucetree_01.con"
+dest_files=["res://.godot/imported/xp2_sprucetree_01.con-08a46a008399ee7e7cdfd2443fdab7ef.scn"]
+
+[params]
+

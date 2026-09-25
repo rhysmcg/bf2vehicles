@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blngu3tm02rk7"
+path="res://.godot/imported/barrel_green.staticmesh-126d17e62fdcf7f6566dc31fc5edcad2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/barrel_green/meshes/barrel_green.staticmesh"
+dest_files=["res://.godot/imported/barrel_green.staticmesh-126d17e62fdcf7f6566dc31fc5edcad2.scn"]
+
+[params]
+

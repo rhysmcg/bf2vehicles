@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d17l6u5h4eds8"
+path="res://.godot/imported/LightObject2.con-3d8420c42b81eddf35ee6b3f905b8594.scn"
+
+[deps]
+
+source_file="res://Objects/Common/LightObject2/LightObject2.con"
+dest_files=["res://.godot/imported/LightObject2.con-3d8420c42b81eddf35ee6b3f905b8594.scn"]
+
+[params]
+

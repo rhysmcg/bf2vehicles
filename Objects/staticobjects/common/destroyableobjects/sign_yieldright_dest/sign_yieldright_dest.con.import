@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bn5lhx1ooi6wl"
+path="res://.godot/imported/sign_yieldright_dest.con-9645dd80e6176eab413536e567c1513d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_yieldright_dest/sign_yieldright_dest.con"
+dest_files=["res://.godot/imported/sign_yieldright_dest.con-9645dd80e6176eab413536e567c1513d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://mgog2tfgv7fj"
+path="res://.godot/imported/fence_dest.bundledmesh-553dbc8a2349e46edc95b1b7bb9facfc.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/fence/meshes/fence_dest.bundledmesh"
+dest_files=["res://.godot/imported/fence_dest.bundledmesh-553dbc8a2349e46edc95b1b7bb9facfc.scn"]
+
+[params]
+

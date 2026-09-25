@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://lq485ph7svet"
+path="res://.godot/imported/barrier_block_dummy.staticmesh-6624598ad77afaf05087361b92e32668.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/filled_barrier_blocks/barrier_block/meshes/barrier_block_dummy.staticmesh"
+dest_files=["res://.godot/imported/barrier_block_dummy.staticmesh-6624598ad77afaf05087361b92e32668.scn"]
+
+[params]
+

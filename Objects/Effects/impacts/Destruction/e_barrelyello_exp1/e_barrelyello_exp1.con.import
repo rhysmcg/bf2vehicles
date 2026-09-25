@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cllny258p4j3l"
+path="res://.godot/imported/e_barrelyello_exp1.con-312221bae55ebf407812eee3c0520880.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_barrelyello_exp1/e_barrelyello_exp1.con"
+dest_files=["res://.godot/imported/e_barrelyello_exp1.con-312221bae55ebf407812eee3c0520880.scn"]
+
+[params]
+

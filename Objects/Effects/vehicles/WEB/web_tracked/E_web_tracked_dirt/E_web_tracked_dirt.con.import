@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cquiutinpvgkp"
+path="res://.godot/imported/E_web_tracked_dirt.con-44d6f45cfdaffdb858a48cc3689d1708.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/E_web_tracked_dirt/E_web_tracked_dirt.con"
+dest_files=["res://.godot/imported/E_web_tracked_dirt.con-44d6f45cfdaffdb858a48cc3689d1708.scn"]
+
+[params]
+

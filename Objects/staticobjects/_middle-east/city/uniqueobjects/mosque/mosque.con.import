@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvduq6n7xmyrq"
+path="res://.godot/imported/mosque.con-b451a06275ab9d499b31002849140f41.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/uniqueobjects/mosque/mosque.con"
+dest_files=["res://.godot/imported/mosque.con-b451a06275ab9d499b31002849140f41.scn"]
+
+[params]
+

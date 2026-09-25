@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://wmtxgp1hatkj"
+path="res://.godot/imported/wreck_uh60_chair.staticmesh-987e38d40e514c8ecea270b8289c8e8b.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/meshes/wreck_uh60_chair.staticmesh"
+dest_files=["res://.godot/imported/wreck_uh60_chair.staticmesh-987e38d40e514c8ecea270b8289c8e8b.scn"]
+
+[params]
+

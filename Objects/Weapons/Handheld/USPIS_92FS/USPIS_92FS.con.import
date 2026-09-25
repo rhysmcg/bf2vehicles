@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ue4x40ljvope"
+path="res://.godot/imported/USPIS_92FS.con-8f46798991c747f93639b7de3de61242.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USPIS_92FS/USPIS_92FS.con"
+dest_files=["res://.godot/imported/USPIS_92FS.con-8f46798991c747f93639b7de3de61242.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dggkklf2vono8"
+path="res://.godot/imported/cart_dest.con-b83990c565bbdec46be3bbf938ed80e3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/cart_dest/cart_dest.con"
+dest_files=["res://.godot/imported/cart_dest.con-b83990c565bbdec46be3bbf938ed80e3.scn"]
+
+[params]
+

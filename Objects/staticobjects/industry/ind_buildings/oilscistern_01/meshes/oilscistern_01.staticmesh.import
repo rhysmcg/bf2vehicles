@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c37ub301wl53y"
+path="res://.godot/imported/oilscistern_01.staticmesh-39834c6e3bc3c5c4d016aa5ccb19fa69.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/oilscistern_01/meshes/oilscistern_01.staticmesh"
+dest_files=["res://.godot/imported/oilscistern_01.staticmesh-39834c6e3bc3c5c4d016aa5ccb19fa69.scn"]
+
+[params]
+

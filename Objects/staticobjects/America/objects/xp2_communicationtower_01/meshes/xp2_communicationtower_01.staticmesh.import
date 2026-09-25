@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://djtfditlo2e5c"
+path="res://.godot/imported/xp2_communicationtower_01.staticmesh-610f981353468bef0ce8e4eb8ae7d8f5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_communicationtower_01/meshes/xp2_communicationtower_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_communicationtower_01.staticmesh-610f981353468bef0ce8e4eb8ae7d8f5.scn"]
+
+[params]
+

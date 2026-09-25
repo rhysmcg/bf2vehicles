@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://tcu8hobkotmn"
+path="res://.godot/imported/xp2_stripmall_section01.con-ada458362e4e61e169a497a18209f202.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_section01/xp2_stripmall_section01.con"
+dest_files=["res://.godot/imported/xp2_stripmall_section01.con-ada458362e4e61e169a497a18209f202.scn"]
+
+[params]
+

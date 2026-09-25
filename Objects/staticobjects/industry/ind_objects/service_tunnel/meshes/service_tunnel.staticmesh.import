@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cdov1xc0ijyiq"
+path="res://.godot/imported/service_tunnel.staticmesh-87236e0484ab1263b1f948b11a63f13f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/service_tunnel/meshes/service_tunnel.staticmesh"
+dest_files=["res://.godot/imported/service_tunnel.staticmesh-87236e0484ab1263b1f948b11a63f13f.scn"]
+
+[params]
+

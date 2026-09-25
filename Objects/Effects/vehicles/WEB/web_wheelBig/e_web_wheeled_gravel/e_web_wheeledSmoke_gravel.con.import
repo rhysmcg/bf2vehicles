@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1xhnsihfwwed"
+path="res://.godot/imported/e_web_wheeledSmoke_gravel.con-5be958716d1e7d7f24e5c8b99f346acc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_gravel/e_web_wheeledSmoke_gravel.con"
+dest_files=["res://.godot/imported/e_web_wheeledSmoke_gravel.con-5be958716d1e7d7f24e5c8b99f346acc.scn"]
+
+[params]
+

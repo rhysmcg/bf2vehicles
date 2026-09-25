@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drpou8mr0e4mo"
+path="res://.godot/imported/e_destroyableWindow_0x0.con-5ce7ba7d586e818b0a8c384ce1566070.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/Windows/e_destroyableWindow_0x0.con"
+dest_files=["res://.godot/imported/e_destroyableWindow_0x0.con-5ce7ba7d586e818b0a8c384ce1566070.scn"]
+
+[params]
+

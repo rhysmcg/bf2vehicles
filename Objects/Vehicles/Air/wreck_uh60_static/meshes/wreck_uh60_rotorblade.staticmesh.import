@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://h14itoclyiqh"
+path="res://.godot/imported/wreck_uh60_rotorblade.staticmesh-c538d87c2974b0892bb0b5037344e697.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/meshes/wreck_uh60_rotorblade.staticmesh"
+dest_files=["res://.godot/imported/wreck_uh60_rotorblade.staticmesh-c538d87c2974b0892bb0b5037344e697.scn"]
+
+[params]
+

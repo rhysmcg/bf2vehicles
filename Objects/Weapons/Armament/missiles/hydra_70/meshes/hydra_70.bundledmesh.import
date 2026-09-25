@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://citc7w5uj5155"
+path="res://.godot/imported/hydra_70.bundledmesh-105bf9a0f61d905ce02324b1dc01013f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/hydra_70/meshes/hydra_70.bundledmesh"
+dest_files=["res://.godot/imported/hydra_70.bundledmesh-105bf9a0f61d905ce02324b1dc01013f.scn"]
+
+[params]
+

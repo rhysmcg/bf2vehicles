@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5d5p1eggjknm"
+path="res://.godot/imported/constructhouse_01.con-166109763f2830e6481f352bf01dcfb1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/constructhouse_01/constructhouse_01.con"
+dest_files=["res://.godot/imported/constructhouse_01.con-166109763f2830e6481f352bf01dcfb1.scn"]
+
+[params]
+

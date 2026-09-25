@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://fw1g5fp0h28b"
+path="res://.godot/imported/p_tunguskacap.con-25191db289a3f62cc3c6d80ae41aeca0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_tunguskacap/p_tunguskacap.con"
+dest_files=["res://.godot/imported/p_tunguskacap.con-25191db289a3f62cc3c6d80ae41aeca0.scn"]
+
+[params]
+

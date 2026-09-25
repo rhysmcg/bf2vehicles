@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bobo1xb2qo66i"
+path="res://.godot/imported/p_wreck_cobra_rotor3.con-607ef71e358425912981047d814c68bb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/p_wreck_cobra_rotor3.con"
+dest_files=["res://.godot/imported/p_wreck_cobra_rotor3.con-607ef71e358425912981047d814c68bb.scn"]
+
+[params]
+

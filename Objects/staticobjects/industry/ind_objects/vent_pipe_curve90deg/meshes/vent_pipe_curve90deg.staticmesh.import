@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cclnxvrfdcjlo"
+path="res://.godot/imported/vent_pipe_curve90deg.staticmesh-6c33e5048871c26252ca696e38793bae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/vent_pipe_curve90deg/meshes/vent_pipe_curve90deg.staticmesh"
+dest_files=["res://.godot/imported/vent_pipe_curve90deg.staticmesh-6c33e5048871c26252ca696e38793bae.scn"]
+
+[params]
+

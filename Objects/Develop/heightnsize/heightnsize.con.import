@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bsv8hax0cvq3s"
+path="res://.godot/imported/heightnsize.con-e1e4fbc67adec27cc76faadd0c39c6ce.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/heightnsize/heightnsize.con"
+dest_files=["res://.godot/imported/heightnsize.con-e1e4fbc67adec27cc76faadd0c39c6ce.scn"]
+
+[params]
+

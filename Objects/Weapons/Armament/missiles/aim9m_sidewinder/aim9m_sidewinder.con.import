@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b5vtoqik7v1uu"
+path="res://.godot/imported/aim9m_sidewinder.con-c7a4a5b3472e683c508c0f7ad31387d3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/aim9m_sidewinder/aim9m_sidewinder.con"
+dest_files=["res://.godot/imported/aim9m_sidewinder.con-c7a4a5b3472e683c508c0f7ad31387d3.scn"]
+
+[params]
+

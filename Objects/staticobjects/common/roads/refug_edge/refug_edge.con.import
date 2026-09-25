@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjwcgab5mlk81"
+path="res://.godot/imported/refug_edge.con-06b7324b9e543c0555b2e30c2706f170.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_edge/refug_edge.con"
+dest_files=["res://.godot/imported/refug_edge.con-06b7324b9e543c0555b2e30c2706f170.scn"]
+
+[params]
+

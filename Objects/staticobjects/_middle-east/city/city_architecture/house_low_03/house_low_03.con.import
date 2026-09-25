@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://84tt4tr4ost3"
+path="res://.godot/imported/house_low_03.con-0e905cb304f651761c9ec24f639e1e34.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_low_03/house_low_03.con"
+dest_files=["res://.godot/imported/house_low_03.con-0e905cb304f651761c9ec24f639e1e34.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bwcga7s1qb6gx"
+path="res://.godot/imported/train_rail_bar_des.staticmesh-6b75ea3a93a65adebf8cc62890ebb86a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/train_rail_bar_dest/meshes/train_rail_bar_des.staticmesh"
+dest_files=["res://.godot/imported/train_rail_bar_des.staticmesh-6b75ea3a93a65adebf8cc62890ebb86a.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4w1jdcn0wilg"
+path="res://.godot/imported/medikit.con-e5fd37eb421371dbe7e7d8811bcbcd23.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/medikit/medikit.con"
+dest_files=["res://.godot/imported/medikit.con-e5fd37eb421371dbe7e7d8811bcbcd23.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dtpsi25yoeh2f"
+path="res://.godot/imported/ch_house_modern_01_signs.staticmesh-e9119d8f8f52061696bd2b4cf7df73fc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_house_modern_01/meshes/ch_house_modern_01_signs.staticmesh"
+dest_files=["res://.godot/imported/ch_house_modern_01_signs.staticmesh-e9119d8f8f52061696bd2b4cf7df73fc.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ccx01gs26ighf"
+path="res://.godot/imported/ruair_mig29.bundledmesh-afff47beb17c87a94a3f1bc766b98dfc.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ruair_mig29/meshes/ruair_mig29.bundledmesh"
+dest_files=["res://.godot/imported/ruair_mig29.bundledmesh-afff47beb17c87a94a3f1bc766b98dfc.scn"]
+
+[params]
+

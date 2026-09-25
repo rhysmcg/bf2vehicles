@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dp8dtchpaq2uv"
+path="res://.godot/imported/e_bhit_minigun_penetrable_plasterwall.con-8bc835839153859dbd364313f35db609.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_penetrable_plasterwall.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_penetrable_plasterwall.con-8bc835839153859dbd364313f35db609.scn"]
+
+[params]
+

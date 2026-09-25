@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmefpixgssc5j"
+path="res://.godot/imported/refug.con-749340888fab6eaffeecf02d8a3fd553.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug/refug.con"
+dest_files=["res://.godot/imported/refug.con-749340888fab6eaffeecf02d8a3fd553.scn"]
+
+[params]
+

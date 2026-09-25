@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bjv6ut12dgevw"
+path="res://.godot/imported/floodlight.con-c54c74edb7c05ae7edd60f48f2845c89.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/floodlight/floodlight.con"
+dest_files=["res://.godot/imported/floodlight.con-c54c74edb7c05ae7edd60f48f2845c89.scn"]
+
+[params]
+

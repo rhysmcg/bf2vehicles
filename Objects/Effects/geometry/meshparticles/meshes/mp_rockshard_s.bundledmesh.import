@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rs3msuqegc6r"
+path="res://.godot/imported/mp_rockshard_s.bundledmesh-259d3aa35004c0794bb439d507195f66.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/meshes/mp_rockshard_s.bundledmesh"
+dest_files=["res://.godot/imported/mp_rockshard_s.bundledmesh-259d3aa35004c0794bb439d507195f66.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgk7d0vna1ccp"
+path="res://.godot/imported/cablepole.con-5627d245844f10fc84af8d4f45da6272.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cablepole/cablepole.con"
+dest_files=["res://.godot/imported/cablepole.con-5627d245844f10fc84af8d4f45da6272.scn"]
+
+[params]
+

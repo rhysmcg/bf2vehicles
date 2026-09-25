@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckfkoxofhtvap"
+path="res://.godot/imported/USAPC_LAV25.con-55ff1e5a434b8bcafeac7a46920aa273.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USAPC_LAV25/USAPC_LAV25.con"
+dest_files=["res://.godot/imported/USAPC_LAV25.con-55ff1e5a434b8bcafeac7a46920aa273.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ct0smkydhwpax"
+path="res://.godot/imported/school_house.staticmesh-5a403e2f130ec1af6f36feb897ab6a3d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/school_house/meshes/school_house.staticmesh"
+dest_files=["res://.godot/imported/school_house.staticmesh-5a403e2f130ec1af6f36feb897ab6a3d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfhsv2bbenyc"
+path="res://.godot/imported/stnwalls_corner_12m.staticmesh-98fd0d7f128f18eabbe4ee8f07cfa5cf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_corner_12m/meshes/stnwalls_corner_12m.staticmesh"
+dest_files=["res://.godot/imported/stnwalls_corner_12m.staticmesh-98fd0d7f128f18eabbe4ee8f07cfa5cf.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bjvr5rf3uc2jv"
+path="res://.godot/imported/house_small_v2.staticmesh-df77988e073d6d528e1da22fda55f019.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/house_small_v2/meshes/house_small_v2.staticmesh"
+dest_files=["res://.godot/imported/house_small_v2.staticmesh-df77988e073d6d528e1da22fda55f019.scn"]
+
+[params]
+

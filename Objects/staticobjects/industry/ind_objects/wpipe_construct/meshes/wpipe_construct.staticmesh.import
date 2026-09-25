@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bwscodg6jvj8x"
+path="res://.godot/imported/wpipe_construct.staticmesh-4c6c737de1d82fc0f507d4a2d2a47fd6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_construct/meshes/wpipe_construct.staticmesh"
+dest_files=["res://.godot/imported/wpipe_construct.staticmesh-4c6c737de1d82fc0f507d4a2d2a47fd6.scn"]
+
+[params]
+

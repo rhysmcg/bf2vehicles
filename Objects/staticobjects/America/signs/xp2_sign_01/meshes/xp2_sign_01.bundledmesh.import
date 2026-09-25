@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cbhp3t7d5b65i"
+path="res://.godot/imported/xp2_sign_01.bundledmesh-950f2a3677813185280862a78315261c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_sign_01/meshes/xp2_sign_01.bundledmesh"
+dest_files=["res://.godot/imported/xp2_sign_01.bundledmesh-950f2a3677813185280862a78315261c.scn"]
+
+[params]
+

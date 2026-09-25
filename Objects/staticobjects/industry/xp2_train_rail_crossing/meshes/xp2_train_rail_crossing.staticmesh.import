@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dkyfpr3eeu1qp"
+path="res://.godot/imported/xp2_train_rail_crossing.staticmesh-b725d6d58cb6726d95cac3d1e04fc8c7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_train_rail_crossing/meshes/xp2_train_rail_crossing.staticmesh"
+dest_files=["res://.godot/imported/xp2_train_rail_crossing.staticmesh-b725d6d58cb6726d95cac3d1e04fc8c7.scn"]
+
+[params]
+

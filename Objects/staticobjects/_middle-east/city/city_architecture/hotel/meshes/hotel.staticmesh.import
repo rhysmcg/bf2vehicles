@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ceu2ogkjos234"
+path="res://.godot/imported/hotel.staticmesh-446c03e04eb5963f8c52b60ec0642ab0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/hotel/meshes/hotel.staticmesh"
+dest_files=["res://.godot/imported/hotel.staticmesh-446c03e04eb5963f8c52b60ec0642ab0.scn"]
+
+[params]
+

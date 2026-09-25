@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7kgov0pcv3da"
+path="res://.godot/imported/e_bhit_l_cardboard_exit.con-53ac198060177cbae6a8d969940c9c5e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_cardboard_exit.con"
+dest_files=["res://.godot/imported/e_bhit_l_cardboard_exit.con-53ac198060177cbae6a8d969940c9c5e.scn"]
+
+[params]
+

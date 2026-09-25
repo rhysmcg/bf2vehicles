@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://djg22m0oabr52"
+path="res://.godot/imported/p_su39_leftwing.bundledmesh-3fe4eaf50a7c5aecf61b405cff0f12de.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su39/meshes/p_su39_leftwing.bundledmesh"
+dest_files=["res://.godot/imported/p_su39_leftwing.bundledmesh-3fe4eaf50a7c5aecf61b405cff0f12de.scn"]
+
+[params]
+

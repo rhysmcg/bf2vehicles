@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8st1tolmoqyt"
+path="res://.godot/imported/brickwall_broken.con-5f8298af60ae6ae6cda0fc24777b3ed3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/brickwall_broken/brickwall_broken.con"
+dest_files=["res://.godot/imported/brickwall_broken.con-5f8298af60ae6ae6cda0fc24777b3ed3.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c3f6f5mp1kcxg"
+path="res://.godot/imported/mi_sandbags_shelter.staticmesh-ff33e3c458eb5893a66f493df1600c11.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_sandbags_shelter/meshes/mi_sandbags_shelter.staticmesh"
+dest_files=["res://.godot/imported/mi_sandbags_shelter.staticmesh-ff33e3c458eb5893a66f493df1600c11.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c3hcqqahgd53o"
+path="res://.godot/imported/glow3.con-807f48e7c9dafe58eeb318d5f11fe7a4.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glow3.con"
+dest_files=["res://.godot/imported/glow3.con-807f48e7c9dafe58eeb318d5f11fe7a4.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vl6a5vniky0q"
+path="res://.godot/imported/e_damb_deadfish.con-f542de0f3b74a0288e432ab3ef09471d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_damb_deadfish.con"
+dest_files=["res://.godot/imported/e_damb_deadfish.con-f542de0f3b74a0288e432ab3ef09471d.scn"]
+
+[params]
+

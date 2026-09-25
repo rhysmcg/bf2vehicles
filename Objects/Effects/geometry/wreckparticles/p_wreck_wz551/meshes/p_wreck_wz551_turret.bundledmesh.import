@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b0qoa6pjjl3y"
+path="res://.godot/imported/p_wreck_wz551_turret.bundledmesh-42b08465a0afc110b1a8afbd723fc20a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_wz551/meshes/p_wreck_wz551_turret.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_wz551_turret.bundledmesh-42b08465a0afc110b1a8afbd723fc20a.scn"]
+
+[params]
+

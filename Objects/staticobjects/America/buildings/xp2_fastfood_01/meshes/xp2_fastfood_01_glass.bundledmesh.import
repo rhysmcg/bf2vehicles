@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cc850e3570b0i"
+path="res://.godot/imported/xp2_fastfood_01_glass.bundledmesh-9a9b2b380e41f0d379948ed9c9cf4eac.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_fastfood_01/meshes/xp2_fastfood_01_glass.bundledmesh"
+dest_files=["res://.godot/imported/xp2_fastfood_01_glass.bundledmesh-9a9b2b380e41f0d379948ed9c9cf4eac.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chnj0xoqaipwe"
+path="res://.godot/imported/ch_phone_booth.con-8bc72a91f57721b285bd2a51fbbae5be.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ch_phone_booth/ch_phone_booth.con"
+dest_files=["res://.godot/imported/ch_phone_booth.con-8bc72a91f57721b285bd2a51fbbae5be.scn"]
+
+[params]
+

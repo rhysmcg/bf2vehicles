@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bqq5lr7fqr6a2"
+path="res://.godot/imported/ladder_10m_rak.staticmesh-780481bcbd06ab3a9b6e7ec6183ed570.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_10m_rak/meshes/ladder_10m_rak.staticmesh"
+dest_files=["res://.godot/imported/ladder_10m_rak.staticmesh-780481bcbd06ab3a9b6e7ec6183ed570.scn"]
+
+[params]
+

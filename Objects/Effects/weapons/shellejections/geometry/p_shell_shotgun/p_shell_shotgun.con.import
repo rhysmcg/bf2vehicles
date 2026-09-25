@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjfgbgdyugvmp"
+path="res://.godot/imported/p_shell_shotgun.con-264bc43b2af860738c88ba3d7db816a6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_shotgun/p_shell_shotgun.con"
+dest_files=["res://.godot/imported/p_shell_shotgun.con-264bc43b2af860738c88ba3d7db816a6.scn"]
+
+[params]
+

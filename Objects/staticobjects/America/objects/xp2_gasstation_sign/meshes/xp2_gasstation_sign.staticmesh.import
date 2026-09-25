@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfldt207n7r0m"
+path="res://.godot/imported/xp2_gasstation_sign.staticmesh-855d3ca9456d2649e0d1e5b21177d3c2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gasstation_sign/meshes/xp2_gasstation_sign.staticmesh"
+dest_files=["res://.godot/imported/xp2_gasstation_sign.staticmesh-855d3ca9456d2649e0d1e5b21177d3c2.scn"]
+
+[params]
+

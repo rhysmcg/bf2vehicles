@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4ug21gr24phw"
+path="res://.godot/imported/CHHMG_KORD.bundledMesh-8e6e4297c95230764c75f8e0cc9f7754.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/CHHMG_KORD/Meshes/CHHMG_KORD.bundledMesh"
+dest_files=["res://.godot/imported/CHHMG_KORD.bundledMesh-8e6e4297c95230764c75f8e0cc9f7754.scn"]
+
+[params]
+

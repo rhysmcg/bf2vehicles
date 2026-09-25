@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b4pl02gb0hitt"
+path="res://.godot/imported/p_medical_pillbottle.bundledmesh-496a1842b0d9f86ed7921b091b9a70c3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_medical_pillbottle.bundledmesh"
+dest_files=["res://.godot/imported/p_medical_pillbottle.bundledmesh-496a1842b0d9f86ed7921b091b9a70c3.scn"]
+
+[params]
+

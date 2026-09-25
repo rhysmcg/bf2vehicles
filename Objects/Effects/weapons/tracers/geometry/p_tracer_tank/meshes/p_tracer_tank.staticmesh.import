@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cgyrgw0cnkx2e"
+path="res://.godot/imported/p_tracer_tank.staticmesh-1a3e0894fef5022ddafc2637065b58fd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/tracers/geometry/p_tracer_tank/meshes/p_tracer_tank.staticmesh"
+dest_files=["res://.godot/imported/p_tracer_tank.staticmesh-1a3e0894fef5022ddafc2637065b58fd.scn"]
+
+[params]
+

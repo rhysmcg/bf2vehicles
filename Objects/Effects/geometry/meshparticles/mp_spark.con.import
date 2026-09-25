@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvvmvhqkntxop"
+path="res://.godot/imported/mp_spark.con-e9048bce4383e94b0f19e4441db5c7fa.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/mp_spark.con"
+dest_files=["res://.godot/imported/mp_spark.con-e9048bce4383e94b0f19e4441db5c7fa.scn"]
+
+[params]
+

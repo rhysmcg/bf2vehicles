@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bksplcssd2g13"
+path="res://.godot/imported/mobileradar_mech_dest.bundledmesh-e635321195c77219afb13c4356ac99d7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mobileradar_mech_dest/meshes/mobileradar_mech_dest.bundledmesh"
+dest_files=["res://.godot/imported/mobileradar_mech_dest.bundledmesh-e635321195c77219afb13c4356ac99d7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://l13x84hwnk1m"
+path="res://.godot/imported/xp2_oilsilo_01.con-f172cdcc1dcb4d28ab3ab8a818b740a7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/xp2_oilsilo_01/xp2_oilsilo_01.con"
+dest_files=["res://.godot/imported/xp2_oilsilo_01.con-f172cdcc1dcb4d28ab3ab8a818b740a7.scn"]
+
+[params]
+

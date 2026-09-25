@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crtajukglb5cm"
+path="res://.godot/imported/Overpass_Mian_XP2_compiled.con-64dd31db466ec55b433737b2a011f3b5.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Overpass_Mian_XP2_compiled.con"
+dest_files=["res://.godot/imported/Overpass_Mian_XP2_compiled.con-64dd31db466ec55b433737b2a011f3b5.scn"]
+
+[params]
+

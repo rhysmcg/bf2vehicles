@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cigpll2mk15vw"
+path="res://.godot/imported/wirefence_48m.con-77ebd53f1be454b7112a2264e8eaffa7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/wirefence_48m/wirefence_48m.con"
+dest_files=["res://.godot/imported/wirefence_48m.con-77ebd53f1be454b7112a2264e8eaffa7.scn"]
+
+[params]
+

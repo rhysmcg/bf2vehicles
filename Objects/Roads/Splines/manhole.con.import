@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dd5tnrxg0nyo1"
+path="res://.godot/imported/manhole.con-f5f713326d739841028ac4cc5913e281.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/manhole.con"
+dest_files=["res://.godot/imported/manhole.con-f5f713326d739841028ac4cc5913e281.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0l5jla5oqu6l"
+path="res://.godot/imported/paved1lane.con-c5b0afeab7db4702b036fab38b951f50.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/paved1lane.con"
+dest_files=["res://.godot/imported/paved1lane.con-c5b0afeab7db4702b036fab38b951f50.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bpa8ylvwjep5o"
+path="res://.godot/imported/gaspumptow.con-8a346ed0e1fee5ba4b0ab3b82ef36d52.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/gaspumptow/gaspumptow.con"
+dest_files=["res://.godot/imported/gaspumptow.con-8a346ed0e1fee5ba4b0ab3b82ef36d52.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfoglqv0q0boh"
+path="res://.godot/imported/rurrif_ak74u.con-728f9993942f7eea9ec747f99ab08d3f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rurrif_ak74u/rurrif_ak74u.con"
+dest_files=["res://.godot/imported/rurrif_ak74u.con-728f9993942f7eea9ec747f99ab08d3f.scn"]
+
+[params]
+

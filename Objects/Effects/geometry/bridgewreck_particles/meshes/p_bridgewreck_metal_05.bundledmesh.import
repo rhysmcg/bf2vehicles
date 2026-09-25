@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dcrso22bc4uxu"
+path="res://.godot/imported/p_bridgewreck_metal_05.bundledmesh-bf1fb5cc8a67515ea0d487a7b66bc50b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/bridgewreck_particles/meshes/p_bridgewreck_metal_05.bundledmesh"
+dest_files=["res://.godot/imported/p_bridgewreck_metal_05.bundledmesh-bf1fb5cc8a67515ea0d487a7b66bc50b.scn"]
+
+[params]
+

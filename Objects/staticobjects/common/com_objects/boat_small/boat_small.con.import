@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0uuvfina1bqq"
+path="res://.godot/imported/boat_small.con-8b4ed32ec06580f708641b149a9ca5f8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/boat_small/boat_small.con"
+dest_files=["res://.godot/imported/boat_small.con-8b4ed32ec06580f708641b149a9ca5f8.scn"]
+
+[params]
+

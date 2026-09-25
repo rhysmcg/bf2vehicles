@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dlu8qpth0lt3f"
+path="res://.godot/imported/USJEP_HMMWV.con-5ec92a53199dac65a421f6723f3b4c84.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USJEP_HMMWV/USJEP_HMMWV.con"
+dest_files=["res://.godot/imported/USJEP_HMMWV.con-5ec92a53199dac65a421f6723f3b4c84.scn"]
+
+[params]
+

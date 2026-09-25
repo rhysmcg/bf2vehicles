@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://batsdr8deluk7"
+path="res://.godot/imported/canopy_01_vines_02_lod.con-17241038cbd4a894564432f4febe57cc.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/canopy_01_vines_02/canopy_01_vines_02_lod.con"
+dest_files=["res://.godot/imported/canopy_01_vines_02_lod.con-17241038cbd4a894564432f4febe57cc.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7yv6ynf57chk"
+path="res://.godot/imported/e_mexp_grenade_grass.con-2e87ba1b10040babdbc2a5cccc1950b3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/grenade/e_mexp_grenade_grass.con"
+dest_files=["res://.godot/imported/e_mexp_grenade_grass.con-2e87ba1b10040babdbc2a5cccc1950b3.scn"]
+
+[params]
+

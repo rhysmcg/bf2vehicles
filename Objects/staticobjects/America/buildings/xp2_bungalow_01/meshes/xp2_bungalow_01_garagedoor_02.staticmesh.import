@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d0lohqjvycvg0"
+path="res://.godot/imported/xp2_bungalow_01_garagedoor_02.staticmesh-369506ac8ab835c312fe3c11de7c26cc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_bungalow_01/meshes/xp2_bungalow_01_garagedoor_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_bungalow_01_garagedoor_02.staticmesh-369506ac8ab835c312fe3c11de7c26cc.scn"]
+
+[params]
+

@@ -27,13 +27,14 @@ void fragment() {
 	vec4 BaseColour = texture(BaseTexture, UV);
 	vec4 DetailColour = texture(DetailTexture, UV2);
 	vec4 CrackColour = texture(CrackTexture, UV3);
+	
 	vec4 NDetailColour = texture(NDetailTexture, UV2);
 	vec4 NCrackColour = texture(NCrackTexture, UV2);
-	
 	vec3 final_color = mix(BaseColour.rgb * DetailColour.rgb, CrackColour.rgb, CrackColour.a);
+	vec3 final_normal = mix(NDetailColour.rgb, NCrackColour.rgb, CrackColour.a);
 	
 	ALBEDO = final_color.rgb;
 	SPECULAR = DetailColour.a;
 	ROUGHNESS = DetailColour.a;
-	NORMAL_MAP = NDetailColour.rgb;
+	NORMAL_MAP = final_normal;
 }

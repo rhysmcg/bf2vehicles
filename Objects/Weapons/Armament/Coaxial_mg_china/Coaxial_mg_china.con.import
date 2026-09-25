@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://wo3xitta47kg"
+path="res://.godot/imported/Coaxial_mg_china.con-d98ef073acf6762996e5404700cc3643.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/Coaxial_mg_china/Coaxial_mg_china.con"
+dest_files=["res://.godot/imported/Coaxial_mg_china.con-d98ef073acf6762996e5404700cc3643.scn"]
+
+[params]
+

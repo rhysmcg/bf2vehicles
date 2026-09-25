@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b84vc4pgevg2j"
+path="res://.godot/imported/marketstand_2.staticmesh-f7ed707817f5c757ed2a18feec2b5dd5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/marketstand_2/meshes/marketstand_2.staticmesh"
+dest_files=["res://.godot/imported/marketstand_2.staticmesh-f7ed707817f5c757ed2a18feec2b5dd5.scn"]
+
+[params]
+

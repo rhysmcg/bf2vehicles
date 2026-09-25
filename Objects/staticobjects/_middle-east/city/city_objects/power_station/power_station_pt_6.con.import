@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdff0d3b717wc"
+path="res://.godot/imported/power_station_pt_6.con-0ac3e7e3d035ba8be9efe5bb4b2aa37a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/power_station/power_station_pt_6.con"
+dest_files=["res://.godot/imported/power_station_pt_6.con-0ac3e7e3d035ba8be9efe5bb4b2aa37a.scn"]
+
+[params]
+

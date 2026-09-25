@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmdf2hvbwpfbw"
+path="res://.godot/imported/cabledrum_2m_three.con-bbdc406a88cb97daceb9a655d9bce7ff.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/cabledrum_2m_three/cabledrum_2m_three.con"
+dest_files=["res://.godot/imported/cabledrum_2m_three.con-bbdc406a88cb97daceb9a655d9bce7ff.scn"]
+
+[params]
+

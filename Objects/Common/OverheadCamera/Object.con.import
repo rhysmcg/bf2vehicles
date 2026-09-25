@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bk7dvnq8rhde4"
+path="res://.godot/imported/Object.con-89bc9e9dbf2e58c8936684b0b7b4cbbe.scn"
+
+[deps]
+
+source_file="res://Objects/Common/OverheadCamera/Object.con"
+dest_files=["res://.godot/imported/Object.con-89bc9e9dbf2e58c8936684b0b7b4cbbe.scn"]
+
+[params]
+

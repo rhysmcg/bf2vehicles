@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cd7yxj5emioro"
+path="res://.godot/imported/wreck_uh60_door.con-115eacd7952932adfc751b39e09d40fb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/wreck_uh60_door.con"
+dest_files=["res://.godot/imported/wreck_uh60_door.con-115eacd7952932adfc751b39e09d40fb.scn"]
+
+[params]
+

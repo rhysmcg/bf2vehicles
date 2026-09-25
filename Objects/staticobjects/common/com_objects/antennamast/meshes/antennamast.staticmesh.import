@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b8uj8mxod1uo8"
+path="res://.godot/imported/antennamast.staticmesh-09d6fa6d3fd3f87cf78be51124f71b69.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/antennamast/meshes/antennamast.staticmesh"
+dest_files=["res://.godot/imported/antennamast.staticmesh-09d6fa6d3fd3f87cf78be51124f71b69.scn"]
+
+[params]
+

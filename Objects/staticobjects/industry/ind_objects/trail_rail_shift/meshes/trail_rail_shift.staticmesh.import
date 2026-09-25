@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dh5gxqirag6f0"
+path="res://.godot/imported/trail_rail_shift.staticmesh-f8f4fdb79f5cda4db026ea61b099e2f0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/trail_rail_shift/meshes/trail_rail_shift.staticmesh"
+dest_files=["res://.godot/imported/trail_rail_shift.staticmesh-f8f4fdb79f5cda4db026ea61b099e2f0.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwm0wi66inga6"
+path="res://.godot/imported/eu_elmtree01.staticmesh-7989dff70f1116562070f1fc30f73b67.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/europe/eu_elmtree/meshes/eu_elmtree01.staticmesh"
+dest_files=["res://.godot/imported/eu_elmtree01.staticmesh-7989dff70f1116562070f1fc30f73b67.scn"]
+
+[params]
+

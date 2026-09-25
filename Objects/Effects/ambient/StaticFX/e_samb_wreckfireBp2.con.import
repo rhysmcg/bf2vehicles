@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vtwuecjx2wdd"
+path="res://.godot/imported/e_samb_wreckfireBp2.con-1820d99c4f895a828fe1d511d39ad77c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_samb_wreckfireBp2.con"
+dest_files=["res://.godot/imported/e_samb_wreckfireBp2.con-1820d99c4f895a828fe1d511d39ad77c.scn"]
+
+[params]
+

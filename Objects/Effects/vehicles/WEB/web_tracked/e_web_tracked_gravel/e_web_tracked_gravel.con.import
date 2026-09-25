@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jc53k5sgjmq6"
+path="res://.godot/imported/e_web_tracked_gravel.con-36daf42362d80d095822ec8331cc83dd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_gravel/e_web_tracked_gravel.con"
+dest_files=["res://.godot/imported/e_web_tracked_gravel.con-36daf42362d80d095822ec8331cc83dd.scn"]
+
+[params]
+

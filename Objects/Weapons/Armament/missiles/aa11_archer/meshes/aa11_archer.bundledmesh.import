@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cj431wenper60"
+path="res://.godot/imported/aa11_archer.bundledmesh-ee0287687a06f1c1542f75b4c76700db.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/aa11_archer/meshes/aa11_archer.bundledmesh"
+dest_files=["res://.godot/imported/aa11_archer.bundledmesh-ee0287687a06f1c1542f75b4c76700db.scn"]
+
+[params]
+

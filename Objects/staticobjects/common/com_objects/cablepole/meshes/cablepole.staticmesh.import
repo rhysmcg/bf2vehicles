@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ctu1p3mh34ljp"
+path="res://.godot/imported/cablepole.staticmesh-906d649c6e2e3e4b2a4dc57a5ad205cc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cablepole/meshes/cablepole.staticmesh"
+dest_files=["res://.godot/imported/cablepole.staticmesh-906d649c6e2e3e4b2a4dc57a5ad205cc.scn"]
+
+[params]
+

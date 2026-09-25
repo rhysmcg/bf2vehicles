@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5g6qeisc1hb2"
+path="res://.godot/imported/convbelt.staticmesh-4a392fe667aedea7a811e1a7524a23d5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/convbelt/meshes/convbelt.staticmesh"
+dest_files=["res://.godot/imported/convbelt.staticmesh-4a392fe667aedea7a811e1a7524a23d5.scn"]
+
+[params]
+

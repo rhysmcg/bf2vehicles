@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://suesgfjevwdi"
+path="res://.godot/imported/e_bhit_20mm_dirt.con-d985a395851e141818d43fd44f7538c6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_dirt.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_dirt.con-d985a395851e141818d43fd44f7538c6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d36v262q22r22"
+path="res://.godot/imported/p_wreck_d30_shield.con-5eb1de376243be014174f160539b10b9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_d30/p_wreck_d30_shield.con"
+dest_files=["res://.godot/imported/p_wreck_d30_shield.con-5eb1de376243be014174f160539b10b9.scn"]
+
+[params]
+

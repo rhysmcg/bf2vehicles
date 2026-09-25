@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dsi8pg8ocsshf"
+path="res://.godot/imported/wallend.con-d5baefaf9d3ff2be395639adbb8b72dd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/wallend/wallend.con"
+dest_files=["res://.godot/imported/wallend.con-d5baefaf9d3ff2be395639adbb8b72dd.scn"]
+
+[params]
+

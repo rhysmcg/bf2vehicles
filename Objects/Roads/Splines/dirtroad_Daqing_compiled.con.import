@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://clgmf7lehpxp5"
+path="res://.godot/imported/dirtroad_Daqing_compiled.con-346cb1f47d53c74658b876a2d38a40a0.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/dirtroad_Daqing_compiled.con"
+dest_files=["res://.godot/imported/dirtroad_Daqing_compiled.con-346cb1f47d53c74658b876a2d38a40a0.scn"]
+
+[params]
+

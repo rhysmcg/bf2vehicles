@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chr60rkdxctcu"
+path="res://.godot/imported/train_cargowag_02_ladder.con-d07fe78589df95022776d469d31a722c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/train_cargowag_02/train_cargowag_02_ladder.con"
+dest_files=["res://.godot/imported/train_cargowag_02_ladder.con-d07fe78589df95022776d469d31a722c.scn"]
+
+[params]
+

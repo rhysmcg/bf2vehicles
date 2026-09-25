@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dy1jqivu5b60h"
+path="res://.godot/imported/xp2_truckstop_01.con-12f5ee3edcdf202648878c38c62a4ce8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_truckstop_01/xp2_truckstop_01.con"
+dest_files=["res://.godot/imported/xp2_truckstop_01.con-12f5ee3edcdf202648878c38c62a4ce8.scn"]
+
+[params]
+

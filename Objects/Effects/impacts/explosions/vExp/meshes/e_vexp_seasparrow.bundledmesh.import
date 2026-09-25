@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c1mwv5oxcs4ma"
+path="res://.godot/imported/e_vexp_seasparrow.bundledmesh-cbb4c2a3518639a2ff6a60d6b844e02d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_seasparrow.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_seasparrow.bundledmesh-cbb4c2a3518639a2ff6a60d6b844e02d.scn"]
+
+[params]
+

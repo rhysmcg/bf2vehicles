@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bpk0ekh8rhnl4"
+path="res://.godot/imported/e_ade_helidraft_Sand.con-c9409505c8f426e30344c7a25755d4b1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/e_ade_helidraft_Sand.con"
+dest_files=["res://.godot/imported/e_ade_helidraft_Sand.con-c9409505c8f426e30344c7a25755d4b1.scn"]
+
+[params]
+

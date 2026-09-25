@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kld5sttnbtd3"
+path="res://.godot/imported/e_bhit_minigun_ricochet.con-ddb3b34d970baf36ed555cbe6cb4d7a8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_ricochet.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_ricochet.con-ddb3b34d970baf36ed555cbe6cb4d7a8.scn"]
+
+[params]
+

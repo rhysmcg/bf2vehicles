@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://lup83hqltyl"
+path="res://.godot/imported/ragDollInit.con-1e85a68b63c1ca17139a91c5c2021585.scn"
+
+[deps]
+
+source_file="res://Objects/soldiers/Common/Animations/ragDollInit.con"
+dest_files=["res://.godot/imported/ragDollInit.con-1e85a68b63c1ca17139a91c5c2021585.scn"]
+
+[params]
+

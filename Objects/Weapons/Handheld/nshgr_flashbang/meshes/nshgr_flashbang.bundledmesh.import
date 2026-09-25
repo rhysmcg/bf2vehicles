@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5yw1de2hydid"
+path="res://.godot/imported/nshgr_flashbang.bundledmesh-d5de26422a0bb44b202ac5f788acadc8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/nshgr_flashbang/meshes/nshgr_flashbang.bundledmesh"
+dest_files=["res://.godot/imported/nshgr_flashbang.bundledmesh-d5de26422a0bb44b202ac5f788acadc8.scn"]
+
+[params]
+

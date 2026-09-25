@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cexncyqr6amif"
+path="res://.godot/imported/wpipe_tinter.con-72c60f0cf331718870f6180b0fa266a8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_tinter/wpipe_tinter.con"
+dest_files=["res://.godot/imported/wpipe_tinter.con-72c60f0cf331718870f6180b0fa266a8.scn"]
+
+[params]
+

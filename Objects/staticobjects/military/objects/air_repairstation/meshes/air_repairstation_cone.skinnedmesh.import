@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dmrg4sybr8a7a"
+path="res://.godot/imported/air_repairstation_cone.skinnedmesh-70d2b5e4972f6010908b391b81943007.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/air_repairstation/meshes/air_repairstation_cone.skinnedmesh"
+dest_files=["res://.godot/imported/air_repairstation_cone.skinnedmesh-70d2b5e4972f6010908b391b81943007.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dlk8h227gha4y"
+path="res://.godot/imported/waterplane_128.staticmesh-7d444e16ca9ea179f5a083075a680aa8.scn"
+
+[deps]
+
+source_file="res://Objects/water/meshes/waterplane_128.staticmesh"
+dest_files=["res://.godot/imported/waterplane_128.staticmesh-7d444e16ca9ea179f5a083075a680aa8.scn"]
+
+[params]
+

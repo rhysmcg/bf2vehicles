@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://vq1e03usopnj"
+path="res://.godot/imported/cube.staticMesh-443e0fb2fcd1b900424567b26beebdad.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/Cube/Meshes/cube.staticMesh"
+dest_files=["res://.godot/imported/cube.staticMesh-443e0fb2fcd1b900424567b26beebdad.scn"]
+
+[params]
+

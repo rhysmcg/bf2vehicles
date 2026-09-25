@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cstj20uk2b1q"
+path="res://.godot/imported/p_a10_fuselage.con-060263a3007ad4130000b17ee862869c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_a10/p_a10_fuselage.con"
+dest_files=["res://.godot/imported/p_a10_fuselage.con-060263a3007ad4130000b17ee862869c.scn"]
+
+[params]
+

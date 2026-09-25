@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://doegw71dpyd4h"
+path="res://.godot/imported/xp2_gas_pumps.staticmesh-518f735349f807e4c5fc2c870699d9fa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gas_pumps/meshes/xp2_gas_pumps.staticmesh"
+dest_files=["res://.godot/imported/xp2_gas_pumps.staticmesh-518f735349f807e4c5fc2c870699d9fa.scn"]
+
+[params]
+

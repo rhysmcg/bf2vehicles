@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://canjycgt37pud"
+path="res://.godot/imported/roundabout.staticmesh-9b32a0921a0b89387659dc0295277e28.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/roundabout/meshes/roundabout.staticmesh"
+dest_files=["res://.godot/imported/roundabout.staticmesh-9b32a0921a0b89387659dc0295277e28.scn"]
+
+[params]
+

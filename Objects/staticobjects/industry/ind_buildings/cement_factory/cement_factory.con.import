@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b3uixbjs4qiy6"
+path="res://.godot/imported/cement_factory.con-3595ec8d7db2ba8bee8685710494a936.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/cement_factory/cement_factory.con"
+dest_files=["res://.godot/imported/cement_factory.con-3595ec8d7db2ba8bee8685710494a936.scn"]
+
+[params]
+

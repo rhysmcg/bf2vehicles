@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://155n1ndqj2sx"
+path="res://.godot/imported/fence_corrugated_3x72m.staticmesh-3323539933a5efd28974626f03875b31.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/fences/fence_corrugated_3x72m/meshes/fence_corrugated_3x72m.staticmesh"
+dest_files=["res://.godot/imported/fence_corrugated_3x72m.staticmesh-3323539933a5efd28974626f03875b31.scn"]
+
+[params]
+

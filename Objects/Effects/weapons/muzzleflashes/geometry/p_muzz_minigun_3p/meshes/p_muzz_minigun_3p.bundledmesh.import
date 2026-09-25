@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://t7rl2yk0w0sa"
+path="res://.godot/imported/p_muzz_minigun_3p.bundledmesh-fe513edd8b06adcd061696a839ac4c3b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_minigun_3p/meshes/p_muzz_minigun_3p.bundledmesh"
+dest_files=["res://.godot/imported/p_muzz_minigun_3p.bundledmesh-fe513edd8b06adcd061696a839ac4c3b.scn"]
+
+[params]
+

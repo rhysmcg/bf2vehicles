@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gvc1c4qf0itk"
+path="res://.godot/imported/ch_stnwalls_innersloope_30m_invert.con-ff9636539f9e854749b3906756b0f734.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_innersloope_30m_invert/ch_stnwalls_innersloope_30m_invert.con"
+dest_files=["res://.godot/imported/ch_stnwalls_innersloope_30m_invert.con-ff9636539f9e854749b3906756b0f734.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://n8shwncke2tn"
+path="res://.godot/imported/e_bhit_l_cloth.con-a92819f666bad7e133bf5ccd1d8b7441.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_cloth.con"
+dest_files=["res://.godot/imported/e_bhit_l_cloth.con-a92819f666bad7e133bf5ccd1d8b7441.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b68spbdr07gnx"
+path="res://.godot/imported/e_mexp_m_gravel.con-ff36299b2970de5b39fccb96db467c2c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/medium/e_mexp_m_gravel.con"
+dest_files=["res://.godot/imported/e_mexp_m_gravel.con-ff36299b2970de5b39fccb96db467c2c.scn"]
+
+[params]
+

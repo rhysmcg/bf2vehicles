@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djdv1flm5jogg"
+path="res://.godot/imported/usrif_g36c.con-9376388ae01fcd1c3d279ccba4395e60.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_g36c/usrif_g36c.con"
+dest_files=["res://.godot/imported/usrif_g36c.con-9376388ae01fcd1c3d279ccba4395e60.scn"]
+
+[params]
+

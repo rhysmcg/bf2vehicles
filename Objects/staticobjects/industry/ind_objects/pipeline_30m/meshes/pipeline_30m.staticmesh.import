@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://1363812jtg7l"
+path="res://.godot/imported/pipeline_30m.staticmesh-fc0c8f9d693c152f52364f3cc391e6dd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_30m/meshes/pipeline_30m.staticmesh"
+dest_files=["res://.godot/imported/pipeline_30m.staticmesh-fc0c8f9d693c152f52364f3cc391e6dd.scn"]
+
+[params]
+

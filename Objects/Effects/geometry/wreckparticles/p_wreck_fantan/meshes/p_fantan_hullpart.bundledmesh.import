@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cp4ejulgica22"
+path="res://.godot/imported/p_fantan_hullpart.bundledmesh-b4c8acfd988c5d9d9ffae296bd87764d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/meshes/p_fantan_hullpart.bundledmesh"
+dest_files=["res://.godot/imported/p_fantan_hullpart.bundledmesh-b4c8acfd988c5d9d9ffae296bd87764d.scn"]
+
+[params]
+

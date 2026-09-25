@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://li2dl06uun30"
+path="res://.godot/imported/e_stoplight_Warning.con-bcdd577fbf5c10bdde0ab116a9cdb058.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_stoplight_Warning.con"
+dest_files=["res://.godot/imported/e_stoplight_Warning.con-bcdd577fbf5c10bdde0ab116a9cdb058.scn"]
+
+[params]
+

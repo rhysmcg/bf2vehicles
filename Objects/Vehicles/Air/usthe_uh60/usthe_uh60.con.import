@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cueekpamlfcki"
+path="res://.godot/imported/usthe_uh60.con-de758b7362bd62e458c74e0980bd45b5.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/usthe_uh60.con"
+dest_files=["res://.godot/imported/usthe_uh60.con-de758b7362bd62e458c74e0980bd45b5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://syslsl6fwg00"
+path="res://.godot/imported/p_muzz_ak101_3p.bundledmesh-3e08daa532ca5fc4722ebf35232ede79.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_ak101_3p/meshes/p_muzz_ak101_3p.bundledmesh"
+dest_files=["res://.godot/imported/p_muzz_ak101_3p.bundledmesh-3e08daa532ca5fc4722ebf35232ede79.scn"]
+
+[params]
+

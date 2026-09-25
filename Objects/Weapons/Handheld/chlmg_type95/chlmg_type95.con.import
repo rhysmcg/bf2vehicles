@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bho33vqpploxd"
+path="res://.godot/imported/chlmg_type95.con-bbe218c6dcf16432ddd9d1031b9c1f49.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chlmg_type95/chlmg_type95.con"
+dest_files=["res://.godot/imported/chlmg_type95.con-bbe218c6dcf16432ddd9d1031b9c1f49.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8ugiubstr55"
+path="res://.godot/imported/e_shellejection_9mm.con-a00cdd5434688be8809ce771aae883dc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_9mm/e_shellejection_9mm.con"
+dest_files=["res://.godot/imported/e_shellejection_9mm.con-a00cdd5434688be8809ce771aae883dc.scn"]
+
+[params]
+

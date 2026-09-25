@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nbdms5p0pn32"
+path="res://.godot/imported/wrench.bundledmesh-ccd70661ae1375740fc078a65d796d92.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/Wrench/meshes/wrench.bundledmesh"
+dest_files=["res://.godot/imported/wrench.bundledmesh-ccd70661ae1375740fc078a65d796d92.scn"]
+
+[params]
+

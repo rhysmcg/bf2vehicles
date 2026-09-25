@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnsvx6m72wja"
+path="res://.godot/imported/lamppost_highway_02.con-75781deff3f29c748b6629637f3c0b06.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lamppost_highway_02/lamppost_highway_02.con"
+dest_files=["res://.godot/imported/lamppost_highway_02.con-75781deff3f29c748b6629637f3c0b06.scn"]
+
+[params]
+

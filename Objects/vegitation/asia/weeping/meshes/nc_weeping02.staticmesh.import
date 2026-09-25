@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c0edls2qr5hle"
+path="res://.godot/imported/nc_weeping02.staticmesh-b6ca5ee1f186eb2eb7522c9818649155.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/weeping/meshes/nc_weeping02.staticmesh"
+dest_files=["res://.godot/imported/nc_weeping02.staticmesh-b6ca5ee1f186eb2eb7522c9818649155.scn"]
+
+[params]
+

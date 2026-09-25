@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cn36a73xnpabn"
+path="res://.godot/imported/e_vexp_havoc.con-8102923e156846997d52c7a6de79856b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_havoc/e_vexp_havoc.con"
+dest_files=["res://.godot/imported/e_vexp_havoc.con-8102923e156846997d52c7a6de79856b.scn"]
+
+[params]
+

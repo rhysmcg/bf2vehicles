@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxydlqn72w4if"
+path="res://.godot/imported/e_destruction_fenceboards.bundledmesh-ceeec7d974f9b4ff05d2b25a5adba5f0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_fenceboards.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_fenceboards.bundledmesh-ceeec7d974f9b4ff05d2b25a5adba5f0.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bgliso28ih5u2"
+path="res://.godot/imported/lamp_post.staticmesh-7571667090e3c29cb42135c2507896c4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lamp_post/meshes/lamp_post.staticmesh"
+dest_files=["res://.godot/imported/lamp_post.staticmesh-7571667090e3c29cb42135c2507896c4.scn"]
+
+[params]
+

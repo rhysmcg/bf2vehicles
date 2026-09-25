@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbamh2aeeng46"
+path="res://.godot/imported/xp2_hydrowires_test2.con-cd34e9750d34cd9e59b2ad64db0b9167.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_hydrowires_01/xp2_hydrowires_test2.con"
+dest_files=["res://.godot/imported/xp2_hydrowires_test2.con-cd34e9750d34cd9e59b2ad64db0b9167.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://psx2kevcngy3"
+path="res://.godot/imported/E_web_trackedSmoke_waterPuddle.con-a15cae157efef07cde66fde9dee61c98.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_waterPuddle/E_web_trackedSmoke_waterPuddle.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_waterPuddle.con-a15cae157efef07cde66fde9dee61c98.scn"]
+
+[params]
+

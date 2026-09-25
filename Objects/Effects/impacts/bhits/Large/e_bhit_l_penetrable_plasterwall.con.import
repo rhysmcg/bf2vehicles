@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://baglccr2p3mu7"
+path="res://.godot/imported/e_bhit_l_penetrable_plasterwall.con-5da78c7954de24b7e8e6c5b7b86f0aa9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_penetrable_plasterwall.con"
+dest_files=["res://.godot/imported/e_bhit_l_penetrable_plasterwall.con-5da78c7954de24b7e8e6c5b7b86f0aa9.scn"]
+
+[params]
+

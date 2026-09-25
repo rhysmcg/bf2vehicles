@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://f1nyk3e5k3vh"
+path="res://.godot/imported/MEC_Sniper.con-488836bf81e6ab952b3a0b034d2b6e3d.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Sniper.con"
+dest_files=["res://.godot/imported/MEC_Sniper.con-488836bf81e6ab952b3a0b034d2b6e3d.scn"]
+
+[params]
+

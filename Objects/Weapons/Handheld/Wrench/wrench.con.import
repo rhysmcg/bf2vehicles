@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dq1e0o57pmb53"
+path="res://.godot/imported/wrench.con-fde18d5f0b569688756ee802b5cf409b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/Wrench/wrench.con"
+dest_files=["res://.godot/imported/wrench.con-fde18d5f0b569688756ee802b5cf409b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://08y75l6nt0rr"
+path="res://.godot/imported/flag_mec.con-7ea643fdbf21b43d145a1b8777a55817.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_MEC/flag_mec.con"
+dest_files=["res://.godot/imported/flag_mec.con-7ea643fdbf21b43d145a1b8777a55817.scn"]
+
+[params]
+

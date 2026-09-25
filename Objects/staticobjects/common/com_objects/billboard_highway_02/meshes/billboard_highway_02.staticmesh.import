@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cqjh1io0ekxld"
+path="res://.godot/imported/billboard_highway_02.staticmesh-9dba35c10c0d28623bebe82d763e2877.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/billboard_highway_02/meshes/billboard_highway_02.staticmesh"
+dest_files=["res://.godot/imported/billboard_highway_02.staticmesh-9dba35c10c0d28623bebe82d763e2877.scn"]
+
+[params]
+

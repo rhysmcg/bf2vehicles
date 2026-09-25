@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kbt670k08xwa"
+path="res://.godot/imported/p_link_smallarms.con-98708267a458b38ed2ba4993c30115ff.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_link_smallarms/p_link_smallarms.con"
+dest_files=["res://.godot/imported/p_link_smallarms.con-98708267a458b38ed2ba4993c30115ff.scn"]
+
+[params]
+

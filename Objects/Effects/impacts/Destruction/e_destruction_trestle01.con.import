@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://27glnq3li11g"
+path="res://.godot/imported/e_destruction_trestle01.con-eb38dd50770ae73e5b4528bb6e3ae3cd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_trestle01.con"
+dest_files=["res://.godot/imported/e_destruction_trestle01.con-eb38dd50770ae73e5b4528bb6e3ae3cd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://kdbpyprtfry7"
+path="res://.godot/imported/us_carrier_wasp_back.staticmesh-4ff5b6edb577fa3715cd4d61e163d1ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_back/meshes/us_carrier_wasp_back.staticmesh"
+dest_files=["res://.godot/imported/us_carrier_wasp_back.staticmesh-4ff5b6edb577fa3715cd4d61e163d1ae.scn"]
+
+[params]
+

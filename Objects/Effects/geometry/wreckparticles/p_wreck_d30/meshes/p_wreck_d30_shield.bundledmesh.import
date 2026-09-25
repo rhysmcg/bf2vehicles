@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bbc5tovb6e5sf"
+path="res://.godot/imported/p_wreck_d30_shield.bundledmesh-22366a219d2f737d04e74812cc5f2bf0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_d30/meshes/p_wreck_d30_shield.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_d30_shield.bundledmesh-22366a219d2f737d04e74812cc5f2bf0.scn"]
+
+[params]
+

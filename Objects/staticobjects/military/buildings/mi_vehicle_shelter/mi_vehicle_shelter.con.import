@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ctsgcnn3suymk"
+path="res://.godot/imported/mi_vehicle_shelter.con-e73891a1cf779cc56ad25d9e10c07357.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_vehicle_shelter/mi_vehicle_shelter.con"
+dest_files=["res://.godot/imported/mi_vehicle_shelter.con-e73891a1cf779cc56ad25d9e10c07357.scn"]
+
+[params]
+

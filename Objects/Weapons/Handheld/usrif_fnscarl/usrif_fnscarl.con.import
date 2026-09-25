@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cb4vvwfx848d8"
+path="res://.godot/imported/usrif_fnscarl.con-163f43cbb30b8ef7cc5d5fc1d7ca6859.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_fnscarl/usrif_fnscarl.con"
+dest_files=["res://.godot/imported/usrif_fnscarl.con-163f43cbb30b8ef7cc5d5fc1d7ca6859.scn"]
+
+[params]
+

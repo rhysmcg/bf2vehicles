@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://nj2u8u7wquwi"
+path="res://.godot/imported/e_marker_defend.con-4a3ceb38db7f25dcfe9ae1499a115f29.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/markers/e_marker_defend/e_marker_defend.con"
+dest_files=["res://.godot/imported/e_marker_defend.con-4a3ceb38db7f25dcfe9ae1499a115f29.scn"]
+
+[params]
+

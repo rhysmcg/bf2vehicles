@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://lwxr4xh4ve65"
+path="res://.godot/imported/e_destruction_chair01.con-4f24406a93e8ce1f76625e6073a847a6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_chair01.con"
+dest_files=["res://.godot/imported/e_destruction_chair01.con-4f24406a93e8ce1f76625e6073a847a6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bgkirgik7u415"
+path="res://.godot/imported/t_intersection.con-8b212b5e1720c244f456cb489a012410.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/t_intersection/t_intersection.con"
+dest_files=["res://.godot/imported/t_intersection.con-8b212b5e1720c244f456cb489a012410.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://yjwj5ig8y8ki"
+path="res://.godot/imported/lrgstrgbuilding_03.staticmesh-218543840cf157d19d83df93ea3152c0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/lrgstrgbuilding_03/meshes/lrgstrgbuilding_03.staticmesh"
+dest_files=["res://.godot/imported/lrgstrgbuilding_03.staticmesh-218543840cf157d19d83df93ea3152c0.scn"]
+
+[params]
+

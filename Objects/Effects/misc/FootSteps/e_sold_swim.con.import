@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kxw8gxhi7ov"
+path="res://.godot/imported/e_sold_swim.con-fa7a0ab5a31352fe842ab8603facd025.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/FootSteps/e_sold_swim.con"
+dest_files=["res://.godot/imported/e_sold_swim.con-fa7a0ab5a31352fe842ab8603facd025.scn"]
+
+[params]
+

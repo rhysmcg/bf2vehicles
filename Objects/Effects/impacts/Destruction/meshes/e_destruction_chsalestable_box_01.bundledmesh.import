@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsh8cyyyooxnr"
+path="res://.godot/imported/e_destruction_chsalestable_box_01.bundledmesh-43aa278935031b6262c6147e6a9bcae6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_chsalestable_box_01.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_chsalestable_box_01.bundledmesh-43aa278935031b6262c6147e6a9bcae6.scn"]
+
+[params]
+

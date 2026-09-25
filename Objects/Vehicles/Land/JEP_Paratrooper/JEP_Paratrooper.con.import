@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bbgigmni14wlt"
+path="res://.godot/imported/JEP_Paratrooper.con-60b51ccedeaa8ce33df506cbdf237d9c.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/JEP_Paratrooper/JEP_Paratrooper.con"
+dest_files=["res://.godot/imported/JEP_Paratrooper.con-60b51ccedeaa8ce33df506cbdf237d9c.scn"]
+
+[params]
+

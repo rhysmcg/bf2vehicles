@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5ft6iqlds8jv"
+path="res://.godot/imported/xp2_oaktree_02_lod.staticmesh-154c2b3ac5a541a4d8c6ea84dc80437b.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_oaktree_02/meshes/xp2_oaktree_02_lod.staticmesh"
+dest_files=["res://.godot/imported/xp2_oaktree_02_lod.staticmesh-154c2b3ac5a541a4d8c6ea84dc80437b.scn"]
+
+[params]
+

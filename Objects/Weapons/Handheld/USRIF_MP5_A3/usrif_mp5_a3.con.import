@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://mkeyvx0xmhfl"
+path="res://.godot/imported/usrif_mp5_a3.con-3eb2414603f68deb1815bd3240e6bac4.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRIF_MP5_A3/usrif_mp5_a3.con"
+dest_files=["res://.godot/imported/usrif_mp5_a3.con-3eb2414603f68deb1815bd3240e6bac4.scn"]
+
+[params]
+

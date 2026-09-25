@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3l8poid5xhlc"
+path="res://.godot/imported/e_destruction_sign_stop.con-1d6dacbf530c1029fe227664aa0afe5d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_sign_stop.con"
+dest_files=["res://.godot/imported/e_destruction_sign_stop.con-1d6dacbf530c1029fe227664aa0afe5d.scn"]
+
+[params]
+

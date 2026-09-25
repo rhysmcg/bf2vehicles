@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0eeon5xprnn"
+path="res://.godot/imported/Overpass_merge_XP2_compiled.con-084f88aa1e6e3193b431f2f8ed8a44f6.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Overpass_merge_XP2_compiled.con"
+dest_files=["res://.godot/imported/Overpass_merge_XP2_compiled.con-084f88aa1e6e3193b431f2f8ed8a44f6.scn"]
+
+[params]
+

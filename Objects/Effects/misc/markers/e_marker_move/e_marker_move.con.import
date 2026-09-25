@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6l0lpgj37m5u"
+path="res://.godot/imported/e_marker_move.con-4bd1480425c9dae6568f69665dcc99e7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/markers/e_marker_move/e_marker_move.con"
+dest_files=["res://.godot/imported/e_marker_move.con-4bd1480425c9dae6568f69665dcc99e7.scn"]
+
+[params]
+

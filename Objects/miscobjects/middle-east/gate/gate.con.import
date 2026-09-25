@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csxuyxmppauaq"
+path="res://.godot/imported/gate.con-474af9deb8c623465d09a0bdc22f6cbe.scn"
+
+[deps]
+
+source_file="res://Objects/miscobjects/middle-east/gate/gate.con"
+dest_files=["res://.godot/imported/gate.con-474af9deb8c623465d09a0bdc22f6cbe.scn"]
+
+[params]
+

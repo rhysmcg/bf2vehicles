@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://symdo0nlju2h"
+path="res://.godot/imported/nc_oak02_lod.con-c5e5e5276da710763932c7464010c0ed.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/oak/nc_oak02_lod.con"
+dest_files=["res://.godot/imported/nc_oak02_lod.con-c5e5e5276da710763932c7464010c0ed.scn"]
+
+[params]
+

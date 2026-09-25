@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bac51odfs6e68"
+path="res://.godot/imported/e_geb_tank_dirt.con-8513ae18d5a226167b07d6fc3327aa01.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/geb/e_geb_tank_dirt.con"
+dest_files=["res://.godot/imported/e_geb_tank_dirt.con-8513ae18d5a226167b07d6fc3327aa01.scn"]
+
+[params]
+

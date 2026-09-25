@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbrbd0r46mlpc"
+path="res://.godot/imported/p_wreck_lw155_podleg.con-e3766fdaf3ed3015a73e1dd95d189547.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lw155/p_wreck_lw155_podleg.con"
+dest_files=["res://.godot/imported/p_wreck_lw155_podleg.con-e3766fdaf3ed3015a73e1dd95d189547.scn"]
+
+[params]
+

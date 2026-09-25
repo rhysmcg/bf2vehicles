@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://vo3gtpveqe0u"
+path="res://.godot/imported/wirefence_end.staticmesh-1ea29c390695c3dd6075cc3bf4b8cda0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/wirefence_end/meshes/wirefence_end.staticmesh"
+dest_files=["res://.godot/imported/wirefence_end.staticmesh-1ea29c390695c3dd6075cc3bf4b8cda0.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dn8lfp182wuag"
+path="res://.godot/imported/temple_01.con-56058cc8c62cb0ccda22e097ee93a4fe.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/temple/temple_01.con"
+dest_files=["res://.godot/imported/temple_01.con-56058cc8c62cb0ccda22e097ee93a4fe.scn"]
+
+[params]
+

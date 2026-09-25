@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d2a5da5wvefdx"
+path="res://.godot/imported/cable100m_powerline_end.staticmesh-bd22e473473308262035e203a1d363c0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable100m_powerline_end/meshes/cable100m_powerline_end.staticmesh"
+dest_files=["res://.godot/imported/cable100m_powerline_end.staticmesh-bd22e473473308262035e203a1d363c0.scn"]
+
+[params]
+

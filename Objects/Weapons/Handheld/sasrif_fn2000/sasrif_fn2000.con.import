@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c73pkh3mumrvg"
+path="res://.godot/imported/sasrif_fn2000.con-dab5aa222790094818249cc5e2a52b09.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_fn2000/sasrif_fn2000.con"
+dest_files=["res://.godot/imported/sasrif_fn2000.con-dab5aa222790094818249cc5e2a52b09.scn"]
+
+[params]
+

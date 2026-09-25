@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://gb8q045u2yvf"
+path="res://.godot/imported/xp2_haybale_01.staticmesh-bb0a7374c6cbbd053042a044b9f1e907.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_haybale_01/meshes/xp2_haybale_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_haybale_01.staticmesh-bb0a7374c6cbbd053042a044b9f1e907.scn"]
+
+[params]
+

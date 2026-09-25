@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfq4rb3otrhyu"
+path="res://.godot/imported/ambstat_oiltower_fire.con-8cfb371c1029985c5e1a2ff37f27fd0b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_oiltower_fire.con"
+dest_files=["res://.godot/imported/ambstat_oiltower_fire.con-8cfb371c1029985c5e1a2ff37f27fd0b.scn"]
+
+[params]
+

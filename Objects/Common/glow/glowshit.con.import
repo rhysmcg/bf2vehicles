@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b2jng4k38rper"
+path="res://.godot/imported/glowshit.con-492cc1796725c2114cce52e01c920f86.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/glowshit.con"
+dest_files=["res://.godot/imported/glowshit.con-492cc1796725c2114cce52e01c920f86.scn"]
+
+[params]
+

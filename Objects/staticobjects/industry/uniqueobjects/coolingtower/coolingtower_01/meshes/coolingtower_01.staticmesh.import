@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ybvvwkaekd4e"
+path="res://.godot/imported/coolingtower_01.staticmesh-6cd6f4b4f4d2972753e79ff0c8d06d17.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/coolingtower/coolingtower_01/meshes/coolingtower_01.staticmesh"
+dest_files=["res://.godot/imported/coolingtower_01.staticmesh-6cd6f4b4f4d2972753e79ff0c8d06d17.scn"]
+
+[params]
+

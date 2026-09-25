@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8o3k21g1n8p8"
+path="res://.godot/imported/dock_ramp.con-bac68ef66a7f50c6d42c819f892c46ec.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_ramp/dock_ramp.con"
+dest_files=["res://.godot/imported/dock_ramp.con-bac68ef66a7f50c6d42c819f892c46ec.scn"]
+
+[params]
+

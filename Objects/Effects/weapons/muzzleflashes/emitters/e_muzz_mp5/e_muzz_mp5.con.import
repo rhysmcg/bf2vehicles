@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jdrxb7edoc20"
+path="res://.godot/imported/e_muzz_mp5.con-d6d029393a29cf346df2d7049bafcd65.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_mp5/e_muzz_mp5.con"
+dest_files=["res://.godot/imported/e_muzz_mp5.con-d6d029393a29cf346df2d7049bafcd65.scn"]
+
+[params]
+

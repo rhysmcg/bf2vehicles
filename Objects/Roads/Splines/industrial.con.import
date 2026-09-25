@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6ky51uc8bg0"
+path="res://.godot/imported/industrial.con-bb58d57ebc0e5969d246464fa180dce5.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/industrial.con"
+dest_files=["res://.godot/imported/industrial.con-bb58d57ebc0e5969d246464fa180dce5.scn"]
+
+[params]
+

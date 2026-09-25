@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cr63qisi7paau"
+path="res://.godot/imported/p_shell_9mm.bundledmesh-56412171bf2e3fc61be8fb2fc8ac48e5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_9mm/meshes/p_shell_9mm.bundledmesh"
+dest_files=["res://.godot/imported/p_shell_9mm.bundledmesh-56412171bf2e3fc61be8fb2fc8ac48e5.scn"]
+
+[params]
+

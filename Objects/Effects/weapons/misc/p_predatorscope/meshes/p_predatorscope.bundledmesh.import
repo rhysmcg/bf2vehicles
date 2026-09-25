@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://lol7ci6avgos"
+path="res://.godot/imported/p_predatorscope.bundledmesh-0391c864fc86596433f78220e48a42f7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_predatorscope/meshes/p_predatorscope.bundledmesh"
+dest_files=["res://.godot/imported/p_predatorscope.bundledmesh-0391c864fc86596433f78220e48a42f7.scn"]
+
+[params]
+

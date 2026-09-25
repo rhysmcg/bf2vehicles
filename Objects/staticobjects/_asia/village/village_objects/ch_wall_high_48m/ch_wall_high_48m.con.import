@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4r782d7hili1"
+path="res://.godot/imported/ch_wall_high_48m.con-7ce5fb12590c0ae337d0d4bf1ae1f8dc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_wall_high_48m/ch_wall_high_48m.con"
+dest_files=["res://.godot/imported/ch_wall_high_48m.con-7ce5fb12590c0ae337d0d4bf1ae1f8dc.scn"]
+
+[params]
+

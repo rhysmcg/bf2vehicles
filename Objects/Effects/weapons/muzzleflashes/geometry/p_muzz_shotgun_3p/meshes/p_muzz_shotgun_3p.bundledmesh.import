@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rdwat55agot8"
+path="res://.godot/imported/p_muzz_shotgun_3p.bundledmesh-9972c750860c16c9e222c15189494ec5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_shotgun_3p/meshes/p_muzz_shotgun_3p.bundledmesh"
+dest_files=["res://.godot/imported/p_muzz_shotgun_3p.bundledmesh-9972c750860c16c9e222c15189494ec5.scn"]
+
+[params]
+

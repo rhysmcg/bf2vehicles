@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c3jg54ic47t38"
+path="res://.godot/imported/pricklypearflowers_s_01.con-b6ab0ff26d84a487b6bd96aed7678a0e.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/PricklyPearFlowers_s_01/pricklypearflowers_s_01.con"
+dest_files=["res://.godot/imported/pricklypearflowers_s_01.con-b6ab0ff26d84a487b6bd96aed7678a0e.scn"]
+
+[params]
+

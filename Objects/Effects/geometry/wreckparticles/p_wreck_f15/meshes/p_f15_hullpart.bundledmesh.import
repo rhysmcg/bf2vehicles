@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ctwx5ahimmcph"
+path="res://.godot/imported/p_f15_hullpart.bundledmesh-d2c864943d41b68090565ea08f5e4a50.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f15/meshes/p_f15_hullpart.bundledmesh"
+dest_files=["res://.godot/imported/p_f15_hullpart.bundledmesh-d2c864943d41b68090565ea08f5e4a50.scn"]
+
+[params]
+

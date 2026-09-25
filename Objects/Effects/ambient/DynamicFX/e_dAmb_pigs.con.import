@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0p2ntwbo7svf"
+path="res://.godot/imported/e_dAmb_pigs.con-f8417d1a0e370a8a8987975c63c13373.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_pigs.con"
+dest_files=["res://.godot/imported/e_dAmb_pigs.con-f8417d1a0e370a8a8987975c63c13373.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfemibxicyqbt"
+path="res://.godot/imported/usrgl_m203.bundledMesh-5fe18ec62d39ed362d021bde138244d5.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USRGL_M203/Meshes/usrgl_m203.bundledMesh"
+dest_files=["res://.godot/imported/usrgl_m203.bundledMesh-5fe18ec62d39ed362d021bde138244d5.scn"]
+
+[params]
+

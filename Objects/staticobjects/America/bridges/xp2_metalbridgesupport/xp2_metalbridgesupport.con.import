@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://j66021h65v37"
+path="res://.godot/imported/xp2_metalbridgesupport.con-921f4f3c925da051c5e674ebccdc12b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_metalbridgesupport/xp2_metalbridgesupport.con"
+dest_files=["res://.godot/imported/xp2_metalbridgesupport.con-921f4f3c925da051c5e674ebccdc12b2.scn"]
+
+[params]
+

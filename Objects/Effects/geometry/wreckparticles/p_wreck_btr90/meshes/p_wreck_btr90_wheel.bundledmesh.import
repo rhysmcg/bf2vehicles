@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bgqjwit2mmq1"
+path="res://.godot/imported/p_wreck_btr90_wheel.bundledmesh-db95852c2e1da5389d4ea2f40e3c5f12.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_btr90/meshes/p_wreck_btr90_wheel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_btr90_wheel.bundledmesh-db95852c2e1da5389d4ea2f40e3c5f12.scn"]
+
+[params]
+

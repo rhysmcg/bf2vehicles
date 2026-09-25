@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cteiwsqe0tgdv"
+path="res://.godot/imported/oil_pump_anim.con-1826f445337e4f1a26e615c43ecd63d8.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Oil_Pump/oil_pump_anim.con"
+dest_files=["res://.godot/imported/oil_pump_anim.con-1826f445337e4f1a26e615c43ecd63d8.scn"]
+
+[params]
+

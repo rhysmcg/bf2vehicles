@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://btrild2et3jdk"
+path="res://.godot/imported/eurif_hk21.con-5a1ea92874dcf884f283df75ace4d734.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_hk21/eurif_hk21.con"
+dest_files=["res://.godot/imported/eurif_hk21.con-5a1ea92874dcf884f283df75ace4d734.scn"]
+
+[params]
+

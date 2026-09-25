@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccihgt1vh5pp"
+path="res://.godot/imported/sign_author_perso.con-1138e3ce631bae0f09a6e55d2ac90c0b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/sign_author_perso/sign_author_perso.con"
+dest_files=["res://.godot/imported/sign_author_perso.con-1138e3ce631bae0f09a6e55d2ac90c0b.scn"]
+
+[params]
+

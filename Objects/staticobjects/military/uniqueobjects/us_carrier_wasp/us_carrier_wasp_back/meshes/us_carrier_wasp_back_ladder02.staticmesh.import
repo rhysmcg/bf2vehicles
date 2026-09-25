@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cb53qc6r5rm0s"
+path="res://.godot/imported/us_carrier_wasp_back_ladder02.staticmesh-f8ffa4a27a07fd7e349ae02405cc5ebc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_back/meshes/us_carrier_wasp_back_ladder02.staticmesh"
+dest_files=["res://.godot/imported/us_carrier_wasp_back_ladder02.staticmesh-f8ffa4a27a07fd7e349ae02405cc5ebc.scn"]
+
+[params]
+

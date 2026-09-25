@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bus0xqn4ia78s"
+path="res://.godot/imported/p_wreck_wz551_door.bundledmesh-4b6cce6d043c2d7549945873904eaa37.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_wz551/meshes/p_wreck_wz551_door.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_wz551_door.bundledmesh-4b6cce6d043c2d7549945873904eaa37.scn"]
+
+[params]
+

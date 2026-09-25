@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://pmrluym2gkcf"
+path="res://.godot/imported/gasstation_cistern_ladder.staticmesh-19b229b71720ae6057834a43e9ac3089.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/gasstation_cistern/meshes/gasstation_cistern_ladder.staticmesh"
+dest_files=["res://.godot/imported/gasstation_cistern_ladder.staticmesh-19b229b71720ae6057834a43e9ac3089.scn"]
+
+[params]
+

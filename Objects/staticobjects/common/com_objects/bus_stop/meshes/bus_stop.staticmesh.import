@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://m5jasxm3tom1"
+path="res://.godot/imported/bus_stop.staticmesh-b2d15d4ce81f1c5806c137854d69ac1b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/bus_stop/meshes/bus_stop.staticmesh"
+dest_files=["res://.godot/imported/bus_stop.staticmesh-b2d15d4ce81f1c5806c137854d69ac1b.scn"]
+
+[params]
+

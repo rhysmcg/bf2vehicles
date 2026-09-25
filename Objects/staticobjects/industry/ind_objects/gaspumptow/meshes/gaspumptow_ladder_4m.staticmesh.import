@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ce130hv5eeq7c"
+path="res://.godot/imported/gaspumptow_ladder_4m.staticmesh-1acb7339ea21f6cab6cceba494abf474.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/gaspumptow/meshes/gaspumptow_ladder_4m.staticmesh"
+dest_files=["res://.godot/imported/gaspumptow_ladder_4m.staticmesh-1acb7339ea21f6cab6cceba494abf474.scn"]
+
+[params]
+

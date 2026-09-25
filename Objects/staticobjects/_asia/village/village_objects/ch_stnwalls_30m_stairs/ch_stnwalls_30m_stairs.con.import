@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drgqrh08smfow"
+path="res://.godot/imported/ch_stnwalls_30m_stairs.con-fe09c8d28738ddedb93f12fb7d7ce9fd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_30m_stairs/ch_stnwalls_30m_stairs.con"
+dest_files=["res://.godot/imported/ch_stnwalls_30m_stairs.con-fe09c8d28738ddedb93f12fb7d7ce9fd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bg01b8djxhhrf"
+path="res://.godot/imported/e_bhit_minigun_glass_vehicle.con-269071f3efd4bb4d63c3caff53084dd0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_glass_vehicle.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_glass_vehicle.con-269071f3efd4bb4d63c3caff53084dd0.scn"]
+
+[params]
+

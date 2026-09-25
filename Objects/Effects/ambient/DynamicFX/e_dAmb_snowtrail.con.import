@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csxbnac2ss5t1"
+path="res://.godot/imported/e_dAmb_snowtrail.con-78aa9b76d4047587565451c3b77c7a35.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_snowtrail.con"
+dest_files=["res://.godot/imported/e_dAmb_snowtrail.con-78aa9b76d4047587565451c3b77c7a35.scn"]
+
+[params]
+

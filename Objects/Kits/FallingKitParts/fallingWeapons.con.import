@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d14q7cao4ksm5"
+path="res://.godot/imported/fallingWeapons.con-95bcff8feb08003a230aabc474bb9aea.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/FallingKitParts/fallingWeapons.con"
+dest_files=["res://.godot/imported/fallingWeapons.con-95bcff8feb08003a230aabc474bb9aea.scn"]
+
+[params]
+

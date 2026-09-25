@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bkvmmwrv26fif"
+path="res://.godot/imported/the_mi17_mainrotor.bundledmesh-04087f677d3058447e4978c36346c2cb.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/the_mi17_mainrotor/meshes/the_mi17_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/the_mi17_mainrotor.bundledmesh-04087f677d3058447e4978c36346c2cb.scn"]
+
+[params]
+

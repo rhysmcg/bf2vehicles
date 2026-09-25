@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bxdujbajxp1ko"
+path="res://.godot/imported/e_bhit_s_wood_exit.con-f632d2e5b6f454d9329b4c527d6be322.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_wood_exit.con"
+dest_files=["res://.godot/imported/e_bhit_s_wood_exit.con-f632d2e5b6f454d9329b4c527d6be322.scn"]
+
+[params]
+

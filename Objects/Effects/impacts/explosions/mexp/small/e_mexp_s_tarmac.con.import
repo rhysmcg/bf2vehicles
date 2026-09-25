@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crnpikjb3n1ki"
+path="res://.godot/imported/e_mexp_s_tarmac.con-395d6302d62d6e45e036bc484a52598f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_tarmac.con"
+dest_files=["res://.godot/imported/e_mexp_s_tarmac.con-395d6302d62d6e45e036bc484a52598f.scn"]
+
+[params]
+

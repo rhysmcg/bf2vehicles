@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5i7xq3ggoox5"
+path="res://.godot/imported/e_bhit_s_bushesLeaves.con-bb7ae3d7b953391002a149db37ef98eb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_bushesLeaves.con"
+dest_files=["res://.godot/imported/e_bhit_s_bushesLeaves.con-bb7ae3d7b953391002a149db37ef98eb.scn"]
+
+[params]
+

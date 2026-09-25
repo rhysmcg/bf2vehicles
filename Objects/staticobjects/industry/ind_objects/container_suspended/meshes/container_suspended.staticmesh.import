@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://blyokpw6dvplo"
+path="res://.godot/imported/container_suspended.staticmesh-50d9e24e7410ff7e7b0e040b0475c5b7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/container_suspended/meshes/container_suspended.staticmesh"
+dest_files=["res://.godot/imported/container_suspended.staticmesh-50d9e24e7410ff7e7b0e040b0475c5b7.scn"]
+
+[params]
+

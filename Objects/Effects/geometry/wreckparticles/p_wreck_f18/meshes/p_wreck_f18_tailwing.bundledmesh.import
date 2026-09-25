@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ccp6fw7boxbfu"
+path="res://.godot/imported/p_wreck_f18_tailwing.bundledmesh-98c01ebb6528a2362e5203008b33fc75.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/meshes/p_wreck_f18_tailwing.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f18_tailwing.bundledmesh-98c01ebb6528a2362e5203008b33fc75.scn"]
+
+[params]
+

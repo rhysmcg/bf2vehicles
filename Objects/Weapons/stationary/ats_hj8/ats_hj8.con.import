@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bi2jq1v162v06"
+path="res://.godot/imported/ats_hj8.con-506523763a54c2bed7247227081ffc35.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ats_hj8/ats_hj8.con"
+dest_files=["res://.godot/imported/ats_hj8.con-506523763a54c2bed7247227081ffc35.scn"]
+
+[params]
+

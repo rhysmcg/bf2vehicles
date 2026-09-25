@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b3u8eevmbxw6u"
+path="res://.godot/imported/xp2_rr_ladder_40m.con-2ce7b35704ed4ac05a8ebba55d4e3af2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_ladder_40m/xp2_rr_ladder_40m.con"
+dest_files=["res://.godot/imported/xp2_rr_ladder_40m.con-2ce7b35704ed4ac05a8ebba55d4e3af2.scn"]
+
+[params]
+

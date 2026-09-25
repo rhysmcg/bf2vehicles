@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://domxqhukpp43b"
+path="res://.godot/imported/rurif_dragunov.bundledmesh-0fe6f4c14012a984539e3760ede0720b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rurif_dragunov/meshes/rurif_dragunov.bundledmesh"
+dest_files=["res://.godot/imported/rurif_dragunov.bundledmesh-0fe6f4c14012a984539e3760ede0720b.scn"]
+
+[params]
+

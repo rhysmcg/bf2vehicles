@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dr787dsanuomp"
+path="res://.godot/imported/e_vexp_fireball_generic.con-a39c8657d4a83676477e8101251ba9a6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_fireball_generic.con"
+dest_files=["res://.godot/imported/e_vexp_fireball_generic.con-a39c8657d4a83676477e8101251ba9a6.scn"]
+
+[params]
+

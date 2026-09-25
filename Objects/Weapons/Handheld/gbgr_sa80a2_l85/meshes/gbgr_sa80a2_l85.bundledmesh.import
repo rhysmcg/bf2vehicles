@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvpvkki1t5we2"
+path="res://.godot/imported/gbgr_sa80a2_l85.bundledmesh-396f0f0f4d6b145f2c27a932acf9ac7e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/gbgr_sa80a2_l85/meshes/gbgr_sa80a2_l85.bundledmesh"
+dest_files=["res://.godot/imported/gbgr_sa80a2_l85.bundledmesh-396f0f0f4d6b145f2c27a932acf9ac7e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://vrhooh3d6yr"
+path="res://.godot/imported/sign_yieldright_dest.bundledmesh-23b592e69a297bdca6fb3db8d6ed52f1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_yieldright_dest/meshes/sign_yieldright_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_yieldright_dest.bundledmesh-23b592e69a297bdca6fb3db8d6ed52f1.scn"]
+
+[params]
+

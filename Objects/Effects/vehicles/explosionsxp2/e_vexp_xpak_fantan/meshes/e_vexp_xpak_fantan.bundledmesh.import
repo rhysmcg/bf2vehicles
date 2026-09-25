@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cem4ly1tme502"
+path="res://.godot/imported/e_vexp_xpak_fantan.bundledmesh-baff96c342d0f72204c07211902a9d83.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/explosionsxp2/e_vexp_xpak_fantan/meshes/e_vexp_xpak_fantan.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_xpak_fantan.bundledmesh-baff96c342d0f72204c07211902a9d83.scn"]
+
+[params]
+

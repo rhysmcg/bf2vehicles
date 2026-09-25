@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtusslvhrxh7"
+path="res://.godot/imported/e_destruction_stonebridge.con-e1dcf49207f2aba1170dfca769def230.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/e_destruction_stonebridge.con"
+dest_files=["res://.godot/imported/e_destruction_stonebridge.con-e1dcf49207f2aba1170dfca769def230.scn"]
+
+[params]
+

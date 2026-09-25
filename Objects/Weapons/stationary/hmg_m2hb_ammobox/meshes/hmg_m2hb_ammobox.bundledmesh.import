@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://caac8gbapv54q"
+path="res://.godot/imported/hmg_m2hb_ammobox.bundledmesh-3efb1a99f8c1c9e8235daa83390b9b7f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/hmg_m2hb_ammobox/meshes/hmg_m2hb_ammobox.bundledmesh"
+dest_files=["res://.godot/imported/hmg_m2hb_ammobox.bundledmesh-3efb1a99f8c1c9e8235daa83390b9b7f.scn"]
+
+[params]
+

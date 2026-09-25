@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmtdwxbgro263"
+path="res://.godot/imported/mobileradar_ch_dest.con-c9e8f270aede96d2bd79bedab47708d7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mobileradar_ch_dest/mobileradar_ch_dest.con"
+dest_files=["res://.godot/imported/mobileradar_ch_dest.con-c9e8f270aede96d2bd79bedab47708d7.scn"]
+
+[params]
+

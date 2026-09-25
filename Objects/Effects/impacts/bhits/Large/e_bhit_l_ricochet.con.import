@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bm3so2fsid0ed"
+path="res://.godot/imported/e_bhit_l_ricochet.con-003ca5c51e6d20db81f4192e4656f341.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_ricochet.con"
+dest_files=["res://.godot/imported/e_bhit_l_ricochet.con-003ca5c51e6d20db81f4192e4656f341.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d252l05dhjg4h"
+path="res://.godot/imported/barrel_yellow.bundledmesh-f90e33718d08a35b7e578e65b65d0107.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/barrel/barrel_yellow/meshes/barrel_yellow.bundledmesh"
+dest_files=["res://.godot/imported/barrel_yellow.bundledmesh-f90e33718d08a35b7e578e65b65d0107.scn"]
+
+[params]
+

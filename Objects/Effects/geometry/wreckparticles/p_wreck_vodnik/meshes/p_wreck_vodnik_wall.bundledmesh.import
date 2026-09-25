@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d1y12g24e185p"
+path="res://.godot/imported/p_wreck_vodnik_wall.bundledmesh-72cd33bad8dd32fdf66df4e3446bde6e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_vodnik/meshes/p_wreck_vodnik_wall.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_vodnik_wall.bundledmesh-72cd33bad8dd32fdf66df4e3446bde6e.scn"]
+
+[params]
+

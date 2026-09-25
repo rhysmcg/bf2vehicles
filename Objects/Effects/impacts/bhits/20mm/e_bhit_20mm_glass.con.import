@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ycgpdf5ubsex"
+path="res://.godot/imported/e_bhit_20mm_glass.con-12d4d8761af412fe57e5d617e5a0ee6e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_glass.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_glass.con-12d4d8761af412fe57e5d617e5a0ee6e.scn"]
+
+[params]
+

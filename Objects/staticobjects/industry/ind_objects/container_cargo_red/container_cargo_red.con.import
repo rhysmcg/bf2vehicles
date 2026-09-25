@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8a1rkco44imi"
+path="res://.godot/imported/container_cargo_red.con-669c01c312ffdf75767cadf7ca75b1b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/container_cargo_red/container_cargo_red.con"
+dest_files=["res://.godot/imported/container_cargo_red.con-669c01c312ffdf75767cadf7ca75b1b2.scn"]
+
+[params]
+

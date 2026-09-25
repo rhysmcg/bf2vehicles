@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bn2b3ripww521"
+path="res://.godot/imported/e_bhit_s_rubber.con-36170cf4979da06cab6b9ab549cafb04.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/small/e_bhit_s_rubber.con"
+dest_files=["res://.godot/imported/e_bhit_s_rubber.con-36170cf4979da06cab6b9ab549cafb04.scn"]
+
+[params]
+

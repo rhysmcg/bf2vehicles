@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxcsasr22jt26"
+path="res://.godot/imported/SIMRAD.bundledMesh-2168ec70d6ff339244eec3e73d264893.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/SIMRAD/Meshes/SIMRAD.bundledMesh"
+dest_files=["res://.godot/imported/SIMRAD.bundledMesh-2168ec70d6ff339244eec3e73d264893.scn"]
+
+[params]
+

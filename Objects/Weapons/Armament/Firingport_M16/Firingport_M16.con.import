@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bi0dr5g0w5ttb"
+path="res://.godot/imported/Firingport_M16.con-5797bb83a67946b7daa8b14e6403b857.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/Firingport_M16/Firingport_M16.con"
+dest_files=["res://.godot/imported/Firingport_M16.con-5797bb83a67946b7daa8b14e6403b857.scn"]
+
+[params]
+

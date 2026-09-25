@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://f1wbhw42p4ar"
+path="res://.godot/imported/e_bhit_minigun_wood.con-58bba6ab72cd8abc6a7536c3cf4a15b6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_wood.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_wood.con-58bba6ab72cd8abc6a7536c3cf4a15b6.scn"]
+
+[params]
+

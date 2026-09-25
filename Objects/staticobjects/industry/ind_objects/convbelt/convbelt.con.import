@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c8t824obv6qc2"
+path="res://.godot/imported/convbelt.con-ce77bbc82a10749ce617172eb9dd66d6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/convbelt/convbelt.con"
+dest_files=["res://.godot/imported/convbelt.con-ce77bbc82a10749ce617172eb9dd66d6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://blejng4yw5nj6"
+path="res://.godot/imported/US_Assault.con-0cf9b976d9c929682fce1451c1f58a68.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/US/US_Assault.con"
+dest_files=["res://.godot/imported/US_Assault.con-0cf9b976d9c929682fce1451c1f58a68.scn"]
+
+[params]
+

@@ -1,14 +1,14 @@
 [remap]
 
-importer="bf2_staticmesh_importer"
+importer="bf2.mesh_importer"
 type="PackedScene"
 uid="uid://dgodpmks0qwm6"
-path="res://.godot/imported/evil_box.staticmesh-68e3a88b033ca99c41bfdf1e3b00c565.tscn"
+path="res://.godot/imported/evil_box.staticmesh-68e3a88b033ca99c41bfdf1e3b00c565.scn"
 
 [deps]
 
 source_file="res://meshes/evil_box/evil_box.staticmesh"
-dest_files=["res://.godot/imported/evil_box.staticmesh-68e3a88b033ca99c41bfdf1e3b00c565.tscn"]
+dest_files=["res://.godot/imported/evil_box.staticmesh-68e3a88b033ca99c41bfdf1e3b00c565.scn"]
 
 [params]
 

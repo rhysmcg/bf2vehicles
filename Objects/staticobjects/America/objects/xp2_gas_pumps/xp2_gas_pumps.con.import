@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bkhiw8kdjgmaa"
+path="res://.godot/imported/xp2_gas_pumps.con-3a52d987bf3f2ec95eebcb89135ddcae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gas_pumps/xp2_gas_pumps.con"
+dest_files=["res://.godot/imported/xp2_gas_pumps.con-3a52d987bf3f2ec95eebcb89135ddcae.scn"]
+
+[params]
+

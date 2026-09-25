@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b62l8klaegmvx"
+path="res://.godot/imported/lamp_post.con-a166e2278349df450715bbd40b2bc513.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lamp_post/lamp_post.con"
+dest_files=["res://.godot/imported/lamp_post.con-a166e2278349df450715bbd40b2bc513.scn"]
+
+[params]
+

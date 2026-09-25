@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bth3xbleexicj"
+path="res://.godot/imported/xp2_gardenshed_01.staticmesh-07f634a2d2a392118cc7edda302526d1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gardenshed_01/meshes/xp2_gardenshed_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_gardenshed_01.staticmesh-07f634a2d2a392118cc7edda302526d1.scn"]
+
+[params]
+

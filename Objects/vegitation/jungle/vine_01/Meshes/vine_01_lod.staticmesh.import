@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xnn2g1gkbx7a"
+path="res://.godot/imported/vine_01_lod.staticmesh-152654f0c340f4ca64341bfd267d1600.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/vine_01/Meshes/vine_01_lod.staticmesh"
+dest_files=["res://.godot/imported/vine_01_lod.staticmesh-152654f0c340f4ca64341bfd267d1600.scn"]
+
+[params]
+

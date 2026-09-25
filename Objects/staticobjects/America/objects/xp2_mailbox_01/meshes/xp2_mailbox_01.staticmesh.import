@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bwx2odyssuwi"
+path="res://.godot/imported/xp2_mailbox_01.staticmesh-95e82e2ebc31a0145a6ef17d29e06add.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_mailbox_01/meshes/xp2_mailbox_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_mailbox_01.staticmesh-95e82e2ebc31a0145a6ef17d29e06add.scn"]
+
+[params]
+

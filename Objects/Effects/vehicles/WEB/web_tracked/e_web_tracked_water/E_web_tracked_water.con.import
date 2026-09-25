@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7ooaogkgywrl"
+path="res://.godot/imported/E_web_tracked_water.con-1ddbd662147b897888c8f37abac383c5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_water/E_web_tracked_water.con"
+dest_files=["res://.godot/imported/E_web_tracked_water.con-1ddbd662147b897888c8f37abac383c5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjsxvqn3o123p"
+path="res://.godot/imported/pipeline_60m_combi.staticmesh-342f0968d8a52b7650a2b76fe6c98543.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_60m_combi/meshes/pipeline_60m_combi.staticmesh"
+dest_files=["res://.godot/imported/pipeline_60m_combi.staticmesh-342f0968d8a52b7650a2b76fe6c98543.scn"]
+
+[params]
+

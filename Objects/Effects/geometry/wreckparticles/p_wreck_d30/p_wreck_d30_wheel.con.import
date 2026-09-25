@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmv1ajndrx80g"
+path="res://.godot/imported/p_wreck_d30_wheel.con-38af44872b37bd78bdde2180db67a8a7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_d30/p_wreck_d30_wheel.con"
+dest_files=["res://.godot/imported/p_wreck_d30_wheel.con-38af44872b37bd78bdde2180db67a8a7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmtg4jgpv3l72"
+path="res://.godot/imported/p_xp2_alaskasign_01.con-803328c91a4ae16cb6118862e7aad5ca.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_xp2_alaskasign_01.con"
+dest_files=["res://.godot/imported/p_xp2_alaskasign_01.con-803328c91a4ae16cb6118862e7aad5ca.scn"]
+
+[params]
+

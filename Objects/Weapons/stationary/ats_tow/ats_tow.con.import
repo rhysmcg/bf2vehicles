@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drgdqyihbq4w0"
+path="res://.godot/imported/ats_tow.con-69c69da684f36f7a4e1f21805a7062a3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ats_tow/ats_tow.con"
+dest_files=["res://.godot/imported/ats_tow.con-69c69da684f36f7a4e1f21805a7062a3.scn"]
+
+[params]
+

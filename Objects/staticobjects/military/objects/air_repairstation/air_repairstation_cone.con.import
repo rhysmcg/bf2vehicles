@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bobvtrmvuiekw"
+path="res://.godot/imported/air_repairstation_cone.con-f363dcc3d7488bed19a19f92c631f2e5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/air_repairstation/air_repairstation_cone.con"
+dest_files=["res://.godot/imported/air_repairstation_cone.con-f363dcc3d7488bed19a19f92c631f2e5.scn"]
+
+[params]
+

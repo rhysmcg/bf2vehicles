@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3inpl2bt40gx"
+path="res://.godot/imported/SnowEffect.con-b5e61402857a6520b86e803bd5791859.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/SnowEffect/SnowEffect.con"
+dest_files=["res://.godot/imported/SnowEffect.con-b5e61402857a6520b86e803bd5791859.scn"]
+
+[params]
+

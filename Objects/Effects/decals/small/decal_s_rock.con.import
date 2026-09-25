@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1l6g5x0ry3bb"
+path="res://.godot/imported/decal_s_rock.con-f82ca911d121c2cc884c398df38bdf38.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_rock.con"
+dest_files=["res://.godot/imported/decal_s_rock.con-f82ca911d121c2cc884c398df38bdf38.scn"]
+
+[params]
+

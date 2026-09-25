@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br4wq8h0tevby"
+path="res://.godot/imported/mi_sandbags_circle_half.staticmesh-d1a65b723bb0d89f7476b315e00c9d56.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/mi_sandbags_circle_half/meshes/mi_sandbags_circle_half.staticmesh"
+dest_files=["res://.godot/imported/mi_sandbags_circle_half.staticmesh-d1a65b723bb0d89f7476b315e00c9d56.scn"]
+
+[params]
+

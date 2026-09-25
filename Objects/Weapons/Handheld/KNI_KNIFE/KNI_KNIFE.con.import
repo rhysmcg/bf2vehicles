@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8lfhiiw2w6qt"
+path="res://.godot/imported/KNI_KNIFE.con-62d9465cf6008dcc8ae6a64db64aa780.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/KNI_KNIFE/KNI_KNIFE.con"
+dest_files=["res://.godot/imported/KNI_KNIFE.con-62d9465cf6008dcc8ae6a64db64aa780.scn"]
+
+[params]
+

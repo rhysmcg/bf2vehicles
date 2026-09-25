@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bju0yji35451w"
+path="res://.godot/imported/ambstat_civwreck_burning.con-285ade4d39b61287ad0a584aa8c163ef.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_civwreck_burning.con"
+dest_files=["res://.godot/imported/ambstat_civwreck_burning.con-285ade4d39b61287ad0a584aa8c163ef.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crefw4dij7jjy"
+path="res://.godot/imported/antennaflag.skinnedmesh-576530945149e6702e8508b443fbeb38.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/AntennaFlag/meshes/antennaflag.skinnedmesh"
+dest_files=["res://.godot/imported/antennaflag.skinnedmesh-576530945149e6702e8508b443fbeb38.scn"]
+
+[params]
+

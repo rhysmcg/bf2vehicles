@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cg202ttlxj77y"
+path="res://.godot/imported/p_cafechair.con-1ace6a7cdac76a40ff361956ddce5092.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/Misc/p_cafechair.con"
+dest_files=["res://.godot/imported/p_cafechair.con-1ace6a7cdac76a40ff361956ddce5092.scn"]
+
+[params]
+

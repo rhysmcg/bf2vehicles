@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bd1viv6uo7ith"
+path="res://.godot/imported/USLMG_M249SAW.bundledMesh-36ed5a753beb36a315f4157954316839.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USLMG_M249SAW/Meshes/USLMG_M249SAW.bundledMesh"
+dest_files=["res://.godot/imported/USLMG_M249SAW.bundledMesh-36ed5a753beb36a315f4157954316839.scn"]
+
+[params]
+

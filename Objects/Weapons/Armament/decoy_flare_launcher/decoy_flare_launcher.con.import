@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bypdm4h0n1465"
+path="res://.godot/imported/decoy_flare_launcher.con-fede20c2df9364368f7ea38c7b6b61e9.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/decoy_flare_launcher/decoy_flare_launcher.con"
+dest_files=["res://.godot/imported/decoy_flare_launcher.con-fede20c2df9364368f7ea38c7b6b61e9.scn"]
+
+[params]
+

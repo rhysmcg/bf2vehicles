@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckgf6xaokwyh"
+path="res://.godot/imported/stnwalls_10m_stairs.con-f6589da2f556715ba3ee38c35c36ee04.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/stnwalls_10m_stairs/stnwalls_10m_stairs.con"
+dest_files=["res://.godot/imported/stnwalls_10m_stairs.con-f6589da2f556715ba3ee38c35c36ee04.scn"]
+
+[params]
+

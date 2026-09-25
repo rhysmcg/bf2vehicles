@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1ot68eyuap64"
+path="res://.godot/imported/school_house.con-6578bd66d5a771858f743fefa19ae42c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/school_house/school_house.con"
+dest_files=["res://.godot/imported/school_house.con-6578bd66d5a771858f743fefa19ae42c.scn"]
+
+[params]
+

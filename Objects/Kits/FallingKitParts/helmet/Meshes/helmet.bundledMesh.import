@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b18uf10xy057s"
+path="res://.godot/imported/helmet.bundledMesh-dc6cb2ff8cfd54a1cc53c0b5f806fe1d.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/FallingKitParts/helmet/Meshes/helmet.bundledMesh"
+dest_files=["res://.godot/imported/helmet.bundledMesh-dc6cb2ff8cfd54a1cc53c0b5f806fe1d.scn"]
+
+[params]
+

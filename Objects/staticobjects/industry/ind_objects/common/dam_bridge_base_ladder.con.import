@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dm03p3tyd6rgd"
+path="res://.godot/imported/dam_bridge_base_ladder.con-4bf5c030097c29683826f7eee613dd6a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/common/dam_bridge_base_ladder.con"
+dest_files=["res://.godot/imported/dam_bridge_base_ladder.con-4bf5c030097c29683826f7eee613dd6a.scn"]
+
+[params]
+

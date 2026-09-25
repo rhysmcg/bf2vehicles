@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdvkm7pxxjnui"
+path="res://.godot/imported/e_vexp_cobra.con-1b2f3dded8f140178910f94312adc64a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_cobra/e_vexp_cobra.con"
+dest_files=["res://.godot/imported/e_vexp_cobra.con-1b2f3dded8f140178910f94312adc64a.scn"]
+
+[params]
+

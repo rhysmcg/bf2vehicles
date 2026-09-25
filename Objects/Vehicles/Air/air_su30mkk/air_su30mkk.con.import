@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cv4epaakfccey"
+path="res://.godot/imported/air_su30mkk.con-3fb1100e4439ee4fe74a8bbd26f81739.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_su30mkk/air_su30mkk.con"
+dest_files=["res://.godot/imported/air_su30mkk.con-3fb1100e4439ee4fe74a8bbd26f81739.scn"]
+
+[params]
+

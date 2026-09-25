@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwm8ylq5o7544"
+path="res://.godot/imported/p_predatorscope.con-b96fa836e73048891608c155567d333c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_predatorscope/p_predatorscope.con"
+dest_files=["res://.godot/imported/p_predatorscope.con-b96fa836e73048891608c155567d333c.scn"]
+
+[params]
+

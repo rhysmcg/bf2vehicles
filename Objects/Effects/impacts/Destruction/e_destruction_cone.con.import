@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dulinj6rts7hw"
+path="res://.godot/imported/e_destruction_cone.con-d77828a73f4c9673e4e8dd9bb0eb679b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_cone.con"
+dest_files=["res://.godot/imported/e_destruction_cone.con-d77828a73f4c9673e4e8dd9bb0eb679b.scn"]
+
+[params]
+

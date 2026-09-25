@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0aksshjuiqin"
+path="res://.godot/imported/xp2_dairyfarm_01.con-fa54b1e5ee6e2208f977d902561297d6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_dairyfarm_01/xp2_dairyfarm_01.con"
+dest_files=["res://.godot/imported/xp2_dairyfarm_01.con-fa54b1e5ee6e2208f977d902561297d6.scn"]
+
+[params]
+

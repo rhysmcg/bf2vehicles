@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d15pm6r0nosgl"
+path="res://.godot/imported/m249saw_ammo.con-c5535c5dd37c3751defabc2d453e9cab.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/lmg_m249saw_ammo/m249saw_ammo.con"
+dest_files=["res://.godot/imported/m249saw_ammo.con-c5535c5dd37c3751defabc2d453e9cab.scn"]
+
+[params]
+

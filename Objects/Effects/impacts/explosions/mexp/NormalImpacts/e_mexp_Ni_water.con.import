@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://djbsp434jncvj"
+path="res://.godot/imported/e_mexp_Ni_water.con-85b0e37cf53e5560e26f707784e06b92.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/NormalImpacts/e_mexp_Ni_water.con"
+dest_files=["res://.godot/imported/e_mexp_Ni_water.con-85b0e37cf53e5560e26f707784e06b92.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://du58yxy6x5klx"
+path="res://.godot/imported/p_su39_tailfin.bundledmesh-bd98baac52b64cbc741e0da43af6e36e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su39/meshes/p_su39_tailfin.bundledmesh"
+dest_files=["res://.godot/imported/p_su39_tailfin.bundledmesh-bd98baac52b64cbc741e0da43af6e36e.scn"]
+
+[params]
+

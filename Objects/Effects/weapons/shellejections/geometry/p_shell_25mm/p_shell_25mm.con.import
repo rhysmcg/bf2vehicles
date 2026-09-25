@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b57ubcrtx76s5"
+path="res://.godot/imported/p_shell_25mm.con-fd657fad86f5c88fc145ec4d5bd93663.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_25mm/p_shell_25mm.con"
+dest_files=["res://.godot/imported/p_shell_25mm.con-fd657fad86f5c88fc145ec4d5bd93663.scn"]
+
+[params]
+

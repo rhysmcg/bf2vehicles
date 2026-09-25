@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddf5l15vqrlm1"
+path="res://.godot/imported/houselight_big.con-e751db24b4fa96e08d22f82de6138c43.scn"
+
+[deps]
+
+source_file="res://Objects/Common/lightsources/houselight_big/houselight_big.con"
+dest_files=["res://.godot/imported/houselight_big.con-e751db24b4fa96e08d22f82de6138c43.scn"]
+
+[params]
+

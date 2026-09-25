@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0akvont3vcrr"
+path="res://.godot/imported/supply_crate.con-5344a0a059b74dd1f360a38a955105c8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/supply_crate/supply_crate.con"
+dest_files=["res://.godot/imported/supply_crate.con-5344a0a059b74dd1f360a38a955105c8.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cbbcmr44uivpb"
+path="res://.godot/imported/ch_stnwalls_invert_corner_10m_none.staticmesh-aee04f719c2f3f16f4936484e1b96403.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_invert_corner_10m_none/meshes/ch_stnwalls_invert_corner_10m_none.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_invert_corner_10m_none.staticmesh-aee04f719c2f3f16f4936484e1b96403.scn"]
+
+[params]
+

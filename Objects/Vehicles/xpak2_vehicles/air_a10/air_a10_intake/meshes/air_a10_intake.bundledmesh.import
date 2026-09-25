@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b24vbyrgqn1ef"
+path="res://.godot/imported/air_a10_intake.bundledmesh-3c805fc1e3e18172c92047868413a44d.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_a10/air_a10_intake/meshes/air_a10_intake.bundledmesh"
+dest_files=["res://.godot/imported/air_a10_intake.bundledmesh-3c805fc1e3e18172c92047868413a44d.scn"]
+
+[params]
+

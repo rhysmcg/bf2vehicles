@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dsurjmblnjtu1"
+path="res://.godot/imported/roadmarker_dest.con-f08369341abd83fd03769be55a564499.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/roadmarker_dest/roadmarker_dest.con"
+dest_files=["res://.godot/imported/roadmarker_dest.con-f08369341abd83fd03769be55a564499.scn"]
+
+[params]
+

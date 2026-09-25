@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://df08f5uci4qo6"
+path="res://.godot/imported/e_bhit_20mm_cardboard.con-6e46bd3de2f13cfa076255537b3115d4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_cardboard.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_cardboard.con-6e46bd3de2f13cfa076255537b3115d4.scn"]
+
+[params]
+

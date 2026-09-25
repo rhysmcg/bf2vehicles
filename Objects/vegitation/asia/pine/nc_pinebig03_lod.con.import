@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dto50jxft26bn"
+path="res://.godot/imported/nc_pinebig03_lod.con-7e1197d19782d98d6015dd79095b6ff9.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/pine/nc_pinebig03_lod.con"
+dest_files=["res://.godot/imported/nc_pinebig03_lod.con-7e1197d19782d98d6015dd79095b6ff9.scn"]
+
+[params]
+

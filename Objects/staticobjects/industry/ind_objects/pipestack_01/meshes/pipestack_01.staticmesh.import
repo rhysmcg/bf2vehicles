@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bfe65sytyknk7"
+path="res://.godot/imported/pipestack_01.staticmesh-ee9eb6fdffd7ddbf425797320c95a1fa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipestack_01/meshes/pipestack_01.staticmesh"
+dest_files=["res://.godot/imported/pipestack_01.staticmesh-ee9eb6fdffd7ddbf425797320c95a1fa.scn"]
+
+[params]
+

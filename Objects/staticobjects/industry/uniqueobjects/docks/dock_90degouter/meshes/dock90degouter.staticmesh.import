@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://oxjamp1mfxji"
+path="res://.godot/imported/dock90degouter.staticmesh-c19ef63d30d551b25187e2e9308b4e61.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_90degouter/meshes/dock90degouter.staticmesh"
+dest_files=["res://.godot/imported/dock90degouter.staticmesh-c19ef63d30d551b25187e2e9308b4e61.scn"]
+
+[params]
+

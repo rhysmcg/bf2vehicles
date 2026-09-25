@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cyspidgol70xs"
+path="res://.godot/imported/sign_streetcrossing_dest.bundledmesh-09fabec1d9b6c4f42a99a5ff40a9c3bd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_streetcrossing_dest/meshes/sign_streetcrossing_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_streetcrossing_dest.bundledmesh-09fabec1d9b6c4f42a99a5ff40a9c3bd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crgxyymmq03ca"
+path="res://.godot/imported/xp2_highwaysign_02.staticmesh-8ae4a066edb13ec9657efcdcb348f432.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highwaysign_02/meshes/xp2_highwaysign_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_highwaysign_02.staticmesh-8ae4a066edb13ec9657efcdcb348f432.scn"]
+
+[params]
+

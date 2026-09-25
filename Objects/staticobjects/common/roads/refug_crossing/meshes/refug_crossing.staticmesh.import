@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://vaj8ewgsagb0"
+path="res://.godot/imported/refug_crossing.staticmesh-9e781232c8e19dfe823f21bf8384d54d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_crossing/meshes/refug_crossing.staticmesh"
+dest_files=["res://.godot/imported/refug_crossing.staticmesh-9e781232c8e19dfe823f21bf8384d54d.scn"]
+
+[params]
+

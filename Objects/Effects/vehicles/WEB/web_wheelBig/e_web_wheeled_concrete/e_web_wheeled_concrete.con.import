@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cegi83q2yt8ul"
+path="res://.godot/imported/e_web_wheeled_concrete.con-69bd1ef6a4abfe540f91208d36ae2e11.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_concrete/e_web_wheeled_concrete.con"
+dest_files=["res://.godot/imported/e_web_wheeled_concrete.con-69bd1ef6a4abfe540f91208d36ae2e11.scn"]
+
+[params]
+

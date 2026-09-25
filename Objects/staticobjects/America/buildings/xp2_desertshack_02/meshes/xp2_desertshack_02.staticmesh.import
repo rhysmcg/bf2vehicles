@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://db3ppb7mbjwqm"
+path="res://.godot/imported/xp2_desertshack_02.staticmesh-bdfa81097a9e7c397aaf24c17101f83c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_desertshack_02/meshes/xp2_desertshack_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_desertshack_02.staticmesh-bdfa81097a9e7c397aaf24c17101f83c.scn"]
+
+[params]
+

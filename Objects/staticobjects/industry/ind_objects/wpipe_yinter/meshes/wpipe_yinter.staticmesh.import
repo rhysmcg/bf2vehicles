@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://det2aydq3todv"
+path="res://.godot/imported/wpipe_yinter.staticmesh-14e7a07ab4ecaf2d7447b1f55447c1fd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_yinter/meshes/wpipe_yinter.staticmesh"
+dest_files=["res://.godot/imported/wpipe_yinter.staticmesh-14e7a07ab4ecaf2d7447b1f55447c1fd.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b1h1py38q6pem"
+path="res://.godot/imported/floodlight.staticmesh-bccbd54971939f6856ff98b097651f16.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/floodlight/meshes/floodlight.staticmesh"
+dest_files=["res://.godot/imported/floodlight.staticmesh-bccbd54971939f6856ff98b097651f16.scn"]
+
+[params]
+

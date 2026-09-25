@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c115qtn4p2gg0"
+path="res://.godot/imported/E_web_trackedSmoke_concrete.con-e7e563c764c112949ea8f120d333d314.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_concrete/E_web_trackedSmoke_concrete.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_concrete.con-e7e563c764c112949ea8f120d333d314.scn"]
+
+[params]
+

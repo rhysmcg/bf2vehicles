@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://0ciebfg4jdgh"
+path="res://.godot/imported/sign_powercompany_small.staticmesh-f939afce1650a03f1a19b720aa7a31fe.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/destroyableobjects/sign_powercompany_small/meshes/sign_powercompany_small.staticmesh"
+dest_files=["res://.godot/imported/sign_powercompany_small.staticmesh-f939afce1650a03f1a19b720aa7a31fe.scn"]
+
+[params]
+

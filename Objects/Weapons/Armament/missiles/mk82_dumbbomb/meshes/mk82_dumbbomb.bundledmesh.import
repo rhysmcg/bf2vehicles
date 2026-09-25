@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://s85isggxfvia"
+path="res://.godot/imported/mk82_dumbbomb.bundledmesh-d7eee04a23c5150c38ed4d3b455eb68a.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/mk82_dumbbomb/meshes/mk82_dumbbomb.bundledmesh"
+dest_files=["res://.godot/imported/mk82_dumbbomb.bundledmesh-d7eee04a23c5150c38ed4d3b455eb68a.scn"]
+
+[params]
+

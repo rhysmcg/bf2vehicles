@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cymgwfbpk3guu"
+path="res://.godot/imported/Sky.con-d548ae23d87e34d00f2dddb90d6108eb.scn"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/Sky.con"
+dest_files=["res://.godot/imported/Sky.con-d548ae23d87e34d00f2dddb90d6108eb.scn"]
+
+[params]
+

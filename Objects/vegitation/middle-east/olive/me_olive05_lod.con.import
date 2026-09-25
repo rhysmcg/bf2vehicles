@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ca6aoawsjm0sd"
+path="res://.godot/imported/me_olive05_lod.con-8aeb45811e392d5921562445161f5d12.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/olive/me_olive05_lod.con"
+dest_files=["res://.godot/imported/me_olive05_lod.con-8aeb45811e392d5921562445161f5d12.scn"]
+
+[params]
+

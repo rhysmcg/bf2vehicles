@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgb2y6bis6by"
+path="res://.godot/imported/e_bhit_minigun_tarmac.con-62cded817d3267d372c39c74476de63c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_tarmac.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_tarmac.con-62cded817d3267d372c39c74476de63c.scn"]
+
+[params]
+

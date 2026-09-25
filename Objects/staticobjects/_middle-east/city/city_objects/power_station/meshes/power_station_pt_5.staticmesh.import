@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://3r0ameot8bah"
+path="res://.godot/imported/power_station_pt_5.staticmesh-737baa17b67f26f4b3410845183ab648.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/power_station/meshes/power_station_pt_5.staticmesh"
+dest_files=["res://.godot/imported/power_station_pt_5.staticmesh-737baa17b67f26f4b3410845183ab648.scn"]
+
+[params]
+

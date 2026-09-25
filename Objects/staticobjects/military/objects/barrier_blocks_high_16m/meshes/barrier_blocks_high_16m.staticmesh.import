@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d0qv8qhppm8w3"
+path="res://.godot/imported/barrier_blocks_high_16m.staticmesh-ab474df60515c370928801c5b19dba14.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/barrier_blocks_high_16m/meshes/barrier_blocks_high_16m.staticmesh"
+dest_files=["res://.godot/imported/barrier_blocks_high_16m.staticmesh-ab474df60515c370928801c5b19dba14.scn"]
+
+[params]
+

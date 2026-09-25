@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cqq4oqtpiygrn"
+path="res://.godot/imported/CH_Assault.con-10d7f1b7f8c962ecffa9c4314fe2b4de.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/ch/CH_Assault.con"
+dest_files=["res://.godot/imported/CH_Assault.con-10d7f1b7f8c962ecffa9c4314fe2b4de.scn"]
+
+[params]
+

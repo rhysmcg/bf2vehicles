@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cg5ij7sebmbm4"
+path="res://.godot/imported/nc_pinebig01_dead_lod.con-e9cb3b22619b918bde7a63575f319d33.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/pine/nc_pinebig01_dead_lod.con"
+dest_files=["res://.godot/imported/nc_pinebig01_dead_lod.con-e9cb3b22619b918bde7a63575f319d33.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://caxssu4yh8mk6"
+path="res://.godot/imported/supply_crate.bundledmesh-9aa705ba0087cf6cf7d0f26432df0ec4.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/supply_crate/meshes/supply_crate.bundledmesh"
+dest_files=["res://.godot/imported/supply_crate.bundledmesh-9aa705ba0087cf6cf7d0f26432df0ec4.scn"]
+
+[params]
+

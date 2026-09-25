@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dd48xud0h5fo3"
+path="res://.godot/imported/jep_vodnik.bundledmesh-89798e7ee7a5e6192f366816637c7bbc.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_vodnik/meshes/jep_vodnik.bundledmesh"
+dest_files=["res://.godot/imported/jep_vodnik.bundledmesh-89798e7ee7a5e6192f366816637c7bbc.scn"]
+
+[params]
+

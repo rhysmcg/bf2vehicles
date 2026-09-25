@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cydad2bdvgrth"
+path="res://.godot/imported/e_web_wheeledsmoke_mud.con-188880023b76e31b6df3278082db1bce.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_mud/e_web_wheeledsmoke_mud.con"
+dest_files=["res://.godot/imported/e_web_wheeledsmoke_mud.con-188880023b76e31b6df3278082db1bce.scn"]
+
+[params]
+

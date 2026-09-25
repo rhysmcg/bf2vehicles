@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfwhhmns02vnc"
+path="res://.godot/imported/p_muzz_sniper_3p.con-362ec821e89c5f46b9a8672b1f0b322d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/geometry/p_muzz_sniper_3p/p_muzz_sniper_3p.con"
+dest_files=["res://.godot/imported/p_muzz_sniper_3p.con-362ec821e89c5f46b9a8672b1f0b322d.scn"]
+
+[params]
+

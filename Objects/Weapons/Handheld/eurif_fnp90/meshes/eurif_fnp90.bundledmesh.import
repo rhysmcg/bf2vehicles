@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c8hoa8x8hbjtt"
+path="res://.godot/imported/eurif_fnp90.bundledmesh-aa008c48b146df2dd533ef294bfb1704.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_fnp90/meshes/eurif_fnp90.bundledmesh"
+dest_files=["res://.godot/imported/eurif_fnp90.bundledmesh-aa008c48b146df2dd533ef294bfb1704.scn"]
+
+[params]
+

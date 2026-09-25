@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7mypray4wq20"
+path="res://.godot/imported/e_bhit_20mm_rock.con-35a31b915a083f274754f2d897772298.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_rock.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_rock.con-35a31b915a083f274754f2d897772298.scn"]
+
+[params]
+

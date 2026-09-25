@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6aavatfo3rrx"
+path="res://.godot/imported/p_wreck_m6_barrel.con-ad778d003dde2ae5e8fa5398b3939a2f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_m6/p_wreck_m6_barrel.con"
+dest_files=["res://.godot/imported/p_wreck_m6_barrel.con-ad778d003dde2ae5e8fa5398b3939a2f.scn"]
+
+[params]
+

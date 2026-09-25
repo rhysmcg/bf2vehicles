@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d1x2ew0umhnn4"
+path="res://.godot/imported/gasstation_sign.staticmesh-a9f3a1e03bc96040a61c805beffe5e51.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/gasstation_sign/meshes/gasstation_sign.staticmesh"
+dest_files=["res://.godot/imported/gasstation_sign.staticmesh-a9f3a1e03bc96040a61c805beffe5e51.scn"]
+
+[params]
+

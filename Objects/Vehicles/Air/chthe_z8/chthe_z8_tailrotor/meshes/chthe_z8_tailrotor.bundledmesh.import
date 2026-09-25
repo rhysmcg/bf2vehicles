@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://73pm8jvcprcs"
+path="res://.godot/imported/chthe_z8_tailrotor.bundledmesh-98b8a8d385eb78911df8576ec243b57a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/chthe_z8_tailrotor/meshes/chthe_z8_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/chthe_z8_tailrotor.bundledmesh-98b8a8d385eb78911df8576ec243b57a.scn"]
+
+[params]
+

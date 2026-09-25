@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bk6qg3crmfplb"
+path="res://.godot/imported/me_palmtree02_lod.staticmesh-2a2796b784b50ba687301c392b7701b2.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/palmtree/meshes/me_palmtree02_lod.staticmesh"
+dest_files=["res://.godot/imported/me_palmtree02_lod.staticmesh-2a2796b784b50ba687301c392b7701b2.scn"]
+
+[params]
+

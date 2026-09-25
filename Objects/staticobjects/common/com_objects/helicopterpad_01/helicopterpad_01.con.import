@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cirjefaw5yfit"
+path="res://.godot/imported/helicopterpad_01.con-c4e667cc58073228b86fa03a740be5b3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/helicopterpad_01/helicopterpad_01.con"
+dest_files=["res://.godot/imported/helicopterpad_01.con-c4e667cc58073228b86fa03a740be5b3.scn"]
+
+[params]
+

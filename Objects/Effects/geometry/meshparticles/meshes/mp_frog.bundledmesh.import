@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://5ugivqjorwq"
+path="res://.godot/imported/mp_frog.bundledmesh-beaa8c12941d3d6534162e79fb4d8324.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/meshes/mp_frog.bundledmesh"
+dest_files=["res://.godot/imported/mp_frog.bundledmesh-beaa8c12941d3d6534162e79fb4d8324.scn"]
+
+[params]
+

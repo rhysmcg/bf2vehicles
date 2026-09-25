@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5swpfwxafbfr"
+path="res://.godot/imported/xp2_truckstop_01.staticmesh-5c54a1298af36048685e38fabffe6f2c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_truckstop_01/meshes/xp2_truckstop_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_truckstop_01.staticmesh-5c54a1298af36048685e38fabffe6f2c.scn"]
+
+[params]
+

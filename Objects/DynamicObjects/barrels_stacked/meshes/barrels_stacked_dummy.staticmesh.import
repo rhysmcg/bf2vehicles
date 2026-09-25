@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dtd0chik074tm"
+path="res://.godot/imported/barrels_stacked_dummy.staticmesh-5ebd4455d38192a6056b3cca5b618c55.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/barrels_stacked/meshes/barrels_stacked_dummy.staticmesh"
+dest_files=["res://.godot/imported/barrels_stacked_dummy.staticmesh-5ebd4455d38192a6056b3cca5b618c55.scn"]
+
+[params]
+

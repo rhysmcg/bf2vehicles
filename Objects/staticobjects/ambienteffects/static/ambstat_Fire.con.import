@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0yjmnjy2yneh"
+path="res://.godot/imported/ambstat_Fire.con-13babee9a69dcf3182f84fd0864aa403.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_Fire.con"
+dest_files=["res://.godot/imported/ambstat_Fire.con-13babee9a69dcf3182f84fd0864aa403.scn"]
+
+[params]
+

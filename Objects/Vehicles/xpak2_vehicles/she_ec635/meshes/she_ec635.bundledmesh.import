@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cq260wqsnt6ls"
+path="res://.godot/imported/she_ec635.bundledmesh-839717b6c812a3a08b2651deb52f4002.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_ec635/meshes/she_ec635.bundledmesh"
+dest_files=["res://.godot/imported/she_ec635.bundledmesh-839717b6c812a3a08b2651deb52f4002.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b7bo8hltnbokp"
+path="res://.godot/imported/e_vexp_stinger.bundledmesh-02dbd6a1b8fa474bed0c006118d76d26.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_stinger.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_stinger.bundledmesh-02dbd6a1b8fa474bed0c006118d76d26.scn"]
+
+[params]
+

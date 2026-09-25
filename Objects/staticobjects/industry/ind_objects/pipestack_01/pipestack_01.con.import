@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7byknkotwtty"
+path="res://.godot/imported/pipestack_01.con-1fb55342c229776186e6d2e0487e7856.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipestack_01/pipestack_01.con"
+dest_files=["res://.godot/imported/pipestack_01.con-1fb55342c229776186e6d2e0487e7856.scn"]
+
+[params]
+

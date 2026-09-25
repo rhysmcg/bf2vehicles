@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crdlh8v6121qk"
+path="res://.godot/imported/rurif_dragunov.con-7b86269b231051b261477698e519e170.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rurif_dragunov/rurif_dragunov.con"
+dest_files=["res://.godot/imported/rurif_dragunov.con-7b86269b231051b261477698e519e170.scn"]
+
+[params]
+

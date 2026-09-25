@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dh6tkxou1hkgc"
+path="res://.godot/imported/RR_ParkingSpaces_Single_XP2.con-6543edea4b5ef32ac2a3df0b280d585a.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_ParkingSpaces_Single_XP2.con"
+dest_files=["res://.godot/imported/RR_ParkingSpaces_Single_XP2.con-6543edea4b5ef32ac2a3df0b280d585a.scn"]
+
+[params]
+

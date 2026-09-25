@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://di2je27k0ut3x"
+path="res://.godot/imported/RUAIR_SU34.bundledMesh-bf2a19526174ff06fc0fd5bad2305020.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/RUAIR_SU34/Meshes/RUAIR_SU34.bundledMesh"
+dest_files=["res://.godot/imported/RUAIR_SU34.bundledMesh-bf2a19526174ff06fc0fd5bad2305020.scn"]
+
+[params]
+

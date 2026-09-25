@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cbwecocr0sf6n"
+path="res://.godot/imported/barracksngl_02.staticmesh-a80f76472550e62d95419032fa128584.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/barracksngl_02/meshes/barracksngl_02.staticmesh"
+dest_files=["res://.godot/imported/barracksngl_02.staticmesh-a80f76472550e62d95419032fa128584.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bj7wdt7gfd4c6"
+path="res://.godot/imported/urm_dam_lower.staticmesh-4c0ce67def7c829f8de4251919f0c275.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/urm_dam_lower/meshes/urm_dam_lower.staticmesh"
+dest_files=["res://.godot/imported/urm_dam_lower.staticmesh-4c0ce67def7c829f8de4251919f0c275.scn"]
+
+[params]
+

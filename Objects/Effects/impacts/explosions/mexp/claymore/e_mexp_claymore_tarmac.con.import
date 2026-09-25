@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ttgpi3fv7iiw"
+path="res://.godot/imported/e_mexp_claymore_tarmac.con-c1b3992baf47f89e7dc0fab697424b04.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/claymore/e_mexp_claymore_tarmac.con"
+dest_files=["res://.godot/imported/e_mexp_claymore_tarmac.con-c1b3992baf47f89e7dc0fab697424b04.scn"]
+
+[params]
+

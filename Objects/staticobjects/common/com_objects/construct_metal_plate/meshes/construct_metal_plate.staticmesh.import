@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b2krod2tv0k4y"
+path="res://.godot/imported/construct_metal_plate.staticmesh-91889d766418c8404099ba0264bf4e93.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/construct_metal_plate/meshes/construct_metal_plate.staticmesh"
+dest_files=["res://.godot/imported/construct_metal_plate.staticmesh-91889d766418c8404099ba0264bf4e93.scn"]
+
+[params]
+

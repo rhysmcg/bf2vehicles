@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://diepeumay4ovc"
+path="res://.godot/imported/distancetoolprojectiles.staticmesh-c5a6dad9afb1fad176bdb314fcf13972.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/distancetoolprojectiles/meshes/distancetoolprojectiles.staticmesh"
+dest_files=["res://.godot/imported/distancetoolprojectiles.staticmesh-c5a6dad9afb1fad176bdb314fcf13972.scn"]
+
+[params]
+

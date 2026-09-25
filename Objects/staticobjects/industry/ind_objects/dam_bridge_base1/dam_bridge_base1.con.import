@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cbo1nctvciwwi"
+path="res://.godot/imported/dam_bridge_base1.con-6a81a43079a0f217e438e13591df1cc8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/dam_bridge_base1/dam_bridge_base1.con"
+dest_files=["res://.godot/imported/dam_bridge_base1.con-6a81a43079a0f217e438e13591df1cc8.scn"]
+
+[params]
+

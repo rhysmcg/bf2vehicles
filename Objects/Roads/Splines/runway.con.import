@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5iyhuaqylvd1"
+path="res://.godot/imported/runway.con-9487c6a989d21206ae9a7c29330b0f7b.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/runway.con"
+dest_files=["res://.godot/imported/runway.con-9487c6a989d21206ae9a7c29330b0f7b.scn"]
+
+[params]
+

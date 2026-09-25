@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ci47qx4ecasfc"
+path="res://.godot/imported/truck_horn.con-7ea9496c88f28cbf2cb2728a5227bf5e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/common/truck_horn/truck_horn.con"
+dest_files=["res://.godot/imported/truck_horn.con-7ea9496c88f28cbf2cb2728a5227bf5e.scn"]
+
+[params]
+

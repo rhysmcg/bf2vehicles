@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bl10lfo4kq6fi"
+path="res://.godot/imported/p_wreck_wz551_turret.con-0a7bfad4ed111adf612075efca9a6602.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_wz551/p_wreck_wz551_turret.con"
+dest_files=["res://.godot/imported/p_wreck_wz551_turret.con-0a7bfad4ed111adf612075efca9a6602.scn"]
+
+[params]
+

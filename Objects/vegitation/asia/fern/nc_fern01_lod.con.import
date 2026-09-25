@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbvr2rgwnltyc"
+path="res://.godot/imported/nc_fern01_lod.con-94f9205c1d3810f7fba28a573f36de8c.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/fern/nc_fern01_lod.con"
+dest_files=["res://.godot/imported/nc_fern01_lod.con-94f9205c1d3810f7fba28a573f36de8c.scn"]
+
+[params]
+

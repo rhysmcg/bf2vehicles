@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5p2myer2b8fx"
+path="res://.godot/imported/xp2_farmfence_post.con-d4efb2b3c5de45c869378f8855842dd9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_farmfence_post/xp2_farmfence_post.con"
+dest_files=["res://.godot/imported/xp2_farmfence_post.con-d4efb2b3c5de45c869378f8855842dd9.scn"]
+
+[params]
+

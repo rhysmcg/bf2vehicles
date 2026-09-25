@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://hjywau3j1h6e"
+path="res://.godot/imported/p_wreck_nanjing_wheel.bundledmesh-65e807fdfe2a2f2f20e1c9f51684e20f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_nanjing/meshes/p_wreck_nanjing_wheel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_nanjing_wheel.bundledmesh-65e807fdfe2a2f2f20e1c9f51684e20f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dqur3xjffsxho"
+path="res://.godot/imported/USATP_Predator.bundledMesh-16c62a247bbc8d3df7e5e6246b873030.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USATP_predator/Meshes/USATP_Predator.bundledMesh"
+dest_files=["res://.godot/imported/USATP_Predator.bundledMesh-16c62a247bbc8d3df7e5e6246b873030.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vfr170368ico"
+path="res://.godot/imported/e_muzz_tank.con-81a77e2809c21904e9b7b5ce14f0df91.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_tank/e_muzz_tank.con"
+dest_files=["res://.godot/imported/e_muzz_tank.con-81a77e2809c21904e9b7b5ce14f0df91.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://byucib2pvhmgj"
+path="res://.godot/imported/nc_leafybush01_col.con-f5b686e57aaf1f5fd5cc612a14315715.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/leafybush/nc_leafybush01_col.con"
+dest_files=["res://.godot/imported/nc_leafybush01_col.con-f5b686e57aaf1f5fd5cc612a14315715.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://y5ocabtl0nte"
+path="res://.godot/imported/sign_yieldright.staticmesh-1e1271de42f656164cf87853e58d1558.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_yieldright/meshes/sign_yieldright.staticmesh"
+dest_files=["res://.godot/imported/sign_yieldright.staticmesh-1e1271de42f656164cf87853e58d1558.scn"]
+
+[params]
+

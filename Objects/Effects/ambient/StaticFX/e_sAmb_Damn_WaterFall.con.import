@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://badv5876l7xce"
+path="res://.godot/imported/e_sAmb_Damn_WaterFall.con-569edb51c01e1c774a471583524f6e00.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_sAmb_Damn_WaterFall.con"
+dest_files=["res://.godot/imported/e_sAmb_Damn_WaterFall.con-569edb51c01e1c774a471583524f6e00.scn"]
+
+[params]
+

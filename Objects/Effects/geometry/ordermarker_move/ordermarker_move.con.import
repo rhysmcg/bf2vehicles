@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bhab0dc80oqj1"
+path="res://.godot/imported/ordermarker_move.con-d208687cf3e48936d7dd89206779da93.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/ordermarker_move/ordermarker_move.con"
+dest_files=["res://.godot/imported/ordermarker_move.con-d208687cf3e48936d7dd89206779da93.scn"]
+
+[params]
+

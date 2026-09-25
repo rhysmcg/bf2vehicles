@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dx6ws5sdlhsnx"
+path="res://.godot/imported/dam_left_ladder_8m.con-807dbe83a07f76dd68909bbc671f0e85.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/dam_left/dam_left_ladder_8m.con"
+dest_files=["res://.godot/imported/dam_left_ladder_8m.con-807dbe83a07f76dd68909bbc671f0e85.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d33c4xp8llbll"
+path="res://.godot/imported/xp2_cactus_02.con-5616fa049e429cffa3a666c149fb15e1.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_cactus_02/xp2_cactus_02.con"
+dest_files=["res://.godot/imported/xp2_cactus_02.con-5616fa049e429cffa3a666c149fb15e1.scn"]
+
+[params]
+

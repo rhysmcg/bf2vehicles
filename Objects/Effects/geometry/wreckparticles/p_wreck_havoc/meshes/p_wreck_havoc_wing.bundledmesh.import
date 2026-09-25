@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dm7jkvo245ye2"
+path="res://.godot/imported/p_wreck_havoc_wing.bundledmesh-01f9a549b6173fa2c0c832db54edfd32.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_havoc/meshes/p_wreck_havoc_wing.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_havoc_wing.bundledmesh-01f9a549b6173fa2c0c832db54edfd32.scn"]
+
+[params]
+

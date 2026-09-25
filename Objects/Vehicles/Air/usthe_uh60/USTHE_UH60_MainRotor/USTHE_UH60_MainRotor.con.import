@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dss4lj842558m"
+path="res://.godot/imported/USTHE_UH60_MainRotor.con-6ca4a2b275444ca4ca26b64731849a42.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/USTHE_UH60_MainRotor/USTHE_UH60_MainRotor.con"
+dest_files=["res://.godot/imported/USTHE_UH60_MainRotor.con-6ca4a2b275444ca4ca26b64731849a42.scn"]
+
+[params]
+

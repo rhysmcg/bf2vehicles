@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bw46h00gcchfn"
+path="res://.godot/imported/cube.con-f72ab16c5842776888485150c23cd579.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/Cube/cube.con"
+dest_files=["res://.godot/imported/cube.con-f72ab16c5842776888485150c23cd579.scn"]
+
+[params]
+

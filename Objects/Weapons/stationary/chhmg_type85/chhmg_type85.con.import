@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8np16iqwmbi2"
+path="res://.godot/imported/chhmg_type85.con-c858bfead4b7f5860630526311162789.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/chhmg_type85/chhmg_type85.con"
+dest_files=["res://.godot/imported/chhmg_type85.con-c858bfead4b7f5860630526311162789.scn"]
+
+[params]
+

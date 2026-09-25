@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d4fbde6e1650c"
+path="res://.godot/imported/train_rail_bend.con-d5be2469efc73ec2672a13083693aa40.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/train_rail_bend/train_rail_bend.con"
+dest_files=["res://.godot/imported/train_rail_bend.con-d5be2469efc73ec2672a13083693aa40.scn"]
+
+[params]
+

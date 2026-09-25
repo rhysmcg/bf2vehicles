@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ddfeu1cuuosur"
+path="res://.godot/imported/house_small3_v2.con-77a6cdbe2439fd3a247d79e560f7e8fa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/house_small3_v2/house_small3_v2.con"
+dest_files=["res://.godot/imported/house_small3_v2.con-77a6cdbe2439fd3a247d79e560f7e8fa.scn"]
+
+[params]
+

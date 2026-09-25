@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://egp6n3wkvlhd"
+path="res://.godot/imported/storage_shed.con-861710eb5883da652ad4709d2da99990.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/storage_shed/storage_shed.con"
+dest_files=["res://.godot/imported/storage_shed.con-861710eb5883da652ad4709d2da99990.scn"]
+
+[params]
+

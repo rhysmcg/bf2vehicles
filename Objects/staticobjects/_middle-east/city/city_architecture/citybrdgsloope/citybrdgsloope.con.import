@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bu3ijrtxen431"
+path="res://.godot/imported/citybrdgsloope.con-b0e146376e3371d20e709d94c4258dc5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/citybrdgsloope/citybrdgsloope.con"
+dest_files=["res://.godot/imported/citybrdgsloope.con-b0e146376e3371d20e709d94c4258dc5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4l5xmykmleul"
+path="res://.godot/imported/p_tracer_g.con-dd0bc791b1dc19cfbcc2d7095832796c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/tracers/geometry/p_tracer_g/p_tracer_g.con"
+dest_files=["res://.godot/imported/p_tracer_g.con-dd0bc791b1dc19cfbcc2d7095832796c.scn"]
+
+[params]
+

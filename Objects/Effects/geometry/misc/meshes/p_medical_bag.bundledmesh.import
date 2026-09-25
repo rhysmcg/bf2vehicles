@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cf33003c15vs1"
+path="res://.godot/imported/p_medical_bag.bundledmesh-0fd8ce8b8546e2f81153b56485b193c2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_medical_bag.bundledmesh"
+dest_files=["res://.godot/imported/p_medical_bag.bundledmesh-0fd8ce8b8546e2f81153b56485b193c2.scn"]
+
+[params]
+

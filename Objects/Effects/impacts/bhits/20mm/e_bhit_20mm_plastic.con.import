@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdysvyhpakwxm"
+path="res://.godot/imported/e_bhit_20mm_plastic.con-1a0ce07e14afecddab580b5e45bcf19e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_plastic.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_plastic.con-1a0ce07e14afecddab580b5e45bcf19e.scn"]
+
+[params]
+

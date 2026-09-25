@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bn5qljb6v0npl"
+path="res://.godot/imported/ahe_z10.bundledmesh-b20c8acdd7e9ea7ab9c4efb2d2951a62.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/meshes/ahe_z10.bundledmesh"
+dest_files=["res://.godot/imported/ahe_z10.bundledmesh-b20c8acdd7e9ea7ab9c4efb2d2951a62.scn"]
+
+[params]
+

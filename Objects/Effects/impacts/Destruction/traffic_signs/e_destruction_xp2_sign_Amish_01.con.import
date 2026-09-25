@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5e3fnvtuk5i"
+path="res://.godot/imported/e_destruction_xp2_sign_Amish_01.con-e1a837c171c00da510ed2f29bd225698.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_xp2_sign_Amish_01.con"
+dest_files=["res://.godot/imported/e_destruction_xp2_sign_Amish_01.con-e1a837c171c00da510ed2f29bd225698.scn"]
+
+[params]
+

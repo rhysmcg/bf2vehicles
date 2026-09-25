@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c70u2fudgyt4r"
+path="res://.godot/imported/nc_pinebig02_lod.staticmesh-0f05d673458cd35f207d55744a8f7db2.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/pine/meshes/nc_pinebig02_lod.staticmesh"
+dest_files=["res://.godot/imported/nc_pinebig02_lod.staticmesh-0f05d673458cd35f207d55744a8f7db2.scn"]
+
+[params]
+

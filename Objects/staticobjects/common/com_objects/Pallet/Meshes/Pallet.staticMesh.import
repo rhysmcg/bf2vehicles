@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://btbembe4jmdxn"
+path="res://.godot/imported/Pallet.staticMesh-9d976fc8b2e3f8659bfb9c2bdafb41b4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/Pallet/Meshes/Pallet.staticMesh"
+dest_files=["res://.godot/imported/Pallet.staticMesh-9d976fc8b2e3f8659bfb9c2bdafb41b4.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2q0ijjoogewc"
+path="res://.godot/imported/trash_dumpster.con-a08373668aacb5fa6f74fdb8b921d132.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/trash_dumdpster/trash_dumpster.con"
+dest_files=["res://.godot/imported/trash_dumpster.con-a08373668aacb5fa6f74fdb8b921d132.scn"]
+
+[params]
+

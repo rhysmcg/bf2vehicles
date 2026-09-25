@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3wdn757tehd3"
+path="res://.godot/imported/p_wreck_f35_engine.bundledmesh-de57995fb29552a44bf5397b0a38c44f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f35/meshes/p_wreck_f35_engine.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f35_engine.bundledmesh-de57995fb29552a44bf5397b0a38c44f.scn"]
+
+[params]
+

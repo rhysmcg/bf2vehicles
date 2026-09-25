@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqe03sqff55vj"
+path="res://.godot/imported/e_mexp_s_solidMetal.con-9fd2129b69ac53de5fa5dc1b2598d107.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_solidMetal.con"
+dest_files=["res://.godot/imported/e_mexp_s_solidMetal.con-9fd2129b69ac53de5fa5dc1b2598d107.scn"]
+
+[params]
+

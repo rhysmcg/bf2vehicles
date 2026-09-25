@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dto8yukwjsb2t"
+path="res://.godot/imported/stoneroad_light_xp2.con-c2d5c930c96acf46b72cda4892f6bffa.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/stoneroad_light_xp2.con"
+dest_files=["res://.godot/imported/stoneroad_light_xp2.con-c2d5c930c96acf46b72cda4892f6bffa.scn"]
+
+[params]
+

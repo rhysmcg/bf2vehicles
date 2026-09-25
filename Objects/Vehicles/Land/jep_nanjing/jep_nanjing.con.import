@@ -1,0 +1,11 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmtrob473522h"
+path="res://.godot/imported/jep_nanjing.con-d81919bf8fd44df0068e586fbb5b4bae.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_nanjing/jep_nanjing.con"
+dest_files=["res://.godot/imported/jep_nanjing.con-d81919bf8fd44df0068e586fbb5b4bae.scn"]

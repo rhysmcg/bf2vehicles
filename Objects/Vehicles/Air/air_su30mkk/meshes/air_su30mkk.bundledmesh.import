@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bunclhi6xp74k"
+path="res://.godot/imported/air_su30mkk.bundledmesh-a765f0cc0d553b9e66dd6ed9a1d65890.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_su30mkk/meshes/air_su30mkk.bundledmesh"
+dest_files=["res://.godot/imported/air_su30mkk.bundledmesh-a765f0cc0d553b9e66dd6ed9a1d65890.scn"]
+
+[params]
+

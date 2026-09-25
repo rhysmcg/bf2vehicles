@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d162xqacpaetg"
+path="res://.godot/imported/pool_ladder.staticmesh-0a463c8dabb14e200b1d67b90b179b95.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/pool_ladder/meshes/pool_ladder.staticmesh"
+dest_files=["res://.godot/imported/pool_ladder.staticmesh-0a463c8dabb14e200b1d67b90b179b95.scn"]
+
+[params]
+

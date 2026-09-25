@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dlokxcsdbrux8"
+path="res://.godot/imported/city_concretewall_mid_50m.con-ec1d12f302d74f0545d3ceaafe830e9e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/city_concretewall_mid_50m/city_concretewall_mid_50m.con"
+dest_files=["res://.godot/imported/city_concretewall_mid_50m.con-ec1d12f302d74f0545d3ceaafe830e9e.scn"]
+
+[params]
+

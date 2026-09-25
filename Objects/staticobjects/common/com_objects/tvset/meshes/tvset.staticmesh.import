@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://camgwt4wkay5y"
+path="res://.godot/imported/tvset.staticmesh-4f322abeb60841948dc0d1103e111258.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/tvset/meshes/tvset.staticmesh"
+dest_files=["res://.godot/imported/tvset.staticmesh-4f322abeb60841948dc0d1103e111258.scn"]
+
+[params]
+

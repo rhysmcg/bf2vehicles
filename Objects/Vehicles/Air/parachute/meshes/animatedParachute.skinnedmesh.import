@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bktwp41f4kgfy"
+path="res://.godot/imported/animatedParachute.skinnedmesh-cee65d31d57bd03307af81c7f4e0ccaf.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/parachute/meshes/animatedParachute.skinnedmesh"
+dest_files=["res://.godot/imported/animatedParachute.skinnedmesh-cee65d31d57bd03307af81c7f4e0ccaf.scn"]
+
+[params]
+

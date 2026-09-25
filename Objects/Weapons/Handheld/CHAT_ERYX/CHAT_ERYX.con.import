@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://caq27puk7du0e"
+path="res://.godot/imported/CHAT_ERYX.con-db2baa4fa0024ea3ffa516aa6894f631.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/CHAT_ERYX/CHAT_ERYX.con"
+dest_files=["res://.godot/imported/CHAT_ERYX.con-db2baa4fa0024ea3ffa516aa6894f631.scn"]
+
+[params]
+

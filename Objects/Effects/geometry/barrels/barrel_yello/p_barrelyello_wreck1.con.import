@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c6bflovratgdi"
+path="res://.godot/imported/p_barrelyello_wreck1.con-264e3c834b0c4045c1e950650adc455c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/barrels/barrel_yello/p_barrelyello_wreck1.con"
+dest_files=["res://.godot/imported/p_barrelyello_wreck1.con-264e3c834b0c4045c1e950650adc455c.scn"]
+
+[params]
+

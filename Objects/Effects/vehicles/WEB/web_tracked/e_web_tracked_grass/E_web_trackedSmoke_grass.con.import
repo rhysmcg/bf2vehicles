@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dabf4hk5dpf3v"
+path="res://.godot/imported/E_web_trackedSmoke_grass.con-182c467a05547d3de7ba4aafbf22ec4f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_grass/E_web_trackedSmoke_grass.con"
+dest_files=["res://.godot/imported/E_web_trackedSmoke_grass.con-182c467a05547d3de7ba4aafbf22ec4f.scn"]
+
+[params]
+

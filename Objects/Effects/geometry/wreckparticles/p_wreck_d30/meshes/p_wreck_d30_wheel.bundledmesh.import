@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br1lugx7yt4vx"
+path="res://.godot/imported/p_wreck_d30_wheel.bundledmesh-5e2923f79fb5571c5011280efb0e084b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_d30/meshes/p_wreck_d30_wheel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_d30_wheel.bundledmesh-5e2923f79fb5571c5011280efb0e084b.scn"]
+
+[params]
+

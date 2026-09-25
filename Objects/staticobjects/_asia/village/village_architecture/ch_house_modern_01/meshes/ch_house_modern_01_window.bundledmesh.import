@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://crat5jctpdix8"
+path="res://.godot/imported/ch_house_modern_01_window.bundledmesh-77804a807dbe8711d9c5b55428614ee5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_house_modern_01/meshes/ch_house_modern_01_window.bundledmesh"
+dest_files=["res://.godot/imported/ch_house_modern_01_window.bundledmesh-77804a807dbe8711d9c5b55428614ee5.scn"]
+
+[params]
+

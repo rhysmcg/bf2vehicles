@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bwdk4cm8eda7m"
+path="res://.godot/imported/xp2_overpass_fence_12m.staticmesh-44f389c182dd3a8f470d1b44a42c2416.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_overpass_fence_12m/meshes/xp2_overpass_fence_12m.staticmesh"
+dest_files=["res://.godot/imported/xp2_overpass_fence_12m.staticmesh-44f389c182dd3a8f470d1b44a42c2416.scn"]
+
+[params]
+

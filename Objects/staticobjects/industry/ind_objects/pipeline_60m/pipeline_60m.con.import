@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0mivkun8av4o"
+path="res://.godot/imported/pipeline_60m.con-cbd5caf7d15be5ceb45238e99127595c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_60m/pipeline_60m.con"
+dest_files=["res://.godot/imported/pipeline_60m.con-cbd5caf7d15be5ceb45238e99127595c.scn"]
+
+[params]
+

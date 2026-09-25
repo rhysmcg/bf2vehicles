@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://buxwjthugpabg"
+path="res://.godot/imported/roadmarker.staticmesh-ed49a078bd5fb689b2d18f919cb434e6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/roadmarker/meshes/roadmarker.staticmesh"
+dest_files=["res://.godot/imported/roadmarker.staticmesh-ed49a078bd5fb689b2d18f919cb434e6.scn"]
+
+[params]
+

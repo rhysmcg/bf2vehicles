@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2odx4go8fa25"
+path="res://.godot/imported/p_sign_noparking.con-964470a374889a1dc2dd15b2e1b6436c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_noparking.con"
+dest_files=["res://.godot/imported/p_sign_noparking.con-964470a374889a1dc2dd15b2e1b6436c.scn"]
+
+[params]
+

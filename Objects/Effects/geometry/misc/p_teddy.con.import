@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drgs8pxiltogf"
+path="res://.godot/imported/p_teddy.con-0fe7a1144c1685a4ade310c78f836921.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_teddy.con"
+dest_files=["res://.godot/imported/p_teddy.con-0fe7a1144c1685a4ade310c78f836921.scn"]
+
+[params]
+

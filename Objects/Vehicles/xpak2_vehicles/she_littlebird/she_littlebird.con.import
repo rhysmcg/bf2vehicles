@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://hj7pttsgq3mr"
+path="res://.godot/imported/she_littlebird.con-2e79f71368c5a44aec1c03c1f5413d36.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/she_littlebird.con"
+dest_files=["res://.godot/imported/she_littlebird.con-2e79f71368c5a44aec1c03c1f5413d36.scn"]
+
+[params]
+

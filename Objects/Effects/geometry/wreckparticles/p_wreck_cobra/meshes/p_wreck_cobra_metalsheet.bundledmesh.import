@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjxwp5ki0n5sg"
+path="res://.godot/imported/p_wreck_cobra_metalsheet.bundledmesh-03bc611ef8b7398f5f5f5c4ac320a51f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/meshes/p_wreck_cobra_metalsheet.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_cobra_metalsheet.bundledmesh-03bc611ef8b7398f5f5f5c4ac320a51f.scn"]
+
+[params]
+

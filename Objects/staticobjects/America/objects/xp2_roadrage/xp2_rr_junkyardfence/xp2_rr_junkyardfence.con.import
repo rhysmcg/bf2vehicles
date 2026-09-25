@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cytq41hl2ck88"
+path="res://.godot/imported/xp2_rr_junkyardfence.con-6531510cfc35c31a886432d793d272a8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_junkyardfence/xp2_rr_junkyardfence.con"
+dest_files=["res://.godot/imported/xp2_rr_junkyardfence.con-6531510cfc35c31a886432d793d272a8.scn"]
+
+[params]
+

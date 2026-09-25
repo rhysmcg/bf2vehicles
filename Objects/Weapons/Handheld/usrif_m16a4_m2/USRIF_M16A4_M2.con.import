@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://blpydb0uflj3b"
+path="res://.godot/imported/USRIF_M16A4_M2.con-12209e903696de128b419917aa8223ca.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_m16a4_m2/USRIF_M16A4_M2.con"
+dest_files=["res://.godot/imported/USRIF_M16A4_M2.con-12209e903696de128b419917aa8223ca.scn"]
+
+[params]
+

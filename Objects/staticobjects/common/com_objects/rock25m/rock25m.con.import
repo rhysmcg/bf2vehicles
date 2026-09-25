@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cckpsgtq66n67"
+path="res://.godot/imported/rock25m.con-0ee366a5541300f39919069efd4d9ef5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/rock25m/rock25m.con"
+dest_files=["res://.godot/imported/rock25m.con-0ee366a5541300f39919069efd4d9ef5.scn"]
+
+[params]
+

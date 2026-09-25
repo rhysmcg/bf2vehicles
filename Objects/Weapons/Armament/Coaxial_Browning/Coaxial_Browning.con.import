@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvfpvu0yugmd4"
+path="res://.godot/imported/Coaxial_Browning.con-402a33a6370d03699c6e7ed5a284a6e7.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/Coaxial_Browning/Coaxial_Browning.con"
+dest_files=["res://.godot/imported/Coaxial_Browning.con-402a33a6370d03699c6e7ed5a284a6e7.scn"]
+
+[params]
+

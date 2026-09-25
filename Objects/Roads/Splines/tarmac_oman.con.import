@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bgsaqmctok0h3"
+path="res://.godot/imported/tarmac_oman.con-232c4f09913a77e9192c4d8fc7e7206c.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/tarmac_oman.con"
+dest_files=["res://.godot/imported/tarmac_oman.con-232c4f09913a77e9192c4d8fc7e7206c.scn"]
+
+[params]
+

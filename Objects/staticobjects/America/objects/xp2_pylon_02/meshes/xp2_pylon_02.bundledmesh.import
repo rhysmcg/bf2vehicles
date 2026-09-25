@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d0tb074qqv33n"
+path="res://.godot/imported/xp2_pylon_02.bundledmesh-f62edf8e3cac49a28c39d09d81632f75.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pylon_02/meshes/xp2_pylon_02.bundledmesh"
+dest_files=["res://.godot/imported/xp2_pylon_02.bundledmesh-f62edf8e3cac49a28c39d09d81632f75.scn"]
+
+[params]
+

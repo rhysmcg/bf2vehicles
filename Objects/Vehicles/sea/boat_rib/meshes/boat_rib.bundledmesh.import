@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cb6vgwrena5hs"
+path="res://.godot/imported/boat_rib.bundledmesh-3d42c29550edac0ea1bcf3def65cd174.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/sea/boat_rib/meshes/boat_rib.bundledmesh"
+dest_files=["res://.godot/imported/boat_rib.bundledmesh-3d42c29550edac0ea1bcf3def65cd174.scn"]
+
+[params]
+

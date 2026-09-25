@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dlne7n1pvj28h"
+path="res://.godot/imported/xp2_highwaysign_bracket.con-fdf6d92cc56c695c3e2c0a6ddfc87b81.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highwaysign_bracket/xp2_highwaysign_bracket.con"
+dest_files=["res://.godot/imported/xp2_highwaysign_bracket.con-fdf6d92cc56c695c3e2c0a6ddfc87b81.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dx8epdgnk4nop"
+path="res://.godot/imported/xp2_lrgstrgopen02.staticmesh-0cf7a3e43dede1991d521123f1a4a8a7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_lrgstrgopen02/meshes/xp2_lrgstrgopen02.staticmesh"
+dest_files=["res://.godot/imported/xp2_lrgstrgopen02.staticmesh-0cf7a3e43dede1991d521123f1a4a8a7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pn23sfwahavw"
+path="res://.godot/imported/WoodBoard2m.con-d647711167969efd062460b8a231d6a1.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/WoodBoard2m/WoodBoard2m.con"
+dest_files=["res://.godot/imported/WoodBoard2m.con-d647711167969efd062460b8a231d6a1.scn"]
+
+[params]
+

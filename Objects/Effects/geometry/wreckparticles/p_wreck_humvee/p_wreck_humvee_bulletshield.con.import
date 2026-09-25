@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://jfm1c4xauva"
+path="res://.godot/imported/p_wreck_humvee_bulletshield.con-454afb205e62e8911a295680386599dd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_humvee/p_wreck_humvee_bulletshield.con"
+dest_files=["res://.godot/imported/p_wreck_humvee_bulletshield.con-454afb205e62e8911a295680386599dd.scn"]
+
+[params]
+

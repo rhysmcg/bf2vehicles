@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pystqmxf7pke"
+path="res://.godot/imported/mangrove_med1_leafless.con-97e05ce5942242a801b3e92ef147b916.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/mangrove/mangrove_med1_leafless.con"
+dest_files=["res://.godot/imported/mangrove_med1_leafless.con-97e05ce5942242a801b3e92ef147b916.scn"]
+
+[params]
+

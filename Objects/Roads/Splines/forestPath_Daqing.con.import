@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b00um7meee4tn"
+path="res://.godot/imported/forestPath_Daqing.con-3eae11fdaa9b0a7e33267b5bd739bb2b.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/forestPath_Daqing.con"
+dest_files=["res://.godot/imported/forestPath_Daqing.con-3eae11fdaa9b0a7e33267b5bd739bb2b.scn"]
+
+[params]
+

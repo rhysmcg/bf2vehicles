@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bm3itv37r2snf"
+path="res://.godot/imported/chlmg_type95.bundledmesh-1897ddfaa83af9ae596f353f2612479f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chlmg_type95/meshes/chlmg_type95.bundledmesh"
+dest_files=["res://.godot/imported/chlmg_type95.bundledmesh-1897ddfaa83af9ae596f353f2612479f.scn"]
+
+[params]
+

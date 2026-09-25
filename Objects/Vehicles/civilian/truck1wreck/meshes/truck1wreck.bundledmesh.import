@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://gjskmfy42iof"
+path="res://.godot/imported/truck1wreck.bundledmesh-80ae5f041156f155d4b453068b520302.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/truck1wreck/meshes/truck1wreck.bundledmesh"
+dest_files=["res://.godot/imported/truck1wreck.bundledmesh-80ae5f041156f155d4b453068b520302.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dyulaa87hvcrl"
+path="res://.godot/imported/p_wreck_havoc_wing.con-4e6ae901b0cd35746a9b83b43a042126.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_havoc/p_wreck_havoc_wing.con"
+dest_files=["res://.godot/imported/p_wreck_havoc_wing.con-4e6ae901b0cd35746a9b83b43a042126.scn"]
+
+[params]
+

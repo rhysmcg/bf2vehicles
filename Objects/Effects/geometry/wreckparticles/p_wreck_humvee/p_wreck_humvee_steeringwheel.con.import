@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://da78jq4cathbd"
+path="res://.godot/imported/p_wreck_humvee_steeringwheel.con-c3a331e3a26c51c1d15eeb93976c4c5f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_humvee/p_wreck_humvee_steeringwheel.con"
+dest_files=["res://.godot/imported/p_wreck_humvee_steeringwheel.con-c3a331e3a26c51c1d15eeb93976c4c5f.scn"]
+
+[params]
+

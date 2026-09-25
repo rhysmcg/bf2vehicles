@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckplqdp0lalsc"
+path="res://.godot/imported/billboard_dicecream.con-4fd7a223251fe797dcb258492716ac74.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/billboard_dicecream/billboard_dicecream.con"
+dest_files=["res://.godot/imported/billboard_dicecream.con-4fd7a223251fe797dcb258492716ac74.scn"]
+
+[params]
+

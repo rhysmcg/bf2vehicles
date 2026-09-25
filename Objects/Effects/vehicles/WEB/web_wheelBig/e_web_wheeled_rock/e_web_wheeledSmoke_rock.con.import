@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://m5rrxjngobtm"
+path="res://.godot/imported/e_web_wheeledSmoke_rock.con-5e0602ed56d42cc248ab1193f8a142ae.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_rock/e_web_wheeledSmoke_rock.con"
+dest_files=["res://.godot/imported/e_web_wheeledSmoke_rock.con-5e0602ed56d42cc248ab1193f8a142ae.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dj1ykel3b5jm0"
+path="res://.godot/imported/me_deadtree02_lod.staticmesh-f15ffa466777ef989fd014ab08121114.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/deadtree/meshes/me_deadtree02_lod.staticmesh"
+dest_files=["res://.godot/imported/me_deadtree02_lod.staticmesh-f15ffa466777ef989fd014ab08121114.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dphqece58og3r"
+path="res://.godot/imported/midfactorybuilding_fence.staticmesh-d9f3b560f7fb202c776617cb31aba3f1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/midfactorybuilding/meshes/midfactorybuilding_fence.staticmesh"
+dest_files=["res://.godot/imported/midfactorybuilding_fence.staticmesh-d9f3b560f7fb202c776617cb31aba3f1.scn"]
+
+[params]
+

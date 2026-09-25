@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cg44wuknorv4i"
+path="res://.godot/imported/glowshit.bundledmesh-7b835ff6b4443860dc03a7cf622ad024.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/meshes/glowshit.bundledmesh"
+dest_files=["res://.godot/imported/glowshit.bundledmesh-7b835ff6b4443860dc03a7cf622ad024.scn"]
+
+[params]
+

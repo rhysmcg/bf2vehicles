@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c63xq0yic0nvw"
+path="res://.godot/imported/ustnk_m1a2.bundledMesh-94c5ca667a493a97b69e5a9826df242d.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/USTNK_M1A2/Meshes/ustnk_m1a2.bundledMesh"
+dest_files=["res://.godot/imported/ustnk_m1a2.bundledMesh-94c5ca667a493a97b69e5a9826df242d.scn"]
+
+[params]
+

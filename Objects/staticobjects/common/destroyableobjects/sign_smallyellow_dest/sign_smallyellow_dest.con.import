@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3wtphjxqrhh2"
+path="res://.godot/imported/sign_smallyellow_dest.con-d1f66592212cc72bf75d4c7e446c4a63.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_smallyellow_dest/sign_smallyellow_dest.con"
+dest_files=["res://.godot/imported/sign_smallyellow_dest.con-d1f66592212cc72bf75d4c7e446c4a63.scn"]
+
+[params]
+

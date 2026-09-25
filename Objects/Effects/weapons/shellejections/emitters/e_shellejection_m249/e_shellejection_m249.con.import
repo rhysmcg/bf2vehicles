@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6b6hf222flt1"
+path="res://.godot/imported/e_shellejection_m249.con-267faad1b24a6cccc47642c64f33debb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_m249/e_shellejection_m249.con"
+dest_files=["res://.godot/imported/e_shellejection_m249.con-267faad1b24a6cccc47642c64f33debb.scn"]
+
+[params]
+

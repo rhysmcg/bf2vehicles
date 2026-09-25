@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ddqmktuqc4kxb"
+path="res://.godot/imported/xp2_bungalow_01.staticmesh-8354f3501edd1cf08c9aaab5438b06c7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_bungalow_01/meshes/xp2_bungalow_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_bungalow_01.staticmesh-8354f3501edd1cf08c9aaab5438b06c7.scn"]
+
+[params]
+

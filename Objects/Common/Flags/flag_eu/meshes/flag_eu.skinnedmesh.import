@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c2nvxw244dsc7"
+path="res://.godot/imported/flag_eu.skinnedmesh-145ba567cab8dacff104d87c0c5e15f0.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_eu/meshes/flag_eu.skinnedmesh"
+dest_files=["res://.godot/imported/flag_eu.skinnedmesh-145ba567cab8dacff104d87c0c5e15f0.scn"]
+
+[params]
+

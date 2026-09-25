@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c124i18gb44pn"
+path="res://.godot/imported/p_wreck_nanjing_turret.bundledmesh-13cdea9199b3dbc81c54c8da9e7c982f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_nanjing/meshes/p_wreck_nanjing_turret.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_nanjing_turret.bundledmesh-13cdea9199b3dbc81c54c8da9e7c982f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cowd8n5a4lhj4"
+path="res://.godot/imported/p_wreck_wz551_door.con-86d26e9c756491ff10423c5fb404170f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_wz551/p_wreck_wz551_door.con"
+dest_files=["res://.godot/imported/p_wreck_wz551_door.con-86d26e9c756491ff10423c5fb404170f.scn"]
+
+[params]
+

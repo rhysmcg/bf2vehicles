@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://frmsm38i4hac"
+path="res://.godot/imported/container_op_blue_cluster.con-2909c17b926bf6d143fac4102d585723.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/container_open/container_op_blue_cluster/container_op_blue_cluster.con"
+dest_files=["res://.godot/imported/container_op_blue_cluster.con-2909c17b926bf6d143fac4102d585723.scn"]
+
+[params]
+

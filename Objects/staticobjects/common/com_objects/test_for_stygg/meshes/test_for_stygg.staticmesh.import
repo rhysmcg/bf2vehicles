@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfbht4g0oel17"
+path="res://.godot/imported/test_for_stygg.staticmesh-07e4b9fc9bd0dd61db93989971e1dff2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/test_for_stygg/meshes/test_for_stygg.staticmesh"
+dest_files=["res://.godot/imported/test_for_stygg.staticmesh-07e4b9fc9bd0dd61db93989971e1dff2.scn"]
+
+[params]
+

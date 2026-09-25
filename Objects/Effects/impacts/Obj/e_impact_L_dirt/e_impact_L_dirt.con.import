@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgndhp13vevks"
+path="res://.godot/imported/e_impact_L_dirt.con-e20dbfa987fff5ed171e9e244980694c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Obj/e_impact_L_dirt/e_impact_L_dirt.con"
+dest_files=["res://.godot/imported/e_impact_L_dirt.con-e20dbfa987fff5ed171e9e244980694c.scn"]
+
+[params]
+

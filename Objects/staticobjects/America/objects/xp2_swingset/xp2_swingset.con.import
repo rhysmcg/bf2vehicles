@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bgipnjr7pv4t5"
+path="res://.godot/imported/xp2_swingset.con-c03ae24799458726287e47748fdf4344.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_swingset/xp2_swingset.con"
+dest_files=["res://.godot/imported/xp2_swingset.con-c03ae24799458726287e47748fdf4344.scn"]
+
+[params]
+

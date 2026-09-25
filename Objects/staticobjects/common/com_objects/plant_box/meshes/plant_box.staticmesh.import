@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://btytqf26p8e4v"
+path="res://.godot/imported/plant_box.staticmesh-33d0627b6210fde06aaca56d2961906a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/plant_box/meshes/plant_box.staticmesh"
+dest_files=["res://.godot/imported/plant_box.staticmesh-33d0627b6210fde06aaca56d2961906a.scn"]
+
+[params]
+

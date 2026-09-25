@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://yvmdxuomtlee"
+path="res://.godot/imported/usrif_remington11-87.con-b219e2af87f7c5c24f7a89b3a38c8db1.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_remington11-87/usrif_remington11-87.con"
+dest_files=["res://.godot/imported/usrif_remington11-87.con-b219e2af87f7c5c24f7a89b3a38c8db1.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cftigrw1kkicp"
+path="res://.godot/imported/cable100m_powerline_30right_lower.staticmesh-37f7d16136f2c8bfe1ae572102c7e7ee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cables/cable100m_powerline_30right_lower/meshes/cable100m_powerline_30right_lower.staticmesh"
+dest_files=["res://.godot/imported/cable100m_powerline_30right_lower.staticmesh-37f7d16136f2c8bfe1ae572102c7e7ee.scn"]
+
+[params]
+

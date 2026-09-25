@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kdne6giyjabw"
+path="res://.godot/imported/mp_waterfall.con-0f2b5251531d330450e60c0b67a5907e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/mp_waterfall.con"
+dest_files=["res://.godot/imported/mp_waterfall.con-0f2b5251531d330450e60c0b67a5907e.scn"]
+
+[params]
+

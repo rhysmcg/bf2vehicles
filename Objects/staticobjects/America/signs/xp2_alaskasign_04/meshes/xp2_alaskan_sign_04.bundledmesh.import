@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://5xpkbj8vc5t4"
+path="res://.godot/imported/xp2_alaskan_sign_04.bundledmesh-be91a6b86fc6f79dc800785dfb8551b1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_alaskasign_04/meshes/xp2_alaskan_sign_04.bundledmesh"
+dest_files=["res://.godot/imported/xp2_alaskan_sign_04.bundledmesh-be91a6b86fc6f79dc800785dfb8551b1.scn"]
+
+[params]
+

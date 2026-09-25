@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b8igptet1mw5t"
+path="res://.godot/imported/xp2_interchange_fence_02.staticmesh-bb6e197957bdf53d93b810a79943955b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_interchange_fence_02/meshes/xp2_interchange_fence_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_interchange_fence_02.staticmesh-bb6e197957bdf53d93b810a79943955b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://be72rxpc1nfwu"
+path="res://.godot/imported/usaas_stinger.bundledmesh-1241feea195e9da9e0992d03f468613d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/usaas_stinger/meshes/usaas_stinger.bundledmesh"
+dest_files=["res://.godot/imported/usaas_stinger.bundledmesh-1241feea195e9da9e0992d03f468613d.scn"]
+
+[params]
+

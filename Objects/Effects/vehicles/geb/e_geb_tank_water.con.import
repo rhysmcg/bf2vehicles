@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bgv3e33f7qa27"
+path="res://.godot/imported/e_geb_tank_water.con-1e778fa94073b7a3e6be5acfd8cc225b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/geb/e_geb_tank_water.con"
+dest_files=["res://.godot/imported/e_geb_tank_water.con-1e778fa94073b7a3e6be5acfd8cc225b.scn"]
+
+[params]
+

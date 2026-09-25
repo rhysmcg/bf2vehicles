@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d3v727xk1sdd7"
+path="res://.godot/imported/decal_l_bag.con-82c9a661535c08b3d111bd8135be0a03.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_bag.con"
+dest_files=["res://.godot/imported/decal_l_bag.con-82c9a661535c08b3d111bd8135be0a03.scn"]
+
+[params]
+

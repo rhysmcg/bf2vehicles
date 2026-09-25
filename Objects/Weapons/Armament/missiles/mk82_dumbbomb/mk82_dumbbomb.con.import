@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cktannuce0tw3"
+path="res://.godot/imported/mk82_dumbbomb.con-1c74f31c2767faa0c1439ff87ef737fd.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/mk82_dumbbomb/mk82_dumbbomb.con"
+dest_files=["res://.godot/imported/mk82_dumbbomb.con-1c74f31c2767faa0c1439ff87ef737fd.scn"]
+
+[params]
+

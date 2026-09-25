@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://clh8snhvyc8fo"
+path="res://.godot/imported/the_mi17_mainrotor.con-286079ac40c228c685d5350c34bf1f27.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/the_mi17/the_mi17_mainrotor/the_mi17_mainrotor.con"
+dest_files=["res://.godot/imported/the_mi17_mainrotor.con-286079ac40c228c685d5350c34bf1f27.scn"]
+
+[params]
+

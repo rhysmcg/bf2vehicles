@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://np27gvywbhg6"
+path="res://.godot/imported/xp2_interchange_fence_01.con-2105cadf388fe8344e6c69a73075fa9e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_interchange_fence_01/xp2_interchange_fence_01.con"
+dest_files=["res://.godot/imported/xp2_interchange_fence_01.con-2105cadf388fe8344e6c69a73075fa9e.scn"]
+
+[params]
+

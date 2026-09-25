@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbkjkpixxfexs"
+path="res://.godot/imported/tarmac_dirty_xp2_compiled.con-bfc1cf03bdbb5035c3821c340850edf8.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/tarmac_dirty_xp2_compiled.con"
+dest_files=["res://.godot/imported/tarmac_dirty_xp2_compiled.con-bfc1cf03bdbb5035c3821c340850edf8.scn"]
+
+[params]
+

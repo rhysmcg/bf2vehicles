@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://csew3l8yfk6i6"
+path="res://.godot/imported/e_muzz_handgunSilenced.con-9e2caca0651e259c742055b9b9364ff6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_handgunSilenced/e_muzz_handgunSilenced.con"
+dest_files=["res://.godot/imported/e_muzz_handgunSilenced.con-9e2caca0651e259c742055b9b9364ff6.scn"]
+
+[params]
+

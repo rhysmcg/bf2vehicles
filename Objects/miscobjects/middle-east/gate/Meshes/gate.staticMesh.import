@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ckedd6iriepav"
+path="res://.godot/imported/gate.staticMesh-3f0a9f63593c7d9f8367f9fe6d6629c0.scn"
+
+[deps]
+
+source_file="res://Objects/miscobjects/middle-east/gate/Meshes/gate.staticMesh"
+dest_files=["res://.godot/imported/gate.staticMesh-3f0a9f63593c7d9f8367f9fe6d6629c0.scn"]
+
+[params]
+

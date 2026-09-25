@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cagw62o3qnlxr"
+path="res://.godot/imported/xp2_fenceset_17_oldbarn.staticmesh-fce423db9fa631fd30dd428f6aad47a5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/fence_sets/xp2_fenceset_17_oldbarn/meshes/xp2_fenceset_17_oldbarn.staticmesh"
+dest_files=["res://.godot/imported/xp2_fenceset_17_oldbarn.staticmesh-fce423db9fa631fd30dd428f6aad47a5.scn"]
+
+[params]
+

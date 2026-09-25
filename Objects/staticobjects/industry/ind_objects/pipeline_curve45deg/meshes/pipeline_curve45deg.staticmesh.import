@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bopo5rr2vi0oh"
+path="res://.godot/imported/pipeline_curve45deg.staticmesh-8054004bfee23e3ae0d3e1bb40e8daba.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/pipeline_curve45deg/meshes/pipeline_curve45deg.staticmesh"
+dest_files=["res://.godot/imported/pipeline_curve45deg.staticmesh-8054004bfee23e3ae0d3e1bb40e8daba.scn"]
+
+[params]
+

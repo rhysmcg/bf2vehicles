@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ct5brcxvfv38h"
+path="res://.godot/imported/house_medium_04.con-e6b07e71b772277d7783b2b1965b1e3b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_medium_04/house_medium_04.con"
+dest_files=["res://.godot/imported/house_medium_04.con-e6b07e71b772277d7783b2b1965b1e3b.scn"]
+
+[params]
+

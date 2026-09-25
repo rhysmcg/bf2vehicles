@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dg4s31advupuc"
+path="res://.godot/imported/wreck_zero.staticmesh-6941304e1b1b0def0de54aee46a5d8dc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/wreck_zero/meshes/wreck_zero.staticmesh"
+dest_files=["res://.godot/imported/wreck_zero.staticmesh-6941304e1b1b0def0de54aee46a5d8dc.scn"]
+
+[params]
+

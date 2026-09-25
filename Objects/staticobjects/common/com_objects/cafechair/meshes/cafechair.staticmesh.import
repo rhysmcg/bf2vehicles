@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b2pd2mkrt2hx"
+path="res://.godot/imported/cafechair.staticmesh-a6a6031ff60b7cdb5d4f5fbecabf1d46.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/cafechair/meshes/cafechair.staticmesh"
+dest_files=["res://.godot/imported/cafechair.staticmesh-a6a6031ff60b7cdb5d4f5fbecabf1d46.scn"]
+
+[params]
+

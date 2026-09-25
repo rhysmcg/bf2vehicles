@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bp6auvwcr7l7w"
+path="res://.godot/imported/p_wreck_cobra_rotor3.bundledmesh-042285cdd18211c209414125627c67c3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/meshes/p_wreck_cobra_rotor3.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_cobra_rotor3.bundledmesh-042285cdd18211c209414125627c67c3.scn"]
+
+[params]
+

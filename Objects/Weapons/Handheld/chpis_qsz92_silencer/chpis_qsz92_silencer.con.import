@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://do1svqvwlo13n"
+path="res://.godot/imported/chpis_qsz92_silencer.con-6866c3c83807f03e390f5ef5bebf135d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chpis_qsz92_silencer/chpis_qsz92_silencer.con"
+dest_files=["res://.godot/imported/chpis_qsz92_silencer.con-6866c3c83807f03e390f5ef5bebf135d.scn"]
+
+[params]
+

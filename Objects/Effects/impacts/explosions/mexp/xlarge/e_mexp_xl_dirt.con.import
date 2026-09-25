@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u2sqfecxb7e7"
+path="res://.godot/imported/e_mexp_xl_dirt.con-67812557e08c2ebe68a53e2f42bf14d8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/xlarge/e_mexp_xl_dirt.con"
+dest_files=["res://.godot/imported/e_mexp_xl_dirt.con-67812557e08c2ebe68a53e2f42bf14d8.scn"]
+
+[params]
+

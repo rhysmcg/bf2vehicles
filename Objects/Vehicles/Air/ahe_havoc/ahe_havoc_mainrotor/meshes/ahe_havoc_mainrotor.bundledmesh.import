@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://r2askfu3457d"
+path="res://.godot/imported/ahe_havoc_mainrotor.bundledmesh-93a80a91fdb02180eb0e5e0596c1a0f7.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/ahe_havoc_mainrotor/meshes/ahe_havoc_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/ahe_havoc_mainrotor.bundledmesh-93a80a91fdb02180eb0e5e0596c1a0f7.scn"]
+
+[params]
+

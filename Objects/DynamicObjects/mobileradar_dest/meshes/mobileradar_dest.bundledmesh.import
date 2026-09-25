@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bke52cabkj7v0"
+path="res://.godot/imported/mobileradar_dest.bundledmesh-40967d1493ee8b35be4aaea6498182cb.scn"
+
+[deps]
+
+source_file="res://Objects/DynamicObjects/mobileradar_dest/meshes/mobileradar_dest.bundledmesh"
+dest_files=["res://.godot/imported/mobileradar_dest.bundledmesh-40967d1493ee8b35be4aaea6498182cb.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0vapje4cyt7h"
+path="res://.godot/imported/cleansweep_airstrip_long_endstr.con-83dc6836c740a97b2ab0f46d9fafbffc.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/cleansweep_airstrip_long_endstr/cleansweep_airstrip_long_endstr.con"
+dest_files=["res://.godot/imported/cleansweep_airstrip_long_endstr.con-83dc6836c740a97b2ab0f46d9fafbffc.scn"]
+
+[params]
+

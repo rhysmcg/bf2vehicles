@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4gduegbmj6nt"
+path="res://.godot/imported/p_wreck_vodnik_step.bundledmesh-d7050f5ee3a33419b5f6ad2dc5a4915b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_vodnik/meshes/p_wreck_vodnik_step.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_vodnik_step.bundledmesh-d7050f5ee3a33419b5f6ad2dc5a4915b.scn"]
+
+[params]
+

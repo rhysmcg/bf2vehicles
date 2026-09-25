@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ykvnvs8sm6a"
+path="res://.godot/imported/usaav_m6.bundledmesh-db427d000905897eef24f973181e2224.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/usaav_m6/meshes/usaav_m6.bundledmesh"
+dest_files=["res://.godot/imported/usaav_m6.bundledmesh-db427d000905897eef24f973181e2224.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://baypxaqofikjw"
+path="res://.godot/imported/e_bhit_l_tarmac.con-6cc70328b1e6fdae62a6b05f443efdae.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_tarmac.con"
+dest_files=["res://.godot/imported/e_bhit_l_tarmac.con-6cc70328b1e6fdae62a6b05f443efdae.scn"]
+
+[params]
+

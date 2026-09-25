@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cq320mal4ho5e"
+path="res://.godot/imported/e_Muzz_Minigun.con-bd8b9b998c701ecf4847e31fd1f51cb5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_Muzz_Minigun/e_Muzz_Minigun.con"
+dest_files=["res://.godot/imported/e_Muzz_Minigun.con-bd8b9b998c701ecf4847e31fd1f51cb5.scn"]
+
+[params]
+

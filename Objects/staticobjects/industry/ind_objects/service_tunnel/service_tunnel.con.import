@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://by7rxsqo1p823"
+path="res://.godot/imported/service_tunnel.con-ab68cdb85aa96f5343668989c4663669.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/service_tunnel/service_tunnel.con"
+dest_files=["res://.godot/imported/service_tunnel.con-ab68cdb85aa96f5343668989c4663669.scn"]
+
+[params]
+

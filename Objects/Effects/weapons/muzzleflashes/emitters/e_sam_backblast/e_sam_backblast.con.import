@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8q1v5lw5tcuc"
+path="res://.godot/imported/e_sam_backblast.con-3a6614905296aa34394081e99757494b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_sam_backblast/e_sam_backblast.con"
+dest_files=["res://.godot/imported/e_sam_backblast.con-3a6614905296aa34394081e99757494b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dmjrd8y7owsks"
+path="res://.godot/imported/p_fantan_hullpart.con-7abad94622a924a6d33677455243ac6c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_fantan/p_fantan_hullpart.con"
+dest_files=["res://.godot/imported/p_fantan_hullpart.con-7abad94622a924a6d33677455243ac6c.scn"]
+
+[params]
+

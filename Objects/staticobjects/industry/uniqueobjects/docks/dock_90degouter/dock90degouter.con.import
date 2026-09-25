@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://fshlybycdwba"
+path="res://.godot/imported/dock90degouter.con-4188d44b705ab4092290a744d944a086.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/docks/dock_90degouter/dock90degouter.con"
+dest_files=["res://.godot/imported/dock90degouter.con-4188d44b705ab4092290a744d944a086.scn"]
+
+[params]
+

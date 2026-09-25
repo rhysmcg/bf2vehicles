@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cg23lnf28m6y2"
+path="res://.godot/imported/p_wreck_j10_frontwing.bundledmesh-d590edd3dd3a07ca34476d5a691c4063.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_j10/meshes/p_wreck_j10_frontwing.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_j10_frontwing.bundledmesh-d590edd3dd3a07ca34476d5a691c4063.scn"]
+
+[params]
+

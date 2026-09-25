@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cswfl0kfdhuq4"
+path="res://.godot/imported/e_vexp_tank.con-16fe74ac33b8c3d32e321c884561a028.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_tank/e_vexp_tank.con"
+dest_files=["res://.godot/imported/e_vexp_tank.con-16fe74ac33b8c3d32e321c884561a028.scn"]
+
+[params]
+

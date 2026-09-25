@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cgjof8bm1t3jw"
+path="res://.godot/imported/parkingmeter_dest.con-9c2f5147208f8b204b57283d4a05a872.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/parkingmeter_dest/parkingmeter_dest.con"
+dest_files=["res://.godot/imported/parkingmeter_dest.con-9c2f5147208f8b204b57283d4a05a872.scn"]
+
+[params]
+

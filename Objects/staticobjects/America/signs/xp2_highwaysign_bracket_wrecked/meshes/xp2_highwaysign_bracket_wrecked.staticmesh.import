@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bldmvuftvibav"
+path="res://.godot/imported/xp2_highwaysign_bracket_wrecked.staticmesh-1aa4f80b7bcf587f3f34c03985b1243f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highwaysign_bracket_wrecked/meshes/xp2_highwaysign_bracket_wrecked.staticmesh"
+dest_files=["res://.godot/imported/xp2_highwaysign_bracket_wrecked.staticmesh-1aa4f80b7bcf587f3f34c03985b1243f.scn"]
+
+[params]
+

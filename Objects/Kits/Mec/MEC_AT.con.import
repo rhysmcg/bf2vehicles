@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bga2rg1vuqthn"
+path="res://.godot/imported/MEC_AT.con-2115fe82435d5c106f3b3ba80043de11.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_AT.con"
+dest_files=["res://.godot/imported/MEC_AT.con-2115fe82435d5c106f3b3ba80043de11.scn"]
+
+[params]
+

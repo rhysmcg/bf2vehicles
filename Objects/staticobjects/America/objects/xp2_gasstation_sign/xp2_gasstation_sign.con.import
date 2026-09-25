@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqlw5iisajaxd"
+path="res://.godot/imported/xp2_gasstation_sign.con-a8bd72b9a75030ce29b8d6e810700063.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gasstation_sign/xp2_gasstation_sign.con"
+dest_files=["res://.godot/imported/xp2_gasstation_sign.con-a8bd72b9a75030ce29b8d6e810700063.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://68r02dq32j4k"
+path="res://.godot/imported/cone_dest.con-3179162c791d9d02b4d54a9a5f9cdb44.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/cone_dest/cone_dest.con"
+dest_files=["res://.godot/imported/cone_dest.con-3179162c791d9d02b4d54a9a5f9cdb44.scn"]
+
+[params]
+

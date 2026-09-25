@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://iiv2go2hhfsg"
+path="res://.godot/imported/xp2_motel_01_windows.con-a9b8a99158bc62e1fab47aabb763d7ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_motel_01/xp2_motel_01_windows.con"
+dest_files=["res://.godot/imported/xp2_motel_01_windows.con-a9b8a99158bc62e1fab47aabb763d7ae.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://butfkpy02rkq2"
+path="res://.godot/imported/sasrif_g36e.con-172b9fd33afdeb870b879360187f0c44.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasrif_g36e/sasrif_g36e.con"
+dest_files=["res://.godot/imported/sasrif_g36e.con-172b9fd33afdeb870b879360187f0c44.scn"]
+
+[params]
+

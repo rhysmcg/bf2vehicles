@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://do8gw7ykvv2x0"
+path="res://.godot/imported/tarmac_Daqing.con-5c7ef23f8af8d7f92abebdfe45cfb6cb.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/tarmac_Daqing.con"
+dest_files=["res://.godot/imported/tarmac_Daqing.con-5c7ef23f8af8d7f92abebdfe45cfb6cb.scn"]
+
+[params]
+

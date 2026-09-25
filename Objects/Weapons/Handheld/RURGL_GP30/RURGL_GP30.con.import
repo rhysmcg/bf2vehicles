@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bdxcdi1mdariy"
+path="res://.godot/imported/RURGL_GP30.con-4637f4c152243f5583292deaded30187.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURGL_GP30/RURGL_GP30.con"
+dest_files=["res://.godot/imported/RURGL_GP30.con-4637f4c152243f5583292deaded30187.scn"]
+
+[params]
+

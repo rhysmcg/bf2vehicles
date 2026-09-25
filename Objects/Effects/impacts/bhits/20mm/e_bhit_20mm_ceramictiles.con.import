@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqh50n3h8rwyu"
+path="res://.godot/imported/e_bhit_20mm_ceramictiles.con-4d032f495d936cbc7dcd705704083d7c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_ceramictiles.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_ceramictiles.con-4d032f495d936cbc7dcd705704083d7c.scn"]
+
+[params]
+

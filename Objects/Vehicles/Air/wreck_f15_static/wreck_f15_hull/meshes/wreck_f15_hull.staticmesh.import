@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bkvvvogbknryw"
+path="res://.godot/imported/wreck_f15_hull.staticmesh-6a0880f2432ea5cba2f5eba2a335143d.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_f15_static/wreck_f15_hull/meshes/wreck_f15_hull.staticmesh"
+dest_files=["res://.godot/imported/wreck_f15_hull.staticmesh-6a0880f2432ea5cba2f5eba2a335143d.scn"]
+
+[params]
+

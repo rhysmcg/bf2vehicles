@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dlldbuivav0d5"
+path="res://.godot/imported/temp_test.staticmesh-57508e436e62737eb63cd926ba5664a1.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/slybush/meshes/temp_test.staticmesh"
+dest_files=["res://.godot/imported/temp_test.staticmesh-57508e436e62737eb63cd926ba5664a1.scn"]
+
+[params]
+

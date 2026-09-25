@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b5b34be8ceh3x"
+path="res://.godot/imported/div_citybrdgsloop.staticmesh-6f0bda9f2a17d70a17f835ab40bb92fa.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/uniqueobjects/div_citybrdgsloop/meshes/div_citybrdgsloop.staticmesh"
+dest_files=["res://.godot/imported/div_citybrdgsloop.staticmesh-6f0bda9f2a17d70a17f835ab40bb92fa.scn"]
+
+[params]
+

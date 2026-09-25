@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bifrcuk2i5ilr"
+path="res://.godot/imported/barrackdbl_03.staticmesh-f8320cc2f194a8f95a0f0cf054114948.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/barrackdbl_03/meshes/barrackdbl_03.staticmesh"
+dest_files=["res://.godot/imported/barrackdbl_03.staticmesh-f8320cc2f194a8f95a0f0cf054114948.scn"]
+
+[params]
+

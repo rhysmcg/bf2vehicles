@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://da5fq1m1i7isx"
+path="res://.godot/imported/dragon_waterplane.staticmesh-033884c0f3103d518f8e6ed209a08c4a.scn"
+
+[deps]
+
+source_file="res://Objects/water/meshes/dragon_waterplane.staticmesh"
+dest_files=["res://.godot/imported/dragon_waterplane.staticmesh-033884c0f3103d518f8e6ed209a08c4a.scn"]
+
+[params]
+

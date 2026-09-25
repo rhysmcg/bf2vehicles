@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6efq2xlwq7t8"
+path="res://.godot/imported/xp2_stripmall_section01_glass.con-6d9f3c864fb7511c5683a81e4c1fd8ee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_section01/xp2_stripmall_section01_glass.con"
+dest_files=["res://.godot/imported/xp2_stripmall_section01_glass.con-6d9f3c864fb7511c5683a81e4c1fd8ee.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cyk6vtpyn7bkh"
+path="res://.godot/imported/p_f15_fuselage.bundledmesh-99b0f9c1501b72a2daace1fc9bdf364d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f15/meshes/p_f15_fuselage.bundledmesh"
+dest_files=["res://.godot/imported/p_f15_fuselage.bundledmesh-99b0f9c1501b72a2daace1fc9bdf364d.scn"]
+
+[params]
+

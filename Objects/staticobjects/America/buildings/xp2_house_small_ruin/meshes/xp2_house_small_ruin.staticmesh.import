@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cthcg7e6pfon8"
+path="res://.godot/imported/xp2_house_small_ruin.staticmesh-cec4f459fafa6a2cdd06e40f68911dfd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_house_small_ruin/meshes/xp2_house_small_ruin.staticmesh"
+dest_files=["res://.godot/imported/xp2_house_small_ruin.staticmesh-cec4f459fafa6a2cdd06e40f68911dfd.scn"]
+
+[params]
+

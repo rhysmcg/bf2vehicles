@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ylnirhqx1nc0"
+path="res://.godot/imported/rock20m.staticmesh-b49955410e04bb51148a12a6403b18c1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/rock20m/meshes/rock20m.staticmesh"
+dest_files=["res://.godot/imported/rock20m.staticmesh-b49955410e04bb51148a12a6403b18c1.scn"]
+
+[params]
+

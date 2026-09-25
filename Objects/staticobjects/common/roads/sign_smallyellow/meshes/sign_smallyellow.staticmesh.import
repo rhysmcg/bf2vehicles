@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://8b62c2gm14t0"
+path="res://.godot/imported/sign_smallyellow.staticmesh-341bdfa6619bd2daf67aec0fd72d3bf5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_smallyellow/meshes/sign_smallyellow.staticmesh"
+dest_files=["res://.godot/imported/sign_smallyellow.staticmesh-341bdfa6619bd2daf67aec0fd72d3bf5.scn"]
+
+[params]
+

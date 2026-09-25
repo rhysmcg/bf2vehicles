@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dt7iyakb0t1t2"
+path="res://.godot/imported/she_littlebird_tailrotor.con-81040892f0647719e7127773d55b8335.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/she_littlebird_tailrotor/she_littlebird_tailrotor.con"
+dest_files=["res://.godot/imported/she_littlebird_tailrotor.con-81040892f0647719e7127773d55b8335.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://48aep7k1y34q"
+path="res://.godot/imported/usrif_sa80.con-fd5a95872089869b0d25fd0a957a66b9.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/usrif_sa80/usrif_sa80.con"
+dest_files=["res://.godot/imported/usrif_sa80.con-fd5a95872089869b0d25fd0a957a66b9.scn"]
+
+[params]
+

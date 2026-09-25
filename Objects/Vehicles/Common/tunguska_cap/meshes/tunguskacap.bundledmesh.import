@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bopccxw8a61d7"
+path="res://.godot/imported/tunguskacap.bundledmesh-55a62f9c7f5aab54d3d8bed97529d64a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/tunguska_cap/meshes/tunguskacap.bundledmesh"
+dest_files=["res://.godot/imported/tunguskacap.bundledmesh-55a62f9c7f5aab54d3d8bed97529d64a.scn"]
+
+[params]
+

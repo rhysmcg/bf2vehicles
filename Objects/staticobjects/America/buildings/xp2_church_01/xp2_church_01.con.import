@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b0a3nflcmngyy"
+path="res://.godot/imported/xp2_church_01.con-3c72dd7e9efa577fe9339edd1496835f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_church_01/xp2_church_01.con"
+dest_files=["res://.godot/imported/xp2_church_01.con-3c72dd7e9efa577fe9339edd1496835f.scn"]
+
+[params]
+

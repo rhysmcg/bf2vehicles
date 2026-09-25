@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u2a8a4iyy2yd"
+path="res://.godot/imported/concreteblock_airstrip_endstr.con-bc4130c31c0a1895476ad538b3d822b6.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/concreteblock_airstrip_endstr/concreteblock_airstrip_endstr.con"
+dest_files=["res://.godot/imported/concreteblock_airstrip_endstr.con-bc4130c31c0a1895476ad538b3d822b6.scn"]
+
+[params]
+

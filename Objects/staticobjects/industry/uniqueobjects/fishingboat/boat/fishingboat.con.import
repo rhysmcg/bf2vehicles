@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xfvc8k7hxbw2"
+path="res://.godot/imported/fishingboat.con-abc688e6278e614ae241513b83da7656.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/fishingboat/boat/fishingboat.con"
+dest_files=["res://.godot/imported/fishingboat.con-abc688e6278e614ae241513b83da7656.scn"]
+
+[params]
+

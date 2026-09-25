@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://botkddqx475lp"
+path="res://.godot/imported/decal_l_ceramicTiles.con-1bb571ad2e5501afb9ca5742a1769648.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_ceramicTiles.con"
+dest_files=["res://.godot/imported/decal_l_ceramicTiles.con-1bb571ad2e5501afb9ca5742a1769648.scn"]
+
+[params]
+

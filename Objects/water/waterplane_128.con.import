@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gdxruu36opfl"
+path="res://.godot/imported/waterplane_128.con-ca857204477feff262f377dc901c7711.scn"
+
+[deps]
+
+source_file="res://Objects/water/waterplane_128.con"
+dest_files=["res://.godot/imported/waterplane_128.con-ca857204477feff262f377dc901c7711.scn"]
+
+[params]
+

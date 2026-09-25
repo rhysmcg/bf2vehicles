@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bgicg53hreccv"
+path="res://.godot/imported/air_f35b.bundledmesh-c2fe186a0ec594879f2b94408db4d95e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/air_f35b/meshes/air_f35b.bundledmesh"
+dest_files=["res://.godot/imported/air_f35b.bundledmesh-c2fe186a0ec594879f2b94408db4d95e.scn"]
+
+[params]
+

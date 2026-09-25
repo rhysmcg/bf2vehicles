@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmrylmebm8004"
+path="res://.godot/imported/fueltank_01.staticmesh-b696d7fd44a8ac60609a0fbeaa1005b7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/fueltank_01/meshes/fueltank_01.staticmesh"
+dest_files=["res://.godot/imported/fueltank_01.staticmesh-b696d7fd44a8ac60609a0fbeaa1005b7.scn"]
+
+[params]
+

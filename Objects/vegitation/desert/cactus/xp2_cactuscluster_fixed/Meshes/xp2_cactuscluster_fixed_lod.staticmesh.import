@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://0l2ur5l8irq0"
+path="res://.godot/imported/xp2_cactuscluster_fixed_lod.staticmesh-239986a80ea4a62c70c996a2c2ab4b13.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/xp2_cactuscluster_fixed/Meshes/xp2_cactuscluster_fixed_lod.staticmesh"
+dest_files=["res://.godot/imported/xp2_cactuscluster_fixed_lod.staticmesh-239986a80ea4a62c70c996a2c2ab4b13.scn"]
+
+[params]
+

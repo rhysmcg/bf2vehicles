@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://di8l8emoj7xgo"
+path="res://.godot/imported/antenna.con-7c2c5860e1e9d8af4886fa53d51fac8e.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/Antenna/antenna.con"
+dest_files=["res://.godot/imported/antenna.con-7c2c5860e1e9d8af4886fa53d51fac8e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dv2phc4s3tndy"
+path="res://.godot/imported/live_greatwall_templewall.staticmesh-dc1b9d81ccccf0f0b395df75b42936a7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/live_greatwall_templewall/meshes/live_greatwall_templewall.staticmesh"
+dest_files=["res://.godot/imported/live_greatwall_templewall.staticmesh-dc1b9d81ccccf0f0b395df75b42936a7.scn"]
+
+[params]
+

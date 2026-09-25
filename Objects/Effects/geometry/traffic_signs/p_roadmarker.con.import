@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dme2ptwefx0f5"
+path="res://.godot/imported/p_roadmarker.con-4fd3b0285b9ae36bf0f7eb08e0b25ae5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_roadmarker.con"
+dest_files=["res://.godot/imported/p_roadmarker.con-4fd3b0285b9ae36bf0f7eb08e0b25ae5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnit6li1tupne"
+path="res://.godot/imported/e_web_wheeledSmoke_dirt.con-eb50175a5adf191f486b64282819a05e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_dirt/e_web_wheeledSmoke_dirt.con"
+dest_files=["res://.godot/imported/e_web_wheeledSmoke_dirt.con-eb50175a5adf191f486b64282819a05e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c4gfhot1wah4u"
+path="res://.godot/imported/sign_noparking.staticmesh-c1bcae44e9f210dcbbe18e761a75af54.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/sign_noparking/meshes/sign_noparking.staticmesh"
+dest_files=["res://.godot/imported/sign_noparking.staticmesh-c1bcae44e9f210dcbbe18e761a75af54.scn"]
+
+[params]
+

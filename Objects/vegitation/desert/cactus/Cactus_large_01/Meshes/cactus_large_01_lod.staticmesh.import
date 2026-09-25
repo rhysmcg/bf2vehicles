@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwsqtnhraspph"
+path="res://.godot/imported/cactus_large_01_lod.staticmesh-2fc8b3ea72bd9f049cd7e3b3b3ae10ba.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/desert/cactus/Cactus_large_01/Meshes/cactus_large_01_lod.staticmesh"
+dest_files=["res://.godot/imported/cactus_large_01_lod.staticmesh-2fc8b3ea72bd9f049cd7e3b3b3ae10ba.scn"]
+
+[params]
+

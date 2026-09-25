@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d15j2yechlddu"
+path="res://.godot/imported/xp2_musclecar_01.con-f954fe1409b569fcdd531d065162b647.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_musclecar/xp2_musclecar_01.con"
+dest_files=["res://.godot/imported/xp2_musclecar_01.con-f954fe1409b569fcdd531d065162b647.scn"]
+
+[params]
+

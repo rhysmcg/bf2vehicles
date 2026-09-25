@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ceenoeqgs8bv6"
+path="res://.godot/imported/e_bhit_minigun_plastic.con-4a027ea1fc3aef0767c3d96a268cd8de.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_plastic.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_plastic.con-4a027ea1fc3aef0767c3d96a268cd8de.scn"]
+
+[params]
+

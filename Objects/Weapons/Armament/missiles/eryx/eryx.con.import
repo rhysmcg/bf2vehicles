@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kbduick7vowj"
+path="res://.godot/imported/eryx.con-553768a1eb2f077e9dd593cbddcebbfa.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/eryx/eryx.con"
+dest_files=["res://.godot/imported/eryx.con-553768a1eb2f077e9dd593cbddcebbfa.scn"]
+
+[params]
+

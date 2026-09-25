@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3nolse8drnx6"
+path="res://.godot/imported/vent_pipe_10m.staticmesh-48182c35a2511ee0b23bd967e6e5ad68.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/vent_pipe_10m/meshes/vent_pipe_10m.staticmesh"
+dest_files=["res://.godot/imported/vent_pipe_10m.staticmesh-48182c35a2511ee0b23bd967e6e5ad68.scn"]
+
+[params]
+

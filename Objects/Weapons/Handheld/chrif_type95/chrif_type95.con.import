@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://i73it28e0rov"
+path="res://.godot/imported/chrif_type95.con-7758358c31d895660532b334c92797a3.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chrif_type95/chrif_type95.con"
+dest_files=["res://.godot/imported/chrif_type95.con-7758358c31d895660532b334c92797a3.scn"]
+
+[params]
+

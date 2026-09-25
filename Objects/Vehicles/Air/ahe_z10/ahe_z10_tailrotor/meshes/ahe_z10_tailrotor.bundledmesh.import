@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cey1fj4b6cdx1"
+path="res://.godot/imported/ahe_z10_tailrotor.bundledmesh-6693ac4a9e121a8172d9ba801d655827.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_z10/ahe_z10_tailrotor/meshes/ahe_z10_tailrotor.bundledmesh"
+dest_files=["res://.godot/imported/ahe_z10_tailrotor.bundledmesh-6693ac4a9e121a8172d9ba801d655827.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dy5xm3nlipo5a"
+path="res://.godot/imported/e_destruction_supplycrate.bundledmesh-f13b57641624fcbcb072b8ff611277e8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/meshes/e_destruction_supplycrate.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_supplycrate.bundledmesh-f13b57641624fcbcb072b8ff611277e8.scn"]
+
+[params]
+

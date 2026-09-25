@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cflu3r75iwng4"
+path="res://.godot/imported/stoneroad_cleansweep_compiled.con-f61cb7e19200dd1914408f2523d52a43.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/stoneroad_cleansweep_compiled.con"
+dest_files=["res://.godot/imported/stoneroad_cleansweep_compiled.con-f61cb7e19200dd1914408f2523d52a43.scn"]
+
+[params]
+

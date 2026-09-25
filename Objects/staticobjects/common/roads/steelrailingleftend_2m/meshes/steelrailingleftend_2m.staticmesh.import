@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b7mxeaisqsenj"
+path="res://.godot/imported/steelrailingleftend_2m.staticmesh-6c0e67b4624cb66a57fee6ef8ca87d2a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/steelrailingleftend_2m/meshes/steelrailingleftend_2m.staticmesh"
+dest_files=["res://.godot/imported/steelrailingleftend_2m.staticmesh-6c0e67b4624cb66a57fee6ef8ca87d2a.scn"]
+
+[params]
+

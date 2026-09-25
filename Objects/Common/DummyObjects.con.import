@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ifdv2hw3gkbc"
+path="res://.godot/imported/DummyObjects.con-b491bfa6d92e184f8906f82b21b5472c.scn"
+
+[deps]
+
+source_file="res://Objects/Common/DummyObjects.con"
+dest_files=["res://.godot/imported/DummyObjects.con-b491bfa6d92e184f8906f82b21b5472c.scn"]
+
+[params]
+

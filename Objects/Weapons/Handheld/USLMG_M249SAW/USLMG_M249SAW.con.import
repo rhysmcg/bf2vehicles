@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5pixf1uqrkbo"
+path="res://.godot/imported/USLMG_M249SAW.con-64eedd8aab5af32aad2992e1f1444acf.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USLMG_M249SAW/USLMG_M249SAW.con"
+dest_files=["res://.godot/imported/USLMG_M249SAW.con-64eedd8aab5af32aad2992e1f1444acf.scn"]
+
+[params]
+

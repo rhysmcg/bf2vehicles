@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://caouta0lpwfkk"
+path="res://.godot/imported/RR_HighwayMerge01_compiled.con-a4dab8640b55f0068e3f37d26c137601.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_HighwayMerge01_compiled.con"
+dest_files=["res://.godot/imported/RR_HighwayMerge01_compiled.con-a4dab8640b55f0068e3f37d26c137601.scn"]
+
+[params]
+

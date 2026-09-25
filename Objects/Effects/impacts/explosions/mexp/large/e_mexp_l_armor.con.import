@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dyjrgv3spnn5r"
+path="res://.godot/imported/e_mexp_l_armor.con-9c2a3b4d3b5038b79204127313ebcce3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/large/e_mexp_l_armor.con"
+dest_files=["res://.godot/imported/e_mexp_l_armor.con-9c2a3b4d3b5038b79204127313ebcce3.scn"]
+
+[params]
+

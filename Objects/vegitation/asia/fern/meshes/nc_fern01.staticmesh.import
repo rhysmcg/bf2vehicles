@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ci13qel60xy7w"
+path="res://.godot/imported/nc_fern01.staticmesh-dd09145a7e5ea6316ee85ed4c53fffef.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/fern/meshes/nc_fern01.staticmesh"
+dest_files=["res://.godot/imported/nc_fern01.staticmesh-dd09145a7e5ea6316ee85ed4c53fffef.scn"]
+
+[params]
+

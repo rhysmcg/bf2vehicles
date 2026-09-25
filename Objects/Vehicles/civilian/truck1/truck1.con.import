@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u1hcmjuphcjy"
+path="res://.godot/imported/truck1.con-7439c5c8e16de232da4feec588585a91.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/civilian/truck1/truck1.con"
+dest_files=["res://.godot/imported/truck1.con-7439c5c8e16de232da4feec588585a91.scn"]
+
+[params]
+

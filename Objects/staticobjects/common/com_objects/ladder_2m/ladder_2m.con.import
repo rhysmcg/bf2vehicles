@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtyqg5e7l4tsx"
+path="res://.godot/imported/ladder_2m.con-b3f77afe512361e0bcd597b136cac2a1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_2m/ladder_2m.con"
+dest_files=["res://.godot/imported/ladder_2m.con-b3f77afe512361e0bcd597b136cac2a1.scn"]
+
+[params]
+

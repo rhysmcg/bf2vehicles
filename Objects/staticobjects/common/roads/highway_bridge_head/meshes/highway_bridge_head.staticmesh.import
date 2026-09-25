@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://6jx4u1dv6wib"
+path="res://.godot/imported/highway_bridge_head.staticmesh-5632ef0d8afd616c88c64d8397fc8501.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/highway_bridge_head/meshes/highway_bridge_head.staticmesh"
+dest_files=["res://.godot/imported/highway_bridge_head.staticmesh-5632ef0d8afd616c88c64d8397fc8501.scn"]
+
+[params]
+

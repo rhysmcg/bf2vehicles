@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dj5tqiqhj3opx"
+path="res://.godot/imported/e_shellejection_kord.con-fb4b758976d3daa80919d9358735b2e4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_kord/e_shellejection_kord.con"
+dest_files=["res://.godot/imported/e_shellejection_kord.con-fb4b758976d3daa80919d9358735b2e4.scn"]
+
+[params]
+

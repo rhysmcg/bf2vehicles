@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dollaj7pjujc4"
+path="res://.godot/imported/USSNI_M82A1.bundledMesh-ef0f6e1d0fdf2ba3734804c79e1622a6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M82A1/Meshes/USSNI_M82A1.bundledMesh"
+dest_files=["res://.godot/imported/USSNI_M82A1.bundledMesh-ef0f6e1d0fdf2ba3734804c79e1622a6.scn"]
+
+[params]
+

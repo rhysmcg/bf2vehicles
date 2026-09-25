@@ -1,14 +1,14 @@
 [remap]
 
-importer="bf2_staticmesh_importer"
+importer="bf2.mesh_importer"
 type="PackedScene"
 uid="uid://inya8m7xl3nd"
-path="res://.godot/imported/cardbox_cod.staticmesh-0404f8c553c43384c66ab17052120076.tscn"
+path="res://.godot/imported/cardbox_cod.staticmesh-0404f8c553c43384c66ab17052120076.scn"
 
 [deps]
 
 source_file="res://meshes/cardbox_cod/Meshes/cardbox_cod.staticmesh"
-dest_files=["res://.godot/imported/cardbox_cod.staticmesh-0404f8c553c43384c66ab17052120076.tscn"]
+dest_files=["res://.godot/imported/cardbox_cod.staticmesh-0404f8c553c43384c66ab17052120076.scn"]
 
 [params]
 

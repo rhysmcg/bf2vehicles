@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c1bvgr5tcl2m"
+path="res://.godot/imported/beam_01.con-2c4327ddd8599d0bc3f8af91f571be13.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/beam_01/beam_01.con"
+dest_files=["res://.godot/imported/beam_01.con-2c4327ddd8599d0bc3f8af91f571be13.scn"]
+
+[params]
+

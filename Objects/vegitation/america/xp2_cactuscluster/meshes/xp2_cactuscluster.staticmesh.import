@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nas7yabsq60i"
+path="res://.godot/imported/xp2_cactuscluster.staticmesh-91d55192add08517710472ac99a9769c.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_cactuscluster/meshes/xp2_cactuscluster.staticmesh"
+dest_files=["res://.godot/imported/xp2_cactuscluster.staticmesh-91d55192add08517710472ac99a9769c.scn"]
+
+[params]
+

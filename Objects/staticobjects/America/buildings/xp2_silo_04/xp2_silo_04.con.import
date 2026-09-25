@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dadlnvlaijb87"
+path="res://.godot/imported/xp2_silo_04.con-6c260a619a511c5d6637dd10626fc4ed.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_silo_04/xp2_silo_04.con"
+dest_files=["res://.godot/imported/xp2_silo_04.con-6c260a619a511c5d6637dd10626fc4ed.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b4qwhcfnl8201"
+path="res://.godot/imported/hmg_m2hb.bundledMesh-9a7480d4f7091362f4346ad3b758427a.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/HMG_M2HB/Meshes/hmg_m2hb.bundledMesh"
+dest_files=["res://.godot/imported/hmg_m2hb.bundledMesh-9a7480d4f7091362f4346ad3b758427a.scn"]
+
+[params]
+

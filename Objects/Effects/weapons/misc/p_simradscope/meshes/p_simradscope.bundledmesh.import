@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjg4repga3w1"
+path="res://.godot/imported/p_simradscope.bundledmesh-e904379d630364e45a87e2d8820747fb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_simradscope/meshes/p_simradscope.bundledmesh"
+dest_files=["res://.godot/imported/p_simradscope.bundledmesh-e904379d630364e45a87e2d8820747fb.scn"]
+
+[params]
+

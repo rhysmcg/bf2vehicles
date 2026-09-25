@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xm0iykqanua4"
+path="res://.godot/imported/air_su39.con-8b4a168deb31002cdcb7afa10d29c695.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/air_su39/air_su39.con"
+dest_files=["res://.godot/imported/air_su39.con-8b4a168deb31002cdcb7afa10d29c695.scn"]
+
+[params]
+

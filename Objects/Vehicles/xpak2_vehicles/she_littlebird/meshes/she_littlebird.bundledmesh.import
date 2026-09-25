@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c74qtygrx40m2"
+path="res://.godot/imported/she_littlebird.bundledmesh-b8a70eaa55ef30b1414a8885820c69a1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/she_littlebird/meshes/she_littlebird.bundledmesh"
+dest_files=["res://.godot/imported/she_littlebird.bundledmesh-b8a70eaa55ef30b1414a8885820c69a1.scn"]
+
+[params]
+

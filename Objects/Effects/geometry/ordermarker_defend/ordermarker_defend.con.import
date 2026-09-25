@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cac11k7e8juno"
+path="res://.godot/imported/ordermarker_defend.con-773e50fed257d74b01d80636446a2f37.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/ordermarker_defend/ordermarker_defend.con"
+dest_files=["res://.godot/imported/ordermarker_defend.con-773e50fed257d74b01d80636446a2f37.scn"]
+
+[params]
+

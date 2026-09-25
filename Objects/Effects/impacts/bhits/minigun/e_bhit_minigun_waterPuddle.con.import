@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ce8kcssoeqx4b"
+path="res://.godot/imported/e_bhit_minigun_waterPuddle.con-acbf8b89a7e9274adf62f438469db48d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_waterPuddle.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_waterPuddle.con-acbf8b89a7e9274adf62f438469db48d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://p5nvf1h1ists"
+path="res://.godot/imported/xp2_communicationtower_01.con-87b5247795d3d0eca27289107eb35c84.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_communicationtower_01/xp2_communicationtower_01.con"
+dest_files=["res://.godot/imported/xp2_communicationtower_01.con-87b5247795d3d0eca27289107eb35c84.scn"]
+
+[params]
+

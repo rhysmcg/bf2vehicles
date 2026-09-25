@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://u4uaeonlrjqb"
+path="res://.godot/imported/ch_farm_02.con-b4370213e6ad00f11bf17d477ec3b2dc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_farm_02/ch_farm_02.con"
+dest_files=["res://.godot/imported/ch_farm_02.con-b4370213e6ad00f11bf17d477ec3b2dc.scn"]
+
+[params]
+

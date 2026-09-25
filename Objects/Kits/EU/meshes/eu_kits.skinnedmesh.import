@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bvdsmbvqmhmpg"
+path="res://.godot/imported/eu_kits.skinnedmesh-5ccedc79b72cda3ba90514dff0e59fee.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/EU/meshes/eu_kits.skinnedmesh"
+dest_files=["res://.godot/imported/eu_kits.skinnedmesh-5ccedc79b72cda3ba90514dff0e59fee.scn"]
+
+[params]
+

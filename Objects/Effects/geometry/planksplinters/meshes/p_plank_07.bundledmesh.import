@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b8uwa4663ai45"
+path="res://.godot/imported/p_plank_07.bundledmesh-8f05e49525fe9a7576a69b85f460182f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/planksplinters/meshes/p_plank_07.bundledmesh"
+dest_files=["res://.godot/imported/p_plank_07.bundledmesh-8f05e49525fe9a7576a69b85f460182f.scn"]
+
+[params]
+

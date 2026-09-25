@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bogqi62jsggvm"
+path="res://.godot/imported/at_mine.con-0e2c71edacf36a5b14376f9351bcc854.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/at_mine/at_mine.con"
+dest_files=["res://.godot/imported/at_mine.con-0e2c71edacf36a5b14376f9351bcc854.scn"]
+
+[params]
+

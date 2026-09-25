@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://yks6eotloww"
+path="res://.godot/imported/cone_dest.bundledmesh-76b5ed0402b8a8e6b53f803f24032727.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/cone_dest/meshes/cone_dest.bundledmesh"
+dest_files=["res://.godot/imported/cone_dest.bundledmesh-76b5ed0402b8a8e6b53f803f24032727.scn"]
+
+[params]
+

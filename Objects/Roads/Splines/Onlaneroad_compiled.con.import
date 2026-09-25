@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bnc6j6kua2f4c"
+path="res://.godot/imported/Onlaneroad_compiled.con-1c5898d79ba9289d6ed79c3226626d26.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Onlaneroad_compiled.con"
+dest_files=["res://.godot/imported/Onlaneroad_compiled.con-1c5898d79ba9289d6ed79c3226626d26.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0ijeclgd36hb"
+path="res://.godot/imported/mi_sandbags_circle_half.con-56e1e5cae891d5d25ba0fbe5ab4a08fe.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/sandbags/mi_sandbags_circle_half/mi_sandbags_circle_half.con"
+dest_files=["res://.godot/imported/mi_sandbags_circle_half.con-56e1e5cae891d5d25ba0fbe5ab4a08fe.scn"]
+
+[params]
+

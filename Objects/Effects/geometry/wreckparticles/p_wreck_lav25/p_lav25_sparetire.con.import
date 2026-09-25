@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c4iaq8x4dmbs3"
+path="res://.godot/imported/p_lav25_sparetire.con-11cfc87fbf7db8066b72a058d6ae21ae.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/p_lav25_sparetire.con"
+dest_files=["res://.godot/imported/p_lav25_sparetire.con-11cfc87fbf7db8066b72a058d6ae21ae.scn"]
+
+[params]
+

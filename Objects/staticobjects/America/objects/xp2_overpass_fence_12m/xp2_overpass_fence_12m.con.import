@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3qobgjleegas"
+path="res://.godot/imported/xp2_overpass_fence_12m.con-db316f72fc290ea91475fc46800ee49d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_overpass_fence_12m/xp2_overpass_fence_12m.con"
+dest_files=["res://.godot/imported/xp2_overpass_fence_12m.con-db316f72fc290ea91475fc46800ee49d.scn"]
+
+[params]
+

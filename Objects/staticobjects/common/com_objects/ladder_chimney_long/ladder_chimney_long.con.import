@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bwm6ve0vjco3s"
+path="res://.godot/imported/ladder_chimney_long.con-8aeac6eaeee2641a206dadf44a3fcfff.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/ladder_chimney_long/ladder_chimney_long.con"
+dest_files=["res://.godot/imported/ladder_chimney_long.con-8aeac6eaeee2641a206dadf44a3fcfff.scn"]
+
+[params]
+

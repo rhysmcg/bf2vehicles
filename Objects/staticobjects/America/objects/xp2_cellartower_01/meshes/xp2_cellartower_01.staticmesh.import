@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3hjnt2vqcp5g"
+path="res://.godot/imported/xp2_cellartower_01.staticmesh-51d258812d4e2d33898bc86f49372a68.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_cellartower_01/meshes/xp2_cellartower_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_cellartower_01.staticmesh-51d258812d4e2d33898bc86f49372a68.scn"]
+
+[params]
+

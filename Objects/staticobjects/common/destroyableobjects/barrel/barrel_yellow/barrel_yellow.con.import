@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dskcydd4jqh32"
+path="res://.godot/imported/barrel_yellow.con-588a1b9b9b3d41945ecacf1b4c1f088a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/barrel/barrel_yellow/barrel_yellow.con"
+dest_files=["res://.godot/imported/barrel_yellow.con-588a1b9b9b3d41945ecacf1b4c1f088a.scn"]
+
+[params]
+

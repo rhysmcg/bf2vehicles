@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b6krr3wtayt60"
+path="res://.godot/imported/fishingboat.staticmesh-0431bf7bb6231b0f92b35cf4b8d53a92.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/fishingboat/boat/meshes/fishingboat.staticmesh"
+dest_files=["res://.godot/imported/fishingboat.staticmesh-0431bf7bb6231b0f92b35cf4b8d53a92.scn"]
+
+[params]
+

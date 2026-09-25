@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bucqsx6h7kdws"
+path="res://.godot/imported/RURIF_AK101.con-8232a02b60ecdaafed800967c3a67d77.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_AK101/RURIF_AK101.con"
+dest_files=["res://.godot/imported/RURIF_AK101.con-8232a02b60ecdaafed800967c3a67d77.scn"]
+
+[params]
+

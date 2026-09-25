@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cqiwmdub6wv7d"
+path="res://.godot/imported/basket_coart.con-d0821ef285084f0af8718f7151af731f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/basket_coart/basket_coart.con"
+dest_files=["res://.godot/imported/basket_coart.con-d0821ef285084f0af8718f7151af731f.scn"]
+
+[params]
+

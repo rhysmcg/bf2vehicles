@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cqat4nehfbtmd"
+path="res://.godot/imported/HorizontalTurnObject.con-e8fec7717668931316e3ec58f5d01671.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/HorizontalTurnObject.con"
+dest_files=["res://.godot/imported/HorizontalTurnObject.con-e8fec7717668931316e3ec58f5d01671.scn"]
+
+[params]
+

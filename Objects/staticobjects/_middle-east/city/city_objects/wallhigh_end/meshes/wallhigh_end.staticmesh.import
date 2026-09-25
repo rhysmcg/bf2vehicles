@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ct4xm4rm4pc7i"
+path="res://.godot/imported/wallhigh_end.staticmesh-4d811001008e8dfce65319eb79fe202e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/wallhigh_end/meshes/wallhigh_end.staticmesh"
+dest_files=["res://.godot/imported/wallhigh_end.staticmesh-4d811001008e8dfce65319eb79fe202e.scn"]
+
+[params]
+

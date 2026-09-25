@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://clnh8eytlluy7"
+path="res://.godot/imported/decal_mexp_default.con-8c4fc18cc297243d521817fe66731162.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/explosions/decal_mexp_default.con"
+dest_files=["res://.godot/imported/decal_mexp_default.con-8c4fc18cc297243d521817fe66731162.scn"]
+
+[params]
+

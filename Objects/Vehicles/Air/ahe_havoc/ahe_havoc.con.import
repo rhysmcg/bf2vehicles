@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bs44e73u6geg0"
+path="res://.godot/imported/ahe_havoc.con-e0836fde20f36a6a19e0228ff4a0c39a.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_havoc/ahe_havoc.con"
+dest_files=["res://.godot/imported/ahe_havoc.con-e0836fde20f36a6a19e0228ff4a0c39a.scn"]
+
+[params]
+

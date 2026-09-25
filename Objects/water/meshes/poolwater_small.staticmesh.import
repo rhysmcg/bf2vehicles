@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cwjhd3gj15a0q"
+path="res://.godot/imported/poolwater_small.staticmesh-4697ff1e01608913bb49d155ac24c14c.scn"
+
+[deps]
+
+source_file="res://Objects/water/meshes/poolwater_small.staticmesh"
+dest_files=["res://.godot/imported/poolwater_small.staticmesh-4697ff1e01608913bb49d155ac24c14c.scn"]
+
+[params]
+

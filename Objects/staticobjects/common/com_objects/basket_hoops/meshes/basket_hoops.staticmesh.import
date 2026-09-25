@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dwakwsim520hj"
+path="res://.godot/imported/basket_hoops.staticmesh-e801bb8ab780ccf289e2ec96244d98bc.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/basket_hoops/meshes/basket_hoops.staticmesh"
+dest_files=["res://.godot/imported/basket_hoops.staticmesh-e801bb8ab780ccf289e2ec96244d98bc.scn"]
+
+[params]
+

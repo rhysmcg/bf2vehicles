@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjkqaxkgs20po"
+path="res://.godot/imported/p_sign_authpers_board_01.con-6ad980e40175a2ea0db5453689754764.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_sign/p_sign_authpers_board_01.con"
+dest_files=["res://.godot/imported/p_sign_authpers_board_01.con-6ad980e40175a2ea0db5453689754764.scn"]
+
+[params]
+

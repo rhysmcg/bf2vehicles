@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://by74lj2a6vq5i"
+path="res://.godot/imported/p_wreck_mi17_tube.bundledmesh-f83371e7eea1615370009d252a23e930.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mi17/meshes/p_wreck_mi17_tube.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_mi17_tube.bundledmesh-f83371e7eea1615370009d252a23e930.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://nq8qv6ngknbb"
+path="res://.godot/imported/toolshed_door_r.con-fe9d0593fe0ba023ad27f6717c7b257a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/toolshed/toolshed_door_r.con"
+dest_files=["res://.godot/imported/toolshed_door_r.con-fe9d0593fe0ba023ad27f6717c7b257a.scn"]
+
+[params]
+

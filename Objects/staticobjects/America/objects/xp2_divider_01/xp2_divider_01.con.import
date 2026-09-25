@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://of5syh771wxa"
+path="res://.godot/imported/xp2_divider_01.con-655dbf2934b5d0ce12fbaf1e45e6f557.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_divider_01/xp2_divider_01.con"
+dest_files=["res://.godot/imported/xp2_divider_01.con-655dbf2934b5d0ce12fbaf1e45e6f557.scn"]
+
+[params]
+

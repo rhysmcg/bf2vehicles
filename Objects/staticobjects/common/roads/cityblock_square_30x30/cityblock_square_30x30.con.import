@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://blnxg5dkqycwy"
+path="res://.godot/imported/cityblock_square_30x30.con-72da6f02acb20aef59cc133e156af053.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/cityblock_square_30x30/cityblock_square_30x30.con"
+dest_files=["res://.godot/imported/cityblock_square_30x30.con-72da6f02acb20aef59cc133e156af053.scn"]
+
+[params]
+

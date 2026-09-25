@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://60cgpg41rnm6"
+path="res://.godot/imported/office_03.con-6b34289c8a4c58c16cbbd36f8e8cdadb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/office_03/office_03.con"
+dest_files=["res://.godot/imported/office_03.con-6b34289c8a4c58c16cbbd36f8e8cdadb.scn"]
+
+[params]
+

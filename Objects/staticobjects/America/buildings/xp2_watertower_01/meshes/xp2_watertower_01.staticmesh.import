@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dg2kyrjqaou5x"
+path="res://.godot/imported/xp2_watertower_01.staticmesh-5e99b58ac245876ee4b2e60c1fed09b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_watertower_01/meshes/xp2_watertower_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_watertower_01.staticmesh-5e99b58ac245876ee4b2e60c1fed09b2.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfwslho2sydkv"
+path="res://.godot/imported/barrier_blocks_high_8m_corner.con-28a14227a40fa81b963e0e37f07fbe28.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/barrier_blocks_high_8m_corner/barrier_blocks_high_8m_corner.con"
+dest_files=["res://.godot/imported/barrier_blocks_high_8m_corner.con-28a14227a40fa81b963e0e37f07fbe28.scn"]
+
+[params]
+

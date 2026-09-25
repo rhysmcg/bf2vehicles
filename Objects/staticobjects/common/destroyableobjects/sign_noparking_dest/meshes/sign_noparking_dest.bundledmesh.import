@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ck1bh24wujdbe"
+path="res://.godot/imported/sign_noparking_dest.bundledmesh-2f20ba3ec449862d1f42cfb027fb68e8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_noparking_dest/meshes/sign_noparking_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_noparking_dest.bundledmesh-2f20ba3ec449862d1f42cfb027fb68e8.scn"]
+
+[params]
+

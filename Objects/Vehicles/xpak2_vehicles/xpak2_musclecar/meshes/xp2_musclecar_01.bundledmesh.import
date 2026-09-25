@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xpnawjeynnou"
+path="res://.godot/imported/xp2_musclecar_01.bundledmesh-d8a4abe8e0ee820da7fac56ac816b87b.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/xpak2_musclecar/meshes/xp2_musclecar_01.bundledmesh"
+dest_files=["res://.godot/imported/xp2_musclecar_01.bundledmesh-d8a4abe8e0ee820da7fac56ac816b87b.scn"]
+
+[params]
+

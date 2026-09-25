@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ca1afglehydwl"
+path="res://.godot/imported/eu_kits.con-1cae4d3123c018700b502111f719ac7d.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/EU/eu_kits.con"
+dest_files=["res://.godot/imported/eu_kits.con-1cae4d3123c018700b502111f719ac7d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bgyddbaw0dirg"
+path="res://.godot/imported/e_muzz_phalanx.con-a4623fc2c4e37d6b4f34608dc7c9e05c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_phalanx.con"
+dest_files=["res://.godot/imported/e_muzz_phalanx.con-a4623fc2c4e37d6b4f34608dc7c9e05c.scn"]
+
+[params]
+

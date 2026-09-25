@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dvdgksvry2qsg"
+path="res://.godot/imported/xp2_grainelevator_01.staticmesh-8b1f023880fa3b0029852de58a3a3aaf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_grainelevator_01/meshes/xp2_grainelevator_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_grainelevator_01.staticmesh-8b1f023880fa3b0029852de58a3a3aaf.scn"]
+
+[params]
+

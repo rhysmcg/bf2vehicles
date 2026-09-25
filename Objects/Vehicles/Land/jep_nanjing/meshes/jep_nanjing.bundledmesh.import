@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfoaf6ne51mxa"
+path="res://.godot/imported/jep_nanjing.bundledmesh-155c87c28900836b932014e3815b80e1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/jep_nanjing/meshes/jep_nanjing.bundledmesh"
+dest_files=["res://.godot/imported/jep_nanjing.bundledmesh-155c87c28900836b932014e3815b80e1.scn"]
+
+[params]
+

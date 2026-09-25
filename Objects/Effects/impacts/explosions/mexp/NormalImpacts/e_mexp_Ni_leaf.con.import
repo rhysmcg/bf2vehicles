@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://gcfqoedj07qf"
+path="res://.godot/imported/e_mexp_Ni_leaf.con-70feefaa9c3589d2e70fb212e2586bee.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/NormalImpacts/e_mexp_Ni_leaf.con"
+dest_files=["res://.godot/imported/e_mexp_Ni_leaf.con-70feefaa9c3589d2e70fb212e2586bee.scn"]
+
+[params]
+

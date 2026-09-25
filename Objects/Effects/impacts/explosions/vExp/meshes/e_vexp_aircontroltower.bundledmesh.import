@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dbfp7sc6ukfkv"
+path="res://.godot/imported/e_vexp_aircontroltower.bundledmesh-ecffa18e0d1a420a47c9b883e7646df3.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_aircontroltower.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_aircontroltower.bundledmesh-ecffa18e0d1a420a47c9b883e7646df3.scn"]
+
+[params]
+

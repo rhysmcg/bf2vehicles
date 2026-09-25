@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dc0hsljycl26k"
+path="res://.godot/imported/USPIS_92FS.bundledMesh-c72a8f2accdb1dce22fc5e1c2eabeeb4.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USPIS_92FS/Meshes/USPIS_92FS.bundledMesh"
+dest_files=["res://.godot/imported/USPIS_92FS.bundledMesh-c72a8f2accdb1dce22fc5e1c2eabeeb4.scn"]
+
+[params]
+

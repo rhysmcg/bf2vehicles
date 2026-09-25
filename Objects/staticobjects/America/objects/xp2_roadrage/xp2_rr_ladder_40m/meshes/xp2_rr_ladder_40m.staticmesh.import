@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ca8rc16kpn8in"
+path="res://.godot/imported/xp2_rr_ladder_40m.staticmesh-e673cc8a1917f1bbaf02dc465dbcb6ee.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_ladder_40m/meshes/xp2_rr_ladder_40m.staticmesh"
+dest_files=["res://.godot/imported/xp2_rr_ladder_40m.staticmesh-e673cc8a1917f1bbaf02dc465dbcb6ee.scn"]
+
+[params]
+

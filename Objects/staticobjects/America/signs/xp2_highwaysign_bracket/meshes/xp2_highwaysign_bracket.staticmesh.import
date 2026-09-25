@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bgy5lcjwrguj3"
+path="res://.godot/imported/xp2_highwaysign_bracket.staticmesh-751d0ef5e77ae285363a0c03b4181a12.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highwaysign_bracket/meshes/xp2_highwaysign_bracket.staticmesh"
+dest_files=["res://.godot/imported/xp2_highwaysign_bracket.staticmesh-751d0ef5e77ae285363a0c03b4181a12.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dha5derda4x2k"
+path="res://.godot/imported/e_bhit_minigun_metalthin_exit.con-5420b2ef09a762897c144c0e2145d925.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_metalthin_exit.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_metalthin_exit.con-5420b2ef09a762897c144c0e2145d925.scn"]
+
+[params]
+

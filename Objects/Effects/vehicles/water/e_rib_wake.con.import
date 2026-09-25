@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bttlsd8qqdf1s"
+path="res://.godot/imported/e_rib_wake.con-f156918f37e90a078f2911c26247e62d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/water/e_rib_wake.con"
+dest_files=["res://.godot/imported/e_rib_wake.con-f156918f37e90a078f2911c26247e62d.scn"]
+
+[params]
+

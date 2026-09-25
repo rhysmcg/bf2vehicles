@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b24gl8mx3gn38"
+path="res://.godot/imported/mangrove_big1_dead_lod.staticmesh-36ddfb32f53f1df7550450945385bd54.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/mangrove/meshes/mangrove_big1_dead_lod.staticmesh"
+dest_files=["res://.godot/imported/mangrove_big1_dead_lod.staticmesh-36ddfb32f53f1df7550450945385bd54.scn"]
+
+[params]
+

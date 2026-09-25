@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ndmud8ptueat"
+path="res://.godot/imported/decal_l_armor.con-ba86e0cdb90ca65478c5fae88d9b0b6d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/large/decal_l_armor.con"
+dest_files=["res://.godot/imported/decal_l_armor.con-ba86e0cdb90ca65478c5fae88d9b0b6d.scn"]
+
+[params]
+

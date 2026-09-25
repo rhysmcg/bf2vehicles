@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsarjyrktqoyg"
+path="res://.godot/imported/chthe_z8_mainrotor.bundledmesh-da61833c0f054f87fc0dc4eb832dbb33.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/chthe_z8_mainrotor/meshes/chthe_z8_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/chthe_z8_mainrotor.bundledmesh-da61833c0f054f87fc0dc4eb832dbb33.scn"]
+
+[params]
+

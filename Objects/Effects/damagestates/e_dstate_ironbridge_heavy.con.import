@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgwbwf387y7hl"
+path="res://.godot/imported/e_dstate_ironbridge_heavy.con-fc4df6a040911ec1b089640217d8040d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_ironbridge_heavy.con"
+dest_files=["res://.godot/imported/e_dstate_ironbridge_heavy.con-fc4df6a040911ec1b089640217d8040d.scn"]
+
+[params]
+

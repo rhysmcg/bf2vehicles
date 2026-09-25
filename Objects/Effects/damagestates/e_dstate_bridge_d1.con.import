@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://iocg3pytx7dy"
+path="res://.godot/imported/e_dstate_bridge_d1.con-055c8b5ff200241eed7e74c25d1701b6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_bridge_d1.con"
+dest_files=["res://.godot/imported/e_dstate_bridge_d1.con-055c8b5ff200241eed7e74c25d1701b6.scn"]
+
+[params]
+

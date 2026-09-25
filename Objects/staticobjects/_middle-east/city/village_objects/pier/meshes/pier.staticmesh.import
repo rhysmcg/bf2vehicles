@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://pfb3g8v10by7"
+path="res://.godot/imported/pier.staticmesh-f01c2dd6f8eeb501fca89af3ffea46b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_objects/pier/meshes/pier.staticmesh"
+dest_files=["res://.godot/imported/pier.staticmesh-f01c2dd6f8eeb501fca89af3ffea46b2.scn"]
+
+[params]
+

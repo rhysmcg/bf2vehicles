@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bk0kqo74m23vk"
+path="res://.godot/imported/nc_oak02_lod.staticmesh-3e2f181b229807335f992fbe528623f5.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/oak/meshes/nc_oak02_lod.staticmesh"
+dest_files=["res://.godot/imported/nc_oak02_lod.staticmesh-3e2f181b229807335f992fbe528623f5.scn"]
+
+[params]
+

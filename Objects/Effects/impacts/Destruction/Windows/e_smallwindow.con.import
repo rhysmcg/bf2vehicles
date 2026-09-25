@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cg0eymwwte6no"
+path="res://.godot/imported/e_smallwindow.con-ba3298c0a1fdf35f8d14060b891eb0df.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/Windows/e_smallwindow.con"
+dest_files=["res://.godot/imported/e_smallwindow.con-ba3298c0a1fdf35f8d14060b891eb0df.scn"]
+
+[params]
+

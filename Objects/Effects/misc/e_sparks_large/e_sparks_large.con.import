@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dwiftb4nr83ss"
+path="res://.godot/imported/e_sparks_large.con-f3ad79b9c84e063b29c83f66783dee4a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/e_sparks_large/e_sparks_large.con"
+dest_files=["res://.godot/imported/e_sparks_large.con-f3ad79b9c84e063b29c83f66783dee4a.scn"]
+
+[params]
+

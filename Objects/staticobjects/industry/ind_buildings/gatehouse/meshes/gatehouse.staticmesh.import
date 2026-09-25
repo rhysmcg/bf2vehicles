@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://csuxxef15ymeo"
+path="res://.godot/imported/gatehouse.staticmesh-f63d04776c354830de5246869428da21.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/gatehouse/meshes/gatehouse.staticmesh"
+dest_files=["res://.godot/imported/gatehouse.staticmesh-f63d04776c354830de5246869428da21.scn"]
+
+[params]
+

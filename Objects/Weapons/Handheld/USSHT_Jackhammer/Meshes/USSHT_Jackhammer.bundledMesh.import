@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b4nkam5558wre"
+path="res://.godot/imported/USSHT_Jackhammer.bundledMesh-5787306bf72c2c7bd13af2646030b95f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSHT_Jackhammer/Meshes/USSHT_Jackhammer.bundledMesh"
+dest_files=["res://.godot/imported/USSHT_Jackhammer.bundledMesh-5787306bf72c2c7bd13af2646030b95f.scn"]
+
+[params]
+

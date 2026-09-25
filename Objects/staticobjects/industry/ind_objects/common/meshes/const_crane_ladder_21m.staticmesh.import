@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfa32x56eykar"
+path="res://.godot/imported/const_crane_ladder_21m.staticmesh-280e9c359abdaea889ddc06a1067fd79.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/common/meshes/const_crane_ladder_21m.staticmesh"
+dest_files=["res://.godot/imported/const_crane_ladder_21m.staticmesh-280e9c359abdaea889ddc06a1067fd79.scn"]
+
+[params]
+

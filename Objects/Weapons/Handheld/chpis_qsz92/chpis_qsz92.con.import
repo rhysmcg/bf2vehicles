@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bqjx4oykn2npm"
+path="res://.godot/imported/chpis_qsz92.con-8ed522f6bda9babc418dc92ba78b9404.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chpis_qsz92/chpis_qsz92.con"
+dest_files=["res://.godot/imported/chpis_qsz92.con-8ed522f6bda9babc418dc92ba78b9404.scn"]
+
+[params]
+

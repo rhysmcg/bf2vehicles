@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dlvrcrekf52km"
+path="res://.godot/imported/p_wreck_mi17_weapon.bundledmesh-0ee2c022b529d56df9d6b24beb8044ee.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_mi17/meshes/p_wreck_mi17_weapon.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_mi17_weapon.bundledmesh-0ee2c022b529d56df9d6b24beb8044ee.scn"]
+
+[params]
+

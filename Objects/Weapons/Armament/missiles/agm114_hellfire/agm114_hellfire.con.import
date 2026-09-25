@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1gf48pd1it0p"
+path="res://.godot/imported/agm114_hellfire.con-73f99f58e221e75d11513638f6aa832d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/agm114_hellfire/agm114_hellfire.con"
+dest_files=["res://.godot/imported/agm114_hellfire.con-73f99f58e221e75d11513638f6aa832d.scn"]
+
+[params]
+

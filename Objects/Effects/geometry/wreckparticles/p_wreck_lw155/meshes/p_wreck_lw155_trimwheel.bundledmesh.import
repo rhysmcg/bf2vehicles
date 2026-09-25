@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://xtm2ym2vkwqi"
+path="res://.godot/imported/p_wreck_lw155_trimwheel.bundledmesh-d5f76b1a2d406f4c4566d6433fd1e76e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lw155/meshes/p_wreck_lw155_trimwheel.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_lw155_trimwheel.bundledmesh-d5f76b1a2d406f4c4566d6433fd1e76e.scn"]
+
+[params]
+

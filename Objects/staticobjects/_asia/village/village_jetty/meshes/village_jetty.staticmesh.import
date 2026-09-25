@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d3mcvr4u0e5mh"
+path="res://.godot/imported/village_jetty.staticmesh-f1b8fb230ab9ed6a8825da70224d6686.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_jetty/meshes/village_jetty.staticmesh"
+dest_files=["res://.godot/imported/village_jetty.staticmesh-f1b8fb230ab9ed6a8825da70224d6686.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b58m5rkxl7bhc"
+path="res://.godot/imported/ats_hj8.bundledmesh-a88010c3c34e4a48a25d7f1c3e82ac94.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ats_hj8/meshes/ats_hj8.bundledmesh"
+dest_files=["res://.godot/imported/ats_hj8.bundledmesh-a88010c3c34e4a48a25d7f1c3e82ac94.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvcd0hlbe5814"
+path="res://.godot/imported/p_wreck_btr90_hatch.con-ac38007d0a8373fd11bbe24397e96076.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_btr90/p_wreck_btr90_hatch.con"
+dest_files=["res://.godot/imported/p_wreck_btr90_hatch.con-ac38007d0a8373fd11bbe24397e96076.scn"]
+
+[params]
+

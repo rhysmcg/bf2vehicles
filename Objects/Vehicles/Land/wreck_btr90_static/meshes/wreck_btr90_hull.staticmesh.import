@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dg1ic8t8omd55"
+path="res://.godot/imported/wreck_btr90_hull.staticmesh-4243e8e3dca424686d3d242238f58294.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/wreck_btr90_static/meshes/wreck_btr90_hull.staticmesh"
+dest_files=["res://.godot/imported/wreck_btr90_hull.staticmesh-4243e8e3dca424686d3d242238f58294.scn"]
+
+[params]
+

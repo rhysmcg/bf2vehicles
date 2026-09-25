@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b6eqluql18vns"
+path="res://.godot/imported/p_wreck_uh60_rotorblade.bundledmesh-c29467496d45ae0452e30d742162941e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_uh60/meshes/p_wreck_uh60_rotorblade.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_uh60_rotorblade.bundledmesh-c29467496d45ae0452e30d742162941e.scn"]
+
+[params]
+

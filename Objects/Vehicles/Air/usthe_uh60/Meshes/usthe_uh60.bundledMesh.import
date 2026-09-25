@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://65rqphoo3sbt"
+path="res://.godot/imported/usthe_uh60.bundledMesh-9e5dc940b3d3bed2cb49ddbb75c204fd.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/Meshes/usthe_uh60.bundledMesh"
+dest_files=["res://.godot/imported/usthe_uh60.bundledMesh-9e5dc940b3d3bed2cb49ddbb75c204fd.scn"]
+
+[params]
+

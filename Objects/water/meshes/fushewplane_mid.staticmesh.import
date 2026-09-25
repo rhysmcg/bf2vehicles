@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dl681ivftrnnf"
+path="res://.godot/imported/fushewplane_mid.staticmesh-0f61d82c3611256e783abbc7bf82ef4c.scn"
+
+[deps]
+
+source_file="res://Objects/water/meshes/fushewplane_mid.staticmesh"
+dest_files=["res://.godot/imported/fushewplane_mid.staticmesh-0f61d82c3611256e783abbc7bf82ef4c.scn"]
+
+[params]
+

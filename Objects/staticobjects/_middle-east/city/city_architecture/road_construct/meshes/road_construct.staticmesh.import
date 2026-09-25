@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://du3m1765sqq63"
+path="res://.godot/imported/road_construct.staticmesh-c6a0d3e7dc94294eb47bca160766084f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/road_construct/meshes/road_construct.staticmesh"
+dest_files=["res://.godot/imported/road_construct.staticmesh-c6a0d3e7dc94294eb47bca160766084f.scn"]
+
+[params]
+

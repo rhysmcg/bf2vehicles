@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxyu0c1lcoyjw"
+path="res://.godot/imported/xp2_rr_dividers_02.staticmesh-0ca717ce3cf9fbbc3555bec725590fba.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_dividers_02/meshes/xp2_rr_dividers_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_rr_dividers_02.staticmesh-0ca717ce3cf9fbbc3555bec725590fba.scn"]
+
+[params]
+

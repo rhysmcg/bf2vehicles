@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cdh3jvbr11l1p"
+path="res://.godot/imported/MEC_Assault.con-be8580db7c0f4bf793098e95aea265e6.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Assault.con"
+dest_files=["res://.godot/imported/MEC_Assault.con-be8580db7c0f4bf793098e95aea265e6.scn"]
+
+[params]
+

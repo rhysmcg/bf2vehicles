@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cgadwxe3hteb5"
+path="res://.godot/imported/mec_tunnelbunker2.staticmesh-c9997b1d8585c58086c80250a707dcdd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mec_tunnelbunker2/meshes/mec_tunnelbunker2.staticmesh"
+dest_files=["res://.godot/imported/mec_tunnelbunker2.staticmesh-c9997b1d8585c58086c80250a707dcdd.scn"]
+
+[params]
+

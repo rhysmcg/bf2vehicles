@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://daskbrx4cxm37"
+path="res://.godot/imported/bunker.con-e8bacea6c20b0a55902d4bc0ee221dbf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/bunker/bunker.con"
+dest_files=["res://.godot/imported/bunker.con-e8bacea6c20b0a55902d4bc0ee221dbf.scn"]
+
+[params]
+

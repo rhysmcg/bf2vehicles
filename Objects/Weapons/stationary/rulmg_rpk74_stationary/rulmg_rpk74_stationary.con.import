@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xm773wpyweff"
+path="res://.godot/imported/rulmg_rpk74_stationary.con-bfb40ee7e48392c4aed7393cf3ca6c84.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/rulmg_rpk74_stationary/rulmg_rpk74_stationary.con"
+dest_files=["res://.godot/imported/rulmg_rpk74_stationary.con-bfb40ee7e48392c4aed7393cf3ca6c84.scn"]
+
+[params]
+

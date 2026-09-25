@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cp2fmplyehlld"
+path="res://.godot/imported/decal_s_cardboard_exit.con-24eb7d92a70f9726f02b8e7df232c5c5.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_cardboard_exit.con"
+dest_files=["res://.godot/imported/decal_s_cardboard_exit.con-24eb7d92a70f9726f02b8e7df232c5c5.scn"]
+
+[params]
+

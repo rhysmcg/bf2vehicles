@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://wpllds6a0gyg"
+path="res://.godot/imported/mi_guard_tower_us_ladder.con-1617b214101262b415c94411be5f9add.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_guard_tower_us/mi_guard_tower_us_ladder.con"
+dest_files=["res://.godot/imported/mi_guard_tower_us_ladder.con-1617b214101262b415c94411be5f9add.scn"]
+
+[params]
+

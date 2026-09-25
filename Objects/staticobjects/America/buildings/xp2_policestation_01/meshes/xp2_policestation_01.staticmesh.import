@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rqh5wg1upgjf"
+path="res://.godot/imported/xp2_policestation_01.staticmesh-c6fe6d7ce01c88afdaae9927f3c23d02.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_policestation_01/meshes/xp2_policestation_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_policestation_01.staticmesh-c6fe6d7ce01c88afdaae9927f3c23d02.scn"]
+
+[params]
+

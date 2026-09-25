@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dg1rdutx5gyoe"
+path="res://.godot/imported/e_destruction_fenceboards.con-c56725b512f061bb998fbed0365db7ae.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_fenceboards.con"
+dest_files=["res://.godot/imported/e_destruction_fenceboards.con-c56725b512f061bb998fbed0365db7ae.scn"]
+
+[params]
+

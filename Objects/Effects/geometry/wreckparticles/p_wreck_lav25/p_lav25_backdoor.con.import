@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dadvj0wskreyq"
+path="res://.godot/imported/p_lav25_backdoor.con-435a2d7d5bff3e69902dde8c909b203d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/p_lav25_backdoor.con"
+dest_files=["res://.godot/imported/p_lav25_backdoor.con-435a2d7d5bff3e69902dde8c909b203d.scn"]
+
+[params]
+

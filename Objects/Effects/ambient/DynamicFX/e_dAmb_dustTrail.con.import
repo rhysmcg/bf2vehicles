@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b1xech0feuyqu"
+path="res://.godot/imported/e_dAmb_dustTrail.con-e7e1a2bdc8c735b250c085e2def65493.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_dustTrail.con"
+dest_files=["res://.godot/imported/e_dAmb_dustTrail.con-e7e1a2bdc8c735b250c085e2def65493.scn"]
+
+[params]
+

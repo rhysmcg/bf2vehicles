@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://baw5lwx3rb7kp"
+path="res://.godot/imported/mi_vehicle_shelter.staticmesh-eea3490808394c7d6f83c2aa3b37b3f8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_vehicle_shelter/meshes/mi_vehicle_shelter.staticmesh"
+dest_files=["res://.godot/imported/mi_vehicle_shelter.staticmesh-eea3490808394c7d6f83c2aa3b37b3f8.scn"]
+
+[params]
+

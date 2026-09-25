@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bvb6h0yex1ycm"
+path="res://.godot/imported/xp2_ruralhouse_glass_01.con-06b2f718fc12e485301b58c2630669d9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_ruralhouse_01/xp2_ruralhouse_glass_01.con"
+dest_files=["res://.godot/imported/xp2_ruralhouse_glass_01.con-06b2f718fc12e485301b58c2630669d9.scn"]
+
+[params]
+

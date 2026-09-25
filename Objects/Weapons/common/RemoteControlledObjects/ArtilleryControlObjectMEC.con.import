@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3tob5vu74u7w"
+path="res://.godot/imported/ArtilleryControlObjectMEC.con-24f3872cd8611c6723345202c84a0cbb.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/ArtilleryControlObjectMEC.con"
+dest_files=["res://.godot/imported/ArtilleryControlObjectMEC.con-24f3872cd8611c6723345202c84a0cbb.scn"]
+
+[params]
+

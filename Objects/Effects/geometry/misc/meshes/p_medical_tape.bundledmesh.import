@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://rkfcmw2c4jb6"
+path="res://.godot/imported/p_medical_tape.bundledmesh-c4ccdc9f0228b56ce94603576d152a23.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_medical_tape.bundledmesh"
+dest_files=["res://.godot/imported/p_medical_tape.bundledmesh-c4ccdc9f0228b56ce94603576d152a23.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dc4800grjfxni"
+path="res://.godot/imported/WoodBoard2m.staticMesh-bb6069234952b283a38dd9f4c1ea7093.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/WoodBoard2m/Meshes/WoodBoard2m.staticMesh"
+dest_files=["res://.godot/imported/WoodBoard2m.staticMesh-bb6069234952b283a38dd9f4c1ea7093.scn"]
+
+[params]
+

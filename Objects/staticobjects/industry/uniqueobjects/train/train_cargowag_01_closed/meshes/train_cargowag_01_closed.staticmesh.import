@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://31q64tveccqj"
+path="res://.godot/imported/train_cargowag_01_closed.staticmesh-a4055f9a777c04afe2ed37239c52fb44.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/train_cargowag_01_closed/meshes/train_cargowag_01_closed.staticmesh"
+dest_files=["res://.godot/imported/train_cargowag_01_closed.staticmesh-a4055f9a777c04afe2ed37239c52fb44.scn"]
+
+[params]
+

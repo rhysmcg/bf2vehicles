@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ch84mw6mqga74"
+path="res://.godot/imported/StaticObjects.con-f3d31917ef8ac8e2231a6cabf9cbcc76.scn"
+
+[deps]
+
+source_file="res://Levels/Strike_at_Karkand/StaticObjects.con"
+dest_files=["res://.godot/imported/StaticObjects.con-f3d31917ef8ac8e2231a6cabf9cbcc76.scn"]
+
+[params]
+

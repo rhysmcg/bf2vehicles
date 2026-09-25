@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://5t2codbsl5dm"
+path="res://.godot/imported/xp2_farmfence_post.staticmesh-0b4f5339279ca7df7dea44c91d1dd91a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_farmfence_post/meshes/xp2_farmfence_post.staticmesh"
+dest_files=["res://.godot/imported/xp2_farmfence_post.staticmesh-0b4f5339279ca7df7dea44c91d1dd91a.scn"]
+
+[params]
+

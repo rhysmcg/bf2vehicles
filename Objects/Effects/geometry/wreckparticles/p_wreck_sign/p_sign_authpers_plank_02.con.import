@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d10lyc3i7gr3u"
+path="res://.godot/imported/p_sign_authpers_plank_02.con-ce2f72923d4e9a1f6554ba471d84e69f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_sign/p_sign_authpers_plank_02.con"
+dest_files=["res://.godot/imported/p_sign_authpers_plank_02.con-ce2f72923d4e9a1f6554ba471d84e69f.scn"]
+
+[params]
+

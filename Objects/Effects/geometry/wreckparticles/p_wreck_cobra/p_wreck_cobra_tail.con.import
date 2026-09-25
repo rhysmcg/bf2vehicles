@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvgbpvwmygij7"
+path="res://.godot/imported/p_wreck_cobra_tail.con-86205cb7c86eeea60cd35b7f2d355dcf.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/p_wreck_cobra_tail.con"
+dest_files=["res://.godot/imported/p_wreck_cobra_tail.con-86205cb7c86eeea60cd35b7f2d355dcf.scn"]
+
+[params]
+

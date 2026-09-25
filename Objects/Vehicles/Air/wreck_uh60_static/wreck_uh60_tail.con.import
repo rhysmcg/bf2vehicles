@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cxy7140o7ab5g"
+path="res://.godot/imported/wreck_uh60_tail.con-61977cab8b397ae9220e9e92ab865d4b.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/wreck_uh60_tail.con"
+dest_files=["res://.godot/imported/wreck_uh60_tail.con-61977cab8b397ae9220e9e92ab865d4b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://i57rymvmie7d"
+path="res://.godot/imported/xp2_boathouse.staticmesh-0e853f848bd9ea21ea939a9937c8ef81.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_boathouse/meshes/xp2_boathouse.staticmesh"
+dest_files=["res://.godot/imported/xp2_boathouse.staticmesh-0e853f848bd9ea21ea939a9937c8ef81.scn"]
+
+[params]
+

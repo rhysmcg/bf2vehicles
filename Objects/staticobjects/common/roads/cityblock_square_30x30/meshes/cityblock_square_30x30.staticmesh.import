@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://y5as2ryjowkd"
+path="res://.godot/imported/cityblock_square_30x30.staticmesh-a9920d0b0f9a213297e2c947b154c504.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/cityblock_square_30x30/meshes/cityblock_square_30x30.staticmesh"
+dest_files=["res://.godot/imported/cityblock_square_30x30.staticmesh-a9920d0b0f9a213297e2c947b154c504.scn"]
+
+[params]
+

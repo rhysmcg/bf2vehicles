@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://camr5uufwaf4g"
+path="res://.godot/imported/chair01_dest.bundledmesh-0064a895206ad09276358f84c403aade.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/chair01_dest/meshes/chair01_dest.bundledmesh"
+dest_files=["res://.godot/imported/chair01_dest.bundledmesh-0064a895206ad09276358f84c403aade.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://q7pblng2qxn7"
+path="res://.godot/imported/rupis_baghira_silencer.bundledmesh-9dd30ae967d03c27167cfdaa9a160746.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/rupis_baghira_silencer/meshes/rupis_baghira_silencer.bundledmesh"
+dest_files=["res://.godot/imported/rupis_baghira_silencer.bundledmesh-9dd30ae967d03c27167cfdaa9a160746.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cr84tmxnggv5"
+path="res://.godot/imported/xp2_stripmall_office_glass.con-0179ad2b4f7f99d0bccf52b8e631464c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_stripmall_office/xp2_stripmall_office_glass.con"
+dest_files=["res://.godot/imported/xp2_stripmall_office_glass.con-0179ad2b4f7f99d0bccf52b8e631464c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b5uqgqmfxm2ek"
+path="res://.godot/imported/e_mexp_s_leaf.con-c52a177db05b55a139157e4a3e1bec0b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_leaf.con"
+dest_files=["res://.godot/imported/e_mexp_s_leaf.con-c52a177db05b55a139157e4a3e1bec0b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dfyqfl3whx043"
+path="res://.godot/imported/p_wreck_f18_middleengine.bundledmesh-0d7357b6e0ed16c7d36624e2ceae1df0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f18/meshes/p_wreck_f18_middleengine.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f18_middleengine.bundledmesh-0d7357b6e0ed16c7d36624e2ceae1df0.scn"]
+
+[params]
+

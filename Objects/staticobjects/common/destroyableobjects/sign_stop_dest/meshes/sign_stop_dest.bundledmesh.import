@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bopkckven1ab3"
+path="res://.godot/imported/sign_stop_dest.bundledmesh-364f814140e30e324fa1ce149750bb10.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_stop_dest/meshes/sign_stop_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_stop_dest.bundledmesh-364f814140e30e324fa1ce149750bb10.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cp6n444uhf2m4"
+path="res://.godot/imported/e_muzz_shotgun.con-b3957af6424805f941ea16ad55aea238.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_shotgun/e_muzz_shotgun.con"
+dest_files=["res://.godot/imported/e_muzz_shotgun.con-b3957af6424805f941ea16ad55aea238.scn"]
+
+[params]
+

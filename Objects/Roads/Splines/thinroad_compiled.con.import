@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b7w171losdo1l"
+path="res://.godot/imported/thinroad_compiled.con-01d60620830d5c982faf0ff7b0995cce.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/thinroad_compiled.con"
+dest_files=["res://.godot/imported/thinroad_compiled.con-01d60620830d5c982faf0ff7b0995cce.scn"]
+
+[params]
+

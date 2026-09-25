@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://op6oolwdqn58"
+path="res://.godot/imported/chthe_z8.con-0894b3796fadfc9887b5cdcee7d03ed9.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/chthe_z8.con"
+dest_files=["res://.godot/imported/chthe_z8.con-0894b3796fadfc9887b5cdcee7d03ed9.scn"]
+
+[params]
+

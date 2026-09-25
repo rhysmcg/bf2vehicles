@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://3ex0qtgvd35f"
+path="res://.godot/imported/p_sign_authpers_board_03.bundledmesh-99006c0f89ac543ce2dc896b4b0729ae.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_sign/meshes/p_sign_authpers_board_03.bundledmesh"
+dest_files=["res://.godot/imported/p_sign_authpers_board_03.bundledmesh-99006c0f89ac543ce2dc896b4b0729ae.scn"]
+
+[params]
+

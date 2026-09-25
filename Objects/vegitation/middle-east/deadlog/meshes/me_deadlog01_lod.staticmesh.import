@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://vbbdbfnfmpv8"
+path="res://.godot/imported/me_deadlog01_lod.staticmesh-53e90250642d84a9e862735b93914ef9.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/deadlog/meshes/me_deadlog01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_deadlog01_lod.staticmesh-53e90250642d84a9e862735b93914ef9.scn"]
+
+[params]
+

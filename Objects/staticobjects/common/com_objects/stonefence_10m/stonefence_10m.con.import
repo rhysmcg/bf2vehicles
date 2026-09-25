@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0x6canl4ycx1"
+path="res://.godot/imported/stonefence_10m.con-12f3a790862dbc0a96ceb6d944d4a6cf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/stonefence_10m/stonefence_10m.con"
+dest_files=["res://.godot/imported/stonefence_10m.con-12f3a790862dbc0a96ceb6d944d4a6cf.scn"]
+
+[params]
+

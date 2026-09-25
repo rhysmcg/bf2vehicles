@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://t1bewavh7u3s"
+path="res://.godot/imported/aav_type95.con-d8bcdad1f81b6373bbc7bce83f7df3f1.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/aav_type95/aav_type95.con"
+dest_files=["res://.godot/imported/aav_type95.con-d8bcdad1f81b6373bbc7bce83f7df3f1.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtc6tbbwfi5c4"
+path="res://.godot/imported/RR_2Way_XP2.con-0b8623cac1d6a79871cc4be93caf0c17.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/RR_2Way_XP2.con"
+dest_files=["res://.godot/imported/RR_2Way_XP2.con-0b8623cac1d6a79871cc4be93caf0c17.scn"]
+
+[params]
+

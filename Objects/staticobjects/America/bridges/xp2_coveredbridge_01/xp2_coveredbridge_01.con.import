@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://1l6ctihqr3gl"
+path="res://.godot/imported/xp2_coveredbridge_01.con-2a117bcf6c10981fa198ca9de51ced77.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_coveredbridge_01/xp2_coveredbridge_01.con"
+dest_files=["res://.godot/imported/xp2_coveredbridge_01.con-2a117bcf6c10981fa198ca9de51ced77.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://0gqvyknssh1"
+path="res://.godot/imported/nc_slybush01_lod.con-64161e239a79e90734d4060ae47ccc18.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/slybush/nc_slybush01_lod.con"
+dest_files=["res://.godot/imported/nc_slybush01_lod.con-64161e239a79e90734d4060ae47ccc18.scn"]
+
+[params]
+

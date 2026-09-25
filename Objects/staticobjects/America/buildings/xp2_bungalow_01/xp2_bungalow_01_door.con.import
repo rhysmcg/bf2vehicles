@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://crj5mlsgnctse"
+path="res://.godot/imported/xp2_bungalow_01_door.con-e8b641096e0d5898284793b7d107212f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_bungalow_01/xp2_bungalow_01_door.con"
+dest_files=["res://.godot/imported/xp2_bungalow_01_door.con-e8b641096e0d5898284793b7d107212f.scn"]
+
+[params]
+

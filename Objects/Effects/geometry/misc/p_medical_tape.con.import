@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0g1gxtvrmgnt"
+path="res://.godot/imported/p_medical_tape.con-0ec47eee575b1e1b36ab13353c5e8b2e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_tape.con"
+dest_files=["res://.godot/imported/p_medical_tape.con-0ec47eee575b1e1b36ab13353c5e8b2e.scn"]
+
+[params]
+

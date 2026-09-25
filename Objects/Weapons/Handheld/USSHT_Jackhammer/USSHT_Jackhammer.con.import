@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bch1dl6vgx3mk"
+path="res://.godot/imported/USSHT_Jackhammer.con-b819798d2d993630337b405f3bd12d2b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSHT_Jackhammer/USSHT_Jackhammer.con"
+dest_files=["res://.godot/imported/USSHT_Jackhammer.con-b819798d2d993630337b405f3bd12d2b.scn"]
+
+[params]
+

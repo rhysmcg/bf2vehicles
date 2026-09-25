@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7ivlme2w3xob"
+path="res://.godot/imported/e_shardshatter.con-0eec35a166b3715118fb4b9ce3001db7.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/Windows/e_shardshatter.con"
+dest_files=["res://.godot/imported/e_shardshatter.con-0eec35a166b3715118fb4b9ce3001db7.scn"]
+
+[params]
+

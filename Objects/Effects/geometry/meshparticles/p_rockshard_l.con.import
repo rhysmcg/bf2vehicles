@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://j8ekpmc3yncn"
+path="res://.godot/imported/p_rockshard_l.con-e30131f845d9f35b34f9f1fb788a7150.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/meshparticles/p_rockshard_l.con"
+dest_files=["res://.godot/imported/p_rockshard_l.con-e30131f845d9f35b34f9f1fb788a7150.scn"]
+
+[params]
+

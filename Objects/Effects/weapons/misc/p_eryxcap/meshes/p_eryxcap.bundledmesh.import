@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d4nvfvkvyybmn"
+path="res://.godot/imported/p_eryxcap.bundledmesh-0150094685411541d9c7d074e0733eac.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/p_eryxcap/meshes/p_eryxcap.bundledmesh"
+dest_files=["res://.godot/imported/p_eryxcap.bundledmesh-0150094685411541d9c7d074e0733eac.scn"]
+
+[params]
+

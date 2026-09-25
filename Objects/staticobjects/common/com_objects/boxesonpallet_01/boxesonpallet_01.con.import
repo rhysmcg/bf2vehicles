@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://vn5x7wicr2bl"
+path="res://.godot/imported/boxesonpallet_01.con-14a9033806f77043cee93e4eb17597f0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/boxesonpallet_01/boxesonpallet_01.con"
+dest_files=["res://.godot/imported/boxesonpallet_01.con-14a9033806f77043cee93e4eb17597f0.scn"]
+
+[params]
+

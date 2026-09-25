@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhqa5rxw7uoby"
+path="res://.godot/imported/tnk_type98.con-aa928b50e77259924967d741a48e7aec.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Land/tnk_type98/tnk_type98.con"
+dest_files=["res://.godot/imported/tnk_type98.con-aa928b50e77259924967d741a48e7aec.scn"]
+
+[params]
+

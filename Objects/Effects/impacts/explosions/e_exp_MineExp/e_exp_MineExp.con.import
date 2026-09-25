@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0mku78jfhu7"
+path="res://.godot/imported/e_exp_MineExp.con-552e121f16ce847d240437b25034edc8.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/e_exp_MineExp/e_exp_MineExp.con"
+dest_files=["res://.godot/imported/e_exp_MineExp.con-552e121f16ce847d240437b25034edc8.scn"]
+
+[params]
+

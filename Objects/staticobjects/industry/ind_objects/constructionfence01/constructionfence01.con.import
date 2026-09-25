@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8xm0m2h124j7"
+path="res://.godot/imported/constructionfence01.con-5c8a8f129fdd3e9f099447a348cdc44b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/constructionfence01/constructionfence01.con"
+dest_files=["res://.godot/imported/constructionfence01.con-5c8a8f129fdd3e9f099447a348cdc44b.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cej6xucacntwq"
+path="res://.godot/imported/xp2_deserttree_04_lod.con-559f3f6b6be103026098bc6de09c957e.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_deserttree_04_lod/xp2_deserttree_04_lod.con"
+dest_files=["res://.godot/imported/xp2_deserttree_04_lod.con-559f3f6b6be103026098bc6de09c957e.scn"]
+
+[params]
+

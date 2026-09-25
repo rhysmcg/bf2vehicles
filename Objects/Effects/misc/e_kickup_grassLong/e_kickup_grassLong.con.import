@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://2qci0c11jng1"
+path="res://.godot/imported/e_kickup_grassLong.con-8cd01bcd1a819a2ee079254e5b2fef06.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/e_kickup_grassLong/e_kickup_grassLong.con"
+dest_files=["res://.godot/imported/e_kickup_grassLong.con-8cd01bcd1a819a2ee079254e5b2fef06.scn"]
+
+[params]
+

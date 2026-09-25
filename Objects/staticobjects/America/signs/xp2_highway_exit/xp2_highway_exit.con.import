@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dmry3s47unsd"
+path="res://.godot/imported/xp2_highway_exit.con-ee155312f9834bac965a8bbb82f5a31d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highway_exit/xp2_highway_exit.con"
+dest_files=["res://.godot/imported/xp2_highway_exit.con-ee155312f9834bac965a8bbb82f5a31d.scn"]
+
+[params]
+

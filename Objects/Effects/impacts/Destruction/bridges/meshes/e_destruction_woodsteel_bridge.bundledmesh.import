@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://hudt7k8sjp7n"
+path="res://.godot/imported/e_destruction_woodsteel_bridge.bundledmesh-4b7396150e3352d7a6f7a4a4d7913316.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/meshes/e_destruction_woodsteel_bridge.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_woodsteel_bridge.bundledmesh-4b7396150e3352d7a6f7a4a4d7913316.scn"]
+
+[params]
+

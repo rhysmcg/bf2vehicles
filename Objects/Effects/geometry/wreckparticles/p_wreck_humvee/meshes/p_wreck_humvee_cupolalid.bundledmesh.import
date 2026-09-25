@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cscjbjb17cllp"
+path="res://.godot/imported/p_wreck_humvee_cupolalid.bundledmesh-8cb0680668564a6074aa8dc4a25ae00d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_humvee/meshes/p_wreck_humvee_cupolalid.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_humvee_cupolalid.bundledmesh-8cb0680668564a6074aa8dc4a25ae00d.scn"]
+
+[params]
+

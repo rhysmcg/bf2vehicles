@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d2cxtqn1bcqyo"
+path="res://.godot/imported/com_watertower.con-ca54f5ab4245810810c69b058b81244b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/com_watertower/com_watertower.con"
+dest_files=["res://.godot/imported/com_watertower.con-ca54f5ab4245810810c69b058b81244b.scn"]
+
+[params]
+

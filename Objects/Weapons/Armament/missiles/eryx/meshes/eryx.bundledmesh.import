@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhf8qk1vy8im5"
+path="res://.godot/imported/eryx.bundledmesh-897129b7cdb56245960b4e3c5c271133.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/eryx/meshes/eryx.bundledmesh"
+dest_files=["res://.godot/imported/eryx.bundledmesh-897129b7cdb56245960b4e3c5c271133.scn"]
+
+[params]
+

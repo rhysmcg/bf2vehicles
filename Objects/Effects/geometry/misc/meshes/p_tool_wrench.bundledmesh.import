@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cc42hfdd5rd05"
+path="res://.godot/imported/p_tool_wrench.bundledmesh-c1561ecc58ce7c87bce070db8e21d0b6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/meshes/p_tool_wrench.bundledmesh"
+dest_files=["res://.godot/imported/p_tool_wrench.bundledmesh-c1561ecc58ce7c87bce070db8e21d0b6.scn"]
+
+[params]
+

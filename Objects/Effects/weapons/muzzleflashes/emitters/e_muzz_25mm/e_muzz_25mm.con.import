@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://doglxtcgseymn"
+path="res://.godot/imported/e_muzz_25mm.con-79bedb45469a8f1cb4543a6232ef3057.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_25mm/e_muzz_25mm.con"
+dest_files=["res://.godot/imported/e_muzz_25mm.con-79bedb45469a8f1cb4543a6232ef3057.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://n43vsyu3ahpm"
+path="res://.godot/imported/toolshed.staticmesh-8c65d25c712d0740ab92971962543fbf.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/toolshed/meshes/toolshed.staticmesh"
+dest_files=["res://.godot/imported/toolshed.staticmesh-8c65d25c712d0740ab92971962543fbf.scn"]
+
+[params]
+

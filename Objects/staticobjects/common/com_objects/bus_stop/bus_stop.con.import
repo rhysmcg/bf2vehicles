@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b8kmv2abbthuk"
+path="res://.godot/imported/bus_stop.con-f7b1204aef53db4f1ad0cb2581a683ae.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/bus_stop/bus_stop.con"
+dest_files=["res://.godot/imported/bus_stop.con-f7b1204aef53db4f1ad0cb2581a683ae.scn"]
+
+[params]
+

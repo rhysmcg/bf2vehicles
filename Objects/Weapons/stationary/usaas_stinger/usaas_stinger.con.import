@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://lxwspt8llgm4"
+path="res://.godot/imported/usaas_stinger.con-eafb74d6cb305d806d24befe2c038129.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/usaas_stinger/usaas_stinger.con"
+dest_files=["res://.godot/imported/usaas_stinger.con-eafb74d6cb305d806d24befe2c038129.scn"]
+
+[params]
+

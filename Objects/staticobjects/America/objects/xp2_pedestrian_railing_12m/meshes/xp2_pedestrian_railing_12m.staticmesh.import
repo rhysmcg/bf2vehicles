@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dcihywnww5rfp"
+path="res://.godot/imported/xp2_pedestrian_railing_12m.staticmesh-1cb104efadb44f31aae7d0d3732d138e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_pedestrian_railing_12m/meshes/xp2_pedestrian_railing_12m.staticmesh"
+dest_files=["res://.godot/imported/xp2_pedestrian_railing_12m.staticmesh-1cb104efadb44f31aae7d0d3732d138e.scn"]
+
+[params]
+

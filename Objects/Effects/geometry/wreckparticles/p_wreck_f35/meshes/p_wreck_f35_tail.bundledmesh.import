@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://4ikb0egj5hix"
+path="res://.godot/imported/p_wreck_f35_tail.bundledmesh-d1f22f8ee5d64300b81354d69b9eb648.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_f35/meshes/p_wreck_f35_tail.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_f35_tail.bundledmesh-d1f22f8ee5d64300b81354d69b9eb648.scn"]
+
+[params]
+

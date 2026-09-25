@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bfbg22bfi5j3d"
+path="res://.godot/imported/e_mexp_Ni_Mud.con-880c2240d5e18415bf655cf3da4dd49b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/NormalImpacts/e_mexp_Ni_Mud.con"
+dest_files=["res://.godot/imported/e_mexp_Ni_Mud.con-880c2240d5e18415bf655cf3da4dd49b.scn"]
+
+[params]
+

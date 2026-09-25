@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cx2jqg4v603b2"
+path="res://.godot/imported/e_ade_helidraft_Gravel.con-5b764b3c8744321cd8fb1c18243e98ce.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/e_ade_helidraft_Gravel.con"
+dest_files=["res://.godot/imported/e_ade_helidraft_Gravel.con-5b764b3c8744321cd8fb1c18243e98ce.scn"]
+
+[params]
+

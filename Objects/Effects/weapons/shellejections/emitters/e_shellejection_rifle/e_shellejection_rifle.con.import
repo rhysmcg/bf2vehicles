@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://oiyyyy6ximuc"
+path="res://.godot/imported/e_shellejection_rifle.con-65568505ec734e052a308f06b034b221.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/emitters/e_shellejection_rifle/e_shellejection_rifle.con"
+dest_files=["res://.godot/imported/e_shellejection_rifle.con-65568505ec734e052a308f06b034b221.scn"]
+
+[params]
+

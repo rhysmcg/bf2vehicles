@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c8c7qsmawf1k3"
+path="res://.godot/imported/xp2_recyclingdumpster_01.staticmesh-d3211a39a442311da287c7f3cef72d6b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_recyclingdumpster_01/meshes/xp2_recyclingdumpster_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_recyclingdumpster_01.staticmesh-d3211a39a442311da287c7f3cef72d6b.scn"]
+
+[params]
+

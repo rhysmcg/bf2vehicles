@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dw6rmh7cxckqf"
+path="res://.godot/imported/kh29_kedge_tv.con-07270434943a77eaea8f8cec9ccfe04d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/kh29_kedge_tv/kh29_kedge_tv.con"
+dest_files=["res://.godot/imported/kh29_kedge_tv.con-07270434943a77eaea8f8cec9ccfe04d.scn"]
+
+[params]
+

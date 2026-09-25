@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bdbhslokgtxgh"
+path="res://.godot/imported/mk82_500_ret_bomb.bundledmesh-4e424937b3e2a222cc64327ac8b522d6.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/mk82_500_ret_bomb/meshes/mk82_500_ret_bomb.bundledmesh"
+dest_files=["res://.godot/imported/mk82_500_ret_bomb.bundledmesh-4e424937b3e2a222cc64327ac8b522d6.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://da3msojaxat0t"
+path="res://.godot/imported/me_flowerpot01_lod.staticmesh-7af569f6c7d39b2afe64d043c3fb6287.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/flowerpot/meshes/me_flowerpot01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_flowerpot01_lod.staticmesh-7af569f6c7d39b2afe64d043c3fb6287.scn"]
+
+[params]
+

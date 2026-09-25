@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3h6db6840m22"
+path="res://.godot/imported/e_bhit_l_CeramicTiles.con-908ff01a9bb1c535725c0055eaf29cbc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/Large/e_bhit_l_CeramicTiles.con"
+dest_files=["res://.godot/imported/e_bhit_l_CeramicTiles.con-908ff01a9bb1c535725c0055eaf29cbc.scn"]
+
+[params]
+

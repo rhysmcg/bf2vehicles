@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bis5c3kik7du3"
+path="res://.godot/imported/basket_hoops.con-7e6c37dec2b68223c48915bb670fe1d3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/basket_hoops/basket_hoops.con"
+dest_files=["res://.godot/imported/basket_hoops.con-7e6c37dec2b68223c48915bb670fe1d3.scn"]
+
+[params]
+

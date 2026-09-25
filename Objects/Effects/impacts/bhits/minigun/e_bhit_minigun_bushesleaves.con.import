@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cmy7frv5gevp1"
+path="res://.godot/imported/e_bhit_minigun_bushesleaves.con-5ab16f42889a125d71122b9fca74f23a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/minigun/e_bhit_minigun_bushesleaves.con"
+dest_files=["res://.godot/imported/e_bhit_minigun_bushesleaves.con-5ab16f42889a125d71122b9fca74f23a.scn"]
+
+[params]
+

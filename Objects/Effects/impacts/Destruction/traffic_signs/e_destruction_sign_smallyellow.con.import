@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dtavu4aj65fio"
+path="res://.godot/imported/e_destruction_sign_smallyellow.con-a1a21dfc45578e74e23a0472a2330fb2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/traffic_signs/e_destruction_sign_smallyellow.con"
+dest_files=["res://.godot/imported/e_destruction_sign_smallyellow.con-a1a21dfc45578e74e23a0472a2330fb2.scn"]
+
+[params]
+

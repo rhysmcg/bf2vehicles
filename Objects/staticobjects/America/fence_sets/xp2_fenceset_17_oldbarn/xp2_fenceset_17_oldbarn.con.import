@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bbijt7rejupy6"
+path="res://.godot/imported/xp2_fenceset_17_oldbarn.con-15647dad1987b2b87514ac01de495b8d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/fence_sets/xp2_fenceset_17_oldbarn/xp2_fenceset_17_oldbarn.con"
+dest_files=["res://.godot/imported/xp2_fenceset_17_oldbarn.con-15647dad1987b2b87514ac01de495b8d.scn"]
+
+[params]
+

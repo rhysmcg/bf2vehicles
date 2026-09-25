@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://drag1b01knugx"
+path="res://.godot/imported/materialManagerSettings.con-cd03bc98ab96ea0a27ed8ef890a4b036.scn"
+
+[deps]
+
+source_file="res://Common/Material/materialManagerSettings.con"
+dest_files=["res://.godot/imported/materialManagerSettings.con-cd03bc98ab96ea0a27ed8ef890a4b036.scn"]
+
+[params]
+

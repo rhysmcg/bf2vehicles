@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://brwsyc5hf5ovc"
+path="res://.godot/imported/rurif_ak47.con-be92d048254ee2e77c8360713c28bae9.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_AK47/rurif_ak47.con"
+dest_files=["res://.godot/imported/rurif_ak47.con-be92d048254ee2e77c8360713c28bae9.scn"]
+
+[params]
+

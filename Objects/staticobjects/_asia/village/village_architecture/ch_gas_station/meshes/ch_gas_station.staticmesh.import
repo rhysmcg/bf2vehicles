@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bets73rqvlted"
+path="res://.godot/imported/ch_gas_station.staticmesh-8597a55d8ac202e6baf97994de759922.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_gas_station/meshes/ch_gas_station.staticmesh"
+dest_files=["res://.godot/imported/ch_gas_station.staticmesh-8597a55d8ac202e6baf97994de759922.scn"]
+
+[params]
+

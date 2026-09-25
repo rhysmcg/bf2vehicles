@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://qsgmiksalfvw"
+path="res://.godot/imported/vent_pipe_curve90deg.con-4f0468337537dc40416a168fd77ef5c0.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/vent_pipe_curve90deg/vent_pipe_curve90deg.con"
+dest_files=["res://.godot/imported/vent_pipe_curve90deg.con-4f0468337537dc40416a168fd77ef5c0.scn"]
+
+[params]
+

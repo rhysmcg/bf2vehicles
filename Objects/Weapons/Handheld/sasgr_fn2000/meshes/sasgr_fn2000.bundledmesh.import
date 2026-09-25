@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d35ya3iyssv1a"
+path="res://.godot/imported/sasgr_fn2000.bundledmesh-e5fa88597543c70b6a007aaa943d7822.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/sasgr_fn2000/meshes/sasgr_fn2000.bundledmesh"
+dest_files=["res://.godot/imported/sasgr_fn2000.bundledmesh-e5fa88597543c70b6a007aaa943d7822.scn"]
+
+[params]
+

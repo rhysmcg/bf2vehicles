@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chpvr3ujtnsnl"
+path="res://.godot/imported/coolingtower_01.con-4b2ed3f6d23a67419d68afe8d30b5618.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/coolingtower/coolingtower_01/coolingtower_01.con"
+dest_files=["res://.godot/imported/coolingtower_01.con-4b2ed3f6d23a67419d68afe8d30b5618.scn"]
+
+[params]
+

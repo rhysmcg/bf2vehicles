@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c3r2kwdnugaic"
+path="res://.godot/imported/p_sign_yieldright.con-3bf6f1fd934a075546c9f23c08ba6303.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_yieldright.con"
+dest_files=["res://.godot/imported/p_sign_yieldright.con-3bf6f1fd934a075546c9f23c08ba6303.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://p53s7tnma2x5"
+path="res://.godot/imported/concretebarrier_2.con-adb88d0e5730146178a57836d2bce546.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/concretebarrier/concretebarrier_2.con"
+dest_files=["res://.godot/imported/concretebarrier_2.con-adb88d0e5730146178a57836d2bce546.scn"]
+
+[params]
+

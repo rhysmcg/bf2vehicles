@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://tup2jj0oj2mf"
+path="res://.godot/imported/rockpile_small.staticmesh-587daf1a97c8639ba2433d8caf5b5872.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/rockpile_small/meshes/rockpile_small.staticmesh"
+dest_files=["res://.godot/imported/rockpile_small.staticmesh-587daf1a97c8639ba2433d8caf5b5872.scn"]
+
+[params]
+

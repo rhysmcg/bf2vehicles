@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bce0vs2akvjse"
+path="res://.godot/imported/temple_jetty.staticmesh-4d0ca9dcd0ef681537d5c08d3c5a0ee9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/ruins/temple_jetty/meshes/temple_jetty.staticmesh"
+dest_files=["res://.godot/imported/temple_jetty.staticmesh-4d0ca9dcd0ef681537d5c08d3c5a0ee9.scn"]
+
+[params]
+

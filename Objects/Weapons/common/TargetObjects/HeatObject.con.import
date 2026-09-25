@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ts64bkfi7uu2"
+path="res://.godot/imported/HeatObject.con-1a5a2cebbc7628a4a68b7e0b20bd68a1.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/TargetObjects/HeatObject.con"
+dest_files=["res://.godot/imported/HeatObject.con-1a5a2cebbc7628a4a68b7e0b20bd68a1.scn"]
+
+[params]
+

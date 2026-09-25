@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dfb6v46f2cmom"
+path="res://.godot/imported/e_footstep_Water.con-bb5430c5744d6b9e3771629131ed3928.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/FootSteps/e_footstep_Water.con"
+dest_files=["res://.godot/imported/e_footstep_Water.con-bb5430c5744d6b9e3771629131ed3928.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d7emj3vronhh"
+path="res://.godot/imported/wirefence_24m.staticmesh-ea581b7c09714fa9a14a245d17d2a49d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_midnightsun/xp2_wirefence_01/com_objects/wirefence_24m/meshes/wirefence_24m.staticmesh"
+dest_files=["res://.godot/imported/wirefence_24m.staticmesh-ea581b7c09714fa9a14a245d17d2a49d.scn"]
+
+[params]
+

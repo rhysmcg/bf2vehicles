@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bidpn1q0w3mvp"
+path="res://.godot/imported/me_stnbrdg.con-bb05ae6f76262eb38c58beab27cedf75.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/me_stnbrdg/me_stnbrdg.con"
+dest_files=["res://.godot/imported/me_stnbrdg.con-bb05ae6f76262eb38c58beab27cedf75.scn"]
+
+[params]
+

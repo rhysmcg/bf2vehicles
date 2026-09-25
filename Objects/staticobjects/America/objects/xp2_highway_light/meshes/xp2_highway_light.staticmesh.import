@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bt83x88s5bbii"
+path="res://.godot/imported/xp2_highway_light.staticmesh-7909b5cf1630b72e19786539ac858c97.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_highway_light/meshes/xp2_highway_light.staticmesh"
+dest_files=["res://.godot/imported/xp2_highway_light.staticmesh-7909b5cf1630b72e19786539ac858c97.scn"]
+
+[params]
+

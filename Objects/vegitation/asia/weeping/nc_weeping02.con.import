@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://4pa4q2pklh72"
+path="res://.godot/imported/nc_weeping02.con-c9fde77d56b0acf0c0600523047d0fb1.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/asia/weeping/nc_weeping02.con"
+dest_files=["res://.godot/imported/nc_weeping02.con-c9fde77d56b0acf0c0600523047d0fb1.scn"]
+
+[params]
+

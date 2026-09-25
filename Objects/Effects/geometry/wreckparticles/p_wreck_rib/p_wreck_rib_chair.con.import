@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ck48ikodhf546"
+path="res://.godot/imported/p_wreck_rib_chair.con-8ed360fb47944a4612961aa9735345dc.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_rib/p_wreck_rib_chair.con"
+dest_files=["res://.godot/imported/p_wreck_rib_chair.con-8ed360fb47944a4612961aa9735345dc.scn"]
+
+[params]
+

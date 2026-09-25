@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bmk4dx646rlvr"
+path="res://.godot/imported/train_cargowag_02_ladder.staticmesh-3f528f40879c857fa049615af93809c5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/train_cargowag_02/meshes/train_cargowag_02_ladder.staticmesh"
+dest_files=["res://.godot/imported/train_cargowag_02_ladder.staticmesh-3f528f40879c857fa049615af93809c5.scn"]
+
+[params]
+

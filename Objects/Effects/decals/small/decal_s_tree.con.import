@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b6cp7yjmpcy7u"
+path="res://.godot/imported/decal_s_tree.con-0d36710623ac2676cc1d079d20fd65da.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_tree.con"
+dest_files=["res://.godot/imported/decal_s_tree.con-0d36710623ac2676cc1d079d20fd65da.scn"]
+
+[params]
+

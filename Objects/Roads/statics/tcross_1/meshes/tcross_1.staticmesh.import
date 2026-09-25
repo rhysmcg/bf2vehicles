@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cw14qcri7257"
+path="res://.godot/imported/tcross_1.staticmesh-8ccd1f17e8c1ad1ac859d350f8e8a2a6.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/tcross_1/meshes/tcross_1.staticmesh"
+dest_files=["res://.godot/imported/tcross_1.staticmesh-8ccd1f17e8c1ad1ac859d350f8e8a2a6.scn"]
+
+[params]
+

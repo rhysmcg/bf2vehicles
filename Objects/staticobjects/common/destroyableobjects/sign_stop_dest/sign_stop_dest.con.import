@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://3y0aknn8y84b"
+path="res://.godot/imported/sign_stop_dest.con-4c7c386204517f7d2926a930802ea49f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_stop_dest/sign_stop_dest.con"
+dest_files=["res://.godot/imported/sign_stop_dest.con-4c7c386204517f7d2926a930802ea49f.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cc2c0f1plyl3p"
+path="res://.godot/imported/e_vexp_nanjing.con-3883d5317520a30022c9b3bfc3f6b83a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_nanjing/e_vexp_nanjing.con"
+dest_files=["res://.godot/imported/e_vexp_nanjing.con-3883d5317520a30022c9b3bfc3f6b83a.scn"]
+
+[params]
+

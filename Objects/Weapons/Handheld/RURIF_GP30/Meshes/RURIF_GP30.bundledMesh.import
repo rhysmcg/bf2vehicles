@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5neue2vcxcuj"
+path="res://.godot/imported/RURIF_GP30.bundledMesh-9cd1c50ae6ef999ee07abe652ef27375.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP30/Meshes/RURIF_GP30.bundledMesh"
+dest_files=["res://.godot/imported/RURIF_GP30.bundledMesh-9cd1c50ae6ef999ee07abe652ef27375.scn"]
+
+[params]
+

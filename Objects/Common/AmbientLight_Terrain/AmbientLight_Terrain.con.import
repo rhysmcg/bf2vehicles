@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c5uggqtwiayil"
+path="res://.godot/imported/AmbientLight_Terrain.con-2f72034d270274574edcbf890d6b6319.scn"
+
+[deps]
+
+source_file="res://Objects/Common/AmbientLight_Terrain/AmbientLight_Terrain.con"
+dest_files=["res://.godot/imported/AmbientLight_Terrain.con-2f72034d270274574edcbf890d6b6319.scn"]
+
+[params]
+

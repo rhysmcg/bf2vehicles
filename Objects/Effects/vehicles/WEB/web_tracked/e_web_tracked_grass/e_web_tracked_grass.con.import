@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dyxb44xhd2q88"
+path="res://.godot/imported/e_web_tracked_grass.con-0bcbefb6f6f21c140eefbe3e6754824e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_grass/e_web_tracked_grass.con"
+dest_files=["res://.godot/imported/e_web_tracked_grass.con-0bcbefb6f6f21c140eefbe3e6754824e.scn"]
+
+[params]
+

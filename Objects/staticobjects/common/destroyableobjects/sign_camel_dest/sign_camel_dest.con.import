@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4lk5wsnefgv4"
+path="res://.godot/imported/sign_camel_dest.con-c1aea78cc78fa8fd8819fa5c36225f33.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_camel_dest/sign_camel_dest.con"
+dest_files=["res://.godot/imported/sign_camel_dest.con-c1aea78cc78fa8fd8819fa5c36225f33.scn"]
+
+[params]
+

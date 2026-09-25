@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dhiu2n3lg3ya3"
+path="res://.godot/imported/mi_hangar_us.con-4f7492138160f0ae8c1a208fab3457b3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/mi_hangar_us/mi_hangar_us.con"
+dest_files=["res://.godot/imported/mi_hangar_us.con-4f7492138160f0ae8c1a208fab3457b3.scn"]
+
+[params]
+

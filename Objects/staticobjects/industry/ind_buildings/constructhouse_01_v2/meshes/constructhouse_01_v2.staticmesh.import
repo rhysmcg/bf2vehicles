@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dhl1sxx8r0jwj"
+path="res://.godot/imported/constructhouse_01_v2.staticmesh-534d500603dc3f4a404d92651ef314eb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/constructhouse_01_v2/meshes/constructhouse_01_v2.staticmesh"
+dest_files=["res://.godot/imported/constructhouse_01_v2.staticmesh-534d500603dc3f4a404d92651ef314eb.scn"]
+
+[params]
+

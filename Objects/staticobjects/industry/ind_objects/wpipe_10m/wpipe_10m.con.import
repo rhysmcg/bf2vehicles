@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cuwnoaqixbnfb"
+path="res://.godot/imported/wpipe_10m.con-ba62fb159a64b89dadd49631dcc5ae42.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/wpipe_10m/wpipe_10m.con"
+dest_files=["res://.godot/imported/wpipe_10m.con-ba62fb159a64b89dadd49631dcc5ae42.scn"]
+
+[params]
+

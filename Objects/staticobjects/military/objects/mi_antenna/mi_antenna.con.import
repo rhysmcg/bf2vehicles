@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dxmt3njmpwg1d"
+path="res://.godot/imported/mi_antenna.con-5dc2862d3b64ee851428aebe91d57561.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/mi_antenna/mi_antenna.con"
+dest_files=["res://.godot/imported/mi_antenna.con-5dc2862d3b64ee851428aebe91d57561.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://pkx3oyvtlrp0"
+path="res://.godot/imported/p_wreck_faav_wheel.con-e6a641ce12846b4f1d62743378ca3fa0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_faav/p_wreck_faav_wheel.con"
+dest_files=["res://.godot/imported/p_wreck_faav_wheel.con-e6a641ce12846b4f1d62743378ca3fa0.scn"]
+
+[params]
+

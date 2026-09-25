@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d0blukwg77ni4"
+path="res://.godot/imported/MEC_Specops.con-9e2657a1d089eb07bc76735c06d4860e.scn"
+
+[deps]
+
+source_file="res://Objects/Kits/Mec/MEC_Specops.con"
+dest_files=["res://.godot/imported/MEC_Specops.con-9e2657a1d089eb07bc76735c06d4860e.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dedtf6e1nl73v"
+path="res://.godot/imported/xp2_cafe_01.staticmesh-16a94f5da8a6f800a0c0e2ec9c9b7f5e.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_cafe_01/meshes/xp2_cafe_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_cafe_01.staticmesh-16a94f5da8a6f800a0c0e2ec9c9b7f5e.scn"]
+
+[params]
+

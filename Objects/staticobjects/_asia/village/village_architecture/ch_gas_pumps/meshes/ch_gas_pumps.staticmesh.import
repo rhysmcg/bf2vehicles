@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dyofhim8fsw4w"
+path="res://.godot/imported/ch_gas_pumps.staticmesh-5f5037d046dc08679fd7500d790e0b8a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_gas_pumps/meshes/ch_gas_pumps.staticmesh"
+dest_files=["res://.godot/imported/ch_gas_pumps.staticmesh-5f5037d046dc08679fd7500d790e0b8a.scn"]
+
+[params]
+

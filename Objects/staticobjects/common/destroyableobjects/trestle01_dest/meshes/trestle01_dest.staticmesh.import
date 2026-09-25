@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cdbfsngn66860"
+path="res://.godot/imported/trestle01_dest.staticmesh-df88317478d9ec2866c5e49b2e89f6f8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/trestle01_dest/meshes/trestle01_dest.staticmesh"
+dest_files=["res://.godot/imported/trestle01_dest.staticmesh-df88317478d9ec2866c5e49b2e89f6f8.scn"]
+
+[params]
+

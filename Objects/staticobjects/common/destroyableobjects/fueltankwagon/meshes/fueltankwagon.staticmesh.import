@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dq5iccryu65wf"
+path="res://.godot/imported/fueltankwagon.staticmesh-5622873b0112ccb2f4fad82d81a929e6.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fueltankwagon/meshes/fueltankwagon.staticmesh"
+dest_files=["res://.godot/imported/fueltankwagon.staticmesh-5622873b0112ccb2f4fad82d81a929e6.scn"]
+
+[params]
+

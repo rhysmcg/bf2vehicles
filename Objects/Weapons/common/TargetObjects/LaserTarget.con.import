@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://br7gg34cd1yc2"
+path="res://.godot/imported/LaserTarget.con-e5a8723e748274e156365cf33799cec9.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/TargetObjects/LaserTarget.con"
+dest_files=["res://.godot/imported/LaserTarget.con-e5a8723e748274e156365cf33799cec9.scn"]
+
+[params]
+

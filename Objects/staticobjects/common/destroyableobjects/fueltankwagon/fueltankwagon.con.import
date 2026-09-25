@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://byumq5xx8x4to"
+path="res://.godot/imported/fueltankwagon.con-1bf8d59c7388aa5cb38fdf809c1897f5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/fueltankwagon/fueltankwagon.con"
+dest_files=["res://.godot/imported/fueltankwagon.con-1bf8d59c7388aa5cb38fdf809c1897f5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b2p2nkenykqa7"
+path="res://.godot/imported/xp2_streetlight_01.staticmesh-3af56380415c969352da16276d3f7d1a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_streetlight_01/meshes/xp2_streetlight_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_streetlight_01.staticmesh-3af56380415c969352da16276d3f7d1a.scn"]
+
+[params]
+

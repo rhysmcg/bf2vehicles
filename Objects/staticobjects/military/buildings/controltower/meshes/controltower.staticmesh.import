@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dsyb4fj4fcr75"
+path="res://.godot/imported/controltower.staticmesh-dd149f8b02ec9d24ccf0a1d22456c1b9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/buildings/controltower/meshes/controltower.staticmesh"
+dest_files=["res://.godot/imported/controltower.staticmesh-dd149f8b02ec9d24ccf0a1d22456c1b9.scn"]
+
+[params]
+

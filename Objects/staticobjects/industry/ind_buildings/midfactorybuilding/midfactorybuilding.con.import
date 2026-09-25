@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bm2mguqio2fpg"
+path="res://.godot/imported/midfactorybuilding.con-6dedd4ddd2659ebeff6fe04830a00375.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/midfactorybuilding/midfactorybuilding.con"
+dest_files=["res://.godot/imported/midfactorybuilding.con-6dedd4ddd2659ebeff6fe04830a00375.scn"]
+
+[params]
+

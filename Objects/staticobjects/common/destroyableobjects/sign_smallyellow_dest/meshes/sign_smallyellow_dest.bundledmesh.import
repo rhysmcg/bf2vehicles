@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ds8ksj0kj4d0"
+path="res://.godot/imported/sign_smallyellow_dest.bundledmesh-bcd933889b03b3f5cc8916d3fc3dca1a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/sign_smallyellow_dest/meshes/sign_smallyellow_dest.bundledmesh"
+dest_files=["res://.godot/imported/sign_smallyellow_dest.bundledmesh-bcd933889b03b3f5cc8916d3fc3dca1a.scn"]
+
+[params]
+

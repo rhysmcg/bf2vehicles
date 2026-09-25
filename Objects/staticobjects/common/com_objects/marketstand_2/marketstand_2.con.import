@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://662whuukpuhc"
+path="res://.godot/imported/marketstand_2.con-a10335429080db0f3035f73b92df4f9b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/marketstand_2/marketstand_2.con"
+dest_files=["res://.godot/imported/marketstand_2.con-a10335429080db0f3035f73b92df4f9b.scn"]
+
+[params]
+

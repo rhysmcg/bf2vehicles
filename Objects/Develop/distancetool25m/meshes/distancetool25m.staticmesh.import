@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://btp2yd3ul37s7"
+path="res://.godot/imported/distancetool25m.staticmesh-de536657fefba402e37efa0a1a9eea28.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/distancetool25m/meshes/distancetool25m.staticmesh"
+dest_files=["res://.godot/imported/distancetool25m.staticmesh-de536657fefba402e37efa0a1a9eea28.scn"]
+
+[params]
+

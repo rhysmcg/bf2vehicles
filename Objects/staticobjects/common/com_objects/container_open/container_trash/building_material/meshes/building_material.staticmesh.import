@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://de4nfspng7134"
+path="res://.godot/imported/building_material.staticmesh-259d08044a8db27f2eae231555d88d27.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/container_open/container_trash/building_material/meshes/building_material.staticmesh"
+dest_files=["res://.godot/imported/building_material.staticmesh-259d08044a8db27f2eae231555d88d27.scn"]
+
+[params]
+

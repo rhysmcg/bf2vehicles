@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dw4tj0g2w1s7p"
+path="res://.godot/imported/fishing_hut_pole.con-38cc99cd9429094deed5eafaaffa09fd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/village_buildings/fishing_hut_pole/fishing_hut_pole.con"
+dest_files=["res://.godot/imported/fishing_hut_pole.con-38cc99cd9429094deed5eafaaffa09fd.scn"]
+
+[params]
+

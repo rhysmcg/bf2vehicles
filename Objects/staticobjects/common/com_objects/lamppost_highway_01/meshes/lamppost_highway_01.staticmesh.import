@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br5ntjgtpu20u"
+path="res://.godot/imported/lamppost_highway_01.staticmesh-0418b0fbab58271cb6b567fd7799f5c7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lamppost_highway_01/meshes/lamppost_highway_01.staticmesh"
+dest_files=["res://.godot/imported/lamppost_highway_01.staticmesh-0418b0fbab58271cb6b567fd7799f5c7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bl1m8pk4gspqx"
+path="res://.godot/imported/Networkables.con-ef8950f85e543430b49b414018088be1.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Networkables.con"
+dest_files=["res://.godot/imported/Networkables.con-ef8950f85e543430b49b414018088be1.scn"]
+
+[params]
+

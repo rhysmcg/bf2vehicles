@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccyrdjk5w8itl"
+path="res://.godot/imported/hmg_m2hb_ammobox.con-6817256c2b38ff20efc6aae559143400.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/hmg_m2hb_ammobox/hmg_m2hb_ammobox.con"
+dest_files=["res://.godot/imported/hmg_m2hb_ammobox.con-6817256c2b38ff20efc6aae559143400.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bmr34p8obc6mr"
+path="res://.godot/imported/tunguskacap.con-b4fe6e01a6de754edcbadcc8dc87e470.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Common/tunguska_cap/tunguskacap.con"
+dest_files=["res://.godot/imported/tunguskacap.con-b4fe6e01a6de754edcbadcc8dc87e470.scn"]
+
+[params]
+

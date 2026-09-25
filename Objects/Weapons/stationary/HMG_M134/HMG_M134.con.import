@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ko32ero75ovm"
+path="res://.godot/imported/HMG_M134.con-f2d1ee3006410941a4cbfa49f23137ae.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/HMG_M134/HMG_M134.con"
+dest_files=["res://.godot/imported/HMG_M134.con-f2d1ee3006410941a4cbfa49f23137ae.scn"]
+
+[params]
+

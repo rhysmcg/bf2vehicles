@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkqeb0yt2huqh"
+path="res://.godot/imported/sidewalk_2.con-071c48189918d6646ce413c972790761.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/sidewalk_2/sidewalk_2.con"
+dest_files=["res://.godot/imported/sidewalk_2.con-071c48189918d6646ce413c972790761.scn"]
+
+[params]
+

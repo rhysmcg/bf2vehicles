@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ccvfidq0nmove"
+path="res://.godot/imported/eurif_famas.con-fad9eeb190c7b3dbbee79ca70063bd9f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/eurif_famas/eurif_famas.con"
+dest_files=["res://.godot/imported/eurif_famas.con-fad9eeb190c7b3dbbee79ca70063bd9f.scn"]
+
+[params]
+

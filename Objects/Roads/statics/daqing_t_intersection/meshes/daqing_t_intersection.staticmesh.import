@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://fg3ofwkidski"
+path="res://.godot/imported/daqing_t_intersection.staticmesh-fd38d3d4ef408ed4a134cc9710689820.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/daqing_t_intersection/meshes/daqing_t_intersection.staticmesh"
+dest_files=["res://.godot/imported/daqing_t_intersection.staticmesh-fd38d3d4ef408ed4a134cc9710689820.scn"]
+
+[params]
+

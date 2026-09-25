@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cqfpj047wq5sh"
+path="res://.godot/imported/e_destruction_cart_dest.con-d0d54f13dad8f4cc2d1628fb03ad22f4.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_cart_dest.con"
+dest_files=["res://.godot/imported/e_destruction_cart_dest.con-d0d54f13dad8f4cc2d1628fb03ad22f4.scn"]
+
+[params]
+

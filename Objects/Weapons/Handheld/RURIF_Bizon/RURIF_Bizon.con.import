@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://byu4iavax3gjw"
+path="res://.godot/imported/RURIF_Bizon.con-c8ba7198de15be78b441ef699fe702bc.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_Bizon/RURIF_Bizon.con"
+dest_files=["res://.godot/imported/RURIF_Bizon.con-c8ba7198de15be78b441ef699fe702bc.scn"]
+
+[params]
+

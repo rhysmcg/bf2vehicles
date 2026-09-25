@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ckrxt4udatnq5"
+path="res://.godot/imported/e_mexp_s_muddywater.con-706af4ef439eccbfca0c1db6d0a8389a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/mexp/small/e_mexp_s_muddywater.con"
+dest_files=["res://.godot/imported/e_mexp_s_muddywater.con-706af4ef439eccbfca0c1db6d0a8389a.scn"]
+
+[params]
+

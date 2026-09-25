@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dsphyhv8sjx6o"
+path="res://.godot/imported/SoundHouse.con-b3b48d216f921db97e7fc2902dcb4085.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/SoundHouse/SoundHouse.con"
+dest_files=["res://.godot/imported/SoundHouse.con-b3b48d216f921db97e7fc2902dcb4085.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://yhvq0b7b1r8o"
+path="res://.godot/imported/powerline.con-2791162b5b7638dc376222455c8f3301.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/powerline/powerline.con"
+dest_files=["res://.godot/imported/powerline.con-2791162b5b7638dc376222455c8f3301.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://br02fmhua0hgr"
+path="res://.godot/imported/vine_straight_01_lod.con-78cf316b14d1d43fc6101f68fd6300b5.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/jungle/vine_straight_01/vine_straight_01_lod.con"
+dest_files=["res://.godot/imported/vine_straight_01_lod.con-78cf316b14d1d43fc6101f68fd6300b5.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dvorkv7x4cqew"
+path="res://.godot/imported/ahe_ah1z.con-ad0e1a33cba42b57efa05b863999b7a5.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/ahe_ah1z/ahe_ah1z.con"
+dest_files=["res://.godot/imported/ahe_ah1z.con-ad0e1a33cba42b57efa05b863999b7a5.scn"]
+
+[params]
+

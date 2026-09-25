@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cyyel11s3wglv"
+path="res://.godot/imported/USTHE_UH60_TailRotor.con-ecc54204a3ea71d82de8440e1cedbd64.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/USTHE_UH60_TailRotor/USTHE_UH60_TailRotor.con"
+dest_files=["res://.godot/imported/USTHE_UH60_TailRotor.con-ecc54204a3ea71d82de8440e1cedbd64.scn"]
+
+[params]
+

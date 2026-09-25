@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://chdik8xl0bp7v"
+path="res://.godot/imported/ushgr_m67.con-cddf74c1b614365ac6c63a05472e345f.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/ushgr_m67/ushgr_m67.con"
+dest_files=["res://.godot/imported/ushgr_m67.con-cddf74c1b614365ac6c63a05472e345f.scn"]
+
+[params]
+

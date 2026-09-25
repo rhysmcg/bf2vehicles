@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bxe7afpkag0fv"
+path="res://.godot/imported/CHAT_ERYX.bundledMesh-9fbb76adc210abb8907125a42138ef54.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/CHAT_ERYX/Meshes/CHAT_ERYX.bundledMesh"
+dest_files=["res://.godot/imported/CHAT_ERYX.bundledMesh-9fbb76adc210abb8907125a42138ef54.scn"]
+
+[params]
+

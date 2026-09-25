@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ce8dv2fcj1gq4"
+path="res://.godot/imported/p_wreck_t90_turret.con-90616a68ae93047263c659ccb5b300b0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_t90/p_wreck_t90_turret.con"
+dest_files=["res://.godot/imported/p_wreck_t90_turret.con-90616a68ae93047263c659ccb5b300b0.scn"]
+
+[params]
+

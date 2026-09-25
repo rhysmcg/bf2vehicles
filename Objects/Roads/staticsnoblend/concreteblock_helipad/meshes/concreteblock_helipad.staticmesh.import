@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dpx8sdnl1lhp4"
+path="res://.godot/imported/concreteblock_helipad.staticmesh-d282f5fe3be140ac956917335f316a53.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/staticsnoblend/concreteblock_helipad/meshes/concreteblock_helipad.staticmesh"
+dest_files=["res://.godot/imported/concreteblock_helipad.staticmesh-d282f5fe3be140ac956917335f316a53.scn"]
+
+[params]
+

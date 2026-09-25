@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dnalgqi8iymnl"
+path="res://.godot/imported/xp2_windmill_02.staticmesh-6b46985d7e0aba7eb5bffaa5127d626c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_windmill_02/meshes/xp2_windmill_02.staticmesh"
+dest_files=["res://.godot/imported/xp2_windmill_02.staticmesh-6b46985d7e0aba7eb5bffaa5127d626c.scn"]
+
+[params]
+

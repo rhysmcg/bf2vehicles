@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cvpegxuqu13ip"
+path="res://.godot/imported/e_marker_attack.con-08be0e157cb65f74e849041bdfd8e6fe.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/misc/markers/e_marker_attack/e_marker_attack.con"
+dest_files=["res://.godot/imported/e_marker_attack.con-08be0e157cb65f74e849041bdfd8e6fe.scn"]
+
+[params]
+

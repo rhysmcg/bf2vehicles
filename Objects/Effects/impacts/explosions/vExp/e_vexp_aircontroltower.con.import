@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bkqbfq8lrbe2e"
+path="res://.godot/imported/e_vexp_aircontroltower.con-9d2bd6a0c202f574efacc99192c3c437.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_aircontroltower.con"
+dest_files=["res://.godot/imported/e_vexp_aircontroltower.con-9d2bd6a0c202f574efacc99192c3c437.scn"]
+
+[params]
+

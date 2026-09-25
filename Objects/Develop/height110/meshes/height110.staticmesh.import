@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br24e44evt6cj"
+path="res://.godot/imported/height110.staticmesh-81b134fd051ddc3161714d21fa540d2e.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/height110/meshes/height110.staticmesh"
+dest_files=["res://.godot/imported/height110.staticmesh-81b134fd051ddc3161714d21fa540d2e.scn"]
+
+[params]
+

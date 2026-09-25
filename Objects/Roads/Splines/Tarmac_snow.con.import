@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d4guj5j8uifqe"
+path="res://.godot/imported/Tarmac_snow.con-366157dbc02dbf0ea249006991f15573.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Tarmac_snow.con"
+dest_files=["res://.godot/imported/Tarmac_snow.con-366157dbc02dbf0ea249006991f15573.scn"]
+
+[params]
+

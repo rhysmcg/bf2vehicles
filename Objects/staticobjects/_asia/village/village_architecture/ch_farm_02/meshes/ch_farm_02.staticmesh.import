@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjbymfh2xdk6d"
+path="res://.godot/imported/ch_farm_02.staticmesh-ea2800685523985d4eacbad58e6e64c1.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_architecture/ch_farm_02/meshes/ch_farm_02.staticmesh"
+dest_files=["res://.godot/imported/ch_farm_02.staticmesh-ea2800685523985d4eacbad58e6e64c1.scn"]
+
+[params]
+

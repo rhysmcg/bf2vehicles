@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dcvu5iyiwr84w"
+path="res://.godot/imported/e_vexp_tow.con-b3c4cb17779f2ecfffd0130ee61ec5b0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_tow.con"
+dest_files=["res://.godot/imported/e_vexp_tow.con-b3c4cb17779f2ecfffd0130ee61ec5b0.scn"]
+
+[params]
+

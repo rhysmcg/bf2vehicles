@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bo0i41gwk300w"
+path="res://.godot/imported/xp2_service_station.con-8118ce3a14c3ca06eb2fad966710eda5.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_service_station/xp2_service_station.con"
+dest_files=["res://.godot/imported/xp2_service_station.con-8118ce3a14c3ca06eb2fad966710eda5.scn"]
+
+[params]
+

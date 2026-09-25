@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c66sof1xcul68"
+path="res://.godot/imported/e_web_wheeled_leaf.con-43fcc4efc2cf0271d167947c36d0121e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_leaf/e_web_wheeled_leaf.con"
+dest_files=["res://.godot/imported/e_web_wheeled_leaf.con-43fcc4efc2cf0271d167947c36d0121e.scn"]
+
+[params]
+

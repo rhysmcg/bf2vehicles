@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c05d7gktwt567"
+path="res://.godot/imported/p_sign_busstop.con-11429951d9144c33ea9d958c107f55cb.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/traffic_signs/p_sign_busstop.con"
+dest_files=["res://.godot/imported/p_sign_busstop.con-11429951d9144c33ea9d958c107f55cb.scn"]
+
+[params]
+

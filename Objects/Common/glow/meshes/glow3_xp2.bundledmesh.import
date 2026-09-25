@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://coslt8ca2x41p"
+path="res://.godot/imported/glow3_xp2.bundledmesh-0deddd04a092304b36560c3b0490ab22.scn"
+
+[deps]
+
+source_file="res://Objects/Common/glow/meshes/glow3_xp2.bundledmesh"
+dest_files=["res://.godot/imported/glow3_xp2.bundledmesh-0deddd04a092304b36560c3b0490ab22.scn"]
+
+[params]
+

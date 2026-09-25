@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dye6boscam6n7"
+path="res://.godot/imported/xp2_alaskan_sign_04.con-2fc7058a76095234eee81a773e1d1363.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_alaskasign_04/xp2_alaskan_sign_04.con"
+dest_files=["res://.godot/imported/xp2_alaskan_sign_04.con-2fc7058a76095234eee81a773e1d1363.scn"]
+
+[params]
+

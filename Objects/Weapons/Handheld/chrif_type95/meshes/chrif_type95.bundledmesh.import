@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://0cddqrnwpegi"
+path="res://.godot/imported/chrif_type95.bundledmesh-9750ddef1444ee6acf333815e6e54c06.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chrif_type95/meshes/chrif_type95.bundledmesh"
+dest_files=["res://.godot/imported/chrif_type95.bundledmesh-9750ddef1444ee6acf333815e6e54c06.scn"]
+
+[params]
+

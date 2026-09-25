@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://5tsx02d2snif"
+path="res://.godot/imported/air_repairstation.staticmesh-d004fe47751db69c9a9c150c91e3d354.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/air_repairstation/meshes/air_repairstation.staticmesh"
+dest_files=["res://.godot/imported/air_repairstation.staticmesh-d004fe47751db69c9a9c150c91e3d354.scn"]
+
+[params]
+

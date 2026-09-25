@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dusq34h7ubibv"
+path="res://.godot/imported/outdoor_pool.staticmesh-f5aa1bd2fe81f0045ec6b703d06a15b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/outdoor_pool/meshes/outdoor_pool.staticmesh"
+dest_files=["res://.godot/imported/outdoor_pool.staticmesh-f5aa1bd2fe81f0045ec6b703d06a15b2.scn"]
+
+[params]
+

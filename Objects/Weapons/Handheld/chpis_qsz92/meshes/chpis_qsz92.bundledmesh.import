@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dl1072khxy74f"
+path="res://.godot/imported/chpis_qsz92.bundledmesh-95d529effe346d36abbe593df67719b7.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chpis_qsz92/meshes/chpis_qsz92.bundledmesh"
+dest_files=["res://.godot/imported/chpis_qsz92.bundledmesh-95d529effe346d36abbe593df67719b7.scn"]
+
+[params]
+

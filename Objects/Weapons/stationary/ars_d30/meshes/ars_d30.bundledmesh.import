@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfny52k2jr8n6"
+path="res://.godot/imported/ars_d30.bundledmesh-3ec674a8b047bb8c4a3ace17a709aa8b.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/ars_d30/meshes/ars_d30.bundledmesh"
+dest_files=["res://.godot/imported/ars_d30.bundledmesh-3ec674a8b047bb8c4a3ace17a709aa8b.scn"]
+
+[params]
+

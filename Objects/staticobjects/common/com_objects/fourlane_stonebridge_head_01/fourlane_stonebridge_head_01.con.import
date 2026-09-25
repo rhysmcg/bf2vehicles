@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bxcwbkn8x1aue"
+path="res://.godot/imported/fourlane_stonebridge_head_01.con-d7a6d1a47ed61841bc94f4dabb664073.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/fourlane_stonebridge_head_01/fourlane_stonebridge_head_01.con"
+dest_files=["res://.godot/imported/fourlane_stonebridge_head_01.con-d7a6d1a47ed61841bc94f4dabb664073.scn"]
+
+[params]
+

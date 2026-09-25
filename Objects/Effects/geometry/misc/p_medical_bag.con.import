@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cwwayduc7652t"
+path="res://.godot/imported/p_medical_bag.con-caa94ea725e549777e4dfa3e215067f6.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_bag.con"
+dest_files=["res://.godot/imported/p_medical_bag.con-caa94ea725e549777e4dfa3e215067f6.scn"]
+
+[params]
+

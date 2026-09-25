@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://8qdxjm1hxmse"
+path="res://.godot/imported/xp2_streetlight_01.con-653c3d925f31e53a357ec8c9e5531f39.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_streetlight_01/xp2_streetlight_01.con"
+dest_files=["res://.godot/imported/xp2_streetlight_01.con-653c3d925f31e53a357ec8c9e5531f39.scn"]
+
+[params]
+

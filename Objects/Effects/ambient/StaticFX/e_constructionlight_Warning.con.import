@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cqaun8ua6wa21"
+path="res://.godot/imported/e_constructionlight_Warning.con-fcbbe02f0d7e8f251a834b44db456b88.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/StaticFX/e_constructionlight_Warning.con"
+dest_files=["res://.godot/imported/e_constructionlight_Warning.con-fcbbe02f0d7e8f251a834b44db456b88.scn"]
+
+[params]
+

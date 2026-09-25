@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bmvtrrxjx0d6r"
+path="res://.godot/imported/e_web_wheeled_waterpuddle.con-0c0a7010a534d662abd366bbc2a2cc7d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_wheelBig/e_web_wheeled_waterpuddle/e_web_wheeled_waterpuddle.con"
+dest_files=["res://.godot/imported/e_web_wheeled_waterpuddle.con-0c0a7010a534d662abd366bbc2a2cc7d.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cq63k7k8ae00m"
+path="res://.godot/imported/p_wreck_su34_fuselage.bundledmesh-51026a277d87368216ee3f48eeb6c232.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su34/meshes/p_wreck_su34_fuselage.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_su34_fuselage.bundledmesh-51026a277d87368216ee3f48eeb6c232.scn"]
+
+[params]
+

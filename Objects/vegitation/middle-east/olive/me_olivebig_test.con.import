@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cb3102kpc6ibm"
+path="res://.godot/imported/me_olivebig_test.con-a6565e642979b85fcc8c9243dc66c061.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/olive/me_olivebig_test.con"
+dest_files=["res://.godot/imported/me_olivebig_test.con-a6565e642979b85fcc8c9243dc66c061.scn"]
+
+[params]
+

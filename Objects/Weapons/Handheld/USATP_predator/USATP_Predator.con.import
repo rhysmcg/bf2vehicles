@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cjy2m0vhysfxa"
+path="res://.godot/imported/USATP_Predator.con-0074ee859667f2408763d8ff19c1c411.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USATP_predator/USATP_Predator.con"
+dest_files=["res://.godot/imported/USATP_Predator.con-0074ee859667f2408763d8ff19c1c411.scn"]
+
+[params]
+

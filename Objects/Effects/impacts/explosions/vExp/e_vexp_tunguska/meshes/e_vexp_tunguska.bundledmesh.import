@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ck5id158c1w5f"
+path="res://.godot/imported/e_vexp_tunguska.bundledmesh-9684a2ca79e80145f39caea327ab5586.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_tunguska/meshes/e_vexp_tunguska.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_tunguska.bundledmesh-9684a2ca79e80145f39caea327ab5586.scn"]
+
+[params]
+

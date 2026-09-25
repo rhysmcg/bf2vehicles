@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://omowp7gheb0e"
+path="res://.godot/imported/ch_stnwalls_innersloope_30m_invert_none.staticmesh-d26d014980abdd3da6a58508e7159410.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_innersloope_30m_invert_none/meshes/ch_stnwalls_innersloope_30m_invert_none.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_innersloope_30m_invert_none.staticmesh-d26d014980abdd3da6a58508e7159410.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bo7kchxkb6o7t"
+path="res://.godot/imported/xp2_railroadgate_01.con-e8e479d4f743a3cd8ae133703d47c5c3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_railroadgate_01/xp2_railroadgate_01.con"
+dest_files=["res://.godot/imported/xp2_railroadgate_01.con-e8e479d4f743a3cd8ae133703d47c5c3.scn"]
+
+[params]
+

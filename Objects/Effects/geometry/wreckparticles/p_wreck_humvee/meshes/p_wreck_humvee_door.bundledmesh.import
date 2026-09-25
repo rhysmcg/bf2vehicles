@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bhsmsjsgwem2g"
+path="res://.godot/imported/p_wreck_humvee_door.bundledmesh-db61c9243e76123c99df3ee99666ce94.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_humvee/meshes/p_wreck_humvee_door.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_humvee_door.bundledmesh-db61c9243e76123c99df3ee99666ce94.scn"]
+
+[params]
+

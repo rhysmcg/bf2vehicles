@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://be1jf5swhw7xc"
+path="res://.godot/imported/decal_s_ceramictiles.con-9386cf3fca5e1ada16058d0aea201e97.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/decals/small/decal_s_ceramictiles.con"
+dest_files=["res://.godot/imported/decal_s_ceramictiles.con-9386cf3fca5e1ada16058d0aea201e97.scn"]
+
+[params]
+

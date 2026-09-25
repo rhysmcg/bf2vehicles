@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cr1fuf2fnv176"
+path="res://.godot/imported/flag_us.con-ac0e4f0f1d0bf895975a18c558e41035.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flag_US/flag_us.con"
+dest_files=["res://.godot/imported/flag_us.con-ac0e4f0f1d0bf895975a18c558e41035.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://caoyb33id7mav"
+path="res://.godot/imported/island_house.con-b67028a90a24aaeb7552ba8d730f3b77.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/island_house/island_house.con"
+dest_files=["res://.godot/imported/island_house.con-b67028a90a24aaeb7552ba8d730f3b77.scn"]
+
+[params]
+

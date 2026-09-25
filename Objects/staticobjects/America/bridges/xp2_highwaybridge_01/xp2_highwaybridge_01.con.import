@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dle41ggx0auvk"
+path="res://.godot/imported/xp2_highwaybridge_01.con-0a26ffa970e60107803bb10662c2a1cd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_highwaybridge_01/xp2_highwaybridge_01.con"
+dest_files=["res://.godot/imported/xp2_highwaybridge_01.con-0a26ffa970e60107803bb10662c2a1cd.scn"]
+
+[params]
+

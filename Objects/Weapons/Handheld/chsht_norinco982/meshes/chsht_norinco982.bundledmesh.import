@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cjhux3mlv1ib1"
+path="res://.godot/imported/chsht_norinco982.bundledmesh-0dc707b0a27f7d4f0da943771fb65ead.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/chsht_norinco982/meshes/chsht_norinco982.bundledmesh"
+dest_files=["res://.godot/imported/chsht_norinco982.bundledmesh-0dc707b0a27f7d4f0da943771fb65ead.scn"]
+
+[params]
+

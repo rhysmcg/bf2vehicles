@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dkdr8tcgl5hhd"
+path="res://.godot/imported/e_jetexhaust.con-340ac722987ce8402473abfd24b94c75.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/MISC/e_jetexhaust/e_jetexhaust.con"
+dest_files=["res://.godot/imported/e_jetexhaust.con-340ac722987ce8402473abfd24b94c75.scn"]
+
+[params]
+

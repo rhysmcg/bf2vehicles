@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b01xaj62xj340"
+path="res://.godot/imported/p_tracer_r.bundledmesh-0f1b72fb23d376e96fd7ab39f820607d.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/tracers/geometry/p_tracer_r/meshes/p_tracer_r.bundledmesh"
+dest_files=["res://.godot/imported/p_tracer_r.bundledmesh-0f1b72fb23d376e96fd7ab39f820607d.scn"]
+
+[params]
+

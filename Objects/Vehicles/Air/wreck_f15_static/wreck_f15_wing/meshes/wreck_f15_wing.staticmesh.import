@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b4f3ry5p87812"
+path="res://.godot/imported/wreck_f15_wing.staticmesh-8243d68cdf89e97bcce73e7363431c49.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_f15_static/wreck_f15_wing/meshes/wreck_f15_wing.staticmesh"
+dest_files=["res://.godot/imported/wreck_f15_wing.staticmesh-8243d68cdf89e97bcce73e7363431c49.scn"]
+
+[params]
+

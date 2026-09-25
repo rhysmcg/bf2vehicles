@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cld81xulcmwsb"
+path="res://.godot/imported/tv_house.con-5f77c737298d4df46d71b2bbaf8cb287.scn"
+
+[deps]
+
+source_file="res://meshes/tv_house/tv_house.con"
+dest_files=["res://.godot/imported/tv_house.con-5f77c737298d4df46d71b2bbaf8cb287.scn"]
+
+[params]
+

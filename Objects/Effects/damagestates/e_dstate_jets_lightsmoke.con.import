@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dnra4b7m8sfd2"
+path="res://.godot/imported/e_dstate_jets_lightsmoke.con-bbc45ea353ec932edbbd66b84b92d35c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_jets_lightsmoke.con"
+dest_files=["res://.godot/imported/e_dstate_jets_lightsmoke.con-bbc45ea353ec932edbbd66b84b92d35c.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c2tlnumui0q2m"
+path="res://.godot/imported/p_wreck_su34_wing.con-a251774337f2308befa58655966b1064.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_su34/p_wreck_su34_wing.con"
+dest_files=["res://.godot/imported/p_wreck_su34_wing.con-a251774337f2308befa58655966b1064.scn"]
+
+[params]
+

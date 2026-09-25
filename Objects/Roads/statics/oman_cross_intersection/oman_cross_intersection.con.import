@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b35xco8jhl45t"
+path="res://.godot/imported/oman_cross_intersection.con-98de61c5853911b4cdbdf50493a6e9f4.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/oman_cross_intersection/oman_cross_intersection.con"
+dest_files=["res://.godot/imported/oman_cross_intersection.con-98de61c5853911b4cdbdf50493a6e9f4.scn"]
+
+[params]
+

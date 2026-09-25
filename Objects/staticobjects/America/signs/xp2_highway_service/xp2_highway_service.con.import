@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dqq686t61kq3c"
+path="res://.godot/imported/xp2_highway_service.con-4776d12f6d4eb3819d1d46a18a95e39f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highway_service/xp2_highway_service.con"
+dest_files=["res://.godot/imported/xp2_highway_service.con-4776d12f6d4eb3819d1d46a18a95e39f.scn"]
+
+[params]
+

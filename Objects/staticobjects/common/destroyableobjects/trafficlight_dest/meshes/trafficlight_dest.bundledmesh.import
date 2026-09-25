@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsmhdknf2wif1"
+path="res://.godot/imported/trafficlight_dest.bundledmesh-ec294ee3b8c85b252b9d5c28c3ec5537.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/destroyableobjects/trafficlight_dest/meshes/trafficlight_dest.bundledmesh"
+dest_files=["res://.godot/imported/trafficlight_dest.bundledmesh-ec294ee3b8c85b252b9d5c28c3ec5537.scn"]
+
+[params]
+

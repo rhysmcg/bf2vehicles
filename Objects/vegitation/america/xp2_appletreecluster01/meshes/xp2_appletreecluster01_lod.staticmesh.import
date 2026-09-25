@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b4w4c4dmrqo0v"
+path="res://.godot/imported/xp2_appletreecluster01_lod.staticmesh-0058539e60afb8ba1df0fc29765029c8.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/america/xp2_appletreecluster01/meshes/xp2_appletreecluster01_lod.staticmesh"
+dest_files=["res://.godot/imported/xp2_appletreecluster01_lod.staticmesh-0058539e60afb8ba1df0fc29765029c8.scn"]
+
+[params]
+

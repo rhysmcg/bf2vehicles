@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://br23ownclqnq1"
+path="res://.godot/imported/rurif_bizon.bundledmesh-8ecf9bbf9a1669ab64fadf573bb5f862.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_Bizon/meshes/rurif_bizon.bundledmesh"
+dest_files=["res://.godot/imported/rurif_bizon.bundledmesh-8ecf9bbf9a1669ab64fadf573bb5f862.scn"]
+
+[params]
+

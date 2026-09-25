@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c5fowoax04awl"
+path="res://.godot/imported/mangrove_med1_fin.staticmesh-96b6daa1e4dd4b082ccb1cc457e7596b.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/mangrove/meshes/mangrove_med1_fin.staticmesh"
+dest_files=["res://.godot/imported/mangrove_med1_fin.staticmesh-96b6daa1e4dd4b082ccb1cc457e7596b.scn"]
+
+[params]
+

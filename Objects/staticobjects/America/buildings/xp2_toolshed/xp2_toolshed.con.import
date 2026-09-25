@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c0takywpcpaus"
+path="res://.godot/imported/xp2_toolshed.con-cce45670447ee738c26c9bad75516549.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_toolshed/xp2_toolshed.con"
+dest_files=["res://.godot/imported/xp2_toolshed.con-cce45670447ee738c26c9bad75516549.scn"]
+
+[params]
+

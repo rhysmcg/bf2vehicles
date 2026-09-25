@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://xua1u3vwygk4"
+path="res://.godot/imported/flagpole.con-8d0a814d3e7df71d43e2751014fbab79.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Flags/flagpole/flagpole.con"
+dest_files=["res://.godot/imported/flagpole.con-8d0a814d3e7df71d43e2751014fbab79.scn"]
+
+[params]
+

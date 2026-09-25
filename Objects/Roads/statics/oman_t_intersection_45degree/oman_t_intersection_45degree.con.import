@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bmm2fgqokorus"
+path="res://.godot/imported/oman_t_intersection_45degree.con-0ad384d1ca53d2deec8d6762e2c25bdf.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/statics/oman_t_intersection_45degree/oman_t_intersection_45degree.con"
+dest_files=["res://.godot/imported/oman_t_intersection_45degree.con-0ad384d1ca53d2deec8d6762e2c25bdf.scn"]
+
+[params]
+

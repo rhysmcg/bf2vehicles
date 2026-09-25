@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6w2ps7jjlghc"
+path="res://.godot/imported/dam_powerbase.con-b54e2b07457f7439c13b7cad4414cb0d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/Dam_powerbase/dam_powerbase.con"
+dest_files=["res://.godot/imported/dam_powerbase.con-b54e2b07457f7439c13b7cad4414cb0d.scn"]
+
+[params]
+

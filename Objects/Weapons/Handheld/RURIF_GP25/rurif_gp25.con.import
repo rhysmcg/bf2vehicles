@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbpr3boy87w44"
+path="res://.godot/imported/rurif_gp25.con-a0c7c79c6502718e4942da952844ac1e.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/RURIF_GP25/rurif_gp25.con"
+dest_files=["res://.godot/imported/rurif_gp25.con-a0c7c79c6502718e4942da952844ac1e.scn"]
+
+[params]
+

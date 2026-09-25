@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cfbrrwrxhved2"
+path="res://.godot/imported/p_fish.con-d0b5ad4ce6f34f5b99df2ae300f85f70.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_fish.con"
+dest_files=["res://.godot/imported/p_fish.con-d0b5ad4ce6f34f5b99df2ae300f85f70.scn"]
+
+[params]
+

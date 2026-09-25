@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cl1d1sdk4ch4w"
+path="res://.godot/imported/train_cargowag_01_closed.con-074923a4c16d66146719dafc2f420a3f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/train/train_cargowag_01_closed/train_cargowag_01_closed.con"
+dest_files=["res://.godot/imported/train_cargowag_01_closed.con-074923a4c16d66146719dafc2f420a3f.scn"]
+
+[params]
+

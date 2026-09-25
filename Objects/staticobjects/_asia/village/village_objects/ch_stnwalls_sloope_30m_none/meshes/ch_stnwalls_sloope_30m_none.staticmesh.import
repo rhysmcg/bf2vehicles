@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b0s8bwmbixjgq"
+path="res://.godot/imported/ch_stnwalls_sloope_30m_none.staticmesh-7658c79ffffef140f6183dbbd1a306b9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_stnwalls_sloope_30m_none/meshes/ch_stnwalls_sloope_30m_none.staticmesh"
+dest_files=["res://.godot/imported/ch_stnwalls_sloope_30m_none.staticmesh-7658c79ffffef140f6183dbbd1a306b9.scn"]
+
+[params]
+

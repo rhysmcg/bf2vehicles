@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://53txv6tk2dag"
+path="res://.godot/imported/e_dstate_heli_heavysmoke.con-637fb08f13c54da69586f2e68b957038.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_heli_heavysmoke.con"
+dest_files=["res://.godot/imported/e_dstate_heli_heavysmoke.con-637fb08f13c54da69586f2e68b957038.scn"]
+
+[params]
+

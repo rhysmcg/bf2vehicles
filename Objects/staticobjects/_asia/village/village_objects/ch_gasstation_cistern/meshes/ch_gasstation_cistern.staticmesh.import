@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://chqbulq0swcr"
+path="res://.godot/imported/ch_gasstation_cistern.staticmesh-03a14777cfc65ee5cdc44f4aeca4b612.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_gasstation_cistern/meshes/ch_gasstation_cistern.staticmesh"
+dest_files=["res://.godot/imported/ch_gasstation_cistern.staticmesh-03a14777cfc65ee5cdc44f4aeca4b612.scn"]
+
+[params]
+

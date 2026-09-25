@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://quna8trp7vnd"
+path="res://.godot/imported/Dirtroad_Kubra_compiled.con-037363455fb781fbb0e5cfabcce7df78.scn"
+
+[deps]
+
+source_file="res://Objects/Roads/Splines/Dirtroad_Kubra_compiled.con"
+dest_files=["res://.godot/imported/Dirtroad_Kubra_compiled.con-037363455fb781fbb0e5cfabcce7df78.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://d2h0q5jh82xei"
+path="res://.godot/imported/xp2_icemachine.staticmesh-50c6cb50da9e49306b5159bb2a0695df.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_icemachine/meshes/xp2_icemachine.staticmesh"
+dest_files=["res://.godot/imported/xp2_icemachine.staticmesh-50c6cb50da9e49306b5159bb2a0695df.scn"]
+
+[params]
+

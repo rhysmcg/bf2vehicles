@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cnowuei1ot7d8"
+path="res://.godot/imported/e_muzz_Tow.con-0b4866a1ca2db039037a0e2dce39fed1.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/muzzleflashes/emitters/e_muzz_Tow/e_muzz_Tow.con"
+dest_files=["res://.godot/imported/e_muzz_Tow.con-0b4866a1ca2db039037a0e2dce39fed1.scn"]
+
+[params]
+

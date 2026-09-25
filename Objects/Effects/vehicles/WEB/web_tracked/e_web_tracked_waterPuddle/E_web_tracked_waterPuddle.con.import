@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bj8ff8ljs68mx"
+path="res://.godot/imported/E_web_tracked_waterPuddle.con-bfc24834f3e1d8f0652da2e2bfeb92ca.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/WEB/web_tracked/e_web_tracked_waterPuddle/E_web_tracked_waterPuddle.con"
+dest_files=["res://.godot/imported/E_web_tracked_waterPuddle.con-bfc24834f3e1d8f0652da2e2bfeb92ca.scn"]
+
+[params]
+

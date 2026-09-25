@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://daiiq8il0nijg"
+path="res://.godot/imported/refug_border_24m_bundled.con-19e08b33b40bb51932cb5e95deb34ff8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/refug_border_24m_bundled/refug_border_24m_bundled.con"
+dest_files=["res://.godot/imported/refug_border_24m_bundled.con-19e08b33b40bb51932cb5e95deb34ff8.scn"]
+
+[params]
+

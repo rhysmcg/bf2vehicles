@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c7qrtfc2uw1gj"
+path="res://.godot/imported/ch_wall_low_36m.staticmesh-5e3f910b6d55c12c953b96809fa99873.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/village/village_objects/ch_wall_low_36m/meshes/ch_wall_low_36m.staticmesh"
+dest_files=["res://.godot/imported/ch_wall_low_36m.staticmesh-5e3f910b6d55c12c953b96809fa99873.scn"]
+
+[params]
+

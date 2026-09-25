@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://daoob8ec3lygi"
+path="res://.godot/imported/aa_base_bottom.con-97502582e4c15333c360b3d146cff035.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/uniqueobjects/dam/aa_base_bottom/aa_base_bottom.con"
+dest_files=["res://.godot/imported/aa_base_bottom.con-97502582e4c15333c360b3d146cff035.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dc1xpyapaptkc"
+path="res://.godot/imported/xp2_highway_billboard_01.staticmesh-ed6329303c0abf68b58796e7ac2a49b2.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highway_billboard_01/meshes/xp2_highway_billboard_01.staticmesh"
+dest_files=["res://.godot/imported/xp2_highway_billboard_01.staticmesh-ed6329303c0abf68b58796e7ac2a49b2.scn"]
+
+[params]
+

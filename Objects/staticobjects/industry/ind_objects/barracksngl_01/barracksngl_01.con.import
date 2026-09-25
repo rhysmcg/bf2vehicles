@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://d1617ujwgel8k"
+path="res://.godot/imported/barracksngl_01.con-19ddd6d5f3030edaaa71803741c3ce43.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/barracksngl_01/barracksngl_01.con"
+dest_files=["res://.godot/imported/barracksngl_01.con-19ddd6d5f3030edaaa71803741c3ce43.scn"]
+
+[params]
+

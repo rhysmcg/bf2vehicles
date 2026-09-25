@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cctfmtyiwfd6q"
+path="res://.godot/imported/tv_house.staticmesh-4ee53b45aec8aecaee1f8dcec6d9f3b8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/tv_house/meshes/tv_house.staticmesh"
+dest_files=["res://.godot/imported/tv_house.staticmesh-4ee53b45aec8aecaee1f8dcec6d9f3b8.scn"]
+
+[params]
+

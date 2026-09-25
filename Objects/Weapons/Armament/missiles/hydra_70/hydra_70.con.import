@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://h8lf1lncov86"
+path="res://.godot/imported/hydra_70.con-678a12c518cee12bb3923a4303e89776.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Armament/missiles/hydra_70/hydra_70.con"
+dest_files=["res://.godot/imported/hydra_70.con-678a12c518cee12bb3923a4303e89776.scn"]
+
+[params]
+

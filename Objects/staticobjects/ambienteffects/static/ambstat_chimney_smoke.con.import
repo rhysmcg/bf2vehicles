@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7jjuo2dxrmr2"
+path="res://.godot/imported/ambstat_chimney_smoke.con-a6e0e27abdc47c58589dbb9d8d1390dd.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/ambstat_chimney_smoke.con"
+dest_files=["res://.godot/imported/ambstat_chimney_smoke.con-a6e0e27abdc47c58589dbb9d8d1390dd.scn"]
+
+[params]
+

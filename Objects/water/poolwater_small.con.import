@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://y4uewv7dm10n"
+path="res://.godot/imported/poolwater_small.con-4d547a2def70009821f4c71be820a196.scn"
+
+[deps]
+
+source_file="res://Objects/water/poolwater_small.con"
+dest_files=["res://.godot/imported/poolwater_small.con-4d547a2def70009821f4c71be820a196.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cfnduaxjtwcs5"
+path="res://.godot/imported/us_carrier_wasp_interior.staticmesh-37a6fb2ce744c181a8da4237863b816f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/uniqueobjects/us_carrier_wasp/us_carrier_wasp_interior/meshes/us_carrier_wasp_interior.staticmesh"
+dest_files=["res://.godot/imported/us_carrier_wasp_interior.staticmesh-37a6fb2ce744c181a8da4237863b816f.scn"]
+
+[params]
+

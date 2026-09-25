@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://81fve4gwqwef"
+path="res://.godot/imported/p_wreck_cobra_metalsheet.con-15f3e7669c4a9b4f5f4336316aba65e0.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_cobra/p_wreck_cobra_metalsheet.con"
+dest_files=["res://.godot/imported/p_wreck_cobra_metalsheet.con-15f3e7669c4a9b4f5f4336316aba65e0.scn"]
+
+[params]
+

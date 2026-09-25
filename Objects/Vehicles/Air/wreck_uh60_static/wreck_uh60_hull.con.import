@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b5a6n1bdkfqbq"
+path="res://.godot/imported/wreck_uh60_hull.con-50da9d8a0edf16e49eaf075b6f0e95b3.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/wreck_uh60_static/wreck_uh60_hull.con"
+dest_files=["res://.godot/imported/wreck_uh60_hull.con-50da9d8a0edf16e49eaf075b6f0e95b3.scn"]
+
+[params]
+

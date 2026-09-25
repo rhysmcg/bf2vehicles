@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c6yhkxa50cedb"
+path="res://.godot/imported/kord_amobox.bundledmesh-ce73bf36918b76377ca04bd6bfd49c38.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/kord_amobox/meshes/kord_amobox.bundledmesh"
+dest_files=["res://.godot/imported/kord_amobox.bundledmesh-ce73bf36918b76377ca04bd6bfd49c38.scn"]
+
+[params]
+

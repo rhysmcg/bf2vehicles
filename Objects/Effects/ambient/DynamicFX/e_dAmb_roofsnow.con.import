@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://5lws0nmk800i"
+path="res://.godot/imported/e_dAmb_roofsnow.con-bae3a7f3ef84dfd11193d55d39d34c4b.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/ambient/DynamicFX/e_dAmb_roofsnow.con"
+dest_files=["res://.godot/imported/e_dAmb_roofsnow.con-bae3a7f3ef84dfd11193d55d39d34c4b.scn"]
+
+[params]
+

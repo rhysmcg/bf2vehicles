@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b4jgq4f7h4mya"
+path="res://.godot/imported/Geometrys.con-8847ebd422419b86a96dac6716abd2ef.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Debug/Geometrys.con"
+dest_files=["res://.godot/imported/Geometrys.con-8847ebd422419b86a96dac6716abd2ef.scn"]
+
+[params]
+

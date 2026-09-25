@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bjkqm11p7egc2"
+path="res://.godot/imported/chlmg_type95_stationary.bundledmesh-840e9caf16e3373fe0097dc26599f008.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/chlmg_type95_stationary/meshes/chlmg_type95_stationary.bundledmesh"
+dest_files=["res://.godot/imported/chlmg_type95_stationary.bundledmesh-840e9caf16e3373fe0097dc26599f008.scn"]
+
+[params]
+

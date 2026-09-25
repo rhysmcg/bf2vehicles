@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://cyhf2bkpif27p"
+path="res://.godot/imported/p_medical_pillbottle.con-2a960215bbb9b95f4621b234f05399dd.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/misc/p_medical_pillbottle.con"
+dest_files=["res://.godot/imported/p_medical_pillbottle.con-2a960215bbb9b95f4621b234f05399dd.scn"]
+
+[params]
+

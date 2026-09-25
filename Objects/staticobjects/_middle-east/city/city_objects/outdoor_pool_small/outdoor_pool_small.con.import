@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://di67brb2walqh"
+path="res://.godot/imported/outdoor_pool_small.con-7ad299de914362bc21c2d9e78a86315d.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/outdoor_pool_small/outdoor_pool_small.con"
+dest_files=["res://.godot/imported/outdoor_pool_small.con-7ad299de914362bc21c2d9e78a86315d.scn"]
+
+[params]
+

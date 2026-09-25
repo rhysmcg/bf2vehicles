@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://buv83s23s2w7d"
+path="res://.godot/imported/chthe_z8_tailrotor.con-0b0d0155568eb8d4e719168e3499ae78.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/chthe_z8/chthe_z8_tailrotor/chthe_z8_tailrotor.con"
+dest_files=["res://.godot/imported/chthe_z8_tailrotor.con-0b0d0155568eb8d4e719168e3499ae78.scn"]
+
+[params]
+

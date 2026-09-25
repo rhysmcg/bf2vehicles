@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b84advys8egnf"
+path="res://.godot/imported/wirefence_l2.con-fee32a807717fcb074ba3a07fadcd2c9.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/wirefence_l2/wirefence_l2.con"
+dest_files=["res://.godot/imported/wirefence_l2.con-fee32a807717fcb074ba3a07fadcd2c9.scn"]
+
+[params]
+

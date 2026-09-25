@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c7hgoeygoh431"
+path="res://.godot/imported/snowstuff.con-fa4e5444c7a7201bf99e3f57a10672f8.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/ambienteffects/static/snowstuff/snowstuff.con"
+dest_files=["res://.godot/imported/snowstuff.con-fa4e5444c7a7201bf99e3f57a10672f8.scn"]
+
+[params]
+

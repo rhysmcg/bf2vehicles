@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://6h800xui3s0a"
+path="res://.godot/imported/p_wreck_j10_frontwing.con-cc486185d019b11cebb70946e5698e5f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_j10/p_wreck_j10_frontwing.con"
+dest_files=["res://.godot/imported/p_wreck_j10_frontwing.con-cc486185d019b11cebb70946e5698e5f.scn"]
+
+[params]
+

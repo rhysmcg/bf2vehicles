@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bak2ugng414gs"
+path="res://.godot/imported/xp2_rock25m.staticmesh-c8752ebe07c9bd1d9b3be760aa7edb8f.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_rock25m/meshes/xp2_rock25m.staticmesh"
+dest_files=["res://.godot/imported/xp2_rock25m.staticmesh-c8752ebe07c9bd1d9b3be760aa7edb8f.scn"]
+
+[params]
+

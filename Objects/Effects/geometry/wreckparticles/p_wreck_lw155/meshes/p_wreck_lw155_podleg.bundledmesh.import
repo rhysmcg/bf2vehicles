@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dl6715iic24uc"
+path="res://.godot/imported/p_wreck_lw155_podleg.bundledmesh-f223e3d419aa94c5485d0ff9b4eb04f2.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lw155/meshes/p_wreck_lw155_podleg.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_lw155_podleg.bundledmesh-f223e3d419aa94c5485d0ff9b4eb04f2.scn"]
+
+[params]
+

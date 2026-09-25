@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://nxt48vv2nxap"
+path="res://.godot/imported/xp2_powerstation.staticmesh-2937d2eb74b10b5c1a961b108961d102.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_powerstation/meshes/xp2_powerstation.staticmesh"
+dest_files=["res://.godot/imported/xp2_powerstation.staticmesh-2937d2eb74b10b5c1a961b108961d102.scn"]
+
+[params]
+

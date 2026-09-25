@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dgpmj1po41mat"
+path="res://.godot/imported/hotel.con-660f22f0b67d060bafd948ed548d713b.scn"
+
+[deps]
+
+source_file="res://meshes/hotel/hotel.con"
+dest_files=["res://.godot/imported/hotel.con-660f22f0b67d060bafd948ed548d713b.scn"]
+
+[params]
+

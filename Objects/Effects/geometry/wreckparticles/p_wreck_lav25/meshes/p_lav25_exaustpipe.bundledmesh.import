@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bc5e8rd2vweaf"
+path="res://.godot/imported/p_lav25_exaustpipe.bundledmesh-8889d217eeb2e9bd4cbe94e1446c7863.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_lav25/meshes/p_lav25_exaustpipe.bundledmesh"
+dest_files=["res://.godot/imported/p_lav25_exaustpipe.bundledmesh-8889d217eeb2e9bd4cbe94e1446c7863.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dxl3ufc5ioeon"
+path="res://.godot/imported/e_vexp_igla.bundledmesh-cc56b6117eacce4db75da4fe7eea9aab.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/meshes/e_vexp_igla.bundledmesh"
+dest_files=["res://.godot/imported/e_vexp_igla.bundledmesh-cc56b6117eacce4db75da4fe7eea9aab.scn"]
+
+[params]
+

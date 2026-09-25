@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b6pci7po2dge6"
+path="res://.godot/imported/gasstation_cistern.staticmesh-b9333f384b5277986f88171948566117.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_objects/gasstation_cistern/meshes/gasstation_cistern.staticmesh"
+dest_files=["res://.godot/imported/gasstation_cistern.staticmesh-b9333f384b5277986f88171948566117.scn"]
+
+[params]
+

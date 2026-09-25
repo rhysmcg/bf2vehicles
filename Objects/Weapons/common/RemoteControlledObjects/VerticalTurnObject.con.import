@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bo16jtkfd1agy"
+path="res://.godot/imported/VerticalTurnObject.con-849f68ab2c0ec9eafc5b131bdebc3e59.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/common/RemoteControlledObjects/VerticalTurnObject.con"
+dest_files=["res://.godot/imported/VerticalTurnObject.con-849f68ab2c0ec9eafc5b131bdebc3e59.scn"]
+
+[params]
+

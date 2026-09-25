@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dd84o5g5h3jto"
+path="res://.godot/imported/e_bhit_20mm_water.con-e173c807417ef64125f8b44f2fc3042f.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/bhits/20mm/e_bhit_20mm_water.con"
+dest_files=["res://.godot/imported/e_bhit_20mm_water.con-e173c807417ef64125f8b44f2fc3042f.scn"]
+
+[params]
+

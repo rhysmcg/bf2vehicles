@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://btvb7t46gcbou"
+path="res://.godot/imported/xp2_gardenshed_01.con-1dc5b775f992c9c597c819b37102cfdb.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_gardenshed_01/xp2_gardenshed_01.con"
+dest_files=["res://.godot/imported/xp2_gardenshed_01.con-1dc5b775f992c9c597c819b37102cfdb.scn"]
+
+[params]
+

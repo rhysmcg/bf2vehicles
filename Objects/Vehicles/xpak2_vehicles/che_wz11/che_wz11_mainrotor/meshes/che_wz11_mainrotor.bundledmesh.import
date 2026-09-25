@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ndf160voedii"
+path="res://.godot/imported/che_wz11_mainrotor.bundledmesh-e1e22b4f974f0b0640d659edb4241eaa.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/xpak2_vehicles/che_wz11/che_wz11_mainrotor/meshes/che_wz11_mainrotor.bundledmesh"
+dest_files=["res://.godot/imported/che_wz11_mainrotor.bundledmesh-e1e22b4f974f0b0640d659edb4241eaa.scn"]
+
+[params]
+

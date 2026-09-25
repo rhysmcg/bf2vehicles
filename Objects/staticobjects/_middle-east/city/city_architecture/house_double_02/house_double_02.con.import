@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://olejrdkapjdc"
+path="res://.godot/imported/house_double_02.con-9303030279f631cc4be3120aeda6d63a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_double_02/house_double_02.con"
+dest_files=["res://.godot/imported/house_double_02.con-9303030279f631cc4be3120aeda6d63a.scn"]
+
+[params]
+

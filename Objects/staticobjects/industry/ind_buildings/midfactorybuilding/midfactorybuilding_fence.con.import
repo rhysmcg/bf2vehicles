@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dbg86uro8u34i"
+path="res://.godot/imported/midfactorybuilding_fence.con-4a98833c128424ed871150505893396b.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_buildings/midfactorybuilding/midfactorybuilding_fence.con"
+dest_files=["res://.godot/imported/midfactorybuilding_fence.con-4a98833c128424ed871150505893396b.scn"]
+
+[params]
+

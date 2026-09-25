@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://dxu018gffelmo"
+path="res://.godot/imported/steelrailingrightend.con-5d370f4f815d64718cc6ff5ab9711a69.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/roads/steelrailingrightend/steelrailingrightend.con"
+dest_files=["res://.godot/imported/steelrailingrightend.con-5d370f4f815d64718cc6ff5ab9711a69.scn"]
+
+[params]
+

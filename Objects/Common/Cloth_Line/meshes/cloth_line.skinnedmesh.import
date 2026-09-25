@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cc1afr36j7c5q"
+path="res://.godot/imported/cloth_line.skinnedmesh-d55ec3b4ec875e4f0cedf0db7d7f9291.scn"
+
+[deps]
+
+source_file="res://Objects/Common/Cloth_Line/meshes/cloth_line.skinnedmesh"
+dest_files=["res://.godot/imported/cloth_line.skinnedmesh-d55ec3b4ec875e4f0cedf0db7d7f9291.scn"]
+
+[params]
+

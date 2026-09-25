@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://dn87yx8wo24u4"
+path="res://.godot/imported/lrg_stonebridge_head.staticmesh-5b043342c377484a36df74fb2be37b8c.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/common/com_objects/lrg_stonebridge_head/meshes/lrg_stonebridge_head.staticmesh"
+dest_files=["res://.godot/imported/lrg_stonebridge_head.staticmesh-5b043342c377484a36df74fb2be37b8c.scn"]
+
+[params]
+

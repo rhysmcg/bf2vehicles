@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://b3hqf7dq57pj3"
+path="res://.godot/imported/xp2_highway_billboard_02.con-6444797f08b00544cea36eaccadba163.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/signs/xp2_highway_billboard_02/xp2_highway_billboard_02.con"
+dest_files=["res://.godot/imported/xp2_highway_billboard_02.con-6444797f08b00544cea36eaccadba163.scn"]
+
+[params]
+

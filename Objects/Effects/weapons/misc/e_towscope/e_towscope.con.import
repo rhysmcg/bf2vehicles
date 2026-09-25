@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bkxvgla7i7jq4"
+path="res://.godot/imported/e_towscope.con-9e25f567857aa6eb2f1f29e2d4938d72.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/misc/e_towscope/e_towscope.con"
+dest_files=["res://.godot/imported/e_towscope.con-9e25f567857aa6eb2f1f29e2d4938d72.scn"]
+
+[params]
+

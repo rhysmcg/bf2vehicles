@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://t5gn0nc64vgt"
+path="res://.godot/imported/e_destruction_trainbar.con-9057ba65fad749ce9061df2df587ef5c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/e_destruction_trainbar.con"
+dest_files=["res://.godot/imported/e_destruction_trainbar.con-9057ba65fad749ce9061df2df587ef5c.scn"]
+
+[params]
+

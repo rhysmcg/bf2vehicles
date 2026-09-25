@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://3s4xdwalqvb0"
+path="res://.godot/imported/p_shell_50cal.bundledmesh-8b9e6fe27b875f4d61ddc76017134fab.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/shellejections/geometry/p_shell_50cal/meshes/p_shell_50cal.bundledmesh"
+dest_files=["res://.godot/imported/p_shell_50cal.bundledmesh-8b9e6fe27b875f4d61ddc76017134fab.scn"]
+
+[params]
+

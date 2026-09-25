@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://c2rc1fcrmx3ou"
+path="res://.godot/imported/ussni_m95_barret.bundledmesh-91744495f7fd2630fd0384029c5f2d7d.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/Handheld/USSNI_M95_Barret/meshes/ussni_m95_barret.bundledmesh"
+dest_files=["res://.godot/imported/ussni_m95_barret.bundledmesh-91744495f7fd2630fd0384029c5f2d7d.scn"]
+
+[params]
+

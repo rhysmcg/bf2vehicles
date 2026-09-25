@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ypt4ti0kv2jr"
+path="res://.godot/imported/temple_jetty.con-0a6376e066775b1beb50364a52be06ad.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_asia/ruins/temple_jetty/temple_jetty.con"
+dest_files=["res://.godot/imported/temple_jetty.con-0a6376e066775b1beb50364a52be06ad.scn"]
+
+[params]
+

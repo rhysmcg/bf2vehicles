@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://cxb58uk7fr7ko"
+path="res://.godot/imported/militarymast.staticmesh-cd280ac45bb5b5a4745921ed4425e49a.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/military/objects/militarymast/meshes/militarymast.staticmesh"
+dest_files=["res://.godot/imported/militarymast.staticmesh-cd280ac45bb5b5a4745921ed4425e49a.scn"]
+
+[params]
+

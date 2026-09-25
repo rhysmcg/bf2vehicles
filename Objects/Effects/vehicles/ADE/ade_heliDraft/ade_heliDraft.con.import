@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bbnbw72ajfbyp"
+path="res://.godot/imported/ade_heliDraft.con-401033a0bd8701273611bfed8a8eda2e.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/vehicles/ADE/ade_heliDraft/ade_heliDraft.con"
+dest_files=["res://.godot/imported/ade_heliDraft.con-401033a0bd8701273611bfed8a8eda2e.scn"]
+
+[params]
+

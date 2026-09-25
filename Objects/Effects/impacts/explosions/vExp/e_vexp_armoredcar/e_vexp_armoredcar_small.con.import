@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://bj71rw3vpeyw0"
+path="res://.godot/imported/e_vexp_armoredcar_small.con-617bf0510983ca800b8a617f2407e503.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/explosions/vExp/e_vexp_armoredcar/e_vexp_armoredcar_small.con"
+dest_files=["res://.godot/imported/e_vexp_armoredcar_small.con-617bf0510983ca800b8a617f2407e503.scn"]
+
+[params]
+

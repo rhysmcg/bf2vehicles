@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://kfm4qeu3ls5x"
+path="res://.godot/imported/distancetoolprojectiles.con-093b506b8892dcf0be506656916efc0c.scn"
+
+[deps]
+
+source_file="res://Objects/Develop/distancetoolprojectiles/distancetoolprojectiles.con"
+dest_files=["res://.godot/imported/distancetoolprojectiles.con-093b506b8892dcf0be506656916efc0c.scn"]
+
+[params]
+

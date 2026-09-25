@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bsheko7kbig40"
+path="res://.godot/imported/p_wreck_faav_drivetrain.bundledmesh-1718c04726d4ee61ae6cceba81db7051.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/geometry/wreckparticles/p_wreck_faav/meshes/p_wreck_faav_drivetrain.bundledmesh"
+dest_files=["res://.godot/imported/p_wreck_faav_drivetrain.bundledmesh-1718c04726d4ee61ae6cceba81db7051.scn"]
+
+[params]
+

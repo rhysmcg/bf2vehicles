@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://c04anbeiw6h8e"
+path="res://.godot/imported/xp2_trainbridgesupport.con-961688286561820999c5fcc091d7fab7.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/bridges/xp2_trainbridgesupport/xp2_trainbridgesupport.con"
+dest_files=["res://.godot/imported/xp2_trainbridgesupport.con-961688286561820999c5fcc091d7fab7.scn"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://1lrfug6548mi"
+path="res://.godot/imported/USART_LW155.bundledMesh-775a16daff712c88c1b2e764387dfbd8.scn"
+
+[deps]
+
+source_file="res://Objects/Weapons/stationary/USART_LW155/Meshes/USART_LW155.bundledMesh"
+dest_files=["res://.godot/imported/USART_LW155.bundledMesh-775a16daff712c88c1b2e764387dfbd8.scn"]
+
+[params]
+

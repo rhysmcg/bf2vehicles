@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://caxfv4cljhfdd"
+path="res://.godot/imported/xp2_office_building.con-962ae596dc32ef8f828aedd2b1e4d9c4.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_office_building/xp2_office_building.con"
+dest_files=["res://.godot/imported/xp2_office_building.con-962ae596dc32ef8f828aedd2b1e4d9c4.scn"]
+
+[params]
+

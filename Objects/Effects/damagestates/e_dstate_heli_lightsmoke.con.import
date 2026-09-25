@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://r05b2lkw4sk7"
+path="res://.godot/imported/e_dstate_heli_lightsmoke.con-1cd7a065458e8a9aa200faddd4dae4f9.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/damagestates/e_dstate_heli_lightsmoke.con"
+dest_files=["res://.godot/imported/e_dstate_heli_lightsmoke.con-1cd7a065458e8a9aa200faddd4dae4f9.scn"]
+
+[params]
+

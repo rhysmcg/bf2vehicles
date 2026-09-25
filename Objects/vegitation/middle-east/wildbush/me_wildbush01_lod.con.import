@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://mho6w75ir6el"
+path="res://.godot/imported/me_wildbush01_lod.con-763cdb5e5d9d566151558c15b3ca32b0.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/wildbush/me_wildbush01_lod.con"
+dest_files=["res://.godot/imported/me_wildbush01_lod.con-763cdb5e5d9d566151558c15b3ca32b0.scn"]
+
+[params]
+

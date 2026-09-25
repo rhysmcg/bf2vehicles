@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bkofrxwoalnne"
+path="res://.godot/imported/ind_powerstation_01.staticmesh-d3ab994c181c95150d70713460ade172.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/ind_powerstation/meshes/ind_powerstation_01.staticmesh"
+dest_files=["res://.godot/imported/ind_powerstation_01.staticmesh-d3ab994c181c95150d70713460ade172.scn"]
+
+[params]
+

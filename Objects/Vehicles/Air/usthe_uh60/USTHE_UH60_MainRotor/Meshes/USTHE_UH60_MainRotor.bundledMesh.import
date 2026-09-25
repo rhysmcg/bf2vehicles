@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bb4wp74o6xjxn"
+path="res://.godot/imported/USTHE_UH60_MainRotor.bundledMesh-2e0ad97b155aa3cffd742ff5170260b7.scn"
+
+[deps]
+
+source_file="res://Objects/Vehicles/Air/usthe_uh60/USTHE_UH60_MainRotor/Meshes/USTHE_UH60_MainRotor.bundledMesh"
+dest_files=["res://.godot/imported/USTHE_UH60_MainRotor.bundledMesh-2e0ad97b155aa3cffd742ff5170260b7.scn"]
+
+[params]
+

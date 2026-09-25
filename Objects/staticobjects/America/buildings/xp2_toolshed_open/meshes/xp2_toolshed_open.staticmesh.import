@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://b3sf6nqa7mlsr"
+path="res://.godot/imported/xp2_toolshed_open.staticmesh-6ecedd39f6045a1fef7fff9bcaace798.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_toolshed_open/meshes/xp2_toolshed_open.staticmesh"
+dest_files=["res://.godot/imported/xp2_toolshed_open.staticmesh-6ecedd39f6045a1fef7fff9bcaace798.scn"]
+
+[params]
+

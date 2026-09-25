@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ml0hxeb5hnbp"
+path="res://.godot/imported/me_wildbush01_lod.staticmesh-5cdcc2f9e5ff3591eb7d359b642ce583.scn"
+
+[deps]
+
+source_file="res://Objects/vegitation/middle-east/wildbush/meshes/me_wildbush01_lod.staticmesh"
+dest_files=["res://.godot/imported/me_wildbush01_lod.staticmesh-5cdcc2f9e5ff3591eb7d359b642ce583.scn"]
+
+[params]
+

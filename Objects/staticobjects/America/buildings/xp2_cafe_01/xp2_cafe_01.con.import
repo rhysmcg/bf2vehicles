@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://im7yhqcw7543"
+path="res://.godot/imported/xp2_cafe_01.con-6351137d3b96554bf6eb6805d765aa54.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/buildings/xp2_cafe_01/xp2_cafe_01.con"
+dest_files=["res://.godot/imported/xp2_cafe_01.con-6351137d3b96554bf6eb6805d765aa54.scn"]
+
+[params]
+

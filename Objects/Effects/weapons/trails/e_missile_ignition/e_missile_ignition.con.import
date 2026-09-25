@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.con_importer"
+type="PackedScene"
+uid="uid://ck1ecmc0nae53"
+path="res://.godot/imported/e_missile_ignition.con-0f3b3eadf2af0f6b3ae10a529511d10a.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/weapons/trails/e_missile_ignition/e_missile_ignition.con"
+dest_files=["res://.godot/imported/e_missile_ignition.con-0f3b3eadf2af0f6b3ae10a529511d10a.scn"]
+
+[params]
+

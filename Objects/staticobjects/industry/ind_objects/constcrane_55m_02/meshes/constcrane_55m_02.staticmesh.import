@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://bn25iawe0svw3"
+path="res://.godot/imported/constcrane_55m_02.staticmesh-8d7af078b24b7c281460dd46ef646a33.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/industry/ind_objects/constcrane_55m_02/meshes/constcrane_55m_02.staticmesh"
+dest_files=["res://.godot/imported/constcrane_55m_02.staticmesh-8d7af078b24b7c281460dd46ef646a33.scn"]
+
+[params]
+

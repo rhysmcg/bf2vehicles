@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://ks2k8i12y58r"
+path="res://.godot/imported/e_destruction_woodbridge.bundledmesh-8d1e5fa0c3cf808bd963c9b4cf67d57c.scn"
+
+[deps]
+
+source_file="res://Objects/Effects/impacts/Destruction/bridges/meshes/e_destruction_woodbridge.bundledmesh"
+dest_files=["res://.godot/imported/e_destruction_woodbridge.bundledmesh-8d1e5fa0c3cf808bd963c9b4cf67d57c.scn"]
+
+[params]
+

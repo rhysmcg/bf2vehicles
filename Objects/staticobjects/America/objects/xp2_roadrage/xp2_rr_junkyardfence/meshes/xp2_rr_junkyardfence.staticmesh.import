@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://syvrft56maeo"
+path="res://.godot/imported/xp2_rr_junkyardfence.staticmesh-5de05032532c8ecbf3f34bd7c5b5e5f3.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/America/objects/xp2_roadrage/xp2_rr_junkyardfence/meshes/xp2_rr_junkyardfence.staticmesh"
+dest_files=["res://.godot/imported/xp2_rr_junkyardfence.staticmesh-5de05032532c8ecbf3f34bd7c5b5e5f3.scn"]
+
+[params]
+

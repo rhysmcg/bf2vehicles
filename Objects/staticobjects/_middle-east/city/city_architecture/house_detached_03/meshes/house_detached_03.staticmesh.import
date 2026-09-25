@@ -1,0 +1,14 @@
+[remap]
+
+importer="bf2.mesh_importer"
+type="PackedScene"
+uid="uid://u45x670w5pun"
+path="res://.godot/imported/house_detached_03.staticmesh-ca23906a2c773f453a94867807074d98.scn"
+
+[deps]
+
+source_file="res://Objects/staticobjects/_middle-east/city/city_architecture/house_detached_03/meshes/house_detached_03.staticmesh"
+dest_files=["res://.godot/imported/house_detached_03.staticmesh-ca23906a2c773f453a94867807074d98.scn"]
+
+[params]
+
