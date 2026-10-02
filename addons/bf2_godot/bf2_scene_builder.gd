@@ -112,6 +112,7 @@ func read_con_tweak(path, objectData):
 	
 	while not file.eof_reached():
 		var line = file.get_line().strip_edges()
+		var tweakFile = path.replace('.con', '.tweak')
 		if line.is_empty() or line.begins_with("//") or line.begins_with("rem"):
 			continue
 			
@@ -246,7 +247,9 @@ func read_con_tweak(path, objectData):
 			else:
 				print("SKIPPED: " + line)
 			
-		elif line.begins_with('include'):
+		
+			print(tweakFile)
+		elif line.begins_with('include') and FileAccess.file_exists(tweakFile):
 			objectData["hasTweak"] = true
 	file.close()
 	return objectData
@@ -277,6 +280,7 @@ func processCon(conFile):
 	objectData = read_con_tweak(conFile, objectData)
 	
 	if objectData["hasTweak"]:
+		print(objectData['objectType'])
 		var original_type = objectData['objectType']
 		objectData = read_con_tweak(tweakFile, objectData)
 		objectData['objectType'] = original_type
