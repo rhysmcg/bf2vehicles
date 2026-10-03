@@ -237,6 +237,14 @@ func read_con_tweak(path, objectData):
 					var objectName = parts[2]
 					currentTemplate = objectName.to_lower()
 					objectData['isSoldier'] = objectType == "Soldier"
+					
+					
+					# Kit uses SkinnedMesh simple objects. The kit object is only found in the tweak files of the particular kit rather than the kits geometry
+					# As such, using the name "kits" is a more reliable indicator rather than the object type
+					if "kits" in objectName:
+						objectData['isKit'] = true
+					
+					
 					objectData["children"].append([objectType, objectName])
 					if not objectData["geomPartData"].has(currentTemplate):
 						objectData["geomPartData"][currentTemplate] = {
@@ -277,6 +285,7 @@ func processCon(conFile):
 	objectData["animationSystem1P"] = ""
 	objectData["animationSystem3P"] = ""
 	objectData["isSoldier"] = false
+	objectData["isKit"] = false
 	objectData = read_con_tweak(conFile, objectData)
 	
 	if objectData["hasTweak"]:
@@ -592,16 +601,27 @@ func importSkinnedMesh(mesh_file, objectData) -> Node:
 			mesh_root.add_child(geom_node)
 			geom_node.set_owner(root)
  
+		
 		# Attach the matching skeleton for this geom.
 		var skeleton_path: String = objectData["skeleton3P"]
 		var skeleton_label: String = "3P"
-		if geom_idx == 0 and objectData["skeleton1P"] != "":
+		
+		# Assign soldier sksletonPath if it's a kit
+		if objectData['isKit']:
+			skeleton_path = "res://Objects/Soldiers/Common/Animations/3p_setup.ske"
+			skeleton_label = "3P"
+			
+		
+		
+		if not objectData["isKit"] and geom_idx == 0 and objectData["skeleton1P"] != "":
 			skeleton_path = objectData["skeleton1P"]
 			skeleton_label = "1P"
  
 		var skeleton3d: Skeleton3D = null
 		if skeleton_path != "":
 			var full_skeleton_path = "res://" + skeleton_path.to_lower()
+			if objectData['isKit']:
+				full_skeleton_path = "res://Objects/Soldiers/Common/Animations/3p_setup.ske" 
 			if FileAccess.file_exists(full_skeleton_path):
 				var ske_parser = preload("res://addons/bf2_mesh_importer/BF2SkeletonParser.gd").new()
 				skeleton3d = ske_parser.import_skeleton(full_skeleton_path)
@@ -618,8 +638,8 @@ func importSkinnedMesh(mesh_file, objectData) -> Node:
 		# specific and out of scope for the soldier importer.
 		if objectData["isSoldier"] and skeleton_label == "3P" and skeleton3d != null:
 			importSoldierAnimations(geom_node, skeleton3d, objectData, root)
-			
-		elif skeleton3d != null and testBafPath != "":
+		 	
+		elif not objectData["isKit"] and skeleton3d != null and testBafPath != "":
 			var baf_parser = preload("res://addons/bf2_godot/BF2BafParser.gd").new()
 			var animation: Animation = baf_parser.import_animation(testBafPath, skeleton3d, NodePath(skeleton3d.name))
 			if animation != null:
